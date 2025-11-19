@@ -80,7 +80,7 @@
         </IncludedGameTypes>
         </XmlNode> -->
 
-        <!-- <XmlNode>
+        <XmlNode>
         <XmlName id="Factions" path="spclans"/>
         <IncludedGameTypes>
             <GameType value = "Campaign"/>
@@ -94,6 +94,6 @@
             <GameType value = "Campaign"/>
             <GameType value = "CustomGame"/>
         </IncludedGameTypes>
-        </XmlNode>	 -->
+        </XmlNode>	
     </Xmls>
 </Module>
