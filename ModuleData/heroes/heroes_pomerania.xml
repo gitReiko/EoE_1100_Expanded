@@ -8,14 +8,17 @@
    <Hero id="lord_pomeranian_1f" faction="Faction.clan_poland_2" />
 
 
-   <Hero id="lord_pomeranian_2a" spouse="Hero.lord_pomeranian_2b" faction="Faction.clan_pomerania_2" />
+   <Hero id="lord_pomeranian_2a" spouse="Hero.lord_pomeranian_2b" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_pomerania_2" />
    <Hero id="lord_pomeranian_2b" spouse="Hero.lord_pomeranian_2a" faction="Faction.clan_pomerania_2" />
    <Hero id="lord_pomeranian_2c" father="Hero.lord_pomeranian_2a" mother="Hero.lord_pomeranian_2b" faction="Faction.clan_pomerania_2" />
    <Hero id="lord_pomeranian_2d" faction="Faction.clan_pomerania_2" />
    <Hero id="lord_pomeranian_2e" faction="Faction.clan_pomerania_2" />
 
 
-   <Hero id="lord_polish_2c" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_pomerania_3" />
+   <Hero id="lord_polish_2c" spouse="Hero.lord_pomeranian_3b" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_pomerania_3" />
+   <Hero id="lord_pomeranian_3b" spouse="Hero.lord_polish_2c" faction="Faction.clan_pomerania_3" />
+   <Hero id="lord_pomeranian_3c" father="Hero.lord_polish_2c" mother="Hero.lord_pomeranian_3b" faction="Faction.clan_pomerania_3" />
+   <Hero id="lord_pomeranian_3d" faction="Faction.clan_pomerania_3" />
 
 
    <Hero id="lord_polish_7a" faction="Faction.clan_poland_7" text="{=lord_polish_7a.text}The von Borck (Borkowie) are an old noble family from Western Pomerania. Borko I - is the first member of the family who was mentioned in written sources. Borko I was a nobleman of Slavic origin in the service of the Dukes of Pomerania. Borko is the father of Borko I, taken from genealogical trees. Couldn't find any information about him, probably a legendary person." />
