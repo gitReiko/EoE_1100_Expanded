@@ -8,6 +8,13 @@
    <Hero id="lord_pomeranian_1f" faction="Faction.clan_poland_2" />
 
 
+   <Hero id="lord_pomeranian_2a" spouse="Hero.lord_pomeranian_2b" faction="Faction.clan_pomerania_2" />
+   <Hero id="lord_pomeranian_2b" spouse="Hero.lord_pomeranian_2a" faction="Faction.clan_pomerania_2" />
+   <Hero id="lord_pomeranian_2c" father="Hero.lord_pomeranian_2a" mother="Hero.lord_pomeranian_2b" faction="Faction.clan_pomerania_2" />
+   <Hero id="lord_pomeranian_2d" faction="Faction.clan_pomerania_2" />
+   <Hero id="lord_pomeranian_2e" faction="Faction.clan_pomerania_2" />
+
+
    <Hero id="lord_polish_2c" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_pomerania_3" />
 
 

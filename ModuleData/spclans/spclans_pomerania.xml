@@ -17,7 +17,7 @@
     name="{=clan_pomerania_2.name}Griffin of Gdansk"
     initial_home_settlement="Settlement.town_gdansk" 	
     tier="3"
-    owner="Hero.lord_polish_2a"
+    owner="Hero.lord_pomeranian_2a"
     culture="Culture.polish"
     super_faction="Kingdom.pomerania"
     is_noble="true"
