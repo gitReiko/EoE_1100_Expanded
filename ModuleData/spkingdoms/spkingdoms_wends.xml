@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+    <Kingdom id="wends" 
+			 owner="Hero.lord_polish_2a" 
+		     initial_home_settlement="Settlement.castle_lubek"			   			 
+			 banner_key="11.155.83.1836.1836.863.947.1.0.0.133.12.116.747.735.758.645.0.0.0.512.155.116.674.635.507.441.0.0.33.512.155.116.674.635.1010.444.0.1.324" 
+			 primary_banner_color="0xff5890a3" 
+			 secondary_banner_color="0xffe4c15b" 
+			 color="ff5890a3" 
+			 color2="ffe4c15b" 
+			 culture="Culture.polish" 
+			 settlement_banner_mesh="encounter_flag_a" 
+			 flag_mesh="info_screen_flags_a" 
+			 name="{=wends_kingdom_name}Wendian Duchies" 
+			 short_name="{=wends_kingdom_short_name}Wends" 
+			 title="{=wends_kingdom_title}Wendian Duchies" 
+			 ruler_title="{=wends_ruler_title}Duke" 
+			 text="{=wends_kingdom_text}The Wends are the name given by German-speaking people to various Slavic groups and tribes who lived on the Baltic Sea coast between the rivers Elbe and Oder. The Wends were under strong Germanic and Danish influence. Duke Gottschalk enforced Christianity in the region. This led to a pagan uprising in 1066 led by Kruto, who killed Gottschalk. Kruto, supported by the pagan nobility, was proclaimed prince and began active raids on Saxon lands, including the destruction of Hamburg in 1072. His reign lasted until 1093, when he was killed by Gottschalk's son, Heinrich, who had returned with Danish support. These events led to a century of independence. The region was divided into various Slavic principalities, which fought each other rather than forming a unified state.">
+    <relationships>
+    </relationships>
+    <policies>
+    </policies>
+  </Kingdom> 
+</Kingdoms>

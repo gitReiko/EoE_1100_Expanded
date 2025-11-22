@@ -1,0 +1,12 @@
+
+---
+
+clan_poland_2 = town_szczecin castle_kolobrzeg
+clan_pomerania_2 = town_gdansk
+clan_pomerania_3 = castle_slupsk
+
+---
+
+
+
+
