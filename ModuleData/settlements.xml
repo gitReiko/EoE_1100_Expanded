@@ -15050,7 +15050,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_szczecin" name="{=town_szczecin_name}Szczecin" owner="Faction.clan_poland_7" posX="531.515" posY="1192.207" culture="Culture.polish" gate_posX="530.2975" gate_posY="1192.801" text="{=town_szczecin_text}Szczecin text...">
+  <Settlement id="town_szczecin" name="{=town_szczecin_name}Szczecin" owner="Faction.clan_poland_2" posX="531.515" posY="1192.207" culture="Culture.polish" gate_posX="530.2975" gate_posY="1192.801" text="{=town_szczecin_text}Szczecin text...">
     <Components>
       <Town id="town_comp_szczecin" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500">
         <Buildings>
@@ -15112,7 +15112,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_kolobrzeg" name="{=castle_kolobrzeg_name}Kolobrzeg Castle" owner="Faction.clan_poland_2" posX="552.131" posY="1206.973" culture="Culture.polish" gate_posX="552.836" gate_posY="1205.728">
+  <Settlement id="castle_kolobrzeg" name="{=castle_kolobrzeg_name}Kolobrzeg Castle" owner="Faction.clan_pomerania_2" posX="552.131" posY="1206.973" culture="Culture.polish" gate_posX="552.836" gate_posY="1205.728">
     <Components>
       <Town id="castle_comp_kolobrzeg" is_castle="true" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="1500">
         <Buildings>
@@ -15149,7 +15149,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_slupsk" name="{=castle_slupsk_name}Slupsk Castle" owner="Faction.clan_poland_2" posX="579.78" posY="1217.776" culture="Culture.polish" gate_posX="578.5272" gate_posY="1217.065">
+  <Settlement id="castle_slupsk" name="{=castle_slupsk_name}Slupsk Castle" owner="Faction.clan_pomerania_3" posX="579.78" posY="1217.776" culture="Culture.polish" gate_posX="578.5272" gate_posY="1217.065">
     <Components>
       <Town id="castle_comp_slupsk" is_castle="true" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="1500">
         <Buildings>
