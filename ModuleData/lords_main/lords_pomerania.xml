@@ -110,7 +110,6 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
       <BodyProperties version="4" age="22" weight="0.3937" build="0.696"  key="000A0004C0CC01085887B6424347969A9B6489C766778A61CADCB4A984949B91009A660309847AB7000000000000000000000000000000000000000015245102"  />
     </face>
 	  <skills>
@@ -160,7 +159,6 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
       <BodyProperties version="4" age="22" weight="0.5957" build="0.8387"  key="000A640340CC01085887B6223347969A9E648BC766778A61CADCB4D984949B9100AD96030A847BB70000000000000000000000000000000000000000155C5102"  />
     </face>
 	  <skills>
@@ -200,7 +198,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_1f"
                 name="{=lord_pomeranian_1f.name}Gniewosz*"
                 voice="softspoken"
@@ -211,8 +208,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22" weight="0.3937" build="0.696"  key="000A0004C0CC01085887B6424347969A9B6489C766778A61CADCB4A984949B91009A660309847AB7000000000000000000000000000000000000000015245102"  />
+      <BodyProperties version="4" age="22.01" weight="0.7379" build="0.546"  key="000DAC0D90CC015A7BB6845437974467B88CD38B8B476B699364B578285868960058B6030591E788000000000000000000000000000000000000000048AC20C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -251,7 +247,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_2a"
                 name="{=lord_pomeranian_2a.name}Siemomysł II Świętoborzyc"
                 voice="softspoken"
@@ -262,8 +257,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22" weight="0.3937" build="0.696"  key="000A0004C0CC01085887B6424347969A9B6489C766778A61CADCB4A984949B91009A660309847AB7000000000000000000000000000000000000000015245102"  />
+      <BodyProperties version="4" age="22.01" weight="0.2369" build="0.5841"  key="000A880080CC000C5887B6223346B6B79764898766778861CA8CB4DD647498910089460308647BB7000000000000000000000000000000000000000015145102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -302,7 +296,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_2b"
                 name="{=lord_pomeranian_2b.name}Milica*"
                 default_group="Cavalry"
@@ -314,7 +307,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3937" build="0.5394"  key="000AA40080CC00045887B7223347B6BA9E648CC766778A61CADCB4DD84949B910068660306847BB7000000000000000000000000000000000000000014D400C3"  />
+      <BodyProperties version="4" age="22.01" weight="0.4298" build="0.3603"  key="0008180D80B41004A974864877BB672238717679889C38D8199838C6B28726960065660306B3C44B000000000000000000000000000000000000000048C42042"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -353,7 +346,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_2c"
                 name="{=lord_pomeranian_2c.name}Sambor Elder of Gdansk"
                 voice="softspoken"
@@ -364,8 +356,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22" weight="0.3937" build="0.696"  key="000A0004C0CC01085887B6424347969A9B6489C766778A61CADCB4A984949B91009A660309847AB7000000000000000000000000000000000000000015245102"  />
+      <BodyProperties version="4" age="22.01" weight="0.2407" build="0.1752"  key="000A180980B403C2A97486477788672838717675889C3888499838C675872696008346030883944B0000000000000000000000000000000000000000491C7102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="75" />
@@ -404,7 +395,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_2d"
                 name="{=lord_pomeranian_2d.name}Barnim*"
                 voice="softspoken"
@@ -415,8 +405,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22" weight="0.3937" build="0.696"  key="000A0004C0CC01085887B6424347969A9B6489C766778A61CADCB4A984949B91009A660309847AB7000000000000000000000000000000000000000015245102"  />
+      <BodyProperties version="4" age="22.01" weight="0.6218" build="0.3931"  key="00104C08C0B40601736A9577796B42B23867B76235A386D8859CA5AA7B873A6D00269603029BBC8900000000000000000000000000000000000000004C545042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -455,7 +444,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_2e"
                 name="{=lord_pomeranian_2e.name}Przemysł*"
                 voice="softspoken"
@@ -466,8 +454,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22" weight="0.3937" build="0.696"  key="000A0004C0CC01085887B6424347969A9B6489C766778A61CADCB4A984949B91009A660309847AB7000000000000000000000000000000000000000015245102"  />
+      <BodyProperties version="4" age="22.01" weight="0.7388" build="0.5365"  key="0015BC054088298F8A958B23D474E8662836173949C9A930D445B7876C458BA900D8B6030D46875500000000000000000000000000000000000000002FAC1042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -516,7 +503,6 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
       <BodyProperties version="4" age="22.03" weight="0.3937" build="0.905"  key="000A180080CC01815887B7223347B6BA9E648CC766778A61CADCB4DD84949B9100AE66030A847BB70000000000000000000000000000000000000000155C5102"  />
     </face>
 	  <skills>
@@ -556,7 +542,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_3b"
                 name="{=lord_pomeranian_3b.name}Adelheid*"
                 default_group="Cavalry"
@@ -568,7 +553,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3937" build="0.5394"  key="000AA40080CC00045887B7223347B6BA9E648CC766778A61CADCB4DD84949B910068660306847BB7000000000000000000000000000000000000000014D400C3"  />
+      <BodyProperties version="4" age="22.01" weight="0.4066" build="0.4645"  key="00153006C088100F8A958B23D474E8662836173949C9A930D445B7876C458BA9008766030846875500000000000000000000000000000000000000002F042042"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -607,7 +592,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_3c"
                 name="{=lord_pomeranian_3c.name}Swantibor II the Elder"
                 voice="softspoken"
@@ -618,8 +602,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22" weight="0.3937" build="0.696"  key="000A0004C0CC01085887B6424347969A9B6489C766778A61CADCB4A984949B91009A660309847AB7000000000000000000000000000000000000000015245102"  />
+      <BodyProperties version="4" age="22.01" weight="0.3937" build="0.905"  key="000A7C0400CC03855887875553479678996789C766778661CA9CA4DD8494979100AE66030A6479B70000000000000000000000000000000000000000155C5102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -658,7 +641,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_3d"
                 name="{=lord_pomeranian_3d.name}Mściwoj*"
                 voice="softspoken"
@@ -669,8 +651,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22" weight="0.3937" build="0.696"  key="000A0004C0CC01085887B6424347969A9B6489C766778A61CADCB4A984949B91009A660309847AB7000000000000000000000000000000000000000015245102"  />
+      <BodyProperties version="4" age="22.01" weight="0.4546" build="0.4842"  key="00183006D1FC009C78B67B4D7748BCCBBA99794794D69868482A3D58485E659700777603078A69A400000000000000000000000000000000000000004AEC1142"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -719,7 +700,6 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
       <BodyProperties version="4" age="22" weight="0.3937" build="0.905"  key="000ACC0D14CC210B58868787A5A786489E648CC766778A61CADCB4DD84949B9100AE66030A847BB70000000000000000000000000000000000000000155C5102"  />
     </face>
 	  <skills>
@@ -759,7 +739,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_4b"
                 name="{=lord_pomeranian_4b.name}Radosława*"
                 default_group="Cavalry"
@@ -771,7 +750,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3937" build="0.5394"  key="000AA40080CC00045887B7223347B6BA9E648CC766778A61CADCB4DD84949B910068660306847BB7000000000000000000000000000000000000000014D400C3"  />
+      <BodyProperties version="4" age="22.01" weight="0.5421" build="0.3884"  key="0013280D805800016566CED74BA986676B75B373BA544416BD55C698985D36670076860307B85365000000000000000000000000000000000000000056EC1102"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -810,7 +789,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- FACEGEN -->
   <NPCCharacter id="lord_pomeranian_4c"
                 name="{=lord_pomeranian_4c.name}Jaromar*"
                 voice="softspoken"
@@ -821,8 +799,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22" weight="0.3937" build="0.696"  key="000A0004C0CC01085887B6424347969A9B6489C766778A61CADCB4A984949B91009A660309847AB7000000000000000000000000000000000000000015245102"  />
+      <BodyProperties version="4" age="22.01" weight="0.5555" build="0.7834"  key="0002CC03547007C5A639C6A5923AA5689B47879E49887968252A18645BDE66CA006C860306B4876C000000000000000000000000000000000000000036BC20C4"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
