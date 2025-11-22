@@ -2,7 +2,7 @@
 <Kingdoms>
 
     <Kingdom id="wends" 
-			 owner="Hero.lord_polish_2a" 
+			 owner="Hero.lord_danish_2a" 
 		     initial_home_settlement="Settlement.castle_lubek"			   			 
 			 banner_key="11.155.83.1836.1836.863.947.1.0.0.133.12.116.747.735.758.645.0.0.0.512.155.116.674.635.507.441.0.0.33.512.155.116.674.635.1010.444.0.1.324" 
 			 primary_banner_color="0xff5890a3" 

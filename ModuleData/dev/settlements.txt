@@ -1,11 +1,30 @@
 
 ---
 
+Pomerania
+
 clan_poland_2 = town_szczecin castle_kolobrzeg
 clan_pomerania_2 = town_gdansk
 clan_pomerania_3 = castle_slupsk
 
 ---
+
+Wends
+
+clan_danish_2 = castle_lubek
+clan_german_23 = town_brandenburg
+clan_wendian_3 = castle_garz
+
+-
+
+Culture.polish
+
+castle_lubek castle_lubek_mikilenburg
+town_brandenburg town_brandenburg_waren town_brandenburg_spandau
+castle_garz castle_garz_rostock castle_garz_wolgast
+
+---
+
 
 
 
