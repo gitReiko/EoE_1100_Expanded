@@ -2,12 +2,12 @@
 <NPCCharacters> 
 
   <NPCCharacter id="lord_danish_2a"
-                name="{=Henry}Henry"
+                name="{=lord_wendian_1a}Heinrich"
                 default_group="Cavalry"
-                age="36"
+                age="47"
                 voice="softspoken"
                 is_hero="true"
-                culture="Culture.sturgia"
+                culture="Culture.polish"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
@@ -52,13 +52,13 @@
   </NPCCharacter>
   
   <NPCCharacter id="lord_danish_2b"
-                name="{=Sigrid}Sigrid"
+                name="{=lord_wendian_1b}Slavina"
                 default_group="Cavalry"
-                age="36"
+                age="37"
                 voice="softspoken"
                 is_hero="true"
 				is_female="true"
-                culture="Culture.sturgia"
+                culture="Culture.polish"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
@@ -103,12 +103,12 @@
   </NPCCharacter>
   
   <NPCCharacter id="lord_danish_2c"
-                name="{=Budivoj}Budivoj"
+                name="{=lord_wendian_1c}Mstivoj"
                 default_group="Cavalry"
-                age="30"
+                age="24"
                 voice="softspoken"
                 is_hero="true"
-                culture="Culture.sturgia"
+                culture="Culture.polish"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
@@ -117,8 +117,8 @@
     <skills>
       <skill id="Engineering" value="125" />
       <skill id="Medicine" value="125" />
-      <skill id="Leadership" value="125" />
-      <skill id="Steward" value="100" />
+      <skill id="Leadership" value="225" />
+      <skill id="Steward" value="200" />
       <skill id="Trade" value="25" />
       <skill id="Charm" value="100" />
       <skill id="Roguery" value="250" />
@@ -153,12 +153,12 @@
   </NPCCharacter>
   
   <NPCCharacter id="lord_danish_2d"
-                name="{=Woldemar}Woldemar"
+                name="{=lord_wendian_1d}Waldemar"
                 default_group="Cavalry"
-                age="18"
+                age="22"
                 voice="softspoken"
                 is_hero="true"
-                culture="Culture.sturgia"
+                culture="Culture.polish"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
@@ -202,37 +202,188 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_german_23a"
-                name="{=Meinfried}Meinfried"
+  <NPCCharacter id="lord_wendian_1e"
+                name="{=lord_wendian_1e}Sigrid"
+                default_group="Cavalry"
+                age="64"
                 voice="softspoken"
-                age="35"
+                is_hero="true"
+				is_female="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.1644" build="0.7611"  key="001B5006C058200FAE5D93CAD69BB5985C7B4BA855B995D3E3977BCD1888882300BB26030BE4DB560000000000000000000000000000000000000000137C0083"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="300" />
+      <skill id="Trade" value="225" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="250" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="125" />
+      <skill id="Crafting" value="125" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="150" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="100" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lady" />
+      <EquipmentSet id="sturgia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_wendian_1f"
+                name="{=lord_wendian_1f}Knut"
+                default_group="Cavalry"
+                age="17"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.9071" build="0.4041"  key="0000400980E42592C936ABA8E67AB576715A874C5B478557297BA6B984BD4B360066E60306B5589500000000000000000000000000000000000000004CBC6082"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="75" />
+      <skill id="OneHanded" value="150" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_wendian_1g"
+                name="{=lord_wendian_1g}Swatopluk"
+                default_group="Cavalry"
+                age="15"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.9071" build="0.4041"  key="0000400980E42592C936ABA8E67AB576715A874C5B478557297BA6B984BD4B360066E60306B5589500000000000000000000000000000000000000004CBC6082"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="150" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_german_23a"
+                name="{=lord_wendian_2a}Meinfried"
+                voice="softspoken"
+                age="48"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.german"
+                culture="Culture.polish"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
       <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
     </face>
     <skills>
-      <skill id="Engineering" value="125" />
-      <skill id="Medicine" value="50" />
-      <skill id="Leadership" value="100" />
-      <skill id="Steward" value="100" />
-      <skill id="Trade" value="50" />
-      <skill id="Charm" value="125" />
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="200" />
       <skill id="Roguery" value="175" />
-      <skill id="Scouting" value="175" />
-      <skill id="Tactics" value="150" />
-      <skill id="Crafting" value="75" />
-      <skill id="Athletics" value="125" />
-      <skill id="Riding" value="200" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="275" />
       <skill id="Throwing" value="75" />
-      <skill id="Crossbow" value="150" />
-      <skill id="Bow" value="100" />
-      <skill id="Polearm" value="175" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="275" />
       <skill id="TwoHanded" value="150" />
-      <skill id="OneHanded" value="200" />
+      <skill id="OneHanded" value="300" />
     </skills>
     <Traits>
       <Trait id="Mercy" value="0" />
@@ -241,8 +392,8 @@
       <Trait id="Generosity" value="0" />
       <Trait id="Calculating" value="-2" />
       <Trait id="Egalitarian" value="0" />
-      <Trait id="Oligarchic" value="-2" />
-      <Trait id="Authoritarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="german_lord" />
@@ -251,11 +402,154 @@
     </Equipments>
   </NPCCharacter>
 
+  <NPCCharacter id="lord_wendian_2b"
+                name="{=lord_wendian_2b}Pribislaw-Heinrich"
+                voice="softspoken"
+                age="23"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="200" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
+  <NPCCharacter id="lord_wendian_2c"
+      name="{=lord_wendian_2c}Petrissa"
+      default_group="Cavalry"
+      age="21"
+      voice="softspoken"
+      is_hero="true"
+      is_female="true"
+      culture="Culture.polish"
+      occupation="Lord"
+      face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.1644" build="0.7611"  key="001B5006C058200FAE5D93CAD69BB5985C7B4BA855B995D3E3977BCD1888882300BB26030BE4DB560000000000000000000000000000000000000000137C0083"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lady" />
+      <EquipmentSet id="sturgia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
-
-
-
+  <NPCCharacter id="lord_wendian_2d"
+                name="{=lord_wendian_2d}Paulus"
+                voice="softspoken"
+                age="38"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="150" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="75" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
 
 

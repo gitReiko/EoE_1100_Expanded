@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Heroes>
 
-   <Hero id="lord_danish_2a" spouse="Hero.lord_danish_2b" faction="Faction.clan_danish_2" />
+   <Hero id="lord_danish_2a" mother="Hero.lord_danish_2e" spouse="Hero.lord_danish_2b" faction="Faction.clan_danish_2" />
    <Hero id="lord_danish_2b" spouse="Hero.lord_danish_2a" faction="Faction.clan_danish_2" />
-   <Hero id="lord_danish_2c" faction="Faction.clan_danish_2" />
-   <Hero id="lord_danish_2d" father="Hero.lord_danish_2a" mother="Hero.lord_danish_2b" faction="Faction.clan_danish_2" />
+   <Hero id="lord_danish_2c" father="Hero.lord_danish_2a" faction="Faction.clan_danish_2" />
+   <Hero id="lord_danish_2d" father="Hero.lord_danish_2a" faction="Faction.clan_danish_2" />
+   <Hero id="lord_wendian_1e" faction="Faction.clan_danish_2" />
+   <Hero id="lord_wendian_1f" mother="Hero.lord_danish_2b" father="Hero.lord_danish_2a" faction="Faction.clan_danish_2" />
+   <Hero id="lord_wendian_1g" mother="Hero.lord_danish_2b" father="Hero.lord_danish_2a" faction="Faction.clan_danish_2" />
 
 
    <Hero id="lord_german_23a" faction="Faction.clan_german_23" />
+   <Hero id="lord_wendian_2b" spouse="Hero.lord_wendian_2c" faction="Faction.clan_german_23" />
+   <Hero id="lord_wendian_2c" spouse="Hero.lord_wendian_2b" faction="Faction.clan_german_23" />
+   <Hero id="lord_wendian_2d" faction="Faction.clan_german_23" />
 
 </Heroes>
