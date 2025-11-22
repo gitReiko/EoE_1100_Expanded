@@ -15112,7 +15112,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_kolobrzeg" name="{=castle_kolobrzeg_name}Kolobrzeg Castle" owner="Faction.clan_pomerania_2" posX="552.131" posY="1206.973" culture="Culture.polish" gate_posX="552.836" gate_posY="1205.728">
+  <Settlement id="castle_kolobrzeg" name="{=castle_kolobrzeg_name}Kolobrzeg Castle" owner="Faction.clan_poland_2" posX="552.131" posY="1206.973" culture="Culture.polish" gate_posX="552.836" gate_posY="1205.728">
     <Components>
       <Town id="castle_comp_kolobrzeg" is_castle="true" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="1500">
         <Buildings>
@@ -15186,7 +15186,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_gdansk" name="{=town_gdansk_name}Gdansk" owner="Faction.clan_poland_2" posX="612.122" posY="1223.102" culture="Culture.polish" gate_posX="611.152" gate_posY="1221.957" text="{=town_szczecin_text}Gdansk text...">
+  <Settlement id="town_gdansk" name="{=town_gdansk_name}Gdansk" owner="Faction.clan_pomerania_2" posX="612.122" posY="1223.102" culture="Culture.polish" gate_posX="611.152" gate_posY="1221.957" text="{=town_szczecin_text}Gdansk text...">
     <Components>
       <Town id="town_comp_gdansk" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500">
         <Buildings>
