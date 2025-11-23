@@ -15,4 +15,10 @@
    <Hero id="lord_wendian_2c" spouse="Hero.lord_wendian_2b" faction="Faction.clan_german_23" />
    <Hero id="lord_wendian_2d" faction="Faction.clan_german_23" />
 
+
+   <Hero id="lord_wendian_3a" faction="Faction.clan_wendian_3" />
+   <Hero id="lord_wendian_3b" father="Hero.lord_wendian_3a" spouse="Hero.lord_wendian_3c" faction="Faction.clan_wendian_3" />
+   <Hero id="lord_wendian_3c" spouse="Hero.lord_wendian_3b" faction="Faction.clan_wendian_3" />
+   <Hero id="lord_wendian_3d" mother="Hero.lord_wendian_3c" father="Hero.lord_wendian_3b" faction="Faction.clan_wendian_3" />
+
 </Heroes>
