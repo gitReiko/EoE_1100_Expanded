@@ -13556,7 +13556,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_lubek" name="{=castle_lubek_name}Lubek Castle" owner="Faction.clan_danish_2" posX="458.928" posY="1196.824" culture="Culture.german" gate_posX="460.2281" gate_posY="1195.73">
+  <Settlement id="castle_lubek" name="{=castle_lubek_name}Lubek Castle" owner="Faction.clan_danish_2" posX="458.928" posY="1196.824" culture="Culture.polish" gate_posX="460.2281" gate_posY="1195.73">
     <Components>
       <Town id="castle_comp_lubek" is_castle="true" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="1500">
         <Buildings>
@@ -13580,7 +13580,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_lubek_mikilenburg" name="{=castle_lubek_mikilenburg_name}Mikilenburg" posX="477.616" posY="1192.212" culture="Culture.german" text="{=castle_lubek_mikilenburg_text}Mikilenburg text...">
+  <Settlement id="castle_lubek_mikilenburg" name="{=castle_lubek_mikilenburg_name}Mikilenburg" posX="477.616" posY="1192.212" culture="Culture.polish" text="{=castle_lubek_mikilenburg_text}Mikilenburg text...">
     <Components>
       <Village id="castle_comp_lubek_mikilenburg" village_type="VillageType.europe_horse_ranch" hearth="650" bound="Settlement.castle_lubek" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -14228,7 +14228,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_garz" name="{=castle_garz_name}Garz Castle" owner="Faction.clan_danish_2" posX="516.747" posY="1208.052" culture="Culture.polish" gate_posX="515.1536" gate_posY="1207.261">
+  <Settlement id="castle_garz" name="{=castle_garz_name}Garz Castle" owner="Faction.clan_wendian_3" posX="516.747" posY="1208.052" culture="Culture.polish" gate_posX="515.1536" gate_posY="1207.261">
     <Components>
       <Town id="castle_comp_garz" is_castle="true" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="1500">
         <Buildings>
