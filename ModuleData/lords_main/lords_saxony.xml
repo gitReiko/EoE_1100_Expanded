@@ -548,6 +548,7 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_3c"
                 name="{=lord_saxony_3c}Beringer von Sangerhausen"
                 voice="softspoken"
@@ -597,6 +598,7 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_3d"
                 name="{=lord_saxony_3d}Ludwig I von Thüringen"
                 voice="softspoken"
@@ -646,6 +648,7 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_3e"
                 name="{=lord_saxony_3e}Giso IV von Gudensberg"
                 voice="softspoken"
@@ -695,11 +698,155 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen !!! -->
+  <NPCCharacter id="lord_saxony_4a"
+                name="{=lord_saxony_4a}Adelbertus von Wernigerode"
+                voice="softspoken"
+                age="54"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="175" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
+  <!-- facegen !!! -->
+  <NPCCharacter id="lord_saxony_4b"
+                name="{=lord_saxony_4b}Bertold von Wernigerode"
+                voice="softspoken"
+                age="23"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="250" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
-
-
-
+  <!-- facegen !!! -->
+  <NPCCharacter id="lord_saxony_4c"
+                name="{=lord_saxony_4c}Adelheid von Luchow"
+                voice="softspoken"
+                age="21"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.4537"  key="0015B40A4088100E5B399B48656993655A66B66D637766D597BB5942825579E5007786030766474400000000000000000000000000000000000000003EE440C3"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="50" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
 
 

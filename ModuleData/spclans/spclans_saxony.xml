@@ -37,7 +37,17 @@
     color="ff224277" color2="ff8d2a1c" 
   />	
 
-
+  <Faction id="clan_saxony_4"
+    name="{=clan_saxony_4}Wernigerode"
+    initial_home_settlement="Settlement.castle_stapelburg"
+    tier="2"
+    owner="Hero.lord_saxony_4a"
+    culture="Culture.german"
+    super_faction="Kingdom.germany"
+    is_noble="true"
+    banner_key="11.150.19.1836.1836.764.764.1.0.0.505.14.116.2127.510.779.1223.0.1.0.505.14.116.2127.85.901.442.0.1.0.505.14.116.2127.85.779.890.0.1.0.505.14.116.2127.85.839.735.0.1.0.505.14.116.2127.85.861.586.0.1.0.505.14.116.2127.85.805.294.0.1.0" 
+    color="ffef0000" color2="ffefefef" 
+  />
 
 
 
