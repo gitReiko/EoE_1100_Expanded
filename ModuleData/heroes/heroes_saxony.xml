@@ -8,4 +8,18 @@
    <Hero id="lord_saxony_1e" faction="Faction.clan_german_22" />
 
 
+   <Hero id="lord_german_15a" faction="Faction.clan_german_15" />
+   <Hero id="lord_german_15b" spouse="Hero.lord_saxony_2c" faction="Faction.clan_german_15" />
+   <Hero id="lord_saxony_2c" spouse="Hero.lord_german_15b" father="Hero.lord_german_15a" faction="Faction.clan_german_15" />
+   <Hero id="lord_saxony_2d" father="Hero.lord_saxony_2c" mother="Hero.lord_german_15b" faction="Faction.clan_german_15" />
+
+
+
+
+
+
+
+
+
+
 </Heroes>
