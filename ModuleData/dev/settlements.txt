@@ -25,6 +25,22 @@ castle_garz castle_garz_rostock castle_garz_wolgast
 
 ---
 
+Saxony
+
+clan_german_22 = town_bremen
+clan_german_15 = castle_falkenberg
+clan_german_24 = town_munster
+clan_saxony_4 = castle_stapelburg
+clan_german_20 = town_hamburg
+clan_german_13 = town_juterbog
+clan_saxony_7 = castle_zerbst
+
+---
+
+
+
+
+
 
 
 

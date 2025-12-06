@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_german_22a" spouse="Hero.lord_german_22b" faction="Faction.clan_german_22" />
+   <Hero id="lord_german_22b" spouse="Hero.lord_german_22a" faction="Faction.clan_german_22" />
+   <Hero id="lord_german_22c" father="Hero.lord_german_22a" mother="Hero.lord_german_22b" faction="Faction.clan_german_22" />
+   <Hero id="lord_saxony_1d" faction="Faction.clan_german_22" />
+   <Hero id="lord_saxony_1e" faction="Faction.clan_german_22" />
+
+
+   <Hero id="lord_german_15a" faction="Faction.clan_german_15" />
+   <Hero id="lord_german_15b" spouse="Hero.lord_saxony_2c" faction="Faction.clan_german_15" />
+   <Hero id="lord_saxony_2c" spouse="Hero.lord_german_15b" father="Hero.lord_german_15a" faction="Faction.clan_german_15" />
+   <Hero id="lord_saxony_2d" father="Hero.lord_saxony_2c" mother="Hero.lord_german_15b" faction="Faction.clan_german_15" />
+
+
+   <Hero id="lord_german_24a" spouse="Hero.lord_german_24b" faction="Faction.clan_german_24" />
+   <Hero id="lord_german_24b" spouse="Hero.lord_german_24a" faction="Faction.clan_german_24" />
+   <Hero id="lord_saxony_3c" faction="Faction.clan_german_24" />
+   <Hero id="lord_saxony_3d" father="Hero.lord_german_24a" mother="Hero.lord_german_24b" faction="Faction.clan_german_24" />
+   <Hero id="lord_saxony_3e" faction="Faction.clan_german_24" />
+
+
+   <Hero id="lord_saxony_4a" faction="Faction.clan_saxony_4" />
+   <Hero id="lord_saxony_4b" spouse="Hero.lord_saxony_4c" father="Hero.lord_saxony_4a" faction="Faction.clan_saxony_4" />
+   <Hero id="lord_saxony_4c" spouse="Hero.lord_saxony_4b" faction="Faction.clan_saxony_4" />
+
+
+   <Hero id="lord_german_20a" spouse="Hero.lord_german_20b" faction="Faction.clan_german_20" />
+   <Hero id="lord_german_20b" spouse="Hero.lord_german_20a" father="Hero.lord_saxony_5c" faction="Faction.clan_german_20" />
+   <Hero id="lord_saxony_5c" spouse="Hero.lord_saxony_5d" faction="Faction.clan_german_20" />
+   <Hero id="lord_saxony_5d" spouse="Hero.lord_saxony_5c" faction="Faction.clan_german_20" />
+
+
+   <Hero id="lord_german_13a" spouse="Hero.lord_german_13b" mother="Hero.lord_saxony_6c" faction="Faction.clan_german_13" />
+   <Hero id="lord_german_13b" spouse="Hero.lord_german_13a" faction="Faction.clan_german_13" />
+   <Hero id="lord_saxony_6c" faction="Faction.clan_german_13" />
+   <Hero id="lord_saxony_6d" faction="Faction.clan_german_13" />
+   <Hero id="lord_saxony_6e" faction="Faction.clan_german_13" />
+
+
+   <Hero id="lord_saxony_7a" spouse="Hero.lord_saxony_7b" mother="Hero.lord_saxony_7c" faction="Faction.clan_saxony_7" />
+   <Hero id="lord_saxony_7b" spouse="Hero.lord_saxony_7a" faction="Faction.clan_saxony_7" />
+   <Hero id="lord_saxony_7c" faction="Faction.clan_saxony_7" />
+
+</Heroes>
