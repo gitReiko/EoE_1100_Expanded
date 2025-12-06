@@ -32,7 +32,11 @@
    <Hero id="lord_saxony_5d" spouse="Hero.lord_saxony_5c" faction="Faction.clan_german_20" />
 
 
-
+   <Hero id="lord_german_13a" spouse="Hero.lord_german_13b" mother="Hero.lord_saxony_6c" faction="Faction.clan_german_13" />
+   <Hero id="lord_german_13b" spouse="Hero.lord_german_13a" faction="Faction.clan_german_13" />
+   <Hero id="lord_saxony_6c" faction="Faction.clan_german_13" />
+   <Hero id="lord_saxony_6d" faction="Faction.clan_german_13" />
+   <Hero id="lord_saxony_6e" faction="Faction.clan_german_13" />
 
 
 
