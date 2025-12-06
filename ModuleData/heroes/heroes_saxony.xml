@@ -26,6 +26,19 @@
    <Hero id="lord_saxony_4c" spouse="Hero.lord_saxony_4b" faction="Faction.clan_saxony_4" />
 
 
+   <Hero id="lord_german_20a" spouse="Hero.lord_german_20b" faction="Faction.clan_german_20" />
+   <Hero id="lord_german_20b" spouse="Hero.lord_german_20a" father="Hero.lord_saxony_5c" faction="Faction.clan_german_20" />
+   <Hero id="lord_saxony_5c" spouse="Hero.lord_saxony_5d" faction="Faction.clan_german_20" />
+   <Hero id="lord_saxony_5d" spouse="Hero.lord_saxony_5c" faction="Faction.clan_german_20" />
+
+
+
+
+
+
+
+
+
 
 
 </Heroes>
