@@ -39,10 +39,8 @@
    <Hero id="lord_saxony_6e" faction="Faction.clan_german_13" />
 
 
-
-
-
-
-
+   <Hero id="lord_saxony_7a" spouse="Hero.lord_saxony_7b" mother="Hero.lord_saxony_7c" faction="Faction.clan_saxony_7" />
+   <Hero id="lord_saxony_7b" spouse="Hero.lord_saxony_7a" faction="Faction.clan_saxony_7" />
+   <Hero id="lord_saxony_7c" faction="Faction.clan_saxony_7" />
 
 </Heroes>

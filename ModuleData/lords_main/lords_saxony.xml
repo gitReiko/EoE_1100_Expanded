@@ -1297,21 +1297,156 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen !!! -->
+  <NPCCharacter id="lord_saxony_7a"
+                name="{=lord_saxony_7a}Werner IV von Grüningen"
+                voice="softspoken"
+                age="37"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.0448" build="0.1292"  key="002074054014215245829D7457C7976B999A1887A8A46B795AC972B97567976800C216030C58FD6C00000000000000000000000000000000000000004B949142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
+  <!-- facegen !!! -->
+  <NPCCharacter id="lord_saxony_7b"
+                name="{=lord_saxony_7b}Gisela"
+                default_group="Cavalry"
+                age="36"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.1668" build="0.7215"  key="0008980F0014000E9598B95556AA6D64268495765E7799836698258682C78748007B36030777C64C000000000000000000000000000000000000000024DC2083"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <!-- facegen !!! -->
+  <NPCCharacter id="lord_saxony_7c"
+                name="{=lord_saxony_7c}Willibirg von Achalm"
+                default_group="Cavalry"
+                age="61"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.1668" build="0.7215"  key="0008980F0014000E9598B95556AA6D64268495765E7799836698258682C78748007B36030777C64C000000000000000000000000000000000000000024DC2083"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="200" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="0" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
 </NPCCharacters>
