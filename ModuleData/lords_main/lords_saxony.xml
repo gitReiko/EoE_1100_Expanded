@@ -11,7 +11,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.4468" build="0.5185"  key="0015600A4088120B295B6D488736AAE75A664656689E56B379BB5A47825579E5008876030889E79800000000000000000000000000000000000000003F042102"  />
+      <BodyProperties version="4" age="22.02" weight="0.4213" build="0.3873"  key="00009C0000CC0612A9A77B18338A517D844A4366587D343795E5A574789899330066660306554947000000000000000000000000000000000000000052D44142"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -61,7 +61,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.4537"  key="0015B40A4088100E5B399B48656993655A66B66D637766D597BB5942825579E5007786030766474400000000000000000000000000000000000000003EE440C3"  />
+      <BodyProperties version="4" age="22.02" weight="0.1333" build="0.373"  key="0008B409802C00042737988865656BB97D2A787786B8AA8C7B8B76A8C543562800762603079E3956000000000000000000000000000000000000000018DC3082"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -110,7 +110,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.4537"  key="0015B40A4088100E5B399B48656993655A66B66D637766D597BB5942825579E5007786030766474400000000000000000000000000000000000000003EE440C3"  />
+      <BodyProperties version="4" age="22.02" weight="0.4213" build="0.3873"  key="00009C0000CC0015A9A77B18338A517D844A4366587D343795E5A574789899330066660306554947000000000000000000000000000000000000000052D44102"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -149,7 +149,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_1d"
                 name="{=lord_saxony_1d}Bernhard von Derlingau"
                 default_group="Cavalry"
@@ -160,7 +159,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.2" weight="0.5408" build="0.5274"  key="0010A40A40FC1314D3A647899A753A688686765862469768C7B1CECC3688C35C006886030653D6B900000000000000000000000000000000000000005ED47084"  />
+      <BodyProperties version="4" age="22.02" weight="0.4332" build="0.5551"  key="000D780FC0700201B9C78797549D34388BB9DE88886491C174A45339F495643600486603048D8D8800000000000000000000000000000000000000002E745102"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -200,7 +199,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_1e"
                 name="{=lord_saxony_1e}Adalbert von Saffenberg"
                 default_group="Cavalry"
@@ -211,7 +209,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.2" weight="0.5408" build="0.5274"  key="0010A40A40FC1314D3A647899A753A688686765862469768C7B1CECC3688C35C006886030653D6B900000000000000000000000000000000000000005ED47084"  />
+      <BodyProperties version="4" age="22.02" weight="0.3503" build="0.3657"  key="000A380ADA70115BB9C78697549934398BB78A88886491C174A4533984956456007556030789898800000000000000000000000000000000000000002EDC7104"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -261,7 +259,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.5003" build="0.7398"  key="00009C02801407C49A47BAA4B6773776CC5487569C982947581C959A77739987007B860307B8884A00000000000000000000000000000000000000005CEC8082"  />
+      <BodyProperties version="4" age="22.02" weight="0.1193" build="0.2121"  key="00057806C0FC019B8699CA4AC84B42334B676B295777769296B835728982A36500D326030D444759000000000000000000000000000000000000000055AC00C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -311,7 +309,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.5003" build="0.7398"  key="00009C028014000E9A47BAA4B6773776CC5487569C982947581C959A77739987007B860307B8884A00000000000000000000000000000000000000005CEC2083"  />
+      <BodyProperties version="4" age="22.02" weight="0.6516" build="0.1843"  key="000AAC04E92C200E96CB4B67694926DCCB775A768C6AC716183488A8788AB4780073A603078765CC000000000000000000000000000000000000000020DC1102"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -350,7 +348,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_2c"
                 name="{=lord_saxony_2c}Otto II the Rich"
                 voice="softspoken"
@@ -361,7 +358,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.5003" build="0.7398"  key="00009C02801407C49A47BAA4B6773776CC5487569C982947581C959A77739987007B860307B8884A00000000000000000000000000000000000000005CEC8082"  />
+      <BodyProperties version="4" age="22.02" weight="0.3194" build="0.4491"  key="0008240540FC30DB8699CA4AC84842334B676A2957777672969835728982A3650087560308644759000000000000000000000000000000000000000054FC00C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="225" />
@@ -400,7 +397,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_2d"
                 name="{=lord_saxony_2d}Albrecht I von Brandenburg"
                 voice="softspoken"
@@ -411,7 +407,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.5003" build="0.7398"  key="00009C02801407C49A47BAA4B6773776CC5487569C982947581C959A77739987007B860307B8884A00000000000000000000000000000000000000005CEC8082"  />
+      <BodyProperties version="4" age="22.02" weight="0.3194" build="0.4491"  key="0008240340FC238F7669C84A984842354B676A2657777672969835728982A3650077560307844759000000000000000000000000000000000000000054FC30C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -548,7 +544,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_3c"
                 name="{=lord_saxony_3c}Beringer von Sangerhausen"
                 voice="softspoken"
@@ -559,7 +554,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
+      <BodyProperties version="4" age="22.02" weight="0.2546" build="0.5139"  key="00181009808802CB5B799848656993655A66B66D637766D597BB59428255799500A846030A66474400000000000000000000000000000000000000003F442102"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -598,7 +593,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_3d"
                 name="{=lord_saxony_3d}Ludwig I von Thüringen"
                 voice="softspoken"
@@ -609,7 +603,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
+      <BodyProperties version="4" age="22.02" weight="0.2824" build="0.3781"  key="0008400AC088115C58399B48656993655A6686696377669597B85945545579A5007646030766474400000000000000000000000000000000000000003EE42102"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -648,7 +642,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_3e"
                 name="{=lord_saxony_3e}Giso IV von Gudensberg"
                 voice="softspoken"
@@ -659,7 +652,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
+      <BodyProperties version="4" age="22.02" weight="0.6575" build="0.5726"  key="00059C0980FC0143B6699D85C38CA63345672CA296923C5897A38973DB49736C0049A6030462893600000000000000000000000000000000000000004A946082"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -698,7 +691,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_4a"
                 name="{=lord_saxony_4a}Adelbertus von Wernigerode"
                 voice="softspoken"
@@ -709,7 +701,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
+      <BodyProperties version="4" age="22.02" weight="0.5702" build="0.3562"  key="0015BC0D8058114F8B7B875C8B82CCCCA79598354695B25398779B8A7E5A9527008596030886815800000000000000000000000000000000000000006F1C0102"  />
     </face>
     <skills>
       <skill id="Engineering" value="175" />
@@ -748,7 +740,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_4b"
                 name="{=lord_saxony_4b}Bertold von Wernigerode"
                 voice="softspoken"
@@ -759,7 +750,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.5139"  key="0015B40A408813C45B399B48656993655A66B66D637766D597BB5942825579E5008886030866474400000000000000000000000000000000000000003F0C2102"  />
+      <BodyProperties version="4" age="22.02" weight="0.3349" build="0.6682"  key="0005600D805812C88B7B875C8B82CCCCA79598354695B45398779B8A7A5A9527008A5603088681580000000000000000000000000000000000000000470C2102"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -798,7 +789,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_4c"
                 name="{=lord_saxony_4c}Adelheid von Luchow"
                 voice="softspoken"
@@ -809,7 +799,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.4537"  key="0015B40A4088100E5B399B48656993655A66B66D637766D597BB5942825579E5007786030766474400000000000000000000000000000000000000003EE440C3"  />
+      <BodyProperties version="4" age="22.02" weight="0.2997" build="0.5173"  key="00058C02102C300DCD4A778CBD5893759E5768B44A9C5454C179888C38B37BDC0098460309A587AA0000000000000000000000000000000000000000193420C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -858,7 +848,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
+      <BodyProperties version="4" age="22.02" weight="0.6016" build="0.3939"  key="00155C0095CC05C2C9297765167B5384978778617899A705797D974A9468543600A696030A482886000000000000000000000000000000000000000037448002"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -908,7 +898,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="00080C0F15E400156149C2791678E761627E6646D8D5A8A26A1D97B18E7849420075660307783B43000000000000000000000000000000000000000020EC4043"  />
+      <BodyProperties version="4" age="22.02" weight="0.4555" build="0.2372"  key="000D1C08C07020067356D1BAAA76E78E9B5744848A79855CAA8673A7B65B979800847603088D88880000000000000000000000000000000000000000590C3042"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -947,7 +937,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_5c"
                 name="{=lord_saxony_5c}Dietrich von Plötzkau"
                 voice="softspoken"
@@ -958,7 +947,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
+      <BodyProperties version="4" age="22.02" weight="0.375" build="0.2372"  key="000D3406C070040E7356D1BAAA76E78E9B5744848A79855CAA8673A7B65B979800746603078D8888000000000000000000000000000000000000000058DC8002"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -997,7 +986,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_5d"
                 name="{=lord_saxony_5d}Mathilde von Walbeck"
                 voice="softspoken"
@@ -1008,7 +996,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.5069" build="0.4537"  key="0015B40A4088100E5B399B48656993655A66B66D637766D597BB5942825579E5007786030766474400000000000000000000000000000000000000003EE440C3"  />
+      <BodyProperties version="4" age="22.02" weight="0.5158" build="0.3966"  key="0018440AC0FC000787125A35459A215BA86914C46BC3768DB29935856A73BC6C0086860308B7CB7700000000000000000000000000000000000000003F0410C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -1057,7 +1045,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.0448" build="0.1292"  key="002074054014215245829D7457C7976B999A1887A8A46B795AC972B97567976800C216030C58FD6C00000000000000000000000000000000000000004B949142"  />
+      <BodyProperties version="4" age="22.02" weight="0.2948" build="0.6298"  key="001594015AB40900CD68D8B5425A45448AB767675656983793EDAB4698A99997007946030764B687000000000000000000000000000000000000000038F41002"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="175" />
@@ -1107,7 +1095,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.1668" build="0.7215"  key="0008980F0014000E9598B95556AA6D64268495765E7799836698258682C78748007B36030777C64C000000000000000000000000000000000000000024DC2083"  />
+      <BodyProperties version="4" age="22.02" weight="0.3589" build="0.3225"  key="000284020044300E7839876C6B773773A978804C6A735B6683D993899A8B593500755603079292E3000000000000000000000000000000000000000042DC0042"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -1146,7 +1134,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_6c"
                 name="{=lord_saxony_6c}Adela von Brabant"
                 default_group="Cavalry"
@@ -1158,7 +1145,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.1668" build="0.7215"  key="0008980F0014000E9598B95556AA6D64268495765E7799836698258682C78748007B36030777C64C000000000000000000000000000000000000000024DC2083"  />
+      <BodyProperties version="4" age="22.02" weight="0.2948" build="0.3349"  key="0015200140B40004CD68D8B5425A45448AB767675656983793EDAB4698A99997007546030764B687000000000000000000000000000000000000000038DC10C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -1197,7 +1184,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_6d"
                 name="{=lord_saxony_6d}Lothar von Supplinburg"
                 voice="softspoken"
@@ -1208,7 +1194,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.0448" build="0.1292"  key="002074054014215245829D7457C7976B999A1887A8A46B795AC972B97567976800C216030C58FD6C00000000000000000000000000000000000000004B949142"  />
+      <BodyProperties version="4" age="22.02" weight="0.629" build="0.4316"  key="0015AC0AC0A002575369BA3861B4B234A9D4ED3D9C8775DA981A4757975B85A500A696030A66446B000000000000000000000000000000000000000005441002"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1247,7 +1233,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_6e"
                 name="{=lord_saxony_6e}Simon I von Oberlothringen"
                 voice="softspoken"
@@ -1258,7 +1243,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.0448" build="0.1292"  key="002074054014215245829D7457C7976B999A1887A8A46B795AC972B97567976800C216030C58FD6C00000000000000000000000000000000000000004B949142"  />
+      <BodyProperties version="4" age="22.02" weight="0.4151" build="0.4316"  key="0015980AC0A019CF5769BA4864B4B33489AAED3A7C8775DA981A475777598595007666030766446B000000000000000000000000000000000000000022E41004"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1297,7 +1282,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_7a"
                 name="{=lord_saxony_7a}Werner IV von Grüningen"
                 voice="softspoken"
@@ -1308,7 +1292,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.0448" build="0.1292"  key="002074054014215245829D7457C7976B999A1887A8A46B795AC972B97567976800C216030C58FD6C00000000000000000000000000000000000000004B949142"  />
+      <BodyProperties version="4" age="22.02" weight="0.6506" build="0.6581"  key="000AA0009444130C797A69B452A4956666B8A6AA9638B3D846587B68177C6949008AA60308993B8A000000000000000000000000000000000000000023045084"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -1347,7 +1331,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_7b"
                 name="{=lord_saxony_7b}Gisela"
                 default_group="Cavalry"
@@ -1359,7 +1342,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.1668" build="0.7215"  key="0008980F0014000E9598B95556AA6D64268495765E7799836698258682C78748007B36030777C64C000000000000000000000000000000000000000024DC2083"  />
+      <BodyProperties version="4" age="22.02" weight="0.5055" build="0.334"  key="000A740C40703006974139E845A84C39C79A587B395A498C7786B6B4DDA28546005586030577AA8B0000000000000000000000000000000000000000249C1042"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1398,7 +1381,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen !!! -->
   <NPCCharacter id="lord_saxony_7c"
                 name="{=lord_saxony_7c}Willibirg von Achalm"
                 default_group="Cavalry"
@@ -1410,7 +1392,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.1668" build="0.7215"  key="0008980F0014000E9598B95556AA6D64268495765E7799836698258682C78748007B36030777C64C000000000000000000000000000000000000000024DC2083"  />
+      <BodyProperties version="4" age="22.02" weight="0.3781" build="0.4614"  key="000AA0008044300E797A69B452A4956666B8A6AA9638B3D846587B68177C69490087660308993B8A000000000000000000000000000000000000000023040042"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
