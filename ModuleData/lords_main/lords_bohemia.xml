@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters> 
+
+  <NPCCharacter id="lord_german_6a"
+                name="{=Bretislav II}Bretislav II"
+                voice="softspoken"
+                age="40"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_german_6b"
+                name="{=Luitgard of Windberg}Luitgard of Windberg"
+                default_group="Cavalry"
+                age="25"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="25" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+   <NPCCharacter id="lord_german_16a"
+                name="{=Ulrich I}Ulrich I"
+                voice="softspoken"
+                age="40"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="300" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_german_16b"
+                name="{=Nadia}Nadia"
+                default_group="Cavalry"
+                age="18"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="00080C0F15E400156149C2791678E761627E6646D8D5A8A26A1D97B18E7849420075660307783B43000000000000000000000000000000000000000020EC4043"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+
+
+
+
+</NPCCharacters>
