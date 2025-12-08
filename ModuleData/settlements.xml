@@ -7,12 +7,6 @@
   <Settlement id="town_gdansk" owner="Faction.clan_pomerania_2"></Settlement>
   <Settlement id="castle_slupsk" owner="Faction.clan_pomerania_3"></Settlement>
 
-  <!-- Wends -->
-  <Settlement id="castle_lubek" owner="Faction.clan_danish_2" culture="Culture.polish"></Settlement>
-  <Settlement id="castle_lubek_mikilenburg" culture="Culture.polish"></Settlement>
-  <Settlement id="town_brandenburg" owner="Faction.clan_german_23"></Settlement>
-  <Settlement id="castle_garz" owner="Faction.clan_wendian_3"></Settlement>
-
   <!-- Saxony -->
   <Settlement id="town_bremen" owner="Faction.clan_german_22"></Settlement>
   <Settlement id="castle_falkenberg" owner="Faction.clan_german_15"></Settlement>
@@ -21,6 +15,12 @@
   <Settlement id="town_hamburg" owner="Faction.clan_german_20"></Settlement>
   <Settlement id="town_juterbog" owner="Faction.clan_german_13"></Settlement>
   <Settlement id="castle_zerbst" owner="Faction.clan_saxony_7"></Settlement>
+
+  <!-- Wends -->
+  <Settlement id="castle_lubek" owner="Faction.clan_danish_2" culture="Culture.polish"></Settlement>
+  <Settlement id="castle_lubek_mikilenburg" culture="Culture.polish"></Settlement>
+  <Settlement id="town_brandenburg" owner="Faction.clan_german_23"></Settlement>
+  <Settlement id="castle_garz" owner="Faction.clan_wendian_3"></Settlement>
 
   <!-- NEXT -->
 
