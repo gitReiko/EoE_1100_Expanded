@@ -18,5 +18,13 @@
    <Hero id="lord_bohemia_2f" mother="Hero.lord_bohemia_2e" father="Hero.lord_bohemia_2d" faction="Faction.clan_german_16" />
 
 
+   <Hero id="lord_bohemia_3a" faction="Faction.clan_bohemia_3" />
+   <Hero id="lord_bohemia_3b" faction="Faction.clan_bohemia_3" />
+   <Hero id="lord_bohemia_3c" spouse="Hero.lord_bohemia_3d" father="Hero.lord_bohemia_3b" faction="Faction.clan_bohemia_3" />
+   <Hero id="lord_bohemia_3d" spouse="Hero.lord_bohemia_3c" faction="Faction.clan_bohemia_3" />
+   <Hero id="lord_bohemia_3e" faction="Faction.clan_bohemia_3" />
+   <Hero id="lord_bohemia_3f" faction="Faction.clan_bohemia_3" />
+   <Hero id="lord_bohemia_3g" faction="Faction.clan_bohemia_3" />
+
 
 </Heroes>
