@@ -27,4 +27,14 @@
    <Hero id="lord_bohemia_3g" faction="Faction.clan_bohemia_3" />
 
 
+   <Hero id="lord_bohemia_4a" spouse="Hero.lord_bohemia_4b" faction="Faction.clan_bohemia_4" />
+   <Hero id="lord_bohemia_4b" spouse="Hero.lord_bohemia_4a" faction="Faction.clan_bohemia_4" />
+   <Hero id="lord_bohemia_4c" faction="Faction.clan_bohemia_4" />
+   <Hero id="lord_bohemia_4d" faction="Faction.clan_bohemia_4" />
+   <Hero id="lord_bohemia_4e" faction="Faction.clan_bohemia_4" />
+   <Hero id="lord_bohemia_4f" faction="Faction.clan_bohemia_4" />
+
+
+
+
 </Heroes>
