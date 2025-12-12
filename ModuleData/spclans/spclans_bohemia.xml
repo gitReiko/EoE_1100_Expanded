@@ -49,4 +49,16 @@
     color="ff4c8d45" color2="fff3f3f3" 
   />
 
+  <Faction id="clan_bohemia_5"
+    name="{=clan_bohemia_5}Sternberk"
+    initial_home_settlement="Settlement.town_prague"		   
+    tier="3"
+    owner="Hero.lord_bohemia_5a"
+    culture="Culture.polish"
+    super_faction="Kingdom.bohemia"
+    is_noble="true"
+    banner_key="11.141.19.1836.1836.764.764.1.0.0.521.155.116.490.490.764.764.0.1.18" 
+    color="FFe9a74d" color2="FF3b6298" 
+  />
+
 </Factions>

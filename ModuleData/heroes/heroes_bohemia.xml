@@ -35,6 +35,9 @@
    <Hero id="lord_bohemia_4f" faction="Faction.clan_bohemia_4" />
 
 
-
+   <Hero id="lord_bohemia_5a" spouse="Hero.lord_bohemia_5b" faction="Faction.clan_bohemia_5" />
+   <Hero id="lord_bohemia_5b" spouse="Hero.lord_bohemia_5a" faction="Faction.clan_bohemia_5" />
+   <Hero id="lord_bohemia_5c" mother="Hero.lord_bohemia_5b" father="Hero.lord_bohemia_5a" faction="Faction.clan_bohemia_5" />
+   <Hero id="lord_bohemia_5d" mother="Hero.lord_bohemia_5b" father="Hero.lord_bohemia_5a" faction="Faction.clan_bohemia_5" />
 
 </Heroes>
