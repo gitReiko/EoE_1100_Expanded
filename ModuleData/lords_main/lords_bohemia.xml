@@ -1457,8 +1457,8 @@
   </NPCCharacter>
 
   <!-- facegen -->
-  <NPCCharacter id="lord_bohemia_5c"
-                name="{=lord_bohemia_5c}Jaroslav*"
+  <NPCCharacter id="lord_bohemia_5d"
+                name="{=lord_bohemia_5d}Jaroslav*"
                 voice="softspoken"
                 age="19"
                 is_female="false"
