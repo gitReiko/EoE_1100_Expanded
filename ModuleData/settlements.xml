@@ -1,6 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Settlements>
 
+  <!-- Bohemia -->
+  <Settlement id="town_prague" owner="Faction.clan_german_6" culture="Culture.polish" ></Settlement>
+  <Settlement id="town_prague_malin" culture="Culture.polish"></Settlement>
+  <Settlement id="town_prague_milevsko" culture="Culture.polish"></Settlement>
+  <Settlement id="castle_brno" owner="Faction.clan_german_16" culture="Culture.polish" ></Settlement>
+  <Settlement id="castle_brno_trebic" culture="Culture.polish"></Settlement>
+  <Settlement id="castle_brno_hradec" culture="Culture.polish"></Settlement>
+  <Settlement id="town_pilsen" owner="Faction.clan_bohemia_3" culture="Culture.polish" name="{=town_stary_plzenec_name}Stary Plzenec" ></Settlement>
+  <Settlement id="town_pilsen_nabrode" culture="Culture.polish"></Settlement>
+  <Settlement id="town_pilsen_klatovy" culture="Culture.polish"></Settlement>
+  <Settlement id="town_pilsen_podborany" culture="Culture.polish"></Settlement>
+  <Settlement id="town_bautzen" owner="Faction.clan_bohemia_4" culture="Culture.polish" ></Settlement>
+  <Settlement id="town_bautzen_reichenbach" culture="Culture.polish"></Settlement>
+  <Settlement id="town_bautzen_goreliz" culture="Culture.polish"></Settlement>
+
   <!-- Pomerania -->
   <Settlement id="town_szczecin" owner="Faction.clan_poland_2" ></Settlement>
   <Settlement id="castle_kolobrzeg" owner="Faction.clan_poland_2"></Settlement>
@@ -22,7 +37,6 @@
   <Settlement id="town_brandenburg" owner="Faction.clan_german_23"></Settlement>
   <Settlement id="castle_garz" owner="Faction.clan_wendian_3"></Settlement>
 
-  <!-- NEXT -->
 
 
 
