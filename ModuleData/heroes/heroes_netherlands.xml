@@ -11,6 +11,11 @@
    <Hero id="lord_netherlands_1h" spouse="Hero.lord_netherlands_1g" faction="Faction.clan_netherlands_1" />
 
 
+   <Hero id="lord_german_14a" spouse="Hero.lord_german_14b" faction="Faction.clan_german_14" />
+   <Hero id="lord_german_14b" spouse="Hero.lord_german_14a" faction="Faction.clan_german_14" />
+   <Hero id="lord_netherlands_2c" mother="Hero.lord_german_14b" father="Hero.lord_german_14a" faction="Faction.clan_german_14" />
+   <Hero id="lord_netherlands_2d" faction="Faction.clan_german_14" />
+   <Hero id="lord_netherlands_2e" faction="Faction.clan_german_14" />
 
 
 
