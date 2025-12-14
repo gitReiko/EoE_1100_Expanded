@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_netherlands_1a" spouse="Hero.lord_netherlands_1c" father="Hero.lord_netherlands_1b" faction="Faction.clan_netherlands_1"  />
+   <Hero id="lord_netherlands_1b" faction="Faction.clan_netherlands_1" alive="false" />
+   <Hero id="lord_netherlands_1c" spouse="Hero.lord_netherlands_1a" faction="Faction.clan_netherlands_1"  />
+   <Hero id="lord_netherlands_1d" mother="Hero.lord_netherlands_1c" father="Hero.lord_netherlands_1a" faction="Faction.clan_netherlands_1" />
+   <Hero id="lord_netherlands_1e" father="Hero.lord_netherlands_1b" faction="Faction.clan_netherlands_1" />
+   <Hero id="lord_netherlands_1f" father="Hero.lord_netherlands_1b" faction="Faction.clan_netherlands_1" />
+   <Hero id="lord_netherlands_1g" spouse="Hero.lord_netherlands_1h" father="Hero.lord_netherlands_1b" faction="Faction.clan_netherlands_1" alive="false" />
+   <Hero id="lord_netherlands_1h" spouse="Hero.lord_netherlands_1g" faction="Faction.clan_netherlands_1" />
+
+
+
+
+
+
+
+
+
+
+
+</Heroes>
