@@ -49,5 +49,17 @@
     color="ffeae1da" color2="ff2a4d86"
   />
 
+  <Faction id="clan_french_7"
+    name="{=clan_netherlands_5}Vlaanderen"
+    initial_home_settlement="Settlement.town_brussels" 			   
+    tier="3"
+    owner="Hero.lord_french_7a"
+    culture="Culture.german"
+    super_faction="Kingdom.netherlands"
+    is_noble="true"
+    banner_key="17.155.146.1836.1836.764.764.0.0.0.505.83.116.66.265.764.753.0.0.90.319.83.116.359.359.764.764.0.0.0.505.83.116.66.332.764.764.0.0.0.503.83.116.44.43.657.738.0.0.0.503.83.116.44.43.871.738.0.0.0.503.83.116.44.43.764.903.0.0.0.503.83.116.44.43.764.627.0.0.0" 
+    color="ff2a4d86" color2="ffe9a74d"
+  />	
+
 
 </Factions>
