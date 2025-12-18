@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters> 
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_1a"
                 name="{=lord_netherlands_1a}Godfried I van Leuven"
                 voice="softspoken"
@@ -12,7 +11,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.7238"  key="0020800140FC16DB59657468897367A9744AE764768C678ABA7248778B757447009B86030943462100000000000000000000000000000000000000003B2C5142"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="200" />
@@ -51,7 +50,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_1b"
                 name="{=lord_netherlands_1b}Hendrik II van Leuven"
                 voice="softspoken"
@@ -62,7 +60,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.8953"  key="0023680140FC27C25C657468897367C9744AE763738C678ABA7248774B75744700AD86030A43462100000000000000000000000000000000000000003B545142"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -101,7 +99,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_1c"
                 name="{=lord_netherlands_1c}Josephine van Betuwe"
                 default_group="Cavalry"
@@ -113,7 +110,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.25" weight="0.119" build="0.625"  key="00181C080000200ADAB2585929965D6AE747A2A4BB9B9C813CC52572B99359C10069260306D94B4B000000000000000000000000000000000000000020BC1102"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -152,7 +149,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_1d"
                 name="{=lord_netherlands_1d}Adelheid van Leuven"
                 default_group="Cavalry"
@@ -164,7 +160,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.4614"  key="0020380140FC200259657468897367A7744AE764768C678ABA7248778B757447008786030843462100000000000000000000000000000000000000003B144102"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -203,7 +199,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_1e"
                 name="{=lord_netherlands_1e}Alberon van Leuven"
                 voice="softspoken"
@@ -214,7 +209,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.6991"  key="00204C0200FC209C5A65746787736787744A9763768A678ABA7248777B757447007A86030743464500000000000000000000000000000000000000003AEC5142"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -253,7 +248,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_1f"
                 name="{=lord_netherlands_1f}Ida van Leuven"
                 default_group="Cavalry"
@@ -265,7 +259,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.3596"  key="0018A00200FC200E5A65746787736787744A9763768A678ABA7248777B757447007586030743464500000000000000000000000000000000000000003AEC1102"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -304,7 +298,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_1g"
                 name="{=lord_netherlands_1g}Hendrik III van Leuven"
                 voice="softspoken"
@@ -315,7 +308,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.7731" build="0.7454"  key="0020C0015DFC00CD5C65746889736788744A7763738C878ABA7248777B757447008BC6030843464400000000000000000000000000000000000000003B045142"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -354,7 +347,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_1h"
                 name="{=lord_netherlands_1h}Gertrude van Vlaanderen"
                 default_group="Cavalry"
@@ -366,7 +358,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.25" weight="0.4398" build="0.477"  key="0002A40C40142002B85197E75C64E8A433977B47EC46794B57298766995684A7005776030564BA9A00000000000000000000000000000000000000002AB42102"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -504,7 +496,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_2c"
                 name="{=lord_netherlands_2c}Dirk V van Holland"
                 voice="softspoken"
@@ -515,7 +506,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.6682" build="0.4059"  key="00130C08D3CC12CEAA9644A7AA7E6384A39A993C8B1656846656875BA739A2750076A60307785877000000000000000000000000000000000000000064FC70C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -554,7 +545,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_2d"
                 name="{=lord_netherlands_2d}Floris*"
                 voice="softspoken"
@@ -565,7 +555,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.3561" build="0.4059"  key="00057003408837DB6A137401287885C599C254A7676A4438854936C68159AD8A007656030779642800000000000000000000000000000000000000000EDC1082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="175" />
@@ -604,7 +594,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_2e"
                 name="{=lord_netherlands_2e}Simon*"
                 voice="softspoken"
@@ -615,7 +604,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.4812" build="0.5509"  key="000A480AC0E43982853B8C89BD39579B8678C95A969CD3E487CBBA9916336CA8007876030777226400000000000000000000000000000000000000000EE42082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -654,7 +643,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_3a"
                 name="{=lord_netherlands_3a}Gerard I van Gelre"
                 voice="softspoken"
@@ -665,7 +653,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.6065" build="0.3843"  key="00151009807019C18684AC548665675646D88A7A9D8DD8B46B8B4A687289C545008696030846AB670000000000000000000000000000000000000000411C9102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -704,9 +692,8 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_3b"
-                name="{=lord_netherlands_3b}Gerard I van Gelre"
+                name="{=lord_netherlands_3b}Gerard III van Wassenberg"
                 voice="softspoken"
                 age="67"
                 is_female="false"
@@ -715,7 +702,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.6065" build="0.5708"  key="00151C098070190096B4AC548665675626D88A7A9D8DD8B46B8B4A6A7289C525008996030846AB670000000000000000000000000000000000000000411C9102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -754,7 +741,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_3c"
                 name="{=lord_netherlands_3c}Gosewijn I van Valkenburg"
                 voice="softspoken"
@@ -765,7 +751,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.4336" build="0.4306"  key="00181C09807023069684AC548665675726A88A7A9A8998B46B8B4A6A7289C52500A676030A468867000000000000000000000000000000000000000041449102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -804,7 +790,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_3d"
                 name="{=lord_netherlands_3d}Dirk van de Veluwe"
                 voice="softspoken"
@@ -815,7 +800,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.6606" build="0.867"  key="00108806C08800847BB56D362D8A54D5543C759798869559CA4A49AA8AB4A457004DA60304E5278200000000000000000000000000000000000000006E8C9142"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -854,7 +839,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_3e"
                 name="{=lord_netherlands_3e}Sophia"
                 default_group="Cavalry"
@@ -866,7 +850,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.25" weight="0.5046" build="0.5077"  key="00087C0340000006647A76A96A3C5AAED3487878B558C6A5CB878A6A59C653E700788603072998B6000000000000000000000000000000000000000024EC4043"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -905,7 +889,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_3f"
                 name="{=lord_netherlands_3f}Clementia van Poitiers"
                 default_group="Cavalry"
@@ -917,7 +900,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.25" weight="0.7368" build="0.2152"  key="0015AC04C0B4300A379E7CBC47A5DA4CC6997885956696897C61687775BF496A0073B60307BA6556000000000000000000000000000000000000000034E43083"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -956,7 +939,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_3g"
                 name="{=lord_netherlands_3g}Adelheid van Gelre"
                 default_group="Cavalry"
@@ -968,7 +950,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.25" weight="0.409" build="0.3904"  key="0008440280000005647A76996A3C5AA9D34878789558C6A5CB878A6859C653E70086660308299886000000000000000000000000000000000000000025144043"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1007,7 +989,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_3h"
                 name="{=lord_netherlands_3h}Yolanda van Gelre"
                 default_group="Cavalry"
@@ -1019,7 +1000,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.25" weight="0.3935" build="0.2152"  key="00151C04C0B4200E37887CBC47A59A48C6997885956696897C61687675BB496A0063660306BA6556000000000000000000000000000000000000000034CC3083"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1058,7 +1039,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_netherlands_3k"
                 name="{=lord_netherlands_3k}Gerard II van Gelre"
                 voice="softspoken"
@@ -1069,7 +1049,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.25" weight="0.3935" build="0.3565"  key="00180804E4B431DB37887CBC47A59A48C6997885956696897C61687675BB496A0065660306BA6556000000000000000000000000000000000000000034CC0082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
