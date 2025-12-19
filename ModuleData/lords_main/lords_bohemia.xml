@@ -100,7 +100,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_1c"
                 name="{=lord_bohemia_1c}Vratislav II"
                 voice="softspoken"
@@ -111,7 +110,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.4066" build="0.5386"  key="001084060F881142BB885679884596874EC787DBC95397D28968BCA7964EA84A00A866030A4CDB8700000000000000000000000000000000000000003B547044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -150,7 +149,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_1d"
                 name="{=lord_bohemia_1d}Bořivoj II"
                 voice="softspoken"
@@ -161,7 +159,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.3596" build="0.3194"  key="00153C06008812C4BB885676884596864AC787DBC95397D28968BCA7964EA84900755603077CD78700000000000000000000000000000000000000003AF47044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -200,7 +198,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_1e"
                 name="{=lord_bohemia_1e}Ludmilla"
                 default_group="Cavalry"
@@ -212,7 +209,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.14" weight="0.4066" build="0.4213"  key="00101C060088100BBB885679884596874EC787DBC95397D28968BCA7964EA84A00866603084CDB8700000000000000000000000000000000000000003B144044"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -251,7 +248,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_1f"
                 name="{=lord_bohemia_1f}Vladislav I"
                 voice="softspoken"
@@ -262,7 +258,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.2052" build="0.3102"  key="00183004008814018B885679884576864CC787DBC95397D58968B1A7964EA84A00953603096C9B8700000000000000000000000000000000000000003B243044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -301,7 +297,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_1j"
                 name="{=lord_bohemia_1j}Soběslav I"
                 voice="softspoken"
@@ -312,7 +307,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.7793" build="0.2855"  key="0010840340882288B8885679884596874BC787DB895397A28968BFA7864EA84A0084C603088CDB8700000000000000000000000000000000000000003B147044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -450,7 +445,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_2с"
                 name="{=lord_bohemia_2с}Konrad I"
                 voice="softspoken"
@@ -461,7 +455,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.5046" build="0.345"  key="00152C0C40E4128E6549A47766789767657E6646D8D5A8A26A3D97B48C78494500A586030A783B430000000000000000000000000000000000000000214C9082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -500,7 +494,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_2d"
                 name="{=lord_bohemia_2d}Litold Znojemsky"
                 voice="softspoken"
@@ -511,7 +504,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.5417" build="0.3441"  key="0015A00D98E412C56549A49766789766657A6646D8D5A8A26A3D90B68C7849550085860308783B43000000000000000000000000000000000000000021049086"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="175" />
@@ -550,7 +543,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_2e"
                 name="{=lord_bohemia_2e}Ida von Babenberg"
                 default_group="Cavalry"
@@ -562,7 +554,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.14" weight="0.5707" build="0.4574"  key="0015B40A5F702007A288525C4689A9B8DBC765648BC67C769BD69CA6553884DA0087960308D99AB7000000000000000000000000000000000000000059043044"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -601,7 +593,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_2f"
                 name="{=lord_bohemia_2f}Konrad II Znojemsky"
                 voice="softspoken"
@@ -612,7 +603,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.2978" build="0.7948"  key="001BDC0D80E4108C6579A4976678976665786646D8B5A8A26A3D99B68A784955007C460307783943000000000000000000000000000000000000000020E49085"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -651,7 +642,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_3a"
                 name="{=lord_bohemia_3a}Mutina"
                 voice="softspoken"
@@ -662,7 +652,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.4612" build="0.3681"  key="00104C0980B4238EC76B894C67B266B9B7DAACBE98366758A46D1577C363A88300967603093AB8B7000000000000000000000000000000000000000047347105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -701,7 +691,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_3b"
                 name="{=lord_bohemia_3b}Česta"
                 voice="softspoken"
@@ -712,7 +701,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.7087" build="0.2728"  key="001BC40990A0228D7857A7497C575D894B8B798788D9C88243698B5CAA9786580074B60307349953000000000000000000000000000000000000000048E42105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -751,7 +740,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_3c"
                 name="{=lord_bohemia_3c}Jan"
                 voice="softspoken"
@@ -762,7 +750,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.3719" build="0.4861"  key="0015B00980A026897857A7697C575A894B89798788D7C88243698B59AA9786580067660306349953000000000000000000000000000000000000000048D42105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -801,7 +789,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_3d"
                 name="{=lord_bohemia_3d}Kateřina*"
                 default_group="Cavalry"
@@ -813,7 +800,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.14" weight="0.5786" build="0.3136"  key="0018D0009558200A36B95C6AAB34A3847468D9A42821C68463285A897551A467006596030696C26800000000000000000000000000000000000000005EC410C4"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -852,7 +839,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_3e"
                 name="{=lord_bohemia_3e}Bořut"
                 voice="softspoken"
@@ -863,7 +849,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.6601" build="0.1619"  key="0023A40A4ECC16C789B45D7775786385A5B6291CC7A5B352A27394C8564B84770082A6030881887A00000000000000000000000000000000000000002F043145"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="200" />
@@ -902,7 +888,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_3f"
                 name="{=lord_bohemia_3f}Čeč"
                 voice="softspoken"
@@ -913,7 +898,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.7863" build="0.7712"  key="0020700000B4044E8567A2D15A9C877A3A4B1E47B73A6A233369C0765B347E7A00ACC6030AD72799000000000000000000000000000000000000000049546145"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="75" />
@@ -952,7 +937,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_3g"
                 name="{=lord_bohemia_3g}Nemoj"
                 voice="softspoken"
@@ -963,7 +947,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.3377" build="0.3507"  key="000D80054044121CAB479415D45379B4BB8967CC68767B21974456499C77955900455603044924570000000000000000000000000000000000000000488C90C5"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1002,7 +986,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_4a"
                 name="{=lord_bohemia_4a}Dětřišek"
                 voice="softspoken"
@@ -1013,7 +996,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.6362" build="0.8387"  key="0018400540A005CED57124E656496C886178BAAC408898C98A88C5D48D4777A5008DA60308C445940000000000000000000000000000000000000000331460C5"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1052,7 +1035,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_4b"
                 name="{=lord_bohemia_4b}Marketa*"
                 default_group="Cavalry"
@@ -1064,7 +1046,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.14" weight="0.1185" build="0.3102"  key="0002AC08C0A030048286C7B1778877CC598D89E96A8C537BB553375A439749950075260307A7B2B5000000000000000000000000000000000000000038E42084"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1103,7 +1085,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_4c"
                 name="{=lord_bohemia_4c}Budislav"
                 voice="softspoken"
@@ -1114,7 +1095,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.4546" build="0.5513"  key="0013400540B41953E68D3568C7367A238884AA77C72A48678CB565A6935695E70088760308D48A1600000000000000000000000000000000000000004F042004"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="175" />
@@ -1153,7 +1134,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_4d"
                 name="{=lord_bohemia_4d}Ctibor*"
                 voice="softspoken"
@@ -1164,7 +1144,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.3173" build="0.3682"  key="00186C0AC0E4394078A8C3A8484B2879993794885AE6D346717B18939688617700A656030A96A8A7000000000000000000000000000000000000000061448084"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -1203,7 +1183,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_4e"
                 name="{=lord_bohemia_4e}Jitka*"
                 default_group="Cavalry"
@@ -1215,7 +1194,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.14" weight="0.5417" build="0.4962"  key="00184C041B003001CAA68088A57C86947A5A5A04AA6B977E58DB879ABD7A69A90077860307878677000000000000000000000000000000000000000064EC20C3"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1254,7 +1233,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_4f"
                 name="{=lord_bohemia_4f}Dorota*"
                 default_group="Cavalry"
@@ -1266,7 +1244,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.14" weight="0.2824" build="0.267"  key="0013300F00FC300133195736799A774BC33646785883B6A73DB8AAA4A9CDBB620064460306ADD216000000000000000000000000000000000000000018BC3083"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1305,7 +1283,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_5a"
                 name="{=lord_bohemia_5a}Diviš"
                 voice="softspoken"
@@ -1316,7 +1293,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.1466" build="0.4059"  key="00183000A82C314EBA28B858AA7A799B8B7CA672A6C5B9CB8957B5E788C6ACA80086260308AB4987000000000000000000000000000000000000000029143044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1355,7 +1332,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_5b"
                 name="{=lord_bohemia_5b}Eliska*"
                 default_group="Cavalry"
@@ -1367,7 +1343,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.14" weight="0.3407" build="0.2176"  key="0010500340E420016462A467495583C828C5497A88A167286557CD858A5B75BA0073560307A9186500000000000000000000000000000000000000004EE41003"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1406,7 +1382,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_5c"
                 name="{=lord_bohemia_5c}Zdeslav*"
                 voice="softspoken"
@@ -1417,7 +1392,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.5725" build="0.3472"  key="00130C00A82C364FBA88B858AA7A7899897C8672A6C5B9CB8957B5A788C6ACA80075960307AB7987000000000000000000000000000000000000000028F42044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1456,7 +1431,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bohemia_5d"
                 name="{=lord_bohemia_5d}Jaroslav*"
                 voice="softspoken"
@@ -1467,7 +1441,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.14" weight="0.3904" build="0.5941"  key="001078009A2C2603BA28B888AA7A799B8B7AA672A6C5B9CB895795E788C6ACA800796603078B4987000000000000000000000000000000000000000028F43044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
