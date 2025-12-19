@@ -16,6 +16,13 @@
   <Settlement id="town_bautzen_reichenbach" culture="Culture.polish"></Settlement>
   <Settlement id="town_bautzen_goreliz" culture="Culture.polish"></Settlement>
 
+  <!-- Netherlands -->
+  <Settlement id="town_brussels" owner="Faction.clan_netherlands_1" culture="Culture.german" name="{=town_leuven_name}Leuven" ></Settlement>
+  <Settlement id="town_brussels_namur" culture="Culture.german"></Settlement>
+  <Settlement id="castle_utrecht" owner="Faction.clan_german_14" ></Settlement>
+  <Settlement id="castle_antwerp" owner="Faction.clan_netherlands_3" ></Settlement>
+  <Settlement id="town_groningen" owner="Faction.clan_netherlands_4" ></Settlement>
+
   <!-- Pomerania -->
   <Settlement id="town_szczecin" owner="Faction.clan_poland_2" ></Settlement>
   <Settlement id="castle_kolobrzeg" owner="Faction.clan_poland_2"></Settlement>

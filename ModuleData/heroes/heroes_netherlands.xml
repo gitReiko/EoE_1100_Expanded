@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_netherlands_1a" spouse="Hero.lord_netherlands_1c" father="Hero.lord_netherlands_1b" faction="Faction.clan_netherlands_1"  />
+   <Hero id="lord_netherlands_1b" faction="Faction.clan_netherlands_1" alive="false" />
+   <Hero id="lord_netherlands_1c" spouse="Hero.lord_netherlands_1a" faction="Faction.clan_netherlands_1"  />
+   <Hero id="lord_netherlands_1d" mother="Hero.lord_netherlands_1c" father="Hero.lord_netherlands_1a" faction="Faction.clan_netherlands_1" />
+   <Hero id="lord_netherlands_1e" father="Hero.lord_netherlands_1b" faction="Faction.clan_netherlands_1" />
+   <Hero id="lord_netherlands_1f" father="Hero.lord_netherlands_1b" faction="Faction.clan_netherlands_1" />
+   <Hero id="lord_netherlands_1g" spouse="Hero.lord_netherlands_1h" father="Hero.lord_netherlands_1b" faction="Faction.clan_netherlands_1" alive="false" />
+   <Hero id="lord_netherlands_1h" spouse="Hero.lord_netherlands_1g" father="Hero.lord_netherlands_5c" faction="Faction.clan_netherlands_1" />
+
+
+   <Hero id="lord_german_14a" spouse="Hero.lord_german_14b" faction="Faction.clan_german_14" />
+   <Hero id="lord_german_14b" spouse="Hero.lord_german_14a" faction="Faction.clan_german_14" />
+   <Hero id="lord_netherlands_2c" mother="Hero.lord_german_14b" father="Hero.lord_german_14a" faction="Faction.clan_german_14" />
+   <Hero id="lord_netherlands_2d" faction="Faction.clan_german_14" />
+   <Hero id="lord_netherlands_2e" faction="Faction.clan_german_14" />
+
+
+   <Hero id="lord_netherlands_3a" spouse="Hero.lord_netherlands_3f" father="Hero.lord_netherlands_3b" faction="Faction.clan_netherlands_3" />
+   <Hero id="lord_netherlands_3b" faction="Faction.clan_netherlands_3" alive="false" />
+   <Hero id="lord_netherlands_3c" father="Hero.lord_netherlands_3b" faction="Faction.clan_netherlands_3" />
+   <Hero id="lord_netherlands_3d" faction="Faction.clan_netherlands_3" />
+   <Hero id="lord_netherlands_3e" faction="Faction.clan_netherlands_3" alive="false" />
+   <Hero id="lord_netherlands_3f" spouse="Hero.lord_netherlands_3a" faction="Faction.clan_netherlands_3" />
+   <Hero id="lord_netherlands_3g" mother="Hero.lord_netherlands_3e" father="Hero.lord_netherlands_3a" faction="Faction.clan_netherlands_3" />
+   <Hero id="lord_netherlands_3h" mother="Hero.lord_netherlands_3f" father="Hero.lord_netherlands_3a" faction="Faction.clan_netherlands_3" />
+   <Hero id="lord_netherlands_3k" mother="Hero.lord_netherlands_3f" father="Hero.lord_netherlands_3a" faction="Faction.clan_netherlands_3" />
+
+
+   <Hero id="lord_netherlands_4a" spouse="Hero.lord_netherlands_4b" faction="Faction.clan_netherlands_4" />
+   <Hero id="lord_netherlands_4b" spouse="Hero.lord_netherlands_4a" faction="Faction.clan_netherlands_4" />
+   <Hero id="lord_netherlands_4c" mother="Hero.lord_netherlands_4b" father="Hero.lord_netherlands_4a" faction="Faction.clan_netherlands_4" />
+   <Hero id="lord_netherlands_4d" faction="Faction.clan_netherlands_4" />
+   <Hero id="lord_netherlands_4e" faction="Faction.clan_netherlands_4" />
+
+
+   <Hero id="lord_french_7a" spouse="Hero.lord_french_7b" father="Hero.lord_netherlands_5c" faction="Faction.clan_french_7" />
+   <Hero id="lord_french_7b" spouse="Hero.lord_french_7a" faction="Faction.clan_french_7" />
+   <Hero id="lord_netherlands_5c" faction="Faction.clan_french_7" alive="false" />
+   <Hero id="lord_netherlands_5d" mother="Hero.lord_french_7b" father="Hero.lord_french_7a" faction="Faction.clan_french_7" />
+   <Hero id="lord_netherlands_5e" father="Hero.lord_netherlands_5c" faction="Faction.clan_french_7" />
+   <Hero id="lord_netherlands_5f" father="Hero.lord_netherlands_5c" faction="Faction.clan_french_7" />
+   
+
+</Heroes>

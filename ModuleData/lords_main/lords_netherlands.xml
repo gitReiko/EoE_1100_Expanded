@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters> 
+
+  <NPCCharacter id="lord_netherlands_1a"
+                name="{=lord_netherlands_1a}Godfried I van Leuven"
+                voice="softspoken"
+                age="37"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.7238"  key="0020800140FC16DB59657468897367A9744AE764768C678ABA7248778B757447009B86030943462100000000000000000000000000000000000000003B2C5142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="200" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_1b"
+                name="{=lord_netherlands_1b}Hendrik II van Leuven"
+                voice="softspoken"
+                age="55"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.8953"  key="0023680140FC27C25C657468897367C9744AE763738C678ABA7248774B75744700AD86030A43462100000000000000000000000000000000000000003B545142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="300" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_1c"
+                name="{=lord_netherlands_1c}Josephine van Betuwe"
+                default_group="Cavalry"
+                age="32"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.119" build="0.625"  key="00181C080000200ADAB2585929965D6AE747A2A4BB9B9C813CC52572B99359C10069260306D94B4B000000000000000000000000000000000000000020BC1102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_1d"
+                name="{=lord_netherlands_1d}Adelheid van Leuven"
+                default_group="Cavalry"
+                age="10"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.4614"  key="0020380140FC200259657468897367A7744AE764768C678ABA7248778B757447008786030843462100000000000000000000000000000000000000003B144102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_1e"
+                name="{=lord_netherlands_1e}Alberon van Leuven"
+                voice="softspoken"
+                age="40"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.6991"  key="00204C0200FC209C5A65746787736787744A9763768A678ABA7248777B757447007A86030743464500000000000000000000000000000000000000003AEC5142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="225" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_1f"
+                name="{=lord_netherlands_1f}Ida van Leuven"
+                default_group="Cavalry"
+                age="34"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.5072" build="0.3596"  key="0018A00200FC200E5A65746787736787744A9763768A678ABA7248777B757447007586030743464500000000000000000000000000000000000000003AEC1102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="250" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="250" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="100" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_1g"
+                name="{=lord_netherlands_1g}Hendrik III van Leuven"
+                voice="softspoken"
+                age="38"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.7731" build="0.7454"  key="0020C0015DFC00CD5C65746889736788744A7763738C878ABA7248777B757447008BC6030843464400000000000000000000000000000000000000003B045142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="200" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_1h"
+                name="{=lord_netherlands_1h}Gertrude van Vlaanderen"
+                default_group="Cavalry"
+                age="24"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.4398" build="0.477"  key="0002A40C40142002B85197E75C64E8A433977B47EC46794B57298766995684A7005776030564BA9A00000000000000000000000000000000000000002AB42102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="250" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_german_14a"
+      name="{=lord_netherlands_2a}Floris II van Holland"
+      voice="softspoken"
+      age="35"
+      is_female="false"
+      is_hero="true"
+      culture="Culture.german"
+      occupation="Lord"
+      default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.1668" build="0.282"  key="0013500A40CC36C6AD9614B7AA7E63B2A3FA993C8B1656846656875B4739A2750064360306785877000000000000000000000000000000000000000064D400C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_german_14b"
+      name="{=lord_netherlands_2b}Petronilla van Lotharingen"
+      default_group="Cavalry"
+      age="28"
+      voice="ironic"
+      is_female="true"
+      is_hero="true"
+      culture="Culture.german"
+      occupation="Lord"
+      face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.1668" build="0.282"  key="0013500A40CC000EAD9614B7AA7E63B2A3FA993C8B1656846656875B4739A2750064360306785877000000000000000000000000000000000000000064D42083"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="225" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_2c"
+                name="{=lord_netherlands_2c}Dirk V van Holland"
+                voice="softspoken"
+                age="5"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.6682" build="0.4059"  key="00130C08D3CC12CEAA9644A7AA7E6384A39A993C8B1656846656875BA739A2750076A60307785877000000000000000000000000000000000000000064FC70C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_2d"
+                name="{=lord_netherlands_2d}Floris*"
+                voice="softspoken"
+                age="57"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.3561" build="0.4059"  key="00057003408837DB6A137401287885C599C254A7676A4438854936C68159AD8A007656030779642800000000000000000000000000000000000000000EDC1082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="175" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="225" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="275" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_2e"
+                name="{=lord_netherlands_2e}Simon*"
+                voice="softspoken"
+                age="39"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.4812" build="0.5509"  key="000A480AC0E43982853B8C89BD39579B8678C95A969CD3E487CBBA9916336CA8007876030777226400000000000000000000000000000000000000000EE42082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_3a"
+                name="{=lord_netherlands_3a}Gerard I van Gelre"
+                voice="softspoken"
+                age="45"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.6065" build="0.3843"  key="00151009807019C18684AC548665675646D88A7A9D8DD8B46B8B4A687289C545008696030846AB670000000000000000000000000000000000000000411C9102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_3b"
+                name="{=lord_netherlands_3b}Gerard III van Wassenberg"
+                voice="softspoken"
+                age="67"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.6065" build="0.5708"  key="00151C098070190096B4AC548665675626D88A7A9D8DD8B46B8B4A6A7289C525008996030846AB670000000000000000000000000000000000000000411C9102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_3c"
+                name="{=lord_netherlands_3c}Gosewijn I van Valkenburg"
+                voice="softspoken"
+                age="43"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.4336" build="0.4306"  key="00181C09807023069684AC548665675726A88A7A9A8998B46B8B4A6A7289C52500A676030A468867000000000000000000000000000000000000000041449102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_3d"
+                name="{=lord_netherlands_3d}Dirk van de Veluwe"
+                voice="softspoken"
+                age="37"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.6606" build="0.867"  key="00108806C08800847BB56D362D8A54D5543C759798869559CA4A49AA8AB4A457004DA60304E5278200000000000000000000000000000000000000006E8C9142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="225" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="275" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_3e"
+                name="{=lord_netherlands_3e}Sophia"
+                default_group="Cavalry"
+                age="46"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.5046" build="0.5077"  key="00087C0340000006647A76A96A3C5AAED3487878B558C6A5CB878A6A59C653E700788603072998B6000000000000000000000000000000000000000024EC4043"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_3f"
+                name="{=lord_netherlands_3f}Clementia van Poitiers"
+                default_group="Cavalry"
+                age="42"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.7368" build="0.2152"  key="0015AC04C0B4300A379E7CBC47A5DA4CC6997885956696897C61687775BF496A0073B60307BA6556000000000000000000000000000000000000000034E43083"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="0" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_3g"
+                name="{=lord_netherlands_3g}Adelheid van Gelre"
+                default_group="Cavalry"
+                age="20"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.409" build="0.3904"  key="0008440280000005647A76996A3C5AA9D34878789558C6A5CB878A6859C653E70086660308299886000000000000000000000000000000000000000025144043"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="225" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="125" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="25" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="100" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_3h"
+                name="{=lord_netherlands_3h}Yolanda van Gelre"
+                default_group="Cavalry"
+                age="15"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.3935" build="0.2152"  key="00151C04C0B4200E37887CBC47A59A48C6997885956696897C61687675BB496A0063660306BA6556000000000000000000000000000000000000000034CC3083"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="200" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_3k"
+                name="{=lord_netherlands_3k}Gerard II van Gelre"
+                voice="softspoken"
+                age="2"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.25" weight="0.3935" build="0.3565"  key="00180804E4B431DB37887CBC47A59A48C6997885956696897C61687675BB496A0065660306BA6556000000000000000000000000000000000000000034CC0082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_4a"
+                name="{=lord_netherlands_4a}Ocko tom Brok*"
+                voice="softspoken"
+                age="40"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.08" weight="0.1861" build="0.6682"  key="00004401402C054BB583A9D3846C4A73A8838DB388B3C86CA6C77B4157859896004A36030469951800000000000000000000000000000000000000002E846102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_4b"
+                name="{=lord_netherlands_4b}Gela van Norden*"
+                default_group="Cavalry"
+                age="35"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.08" weight="0.5532" build="0.5199"  key="00157C0800CC3001615B77BD947CC51166EA5D99996A3266C46A776775978636003886030339B7C800000000000000000000000000000000000000002C640042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="300" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_4c"
+                name="{=lord_netherlands_4c}Keno tom Brok*"
+                voice="softspoken"
+                age="18"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.08" weight="0.2793" build="0.5509"  key="00021401542C2282B685A9D384694A75A8838DB388B3C86CA6C77B4477859896006846030669951800000000000000000000000000000000000000002EBC6082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_4d"
+                name="{=lord_netherlands_4d}Mammo van Esens*"
+                voice="softspoken"
+                age="41"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.08" weight="0.1924" build="0.4977"  key="000D380800FC10D579C8C5B87496AB7AD36988A9B99A52659996986887A5C89900673603066A9957000000000000000000000000000000000000000056BC4002"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_4e"
+                name="{=lord_netherlands_4e}Remmer van Pewsum*"
+                voice="softspoken"
+                age="36"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.08" weight="0.5107" build="0.4336"  key="0013780C40B41705777A9C68B788D17A6466653A925849C24C29484C87797227008786030897848700000000000000000000000000000000000000002B140102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_french_7a"
+                name="{=lord_netherlands_5a}Robrecht II van Jeruzalem"
+                age="35"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.92" weight="0.6523" build="0.477"  key="0000A40E4014310DB85197E75C64E8A433997B47EC46794B572987669A5684A70067A6030664BA9A00000000000000000000000000000000000000002ADC40C2"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="275" />
+      <skill id="Scouting" value="275" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="250" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_french_7b"
+                name="{=lord_netherlands_5b}Clementia van Bourgondië"
+                age="22"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.german"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.92" weight="0.6523" build="0.477"  key="0000A40E5F143004B85197E75C64E8A433997B47EC46794B572987669A5684A70067A6030664BA9A00000000000000000000000000000000000000002ADC3083"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="50" />
+      <skill id="Medicine" value="25" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="225" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_5c"
+                name="{=lord_netherlands_5c}Robrecht I van Vlaanderen"
+                voice="softspoken"
+                age="59"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.08" weight="0.5046" build="0.4213"  key="0005BC0D801432CFB75397E75C64B8A633977B47BA46794B574987668A5684A7006686030664BA9A00000000000000000000000000000000000000002ADC40C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="225" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_5d"
+                name="{=lord_netherlands_5d}Boudewijn VII van Vlaanderen"
+                voice="softspoken"
+                age="7"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.08" weight="0.5077" build="0.3935"  key="000D7C0E51141383B85397E75C64A8A533777B47EC46794B572987660A5684A7008686030864BA9A00000000000000000000000000000000000000002B1440C4"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="200" />
+      <skill id="Scouting" value="225" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_5e"
+                name="{=lord_netherlands_5e}Filips van Vlaanderen"
+                voice="softspoken"
+                age="23"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.08" weight="0.412" build="0.3843"  key="0002E40D801432C6B75397A75C64B8A735977B47BA46774B574987666A568477008666030866BA9A00000000000000000000000000000000000000002B0C4002"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_netherlands_5f"
+                name="{=lord_netherlands_5f}Ogiva van Vlaanderen"
+                age="22"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.german"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.08" weight="0.267" build="0.2176"  key="0002E40D80143001B75397A75C64B8A735977B47BA46774B574987666A568477007346030766BA9A00000000000000000000000000000000000000002AE40042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>
