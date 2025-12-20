@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_german_11a" spouse="Hero.lord_german_11b" faction="Faction.clan_german_11" />
+   <Hero id="lord_german_11b" spouse="Hero.lord_german_11a" faction="Faction.clan_german_11" />
+   <Hero id="lord_bavaria_1c" mother="Hero.lord_german_11a" father="Hero.lord_german_11b" faction="Faction.clan_german_11" />
+   <Hero id="lord_bavaria_1d" spouse="Hero.lord_bavaria_1e" mother="Hero.lord_german_11a" father="Hero.lord_german_11b" faction="Faction.clan_german_11" />
+   <Hero id="lord_bavaria_1e" spouse="Hero.lord_bavaria_1d" faction="Faction.clan_german_11" />
+   <Hero id="lord_bavaria_1f" spouse="Hero.lord_polish_1h" faction="Faction.clan_german_11" />
+   <Hero id="lord_polish_1h" spouse="Hero.lord_bavaria_1f" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_german_11" />
+
+
+
+
+
+
+
+
+</Heroes>

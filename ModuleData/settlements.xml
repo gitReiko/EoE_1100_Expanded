@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Settlements>
 
+  <!-- Bavaria -->
+  <Settlement id="town_regensburg" owner="Faction.clan_german_11" ></Settlement>
+
   <!-- Bohemia -->
   <Settlement id="town_prague" owner="Faction.clan_german_6" culture="Culture.polish" ></Settlement>
   <Settlement id="town_prague_malin" culture="Culture.polish"></Settlement>
