@@ -10,7 +10,10 @@
    <Hero id="lord_polish_1h" spouse="Hero.lord_bavaria_1f" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_german_11" />
 
 
-
+   <Hero id="lord_bavaria_2a" spouse="Hero.lord_bavaria_2b" faction="Faction.clan_bavaria_2" />
+   <Hero id="lord_bavaria_2b" spouse="Hero.lord_bavaria_2a" faction="Faction.clan_bavaria_2" />
+   <Hero id="lord_bavaria_2c" mother="Hero.lord_bavaria_2b" father="Hero.lord_bavaria_2a" faction="Faction.clan_bavaria_2" />
+   <Hero id="lord_bavaria_2d" faction="Faction.clan_bavaria_2" />
 
 
 

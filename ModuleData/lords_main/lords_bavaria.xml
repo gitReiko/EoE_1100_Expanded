@@ -351,73 +351,198 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_2a"
+                name="{=lord_bavaria_2a}Berthold I von Andechs"
+                voice="softspoken"
+                age="45"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_2b"
+                name="{=lord_bavaria_2b}Sophia von Istrien"
+                default_group="Cavalry"
+                age="40"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.504" build="0.7352"  key="0008CC0D00A02002A4B6937C9ECA657B97B6489AAAAC8B797677445973A37698008B860308868416000000000000000000000000000000000000000017040003"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_2c"
+                name="{=lord_bavaria_2c}Berthold II von Andechs"
+                voice="softspoken"
+                age="17"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <NPCCharacter id="lord_german_6a"
-                name="{=lord_bohemia_1a}Břetislav II"
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_2d"
+                name="{=lord_bavaria_2d}Otto II von Dießen-Andechs"
                 voice="softspoken"
                 age="40"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.polish"
+                culture="Culture.german"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
     </face>
 	  <skills>
-      <skill id="Engineering" value="175" />
-      <skill id="Medicine" value="100" />
-      <skill id="Leadership" value="275" />
-      <skill id="Steward" value="275" />
-      <skill id="Trade" value="75" />
-      <skill id="Charm" value="150" />
-      <skill id="Roguery" value="300" />
-      <skill id="Scouting" value="100" />
-      <skill id="Tactics" value="250" />
-      <skill id="Crafting" value="50" />
-      <skill id="Athletics" value="150" />
-      <skill id="Riding" value="225" />
-      <skill id="Throwing" value="75" />
-      <skill id="Crossbow" value="75" />
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="225" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="125" />
+      <skill id="Crossbow" value="125" />
       <skill id="Bow" value="125" />
-      <skill id="Polearm" value="225" />
-      <skill id="TwoHanded" value="100" />
-      <skill id="OneHanded" value="175" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="225" />
+      <skill id="OneHanded" value="300" />
     </skills>
     <Traits>
       <Trait id="Mercy" value="-2" />
-      <Trait id="Valor" value="-1" />
-      <Trait id="Honor" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="0" />
       <Trait id="Generosity" value="0" />
-      <Trait id="Calculating" value="0" />
+      <Trait id="Calculating" value="-2" />
       <Trait id="Egalitarian" value="0" />
-      <Trait id="Oligarchic" value="2" />
+      <Trait id="Oligarchic" value="0" />
       <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
@@ -426,5 +551,19 @@
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </NPCCharacters>
