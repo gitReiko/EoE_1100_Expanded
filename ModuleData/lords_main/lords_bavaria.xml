@@ -100,7 +100,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_1c"
                 name="{=lord_bavaria_1c}Welf V"
                 voice="softspoken"
@@ -111,7 +110,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.3637" build="0.338"  key="001848021770100554498A6198757964572A893657845CA664A894899B365D36006556030686AB97000000000000000000000000000000000000000028D47142"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -150,7 +149,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_1d"
                 name="{=lord_bavaria_1d}Heinrich der Schwarze"
                 voice="softspoken"
@@ -161,7 +159,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.3637" build="0.2454"  key="001B0003407023825699877598757944272A892657845AA664A894897B565A36006456030684AB97000000000000000000000000000000000000000028BC7142"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -200,7 +198,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_1e"
                 name="{=lord_bavaria_1e}Wulfhild von Sachsen"
                 default_group="Cavalry"
@@ -212,7 +209,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.504" build="0.7352"  key="0008CC0D00A02002A4B6937C9ECA657B97B6489AAAAC8B797677445973A37698008B860308868416000000000000000000000000000000000000000017040003"  />
+      <BodyProperties version="4" age="22.01" weight="0.3133" build="0.5272"  key="000A7804C044100E63A8418CB499D7D3787C79BD778A77BBA87A8C6E4A877DCB0058560305AA7A420000000000000000000000000000000000000000489C1082"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -251,7 +248,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_1f"
                 name="{=lord_bavaria_1f}Diepold III von Vohburg"
                 voice="softspoken"
@@ -262,7 +258,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.6441" build="0.4324"  key="001E4006CF00024D3668796983BE553B7976A7A57388A858934395969567541700A6A6030A85A6A900000000000000000000000000000000000000005F4C2002"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -351,7 +347,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_2a"
                 name="{=lord_bavaria_2a}Berthold I von Andechs"
                 voice="softspoken"
@@ -362,7 +357,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.6352" build="0.8108"  key="00151C0E408814C927664985585C98D271AA72396787CD48866758B81278956800CCA6030C713B7900000000000000000000000000000000000000002F9470C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -401,7 +396,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_2b"
                 name="{=lord_bavaria_2b}Sophia von Istrien"
                 default_group="Cavalry"
@@ -413,7 +407,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.504" build="0.7352"  key="0008CC0D00A02002A4B6937C9ECA657B97B6489AAAAC8B797677445973A37698008B860308868416000000000000000000000000000000000000000017040003"  />
+      <BodyProperties version="4" age="22.01" weight="0.2639" build="0.341"  key="0008B80D8088100784925473B872817A45A9C6D49D994A9278A6C88787B487E70075460307A33AC6000000000000000000000000000000000000000048EC4102"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -452,7 +446,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_2c"
                 name="{=lord_bavaria_2c}Berthold II von Andechs"
                 voice="softspoken"
@@ -463,7 +456,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.4491" build="0.4676"  key="0005480E4088014D27674985585A98D4738A74576787CB48866758889478856800C776030C533B7900000000000000000000000000000000000000002F9470C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -502,7 +495,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_2d"
                 name="{=lord_bavaria_2d}Otto II von Dießen-Andechs"
                 voice="softspoken"
@@ -513,7 +505,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.4028" build="0.6096"  key="0018700E4088134627664985585C98D2748A72396787CC4886675FB88478956800A966030A743B7900000000000000000000000000000000000000002F4470C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -552,7 +544,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_3a"
                 name="{=lord_bavaria_3a}Engelbert I von Spanheim"
                 voice="softspoken"
@@ -563,7 +554,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.4419" build="0.3843"  key="001B9C0800B4014DBB6992195A4BBE3967A794A74B5698B698622AB9C988457500967603096AC4880000000000000000000000000000000000000000493C70C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -602,7 +593,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_3b"
                 name="{=lord_bavaria_3b}Hedwig von Friaul"
                 default_group="Cavalry"
@@ -614,7 +604,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.504" build="0.7352"  key="0008CC0D00A02002A4B6937C9ECA657B97B6489AAAAC8B797677445973A37698008B860308868416000000000000000000000000000000000000000017040003"  />
+      <BodyProperties version="4" age="22.01" weight="0.1898" build="0.1188"  key="00155804007030069BA3A7B95A86836B3D7695A3B7778A984769287588DA467900623603065A83EA000000000000000000000000000000000000000024CC0002"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -653,7 +643,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_3c"
                 name="{=lord_bavaria_3c}Engelbert II von Spanheim"
                 voice="softspoken"
@@ -664,7 +653,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.0633" build="0.4676"  key="0018280810B4208CBB6992395A4BB93867A794A74856987698642AB97988457500A716030A6AC4880000000000000000000000000000000000000000494C70C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="225" />
@@ -703,7 +692,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_3d"
                 name="{=lord_bavaria_3d}Uta von Passau"
                 default_group="Cavalry"
@@ -715,7 +703,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.504" build="0.7352"  key="0008CC0D00A02002A4B6937C9ECA657B97B6489AAAAC8B797677445973A37698008B860308868416000000000000000000000000000000000000000017040003"  />
+      <BodyProperties version="4" age="22.01" weight="0.7783" build="0.4227"  key="0002D80340702002969D458B6787AAD986C8C977687E91A455986C773984D4AA0096C603096887AB0000000000000000000000000000000000000000252C4082"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -754,7 +742,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_3e"
                 name="{=lord_bavaria_3e}Hartwig von Spanheim"
                 voice="softspoken"
@@ -765,7 +752,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.3873" build="0.517"  key="0018600A40B421059B6992195A4BBE3967A565A74B5698B698659AB98988457500686603066AC488000000000000000000000000000000000000000048BC50C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -804,7 +791,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_3f"
                 name="{=lord_bavaria_3f}Heinrich IV von Spanheim"
                 voice="softspoken"
@@ -815,7 +801,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.6806" build="0.6497"  key="001BA80800B4030DB76992195A4BBE3967A794A75B5698B694646AB9C9884575008AA603087AC268000000000000000000000000000000000000000048FC40C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -854,7 +840,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_4a"
                 name="{=lord_bavaria_4a}Arnold von Dießen"
                 voice="softspoken"
@@ -865,7 +850,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.3332" build="0.2821"  key="00184C0D80FC14034D57A7598D1A58A3986941B99B476667783B77B69BB7936E00A456030A5496AA0000000000000000000000000000000000000000415C4042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -904,7 +889,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_4b"
                 name="{=lord_bavaria_4b}Gebhard I von Dießen"
                 voice="softspoken"
@@ -915,7 +899,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.4707" build="0.4583"  key="00157C0D80FC10C94D57A7598D1A58A3986544B998476667785B77B69BB7936B00877603088496AA000000000000000000000000000000000000000041044042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -954,7 +938,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_4c"
                 name="{=lord_bavaria_4c}Richgard von Sulzbach"
                 default_group="Cavalry"
@@ -966,7 +949,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.504" build="0.7352"  key="0008CC0D00A02002A4B6937C9ECA657B97B6489AAAAC8B797677445973A37698008B860308868416000000000000000000000000000000000000000017040003"  />
+      <BodyProperties version="4" age="22.01" weight="0.3909" build="0.4884"  key="0013780B80CC300A9884B537C879666569856C3D69CA863C64AB38BC5AB83B0C0097660309756C25000000000000000000000000000000000000000037341002"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -1005,7 +988,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_4d"
                 name="{=lord_bavaria_4d}Berthold II von Dießen"
                 voice="softspoken"
@@ -1016,7 +998,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.838" build="0.2821"  key="0018440D98FC11124D57A7598D1A58A3986944B999476667783B77B69BB7955B0084D603085496AA000000000000000000000000000000000000000041044042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1055,7 +1037,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_4e"
                 name="{=lord_bavaria_4e}Bertha von Dießen"
                 default_group="Cavalry"
@@ -1067,7 +1048,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.504" build="0.7352"  key="0008CC0D00A02002A4B6937C9ECA657B97B6489AAAAC8B797677445973A37698008B860308868416000000000000000000000000000000000000000017040003"  />
+      <BodyProperties version="4" age="22.01" weight="0.4213" build="0.2821"  key="0018440D80FC10024D57A7598D1A58A3986944B999476667783B77B69BB7955B00846603085496AA000000000000000000000000000000000000000035044042"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1106,7 +1087,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_5a"
                 name="{=lord_bavaria_5a}Otto II von Scheyern"
                 voice="softspoken"
@@ -1117,7 +1097,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.6909" build="0.4824"  key="0008D005405827DC78A6A59C676796C7B8A29636B788AB3A6666548EE9389A4C0067A603062B957900000000000000000000000000000000000000005CD43082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -1156,7 +1136,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_5b"
                 name="{=lord_bavaria_5b}Richgardis von Istrien-Krain"
                 default_group="Cavalry"
@@ -1168,7 +1147,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.504" build="0.7352"  key="0008CC0D00A02002A4B6937C9ECA657B97B6489AAAAC8B797677445973A37698008B860308868416000000000000000000000000000000000000000017040003"  />
+      <BodyProperties version="4" age="22.01" weight="0.2625" build="0.5275"  key="0010D40980CC000266367CA4C648CC99A47656B9AA6387A75743A4987553B98C00684603069ED496000000000000000000000000000000000000000044D410C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1207,7 +1186,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_5c"
                 name="{=lord_bavaria_5c}Otto I von Scheyern"
                 voice="softspoken"
@@ -1218,7 +1196,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.267" build="0.3565"  key="0005A4054058281C78A6A599676796C7B8A29636B788AB3A6666548E79389A4C006546030629957900000000000000000000000000000000000000005CBC3082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="225" />
@@ -1257,7 +1235,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_5d"
                 name="{=lord_bavaria_5d}Bernhard I von Scheyern"
                 voice="softspoken"
@@ -1268,7 +1245,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.267" build="0.3565"  key="0005C4054058215B7876A599676796C4B8A496369788AB3A6666548E59389A4C007546030749957900000000000000000000000000000000000000005CE43082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="200" />
@@ -1307,7 +1284,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_5e"
                 name="{=lord_bavaria_5e}Ekkehard I von Scheyern"
                 voice="softspoken"
@@ -1318,7 +1294,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.267" build="0.2207"  key="0005B4054058200E7876A597676796D788A29636B788AB3A6666548E79289B4C004346030429657900000000000000000000000000000000000000005C841082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1357,7 +1333,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_bavaria_5f"
                 name="{=lord_bavaria_5f}Arnold I von Scheyern-Dachau"
                 voice="softspoken"
@@ -1368,7 +1343,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+      <BodyProperties version="4" age="22.01" weight="0.7639" build="0.2052"  key="0005B8080058211C78A6A599676796C7B87296368788A73A6666548A99389A490083B6030829957700000000000000000000000000000000000000005D0C2082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
