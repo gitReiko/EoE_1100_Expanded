@@ -16,6 +16,13 @@
    <Hero id="lord_bavaria_2d" faction="Faction.clan_bavaria_2" />
 
 
+   <Hero id="lord_bavaria_3a" spouse="Hero.lord_bavaria_3b" faction="Faction.clan_bavaria_3" />
+   <Hero id="lord_bavaria_3b" spouse="Hero.lord_bavaria_3a" faction="Faction.clan_bavaria_3" />
+   <Hero id="lord_bavaria_3c" spouse="Hero.lord_bavaria_3d" mother="Hero.lord_bavaria_3b" father="Hero.lord_bavaria_3a" faction="Faction.clan_bavaria_3" />
+   <Hero id="lord_bavaria_3d" spouse="Hero.lord_bavaria_3c" faction="Faction.clan_bavaria_3" />
+   <Hero id="lord_bavaria_3e" mother="Hero.lord_bavaria_3b" father="Hero.lord_bavaria_3a" faction="Faction.clan_bavaria_3" />
+   <Hero id="lord_bavaria_3f" mother="Hero.lord_bavaria_3b" father="Hero.lord_bavaria_3a" faction="Faction.clan_bavaria_3" />
+
 
 
 
