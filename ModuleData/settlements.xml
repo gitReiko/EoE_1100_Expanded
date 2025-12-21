@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Settlements>
 
+  <!-- Bavaria -->
+  <Settlement id="town_regensburg" owner="Faction.clan_german_11" ></Settlement>
+  <Settlement id="castle_kamen" owner="Faction.clan_bavaria_2" ></Settlement>
+  <Settlement id="castle_nuremberg" owner="Faction.clan_bavaria_3" ></Settlement>
+  <Settlement id="town_augsburg" owner="Faction.clan_bavaria_4" name="{=town_neuburg_name}Neuburg" ></Settlement>
+
   <!-- Bohemia -->
   <Settlement id="town_prague" owner="Faction.clan_german_6" culture="Culture.polish" ></Settlement>
   <Settlement id="town_prague_malin" culture="Culture.polish"></Settlement>
