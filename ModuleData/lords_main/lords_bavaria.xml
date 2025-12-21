@@ -1106,20 +1106,305 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_5a"
+                name="{=lord_bavaria_5a}Otto II von Scheyern"
+                voice="softspoken"
+                age="46"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="75" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_5b"
+                name="{=lord_bavaria_5b}Richgardis von Istrien-Krain"
+                default_group="Cavalry"
+                age="43"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.504" build="0.7352"  key="0008CC0D00A02002A4B6937C9ECA657B97B6489AAAAC8B797677445973A37698008B860308868416000000000000000000000000000000000000000017040003"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="0" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_5c"
+                name="{=lord_bavaria_5c}Otto I von Scheyern"
+                voice="softspoken"
+                age="63"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="225" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="300" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_5d"
+                name="{=lord_bavaria_5d}Bernhard I von Scheyern"
+                voice="softspoken"
+                age="41"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="200" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="225" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_5e"
+                name="{=lord_bavaria_5e}Ekkehard I von Scheyern"
+                voice="softspoken"
+                age="39"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
-
-
-
-
-
-
-
-
-
-
+  <!-- facegen -->
+  <NPCCharacter id="lord_bavaria_5f"
+                name="{=lord_bavaria_5f}Arnold I von Scheyern-Dachau"
+                voice="softspoken"
+                age="33"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3637" build="0.1405"  key="001B68020070215254498A6198757962272A893657845EA664A894899B365D36008256030884AB97000000000000000000000000000000000000000028FC9142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
 </NPCCharacters>

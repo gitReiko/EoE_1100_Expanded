@@ -31,5 +31,11 @@
    <Hero id="lord_bavaria_4e" father="Hero.lord_bavaria_4a" faction="Faction.clan_bavaria_4" />
 
 
+   <Hero id="lord_bavaria_5a" spouse="Hero.lord_bavaria_5b" father="Hero.lord_bavaria_5c" faction="Faction.clan_bavaria_5" />
+   <Hero id="lord_bavaria_5b" spouse="Hero.lord_bavaria_5a" faction="Faction.clan_bavaria_5" />
+   <Hero id="lord_bavaria_5c" faction="Faction.clan_bavaria_5" alive="false" />
+   <Hero id="lord_bavaria_5d" father="Hero.lord_bavaria_5c" faction="Faction.clan_bavaria_5" />
+   <Hero id="lord_bavaria_5e" father="Hero.lord_bavaria_5c" faction="Faction.clan_bavaria_5" />
+   <Hero id="lord_bavaria_5f" father="Hero.lord_bavaria_5c" faction="Faction.clan_bavaria_5" />
 
 </Heroes>
