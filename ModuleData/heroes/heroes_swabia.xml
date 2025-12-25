@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_german_8a" spouse="Hero.lord_german_8b" faction="Faction.clan_german_8" />
+   <Hero id="lord_german_8b" spouse="Hero.lord_german_8a" faction="Faction.clan_german_8" />
+
+
+   <Hero id="lord_german_5a" faction="Faction.clan_german_5" />
+
+
+
+
+
+
+
+
+
+
+
+</Heroes>
