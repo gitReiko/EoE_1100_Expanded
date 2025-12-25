@@ -25,7 +25,17 @@
     color="ff38c3da" color2="fff0b55b"
   />
 
-
+  <Faction id="clan_swabia_3"
+    name="{=clan_swabia_3}Baden"
+    initial_home_settlement="Settlement.town_strasbourg"		   		   
+    tier="3"
+    owner="Hero.lord_swabia_3a"
+    culture="Culture.german"
+    super_faction="Kingdom.swabia"
+    is_noble="true"
+    banner_key="11.155.109.3000.2231.764.764.1.0.90.505.83.116.212.2141.764.764.0.0.45" 
+    color="fff06b5b" color2="fff0b55b"
+  />
 
 
 
