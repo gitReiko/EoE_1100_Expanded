@@ -14,7 +14,11 @@
    <Hero id="lord_swabia_1k" father="Hero.lord_swabia_1c" faction="Faction.clan_german_8" />
 
 
-   <Hero id="lord_german_5a" faction="Faction.clan_german_5" />
+   <Hero id="lord_german_5a" mother="Hero.lord_swabia_2b" father="Hero.lord_swabia_2c" faction="Faction.clan_german_5" />
+   <Hero id="lord_swabia_2b" spouse="Hero.lord_swabia_2c" faction="Faction.clan_german_5" alive="false" />
+   <Hero id="lord_swabia_2c" spouse="Hero.lord_swabia_2b" faction="Faction.clan_german_5" alive="false" />
+   <Hero id="lord_swabia_2d" mother="Hero.lord_swabia_2b" father="Hero.lord_swabia_2c" faction="Faction.clan_german_5" />
+   <Hero id="lord_swabia_2e" mother="Hero.lord_swabia_2b" father="Hero.lord_swabia_2c" faction="Faction.clan_german_5" />
 
 
 
