@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Heroes>
 
-   <Hero id="lord_german_8a" spouse="Hero.lord_german_8b" faction="Faction.clan_german_8" />
+   <Hero id="lord_german_8a" spouse="Hero.lord_german_8b" father="Hero.lord_swabia_1c" faction="Faction.clan_german_8" />
    <Hero id="lord_german_8b" spouse="Hero.lord_german_8a" faction="Faction.clan_german_8" />
+   <Hero id="lord_swabia_1c" faction="Faction.clan_german_8" alive="false" />
+   <Hero id="lord_swabia_1d" mother="Hero.lord_german_8b" father="Hero.lord_german_8a" faction="Faction.clan_german_8" />
+   <Hero id="lord_swabia_1e" mother="Hero.lord_german_8b" father="Hero.lord_german_8a" faction="Faction.clan_german_8" />
+   <Hero id="lord_swabia_1f" mother="Hero.lord_german_8b" father="Hero.lord_german_8a" faction="Faction.clan_german_8" />
+   <Hero id="lord_swabia_1g" mother="Hero.lord_german_8b" father="Hero.lord_german_8a" faction="Faction.clan_german_8" />
+   <Hero id="lord_swabia_1h" mother="Hero.lord_german_8b" father="Hero.lord_german_8a" faction="Faction.clan_german_8" />
+   <Hero id="lord_swabia_1i" father="Hero.lord_swabia_1c" faction="Faction.clan_german_8" />
+   <Hero id="lord_swabia_1j" father="Hero.lord_swabia_1c" faction="Faction.clan_german_8" />
+   <Hero id="lord_swabia_1k" father="Hero.lord_swabia_1c" faction="Faction.clan_german_8" />
 
 
    <Hero id="lord_german_5a" faction="Faction.clan_german_5" />
