@@ -46,14 +46,14 @@
 
   <!-- Swabia -->
   <Settlement id="castle_rothenburg" owner="Faction.clan_german_8" name="{=town_hohenstaufen_name}Hohenstaufen Castle" ></Settlement>
+  <Settlement id="castle_liebeneck" owner="Faction.clan_german_8" ></Settlement>
+  <Settlement id="town_strasbourg" owner="Faction.clan_swabia_3" ></Settlement>
+  <Settlement id="town_zurich" owner="Faction.clan_swabia_4" ></Settlement>
 
   <!-- Wends -->
   <Settlement id="castle_lubek" owner="Faction.clan_danish_2" culture="Culture.polish"></Settlement>
   <Settlement id="castle_lubek_mikilenburg" culture="Culture.polish"></Settlement>
   <Settlement id="town_brandenburg" owner="Faction.clan_german_23"></Settlement>
   <Settlement id="castle_garz" owner="Faction.clan_wendian_3"></Settlement>
-
-
-
 
 </Settlements>
