@@ -40,7 +40,7 @@
 
 
    <Hero id="lord_swabia_5a" spouse="Hero.lord_swabia_5b" faction="Faction.clan_swabia_5" />
-   <Hero id="lord_swabia_5b" spouse="Hero.lord_swabia_5a" faction="Faction.clan_swabia_5" />
+   <Hero id="lord_swabia_5b" spouse="Hero.lord_swabia_5a" faction="Faction.clan_swabia_5" father="Hero.lord_swabia_3j" />
    <Hero id="lord_swabia_5c" mother="Hero.lord_swabia_5a" father="Hero.lord_swabia_5b" faction="Faction.clan_swabia_5" />
    <Hero id="lord_swabia_5d" mother="Hero.lord_swabia_5a" father="Hero.lord_swabia_5b" faction="Faction.clan_swabia_5" />
 
