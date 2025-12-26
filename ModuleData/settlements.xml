@@ -29,6 +29,11 @@
   <Settlement id="castle_antwerp" owner="Faction.clan_netherlands_3" ></Settlement>
   <Settlement id="town_groningen" owner="Faction.clan_netherlands_4" ></Settlement>
 
+  <!-- Pisa -->
+  <Settlement id="town_ES4" owner="Faction.clan_netherlands_1"></Settlement>
+  <Settlement id="town_cagliari" owner="Faction.clan_german_19"></Settlement>
+  <Settlement id="castle_aleria" owner="Faction.clan_german_7"></Settlement>
+
   <!-- Pomerania -->
   <Settlement id="town_szczecin" owner="Faction.clan_poland_2" ></Settlement>
   <Settlement id="castle_kolobrzeg" owner="Faction.clan_poland_2"></Settlement>
