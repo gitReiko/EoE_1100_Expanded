@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_pisa_1a" spouse="Hero.lord_pisa_1b" faction="Faction.clan_pisa_1" />
+   <Hero id="lord_pisa_1b" spouse="Hero.lord_pisa_1a" faction="Faction.clan_pisa_1" />
+   <Hero id="lord_pisa_1c" mother="Hero.lord_pisa_1a" father="Hero.lord_pisa_1b" faction="Faction.clan_pisa_1" />
+   <Hero id="lord_pisa_1d" faction="Faction.clan_pisa_1" />
+   <Hero id="lord_pisa_1e" faction="Faction.clan_pisa_1" />
+
+
+
+
+
+
+
+</Heroes>

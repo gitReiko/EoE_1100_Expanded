@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_pisa_1"
+    name="{=clan_pisa_1}Lanfranchi"
+    initial_home_settlement="Settlement.town_ES4"			   
+    tier="3"
+    owner="Hero.lord_pisa_1a"
+    culture="Culture.italian"
+    super_faction="Kingdom.pisa"
+    is_noble="true"
+    banner_key="1.83.150.1836.1836.764.764.0.1.90.503.150.116.240.240.1500.1346.0.0.0" 
+    color="fffa515b" color2="ffcdc5c0"
+  />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Factions>
