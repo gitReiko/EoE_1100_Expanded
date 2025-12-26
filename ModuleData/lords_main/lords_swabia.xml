@@ -800,7 +800,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.05" weight="0.401" build="0.3859"  key="001BBC08C08802858DB663C5D589B57EC88E63A69A69C75A9D8777C5D6D48BE5009666030945A5FA00000000000000000000000000000000000000007D3C7002"  />
+      <BodyProperties version="4" age="22.01" weight="0.5454" build="0.3287"  key="000214015AA0118DAA7597664947D8397559BDB536598620A7212DA95A6894E900958603097D665800000000000000000000000000000000000000005F1C8102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -889,7 +889,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_3c"
                 name="{=lord_swabia_3c}Rudolf II von Zähringen"
                 voice="softspoken"
@@ -900,7 +899,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.3318" build="0.2793"  key="00023C0140A0108CAA9597664947B8377559ADB536598623A72427A95A6894A900945603097D665800000000000000000000000000000000000000005F1C8106"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -939,7 +938,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_3d"
                 name="{=lord_swabia_3d}Berthold II von Zähringen"
                 voice="softspoken"
@@ -950,7 +948,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.6806" build="0.5818"  key="0008680200A0000FA87897664947A8397559BDB536598622A7215DA96A6894B90069A603067D665800000000000000000000000000000000000000005ECC7102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -989,7 +987,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_3e"
                 name="{=lord_swabia_3e}Konrad I von Zähringen"
                 voice="softspoken"
@@ -1000,7 +997,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.2639" build="0.6312"  key="00057C0140A0111BAA7567664947A8377557BDB536598620A7212DA99A68947900A946030A7D665800000000000000000000000000000000000000005F5C8102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1039,7 +1036,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_3f"
                 name="{=lord_swabia_3f}Judith von Zähringen"
                 default_group="Cavalry"
@@ -1051,7 +1047,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2132" build="0.5099"  key="000A58028014300B77BC477D5CA94D6B498BCD87A44596668A56A8916C6775A700983603099373960000000000000000000000000000000000000000472420C3"  />
+      <BodyProperties version="4" age="22.01" weight="0.2639" build="0.3935"  key="00054C0140A0100AAA7567664947A8377557BDB536598620A7212DA99A68947900764603077D665800000000000000000000000000000000000000005EF44102"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -1090,7 +1086,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_3g"
                 name="{=lord_swabia_3g}Liutgard von Zähringen"
                 default_group="Cavalry"
@@ -1102,7 +1097,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2132" build="0.5099"  key="000A58028014300B77BC477D5CA94D6B498BCD87A44596668A56A8916C6775A700983603099373960000000000000000000000000000000000000000472420C3"  />
+      <BodyProperties version="4" age="22.01" weight="0.2639" build="0.1528"  key="0002700140E42006AA556766494778347556BDB536598520A721A0A96A68947900524603057D665800000000000000000000000000000000000000005EAC4104"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1141,7 +1136,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_3h"
                 name="{=lord_swabia_3h}Agnes von Zähringen"
                 default_group="Cavalry"
@@ -1153,7 +1147,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2132" build="0.5099"  key="000A58028014300B77BC477D5CA94D6B498BCD87A44596668A56A8916C6775A700983603099373960000000000000000000000000000000000000000472420C3"  />
+      <BodyProperties version="4" age="22.01" weight="0.0972" build="0.1188"  key="00081404C0A0000DAA45976649479857755979B536598620A74126A95A689499006216030659665800000000000000000000000000000000000000005EC48102"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1192,7 +1186,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_3j"
                 name="{=lord_swabia_3j}Rudolf von Rheinfelden"
                 voice="softspoken"
@@ -1203,7 +1196,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.3873" build="0.267"  key="001B5C035DB41341B265688487699978816755495389A48A8AA6363A66C589A500B466030B99667A000000000000000000000000000000000000000051648102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1242,7 +1235,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_4a"
                 name="{=lord_swabia_4a}Hartmann I von Dillingen"
                 voice="softspoken"
@@ -1253,7 +1245,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.659" build="0.8492"  key="0015640C40FC310EC369867B6BA66C693335CB6996BC883A993AB77A744E86A6005DA60305667555000000000000000000000000000000000000000022B44102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1292,7 +1284,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_4b"
                 name="{=lord_swabia_4b}Adelheid von Winterthur"
                 default_group="Cavalry"
@@ -1304,7 +1295,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2132" build="0.5099"  key="000A58028014300B77BC477D5CA94D6B498BCD87A44596668A56A8916C6775A700983603099373960000000000000000000000000000000000000000472420C3"  />
+      <BodyProperties version="4" age="22.01" weight="0.1607" build="0.7952"  key="00059C0E408820016938887875EBC5A9598A368955A8668A5748E377CDB97A2A007C26030773EADA00000000000000000000000000000000000000005AE40082"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1343,7 +1334,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_4с"
                 name="{=lord_swabia_4с}Hartmann II von Dillingen"
                 voice="softspoken"
@@ -1354,7 +1344,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.4954" build="0.5231"  key="0010A40C40FC37C3C36986796BA66C683335CB69969C883A993AB47A744E86A60048760304766555000000000000000000000000000000000000000022842082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1393,7 +1383,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_4d"
                 name="{=lord_swabia_4d}Albrecht von Dillingen"
                 voice="softspoken"
@@ -1404,7 +1393,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.659" build="0.8492"  key="0015400800FC16148389867B6BA669673337CB69969C883A995ABD7A744A86A6005DA60305667555000000000000000000000000000000000000000022B46102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1443,7 +1432,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_4e"
                 name="{=lord_swabia_4e}Ulrich von Lenzburg"
                 voice="softspoken"
@@ -1454,7 +1442,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.5228" build="0.5576"  key="00082003402C10856B15978A89877E1A38926AD49779A47728889CD5387C6BC4006886030658A93500000000000000000000000000000000000000001CBC8042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -1493,7 +1481,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_5a"
                 name="{=lord_swabia_5a}Ulrich X von Bregenz"
                 voice="softspoken"
@@ -1504,7 +1491,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.3231" build="0.6853"  key="0005AC0540A036448AB6A4B287D6BC793455A48B5A626A2BC394397176952587009A5603098AF9C70000000000000000000000000000000000000000653C2042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1543,7 +1530,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_5b"
                 name="{=lord_swabia_5b}Bertha von Rheinfelden"
                 default_group="Cavalry"
@@ -1555,7 +1541,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2132" build="0.5099"  key="000A58028014300B77BC477D5CA94D6B498BCD87A44596668A56A8916C6775A700983603099373960000000000000000000000000000000000000000472420C3"  />
+      <BodyProperties version="4" age="22.01" weight="0.3904" build="0.4491"  key="0015400340B41002B29568858B6A9979816755485389A48A8AA63B3866C589A5006766030659667A000000000000000000000000000000000000000050D40082"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1594,7 +1580,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_5c"
                 name="{=lord_swabia_5c}Heinrich von Kellmünz"
                 voice="softspoken"
@@ -1605,7 +1590,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.3231" build="0.4892"  key="0002100080A030DB8A96A4B287D688793457A48B5A62682BC39439747695558700875603088AF9C7000000000000000000000000000000000000000065042002"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1644,7 +1629,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_5d"
                 name="{=lord_swabia_5d}Rudolf I von Bregenz"
                 voice="softspoken"
@@ -1655,7 +1639,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+      <BodyProperties version="4" age="22.01" weight="0.3231" build="0.6853"  key="0008A40280A012C88A96A4B487D6B7793455748B5A646A4BC394337496455587009A5603098A89670000000000000000000000000000000000000000653C2042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
