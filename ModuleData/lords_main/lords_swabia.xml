@@ -1193,56 +1193,6 @@
   </NPCCharacter>
 
   <!-- facegen -->
-  <NPCCharacter id="lord_swabia_3i"
-                name="{=lord_swabia_3i}Otto von Rheinfelden"
-                voice="softspoken"
-                age="41"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.german"
-                occupation="Lord"
-                default_group="Cavalry">
-    <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
-    </face>
-	  <skills>
-      <skill id="Engineering" value="125" />
-      <skill id="Medicine" value="100" />
-      <skill id="Leadership" value="175" />
-      <skill id="Steward" value="150" />
-      <skill id="Trade" value="125" />
-      <skill id="Charm" value="125" />
-      <skill id="Roguery" value="100" />
-      <skill id="Scouting" value="125" />
-      <skill id="Tactics" value="150" />
-      <skill id="Crafting" value="50" />
-      <skill id="Athletics" value="75" />
-      <skill id="Riding" value="175" />
-      <skill id="Throwing" value="100" />
-      <skill id="Crossbow" value="200" />
-      <skill id="Bow" value="125" />
-      <skill id="Polearm" value="200" />
-      <skill id="TwoHanded" value="200" />
-      <skill id="OneHanded" value="225" />
-    </skills>
-    <Traits>
-      <Trait id="Mercy" value="0" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Honor" value="0" />
-      <Trait id="Generosity" value="0" />
-      <Trait id="Calculating" value="1" />
-      <Trait id="Egalitarian" value="0" />
-      <Trait id="Oligarchic" value="0" />
-      <Trait id="Authoritarian" value="1" />
-    </Traits>
-    <Equipments>
-      <EquipmentSet id="german_lord" />
-      <EquipmentSet id="german_lord"
-                    civilian="true" />
-    </Equipments>
-  </NPCCharacter>
-
-  <!-- facegen -->
   <NPCCharacter id="lord_swabia_3j"
                 name="{=lord_swabia_3j}Rudolf von Rheinfelden"
                 voice="softspoken"

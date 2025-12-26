@@ -29,7 +29,6 @@
    <Hero id="lord_swabia_3f" mother="Hero.lord_swabia_3a" father="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
    <Hero id="lord_swabia_3g" mother="Hero.lord_swabia_3a" father="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
    <Hero id="lord_swabia_3h" mother="Hero.lord_swabia_3a" father="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
-   <Hero id="lord_swabia_3i" father="Hero.lord_swabia_3j" faction="Faction.clan_swabia_3" />
    <Hero id="lord_swabia_3j" faction="Faction.clan_swabia_3" alive="false" />
 
 
