@@ -40,9 +40,9 @@
    <Hero id="lord_swabia_4e" faction="Faction.clan_swabia_4" />
 
 
-   <Hero id="lord_swabia_5a" faction="Faction.clan_swabia_5" father="Hero.lord_swabia_5b" />
-   <Hero id="lord_swabia_5b" faction="Faction.clan_swabia_5" alive="false" />
-   <Hero id="lord_swabia_5c" faction="Faction.clan_swabia_5" father="Hero.lord_swabia_5b" />
-   <Hero id="lord_swabia_5d" faction="Faction.clan_swabia_5" father="Hero.lord_swabia_5a" />
+   <Hero id="lord_swabia_5a" spouse="Hero.lord_swabia_5b" faction="Faction.clan_swabia_5" />
+   <Hero id="lord_swabia_5b" spouse="Hero.lord_swabia_5a" faction="Faction.clan_swabia_5" />
+   <Hero id="lord_swabia_5c" mother="Hero.lord_swabia_5a" father="Hero.lord_swabia_5b" faction="Faction.clan_swabia_5" />
+   <Hero id="lord_swabia_5d" mother="Hero.lord_swabia_5a" father="Hero.lord_swabia_5b" faction="Faction.clan_swabia_5" />
 
 </Heroes>
