@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters> 
+
+  <NPCCharacter id="lord_german_8a"
+                name="{=lord_swabia_1a}Frederick I von Hohenstaufen"
+                voice="softspoken"
+                age="50"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC0242697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_german_8b"
+                name="{=lord_swabia_1b}Agnes von Waiblingen"
+                default_group="Cavalry"
+                age="28"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.2132" build="0.5099"  key="000A58028014300B77BC477D5CA94D6B498BCD87A44596668A56A8916C6775A700983603099373960000000000000000000000000000000000000000472420C3"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="250" />
+      <skill id="Charm" value="275" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_1c"
+                name="{=lord_swabia_1c}Friedrich von Büren"
+                voice="softspoken"
+                age="66"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.3657" build="0.4151"  key="0005780B90FC11CF697AA93D86C977474377886447777989A8A6B783486CB5970096560309588AA50000000000000000000000000000000000000000452C7042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="225" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_1d"
+                name="{=lord_swabia_1d}Friedrich II von Hohenstaufen"
+                voice="softspoken"
+                age="14"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.7454" build="0.4676"  key="0008400D00FC22846978A94A86C977464377886447777989A8A6B783486CE3970087B60308488AA5000000000000000000000000000000000000000044FC9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="200" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="275" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_1e"
+                name="{=lord_swabia_1e}Konrad III von Hohenstaufen"
+                voice="softspoken"
+                age="11"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.2416" build="0.6032"  key="0002300980FC03CE69B7A95986C977454377886447777989A8A08083886CA3970089460308288AA50000000000000000000000000000000000000000451C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="125" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_1f"
+                name="{=lord_swabia_1f}Richilde von Hohenstaufen"
+                default_group="Cavalry"
+                age="16"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.2416" build="0.304"  key="0002700AC0FC000B69B7A95986C977454377886446777989A8A08083886CA3970075460307288AA5000000000000000000000000000000000000000044DC4042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_1g"
+                name="{=lord_swabia_1g}Bertha von Hohenstaufen"
+                default_group="Cavalry"
+                age="15"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.2416" build="0.4275"  key="0005240B80FC0002697AA93D86C977454377886447777979A8A6B783486CE3970076460307288AA5000000000000000000000000000000000000000044EC9042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="300" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_1h"
+                name="{=lord_swabia_1h}Heilika von Hohenstaufen"
+                default_group="Cavalry"
+                age="13"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.1713" build="0.2052"  key="0005840D80FC0006697AA93D86C977454375886445777679A8A6BE85886C759700A336030A588AA5000000000000000000000000000000000000000045549042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_1i"
+                name="{=lord_swabia_1i}Ludwig von Staufen"
+                voice="softspoken"
+                age="45"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.5231" build="0.4151"  key="0002280980FC114C697AA93D869977454677886447777989A8A68F86886CB5970086860308588AA5000000000000000000000000000000000000000045047042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_1j"
+                name="{=lord_swabia_1j}Otto von Staufen"
+                voice="softspoken"
+                age="43"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.554" build="0.7608"  key="0008A00B8EFC134E697AA93D86C977464378886447777989A8A68783956CB597006B8603065888A5000000000000000000000000000000000000000044C470C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_1k"
+                name="{=lord_swabia_1k}Konrad von Staufen"
+                voice="softspoken"
+                age="44"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.4213" build="0.5509"  key="0005140B8FFC12C2677AA93D86C977467578786477777989A8A687857568B59700A866030A4888A70000000000000000000000000000000000000000455C40C4"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_german_5a"
+                name="{=lord_swabia_2a}Leopold III von Babenberg"
+                voice="softspoken"
+                age="27"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.5862" build="0.2517"  key="0002A801408816C35BD8B58D5CB3668B771A6A7752466DD687B7B987A858DC9800B496030B26CB8700000000000000000000000000000000000000002D649142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_2b"
+                name="{=lord_swabia_2b}Ida von Formbach-Ratelnberg"
+                default_group="Cavalry"
+                age="47"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.4059" build="0.409"  key="00022401408810035B88958D5CB6668B77486A7752466DD687B7B9876858DC98008666030826CB8700000000000000000000000000000000000000002D144102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="125" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_2c"
+                name="{=lord_swabia_2c}Leopold II von Babenberg"
+                voice="softspoken"
+                age="52"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.5862" build="0.446"  key="0005A808008816C05978B58D5CB56689771A6A77544668D687B7B987A858DC9800A796030A36CB8700000000000000000000000000000000000000002D649142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="275" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_2d"
+                name="{=lord_swabia_2d}Adalbert von Babenberg"
+                voice="softspoken"
+                age="26"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.2855" build="0.446"  key="00055C09808816C55978B58A5CB8668977386977544668D687B7B9877858DC98007746030736CB8700000000000000000000000000000000000000002CF49142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="200" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_2e"
+                name="{=lord_swabia_2e}Ernst II von Babenberg"
+                voice="softspoken"
+                age="24"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.5862" build="0.446"  key="00057C03528806025967B5895AB56686771A8A77546668B687B7B987A858DC9800A796030A36CB8700000000000000000000000000000000000000002D649142"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="225" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_3a"
+                name="{=lord_swabia_3a}Berthold II von Zähringen"
+                voice="softspoken"
+                age="50"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.5454" build="0.3287"  key="000214015AA0118DAA7597664947D8397559BDB536598620A7212DA95A6894E900958603097D665800000000000000000000000000000000000000005F1C8102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="300" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="275" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_3b"
+                name="{=lord_swabia_3b}Agnes von Rheinfelden"
+                default_group="Cavalry"
+                age="45"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.5699" build="0.3166"  key="00189C0340B41004B29568848B6D997C8167554A5389A48A8AA6363A66C589A5008596030899667A000000000000000000000000000000000000000051043002"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_3c"
+                name="{=lord_swabia_3c}Rudolf II von Zähringen"
+                voice="softspoken"
+                age="18"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.3318" build="0.2793"  key="00023C0140A0108CAA9597664947B8377559ADB536598623A72427A95A6894A900945603097D665800000000000000000000000000000000000000005F1C8106"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="225" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="275" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_3d"
+                name="{=lord_swabia_3d}Berthold II von Zähringen"
+                voice="softspoken"
+                age="15"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.6806" build="0.5818"  key="0008680200A0000FA87897664947A8397559BDB536598622A7215DA96A6894B90069A603067D665800000000000000000000000000000000000000005ECC7102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_3e"
+                name="{=lord_swabia_3e}Konrad I von Zähringen"
+                voice="softspoken"
+                age="10"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.2639" build="0.6312"  key="00057C0140A0111BAA7567664947A8377557BDB536598620A7212DA99A68947900A946030A7D665800000000000000000000000000000000000000005F5C8102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="125" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="150" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_3f"
+                name="{=lord_swabia_3f}Judith von Zähringen"
+                default_group="Cavalry"
+                age="11"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.2639" build="0.3935"  key="00054C0140A0100AAA7567664947A8377557BDB536598620A7212DA99A68947900764603077D665800000000000000000000000000000000000000005EF44102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="225" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_3g"
+                name="{=lord_swabia_3g}Liutgard von Zähringen"
+                default_group="Cavalry"
+                age="11"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.2639" build="0.1528"  key="0002700140E42006AA556766494778347556BDB536598520A721A0A96A68947900524603057D665800000000000000000000000000000000000000005EAC4104"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="125" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="100" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_3h"
+                name="{=lord_swabia_3h}Agnes von Zähringen"
+                default_group="Cavalry"
+                age="9"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.0972" build="0.1188"  key="00081404C0A0000DAA45976649479857755979B536598620A74126A95A689499006216030659665800000000000000000000000000000000000000005EC48102"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_3j"
+                name="{=lord_swabia_3j}Rudolf von Rheinfelden"
+                voice="softspoken"
+                age="59"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.3873" build="0.267"  key="001B5C035DB41341B265688487699978816755495389A48A8AA6363A66C589A500B466030B99667A000000000000000000000000000000000000000051648102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="75" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_4a"
+                name="{=lord_swabia_4a}Hartmann I von Dillingen"
+                voice="softspoken"
+                age="39"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.659" build="0.8492"  key="0015640C40FC310EC369867B6BA66C693335CB6996BC883A993AB77A744E86A6005DA60305667555000000000000000000000000000000000000000022B44102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="225" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_4b"
+                name="{=lord_swabia_4b}Adelheid von Winterthur"
+                default_group="Cavalry"
+                age="33"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.1607" build="0.7952"  key="00059C0E408820016938887875EBC5A9598A368955A8668A5748E377CDB97A2A007C26030773EADA00000000000000000000000000000000000000005AE40082"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_4с"
+                name="{=lord_swabia_4с}Hartmann II von Dillingen"
+                voice="softspoken"
+                age="20"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.4954" build="0.5231"  key="0010A40C40FC37C3C36986796BA66C683335CB69969C883A993AB47A744E86A60048760304766555000000000000000000000000000000000000000022842082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="100" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_4d"
+                name="{=lord_swabia_4d}Albrecht von Dillingen"
+                voice="softspoken"
+                age="18"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.659" build="0.8492"  key="0015400800FC16148389867B6BA669673337CB69969C883A995ABD7A744A86A6005DA60305667555000000000000000000000000000000000000000022B46102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="200" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_4e"
+                name="{=lord_swabia_4e}Ulrich von Lenzburg"
+                voice="softspoken"
+                age="44"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.5228" build="0.5576"  key="00082003402C10856B15978A89877E1A38926AD49779A47728889CD5387C6BC4006886030658A93500000000000000000000000000000000000000001CBC8042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_5a"
+                name="{=lord_swabia_5a}Ulrich X von Bregenz"
+                voice="softspoken"
+                age="40"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.3231" build="0.6853"  key="0005AC0540A036448AB6A4B287D6BC793455A48B5A626A2BC394397176952587009A5603098AF9C70000000000000000000000000000000000000000653C2042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="275" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="175" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_5b"
+                name="{=lord_swabia_5b}Bertha von Rheinfelden"
+                default_group="Cavalry"
+                age="36"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.3904" build="0.4491"  key="0015400340B41002B29568858B6A9979816755485389A48A8AA63B3866C589A5006766030659667A000000000000000000000000000000000000000050D40082"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lady" />
+      <EquipmentSet id="german_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_5c"
+                name="{=lord_swabia_5c}Heinrich von Kellmünz"
+                voice="softspoken"
+                age="17"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.3231" build="0.4892"  key="0002100080A030DB8A96A4B287D688793457A48B5A62682BC39439747695558700875603088AF9C7000000000000000000000000000000000000000065042002"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="100" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_swabia_5d"
+                name="{=lord_swabia_5d}Rudolf I von Bregenz"
+                voice="softspoken"
+                age="19"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.german"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.01" weight="0.3231" build="0.6853"  key="0008A40280A012C88A96A4B487D6B7793455748B5A646A4BC394337496455587009A5603098A89670000000000000000000000000000000000000000653C2042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="german_lord" />
+      <EquipmentSet id="german_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>
