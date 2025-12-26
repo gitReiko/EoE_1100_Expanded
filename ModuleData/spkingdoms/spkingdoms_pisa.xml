@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+    <Kingdom id="pisa" 
+			 owner="Hero.lord_pisa_1a" 
+		     initial_home_settlement="Settlement.town_ES4"			   			 
+			 banner_key="1.83.150.1836.1836.764.764.0.1.90.503.150.116.240.240.1500.1346.0.0.0" 
+			 primary_banner_color="0xfffa515b" 
+			 secondary_banner_color="0xffcdc5c0" 
+			 color="fffa515b" 
+			 color2="ffcdc5c0" 
+			 culture="Culture.italian" 
+			 settlement_banner_mesh="encounter_flag_a" 
+			 flag_mesh="info_screen_flags_a" 
+			 name="{=pisa_kingdom_name}Republic of Pisa" 
+			 short_name="{=pisa_kingdom_short_name}Pisa" 
+			 title="{=pisa_kingdom_title}Republic of Pisa" 
+			 ruler_title="{=pisa_ruler_title}Consul" 
+			 text="{=pisa_kingdom_text}Between the 11th and 13th centuries, the Republic of Pisa transformed itself from a provincial city into one of the leading Mediterranean  maritime powers. In the 11th century, Pisa acquired de facto independence from the Margraviate of Tuscany and began to actively develop its fleet, participating in crusades and trade expeditions. By the 12th century, Pisan ships dominated the sea routes, and their influence extended to Sardinia, Corsica, and even the Balearic Islands. In 1114, the Pisans organized a naval expedition against Muslim pirates in Majorca, allying with Catalans. In the 13th century, the republic reached the height of its power, rivalling Genoa and Venice, but defeat at the Battle of Meloria (1284) marked the beginning of Pisa downfall.">
+    <relationships>
+    </relationships>
+    <policies>
+    </policies>
+  </Kingdom> 
+</Kingdoms>
