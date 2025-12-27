@@ -8,9 +8,10 @@
    <Hero id="lord_pisa_1e" faction="Faction.clan_pisa_1" />
 
 
+   <Hero id="lord_german_19a" faction="Faction.clan_german_19" />
 
 
-
+   <Hero id="lord_german_7a" faction="Faction.clan_german_7" />
 
 
 </Heroes>
