@@ -9,6 +9,10 @@
 
 
    <Hero id="lord_german_19a" faction="Faction.clan_german_19" />
+   <Hero id="lord_pisa_2b" spouse="Hero.lord_pisa_2c" father="Hero.lord_german_19a" faction="Faction.clan_german_19" />
+   <Hero id="lord_pisa_2c" spouse="Hero.lord_pisa_2b" faction="Faction.clan_german_19" />
+   <Hero id="lord_pisa_2d" father="Hero.lord_german_19a" faction="Faction.clan_german_19" />
+   <Hero id="lord_pisa_2e" faction="Faction.clan_german_19" />
 
 
    <Hero id="lord_german_7a" faction="Faction.clan_german_7" />
