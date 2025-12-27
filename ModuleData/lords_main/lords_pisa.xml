@@ -502,10 +502,61 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen -->
   <NPCCharacter id="lord_german_7a"
-                name="{=Matilda}Matilda"
+                name="{=lord_pisa_3a}Orlando di Pescia"
+                voice="softspoken"
+                age="43"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.italian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="175" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="italian_lord" />
+      <EquipmentSet id="italian_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_pisa_3b"
+                name="{=lord_pisa_3b}Lucia*"
                 default_group="Cavalry"
-                age="54"
+                age="39"
                 voice="ironic"
                 is_female="true"
                 is_hero="true"
@@ -513,41 +564,91 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.2416" build="0.6032"  key="0008240D00FC3002697AA93D86C977454377886447777989A8A6B783486CE3970089460308288AA50000000000000000000000000000000000000000451C1083"  />
+      <BodyProperties version="4" age="22.88" weight="0.2132" build="0.5099"  key="000A58028014300B77BC477D5CA94D6B498BCD87A44596668A56A8916C6775A700983603099373960000000000000000000000000000000000000000472420C3"  />
     </face>
     <skills>
-      <skill id="Engineering" value="150" />
-      <skill id="Medicine" value="200" />
-      <skill id="Leadership" value="125" />
-      <skill id="Steward" value="275" />
-      <skill id="Trade" value="300" />
-      <skill id="Charm" value="225" />
-      <skill id="Roguery" value="175" />
-      <skill id="Scouting" value="125" />
-      <skill id="Tactics" value="75" />
-      <skill id="Crafting" value="50" />
+      <skill id="Engineering" value="50" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="275" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="0" />
       <skill id="Athletics" value="100" />
-      <skill id="Riding" value="150" />
-      <skill id="Throwing" value="50" />
-      <skill id="Crossbow" value="100" />
-      <skill id="Bow" value="125" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="75" />
       <skill id="Polearm" value="0" />
       <skill id="TwoHanded" value="0" />
-      <skill id="OneHanded" value="50" />
+      <skill id="OneHanded" value="75" />
 	  </skills>
     <Traits>
-      <Trait id="Mercy" value="1" />
+      <Trait id="Mercy" value="0" />
       <Trait id="Valor" value="1" />
-      <Trait id="Honor" value="-2" />
+      <Trait id="Honor" value="0" />
       <Trait id="Generosity" value="0" />
-      <Trait id="Calculating" value="0" />
-      <Trait id="Egalitarian" value="-1" />
-      <Trait id="Oligarchic" value="1" />
-      <Trait id="Authoritarian" value="-2" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="german_lady" />
-      <EquipmentSet id="german_lady"
+      <EquipmentSet id="italian_lady" />
+      <EquipmentSet id="italian_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_pisa_3c"
+                name="{=lord_pisa_3c}Guglielmo di Pescia"
+                voice="softspoken"
+                age="18"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.italian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="275" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="125" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="italian_lord" />
+      <EquipmentSet id="italian_lord"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
