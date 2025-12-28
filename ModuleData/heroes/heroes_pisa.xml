@@ -27,4 +27,8 @@
    <Hero id="lord_pisa_4e" faction="Faction.clan_pisa_4" />
 
 
+   <Hero id="lord_pisa_5a" spouse="Hero.lord_pisa_5b" faction="Faction.clan_pisa_5" />
+   <Hero id="lord_pisa_5b" spouse="Hero.lord_pisa_5a" faction="Faction.clan_pisa_5" />
+   <Hero id="lord_pisa_5c" faction="Faction.clan_pisa_5" />
+
 </Heroes>
