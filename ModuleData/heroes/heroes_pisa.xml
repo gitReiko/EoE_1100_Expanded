@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_pisa_1a" spouse="Hero.lord_pisa_1b" faction="Faction.clan_pisa_1" />
+   <Hero id="lord_pisa_1b" spouse="Hero.lord_pisa_1a" faction="Faction.clan_pisa_1" />
+   <Hero id="lord_pisa_1c" mother="Hero.lord_pisa_1a" father="Hero.lord_pisa_1b" faction="Faction.clan_pisa_1" />
+   <Hero id="lord_pisa_1d" faction="Faction.clan_pisa_1" />
+   <Hero id="lord_pisa_1e" faction="Faction.clan_pisa_1" />
+
+
+   <Hero id="lord_german_19a" faction="Faction.clan_german_19" />
+   <Hero id="lord_pisa_2b" spouse="Hero.lord_pisa_2c" father="Hero.lord_german_19a" faction="Faction.clan_german_19" />
+   <Hero id="lord_pisa_2c" spouse="Hero.lord_pisa_2b" faction="Faction.clan_german_19" />
+   <Hero id="lord_pisa_2d" father="Hero.lord_german_19a" faction="Faction.clan_german_19" />
+   <Hero id="lord_pisa_2e" faction="Faction.clan_german_19" />
+
+
+   <Hero id="lord_german_7a" spouse="Hero.lord_pisa_3b" faction="Faction.clan_german_7" />
+   <Hero id="lord_pisa_3b" spouse="Hero.lord_german_7a" faction="Faction.clan_german_7" />
+   <Hero id="lord_pisa_3c" mother="Hero.lord_pisa_3b" father="Hero.lord_german_7a" faction="Faction.clan_german_7" />
+
+
+   <Hero id="lord_pisa_4a" spouse="Hero.lord_pisa_4b" faction="Faction.clan_pisa_4" />
+   <Hero id="lord_pisa_4b" spouse="Hero.lord_pisa_4a" faction="Faction.clan_pisa_4" />
+   <Hero id="lord_pisa_4c" mother="Hero.lord_pisa_4a" father="Hero.lord_pisa_4b" faction="Faction.clan_pisa_4" />
+   <Hero id="lord_pisa_4d" faction="Faction.clan_pisa_4" />
+   <Hero id="lord_pisa_4e" faction="Faction.clan_pisa_4" />
+
+
+   <Hero id="lord_pisa_5a" spouse="Hero.lord_pisa_5b" faction="Faction.clan_pisa_5" />
+   <Hero id="lord_pisa_5b" spouse="Hero.lord_pisa_5a" faction="Faction.clan_pisa_5" />
+   <Hero id="lord_pisa_5c" faction="Faction.clan_pisa_5" />
+
+</Heroes>
