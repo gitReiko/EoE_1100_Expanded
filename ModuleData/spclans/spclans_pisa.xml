@@ -37,7 +37,17 @@
     color="ff4c72f4" color2="fffef55a"
   />
 
-
+  <Faction id="clan_pisa_4"
+    name="{=clan_pisa_4}Gaetani"
+    initial_home_settlement="Settlement.town_ES4"			   
+    tier="3"
+    owner="Hero.lord_pisa_4a"
+    culture="Culture.italian"
+    super_faction="Kingdom.pisa"
+    is_noble="true"
+    banner_key="3.83.150.1836.1836.764.764.0.0.270.503.83.116.240.240.1500.1346.0.0.0" 
+    color="ffcdc5c0" color2="fffa515b"
+  />
 
 
 
