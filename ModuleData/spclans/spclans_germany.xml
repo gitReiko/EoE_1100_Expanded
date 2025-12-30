@@ -3,7 +3,7 @@
 
   <Faction id="clan_german_1"
     name="{=Salians}Salians"
-    initial_home_settlement="Settlement.town_augsburg"  		   
+    initial_home_settlement="Settlement.town_frankfurt"  		   
     tier="2"
     owner="Hero.lord_german_1a"
     culture="Culture.german"
@@ -15,7 +15,7 @@
 
   <Faction id="clan_german_12"
     name="{=Savoy}Savoy"
-    initial_home_settlement="Settlement.town_milan"			   
+    initial_home_settlement="Settlement.town_lyon"			   
     tier="1"
     owner="Hero.lord_german_12a"
     culture="Culture.german"
@@ -39,7 +39,7 @@
 
   <Faction id="clan_german_4"
     name="{=Ivrea}Ivrea"
-    initial_home_settlement="Settlement.town_lyon"		   
+    initial_home_settlement="Settlement.town_metz"		   
     tier="1"
     owner="Hero.lord_german_4a"
     culture="Culture.german"
@@ -75,7 +75,7 @@
 
   <Faction id="clan_german_17"
     name="{=Eppenstein}Eppenstein"
-    initial_home_settlement="Settlement.castle_EN1"			   
+    initial_home_settlement="Settlement.town_erfurt"			   
     tier="1"
     owner="Hero.lord_german_17a"
     culture="Culture.german"
@@ -87,7 +87,7 @@
 
   <Faction id="clan_german_18"
     name="{=Ravenna}Ravenna"
-    initial_home_settlement="Settlement.castle_EN1"			   
+    initial_home_settlement="Settlement.town_milan"			   
     tier="1"
     owner="Hero.lord_german_18a"
     culture="Culture.german"
@@ -111,7 +111,7 @@
 
   <Faction id="clan_german_21"
     name="{=Zähringen}Zähringen"
-    initial_home_settlement="Settlement.town_brandenburg"			   
+    initial_home_settlement="Settlement.castle_EN1"			   
     tier="1"
     owner="Hero.lord_german_21a"
     culture="Culture.german"
