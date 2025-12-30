@@ -2,7 +2,7 @@
 <Factions>
 
   <Faction id="clan_german_1"
-    name="{=Salians}Salians"
+    name="{=clan_german_1}Salians"
     initial_home_settlement="Settlement.town_frankfurt"  		   
     tier="2"
     owner="Hero.lord_german_1a"
@@ -14,9 +14,9 @@
   />
 
   <Faction id="clan_german_12"
-    name="{=Savoy}Savoy"
+    name="{=clan_german_12}Savoy"
     initial_home_settlement="Settlement.town_lyon"			   
-    tier="1"
+    tier="2"
     owner="Hero.lord_german_12a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
@@ -26,9 +26,9 @@
   />
 
   <Faction id="clan_german_9"
-    name="{=d'Oria}d'Oria"
+    name="{=clan_german_9}d'Oria"
     initial_home_settlement="Settlement.town_genoa"			   
-    tier="1"
+    tier="2"
     owner="Hero.lord_german_9a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
@@ -38,9 +38,9 @@
   />
 
   <Faction id="clan_german_4"
-    name="{=Ivrea}Ivrea"
+    name="{=clan_german_4}Ivrea"
     initial_home_settlement="Settlement.town_metz"		   
-    tier="1"
+    tier="2"
     owner="Hero.lord_german_4a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
@@ -50,9 +50,9 @@
   />
 
   <Faction id="clan_german_10"
-    name="{=Limburg}Limburg"
+    name="{=clan_german_10}Limburg"
     initial_home_settlement="Settlement.town_cologne"				   
-    tier="1"
+    tier="2"
     owner="Hero.lord_german_10a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
@@ -62,9 +62,9 @@
   />
 
   <Faction id="clan_german_2"
-    name="{=Metz}Metz"
+    name="{=clan_german_2}Metz"
     initial_home_settlement="Settlement.town_metz" 		   
-    tier="1"
+    tier="2"
     owner="Hero.lord_german_2a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
@@ -74,9 +74,9 @@
   />	
 
   <Faction id="clan_german_17"
-    name="{=Eppenstein}Eppenstein"
+    name="{=clan_german_17}Eppenstein"
     initial_home_settlement="Settlement.town_erfurt"			   
-    tier="1"
+    tier="2"
     owner="Hero.lord_german_17a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
@@ -86,9 +86,9 @@
   />
 
   <Faction id="clan_german_18"
-    name="{=Ravenna}Ravenna"
+    name="{=clan_german_18}Ravenna"
     initial_home_settlement="Settlement.town_milan"			   
-    tier="1"
+    tier="2"
     owner="Hero.lord_german_18a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
@@ -98,9 +98,9 @@
   />
 
   <Faction id="clan_german_3"
-    name="{=Provence}Provence"
+    name="{=clan_german_3}Provence"
     initial_home_settlement="Settlement.town_marseilles" 				   
-    tier="1"
+    tier="2"
     owner="Hero.lord_german_3a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
@@ -110,9 +110,9 @@
   />
 
   <Faction id="clan_german_21"
-    name="{=Zähringen}Zähringen"
+    name="{=clan_german_21}Zähringen"
     initial_home_settlement="Settlement.castle_EN1"			   
-    tier="1"
+    tier="2"
     owner="Hero.lord_german_21a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
