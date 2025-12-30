@@ -790,7 +790,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_swabia_3a"
+  <NPCCharacter id="lord_german_21a"
                 name="{=lord_swabia_3a}Berthold II von Zähringen"
                 voice="softspoken"
                 age="50"
@@ -839,7 +839,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_swabia_3b"
+  <NPCCharacter id="lord_german_21b"
                 name="{=lord_swabia_3b}Agnes von Rheinfelden"
                 default_group="Cavalry"
                 age="45"
@@ -889,7 +889,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_swabia_3c"
+  <NPCCharacter id="lord_german_21c"
                 name="{=lord_swabia_3c}Rudolf II von Zähringen"
                 voice="softspoken"
                 age="18"

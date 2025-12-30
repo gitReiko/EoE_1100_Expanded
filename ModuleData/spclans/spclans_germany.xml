@@ -109,8 +109,8 @@
     color="ffffd700" color2="ff282828" 
   />
 
-  <Faction id="clan_german_21"
-    name="{=clan_german_21}Zähringen"
+  <Faction id="clan_german_10_ext"
+    name="{=clan_german_10_ext}Canossa"
     initial_home_settlement="Settlement.castle_EN1"			   
     tier="2"
     owner="Hero.lord_german_21a"

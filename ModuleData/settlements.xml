@@ -32,7 +32,7 @@
   <Settlement id="town_erfurt" owner="Faction.clan_german_17" ></Settlement>
   <Settlement id="town_milan" owner="Faction.clan_german_18" ></Settlement>
   <Settlement id="town_marseilles" owner="Faction.clan_german_3" ></Settlement>
-  <Settlement id="castle_EN1" owner="Faction.clan_german_21" ></Settlement>
+  <Settlement id="castle_EN1" owner="Faction.clan_german_10_ext" ></Settlement>
 
   <!-- Netherlands -->
   <Settlement id="town_brussels" owner="Faction.clan_netherlands_1" culture="Culture.german" name="{=town_leuven_name}Leuven" ></Settlement>
@@ -63,7 +63,7 @@
 
   <!-- Swabia -->
   <Settlement id="castle_rothenburg" owner="Faction.clan_german_8" name="{=town_hohenstaufen_name}Hohenstaufen Castle" ></Settlement>
-  <Settlement id="town_strasbourg" owner="Faction.clan_swabia_3" ></Settlement>
+  <Settlement id="town_strasbourg" owner="Faction.clan_german_21" ></Settlement>
   <Settlement id="town_zurich" owner="Faction.clan_swabia_4" ></Settlement>
   <Settlement id="castle_liebeneck" owner="Faction.clan_swabia_5" ></Settlement>
 
