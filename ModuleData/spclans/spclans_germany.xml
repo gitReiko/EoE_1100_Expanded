@@ -109,11 +109,11 @@
     color="ffffd700" color2="ff282828" 
   />
 
-  <Faction id="clan_german_10_ext"
-    name="{=clan_german_10_ext}Canossa"
+  <Faction id="clan_german_7"
+    name="{=clan_german_7}Canossa"
     initial_home_settlement="Settlement.castle_EN1"			   
     tier="2"
-    owner="Hero.lord_german_21a"
+    owner="Hero.lord_german_7a"
     culture="Culture.german"
     super_faction="Kingdom.germany"
     is_noble="true"

@@ -35,8 +35,6 @@
    <Hero id="lord_german_3b" spouse="Hero.lord_german_3a" faction="Faction.clan_german_3" />
 
 
-   <Hero id="lord_german_21a" spouse="Hero.lord_german_21b" faction="Faction.clan_german_10_ext" />
-   <Hero id="lord_german_21b" spouse="Hero.lord_german_21a" faction="Faction.clan_german_10_ext" />   
-   <Hero id="lord_german_21c" father="Hero.lord_german_21a" mother="Hero.lord_german_21b" faction="Faction.clan_german_10_ext" />
+   <Hero id="lord_german_7a" faction="Faction.clan_german_7" />
 
 </Heroes>

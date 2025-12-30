@@ -493,7 +493,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_german_7a"
+  <NPCCharacter id="lord_pisa_3a"
                 name="{=lord_pisa_3a}Orlando di Pescia"
                 voice="softspoken"
                 age="43"
