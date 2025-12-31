@@ -502,59 +502,58 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_german_9a"
-                name="{=Ansaldo}Ansaldo"
+                name="{=lord_german_9a}Genualdo d'Oria"
                 voice="softspoken"
-                age="20"
+                age="34"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.italian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <!-- Face key needs redoing, repurposed from female-->
-<BodyProperties version="4" age="22.21" weight="0.5926" build="0.8017"  key="0008B80F00000181A89497DB8E7395B4F57B46BAA4C9C876C37AEB596E7C598900BC96030B678E940000000000000000000000000000000000000000197C9042"  />
+      <BodyProperties version="4" age="22.21" weight="0.5926" build="0.8017"  key="0008B80F00000181A89497DB8E7395B4F57B46BAA4C9C876C37AEB596E7C598900BC96030B678E940000000000000000000000000000000000000000197C9042"  />
     </face>
-	<skills>
-<skill id="Engineering" value="125" />
-<skill id="Medicine" value="150" />
-<skill id="Leadership" value="200" />
-<skill id="Steward" value="100" />
-<skill id="Trade" value="100" />
-<skill id="Charm" value="125" />
-<skill id="Roguery" value="125" />
-<skill id="Scouting" value="100" />
-<skill id="Tactics" value="200" />
-<skill id="Crafting" value="75" />
-<skill id="Athletics" value="125" />
-<skill id="Riding" value="225" />
-<skill id="Throwing" value="75" />
-<skill id="Crossbow" value="50" />
-<skill id="Bow" value="50" />
-<skill id="Polearm" value="200" />
-<skill id="TwoHanded" value="175" />
-<skill id="OneHanded" value="250" />
-</skills>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="250" />
+    </skills>
     <Traits>
-<Trait id="Mercy" value="-2" />
-<Trait id="Valor" value="0" />
-<Trait id="Honor" value="-1" />
-<Trait id="Generosity" value="0" />
-<Trait id="Calculating" value="-1" />
-<Trait id="Egalitarian" value="-2" />
-<Trait id="Oligarchic" value="-1" />
-<Trait id="Authoritarian" value="1" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="german_lord" />
-      <EquipmentSet id="german_lord"
+      <EquipmentSet id="italian_lord" />
+      <EquipmentSet id="italian_lord"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
 
   <NPCCharacter id="lord_german_9b"
-                name="{=Anne Grimaldi}Anne Grimaldi"
+                name="{=lord_german_9b}Oria di Volta"
                 default_group="Cavalry"
-                age="18"
+                age="33"
                 voice="ironic"
                 is_female="true"
                 is_hero="true"
@@ -562,41 +561,91 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-  <BodyProperties version="4" age="22.21" weight="0.5926" build="0.8017"  key="0008B80F00000001A89497DB8E7395B4F57B46BAA4C9C876C37AEB596E7C598900BC96030B678E940000000000000000000000000000000000000000197C4043"  />
+      <BodyProperties version="4" age="22.21" weight="0.5926" build="0.8017"  key="0008B80F00000001A89497DB8E7395B4F57B46BAA4C9C876C37AEB596E7C598900BC96030B678E940000000000000000000000000000000000000000197C4043"  />
     </face>
     <skills>
-<skill id="Engineering" value="25" />
-<skill id="Medicine" value="100" />
-<skill id="Leadership" value="25" />
-<skill id="Steward" value="225" />
-<skill id="Trade" value="100" />
-<skill id="Charm" value="100" />
-<skill id="Roguery" value="100" />
-<skill id="Scouting" value="50" />
-<skill id="Tactics" value="0" />
-<skill id="Crafting" value="75" />
-<skill id="Athletics" value="100" />
-<skill id="Riding" value="75" />
-<skill id="Throwing" value="0" />
-<skill id="Crossbow" value="75" />
-<skill id="Bow" value="75" />
-<skill id="Polearm" value="0" />
-<skill id="TwoHanded" value="0" />
-<skill id="OneHanded" value="75" />
-	</skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
     <Traits>
-<Trait id="Mercy" value="-1" />
-<Trait id="Valor" value="1" />
-<Trait id="Honor" value="1" />
-<Trait id="Generosity" value="-1" />
-<Trait id="Calculating" value="1" />
-<Trait id="Egalitarian" value="1" />
-<Trait id="Oligarchic" value="-1" />
-<Trait id="Authoritarian" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="german_lady" />
-      <EquipmentSet id="german_lady"
+      <EquipmentSet id="italian_lady" />
+      <EquipmentSet id="italian_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_german_9c"
+                name="{=lord_german_9c}Ansaldo d'Oria"
+                voice="softspoken"
+                age="10"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.italian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.5926" build="0.8017"  key="0008B80F00000181A89497DB8E7395B4F57B46BAA4C9C876C37AEB596E7C598900BC96030B678E940000000000000000000000000000000000000000197C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="175" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="italian_lord" />
+      <EquipmentSet id="italian_lord"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>

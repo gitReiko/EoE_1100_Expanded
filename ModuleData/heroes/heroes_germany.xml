@@ -17,6 +17,7 @@
 
    <Hero id="lord_german_9a" spouse="Hero.lord_german_9b" faction="Faction.clan_german_9" />
    <Hero id="lord_german_9b" spouse="Hero.lord_german_9a" faction="Faction.clan_german_9" />
+   <Hero id="lord_german_9c" mother="Hero.lord_german_9b" father="Hero.lord_german_9a" faction="Faction.clan_german_9" />
 
 
    <Hero id="lord_german_4a" spouse="Hero.lord_german_4b" faction="Faction.clan_german_4" />
