@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NPCCharacters>
+
+	<!-- facegen -->
+	<NPCCharacter id="lord_pereiaslav_1j_dead"
+				  name="{=lord_pereiaslav_1j_dead.name}Vsevolod I Iaroslavych"
+				  voice="softspoken"
+				  age="47"
+				  is_female="false"
+				  is_hero="true"
+				  culture="Culture.rus"
+				  occupation="Lord"
+				  default_group="Cavalry">
+		<face>
+			<BodyProperties version="4" age="22.1" weight="0.341" build="0.4336" key="000D0C0400881345473D9A8E3C397718AE4A55C7B83775BB6D77944C6A9674980087560308776B9700000000000000000000000000000000000000003B0C1102"/>
+		</face>
+		<skills>
+			<skill id="Engineering" value="100" />
+			<skill id="Medicine" value="150" />
+			<skill id="Leadership" value="300" />
+			<skill id="Steward" value="200" />
+			<skill id="Trade" value="75" />
+			<skill id="Charm" value="225" />
+			<skill id="Roguery" value="225" />
+			<skill id="Scouting" value="200" />
+			<skill id="Tactics" value="200" />
+			<skill id="Crafting" value="0" />
+			<skill id="Athletics" value="100" />
+			<skill id="Riding" value="300" />
+			<skill id="Throwing" value="50" />
+			<skill id="Crossbow" value="100" />
+			<skill id="Bow" value="100" />
+			<skill id="Polearm" value="200" />
+			<skill id="TwoHanded" value="100" />
+			<skill id="OneHanded" value="225" />
+		</skills>
+		<Traits>
+			<Trait id="Mercy" value="2"/>
+			<Trait id="Valor" value="-2"/>
+			<Trait id="Honor" value="-1"/>
+			<Trait id="Generosity" value="2"/>
+			<Trait id="Calculating" value="0"/>
+			<Trait id="Egalitarian" value="0"/>
+			<Trait id="Oligarchic" value="2"/>
+			<Trait id="Authoritarian" value="0"/>
+		</Traits>
+		<Equipments>
+			<EquipmentSet id="rus_king"/>
+			<EquipmentSet id="rus_king"
+						  civilian="true"/>
+		</Equipments>
+	</NPCCharacter>
+
+</NPCCharacters>
