@@ -18,11 +18,11 @@
     initial_home_settlement="Settlement.town_lyon"			   
     tier="2"
     owner="Hero.lord_german_12a"
-    culture="Culture.german"
+    culture="Culture.vlandia"
     super_faction="Kingdom.germany"
     is_noble="true"
-    banner_key="11.145.19.1836.1836.757.750.1.0.-30.510.40.116.4753.610.764.744.0.0.0.510.40.116.2813.610.764.764.0.0.90"
-    color="ffffd700" color2="ff282828"  
+    banner_key="11.83.109.3000.2231.764.764.1.0.90.505.29.116.190.2141.764.764.0.0.0.505.29.116.190.2141.764.764.0.0.90"
+    color="ffd22e31" color2="ffdfd6cd"  
   />
 
   <Faction id="clan_german_9"
