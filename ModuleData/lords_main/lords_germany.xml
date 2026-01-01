@@ -1750,51 +1750,202 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen -->
   <NPCCharacter id="lord_german_18a"
-                name="{=Antipope Clement III}Antipope Clement III"
+                name="{=lord_german_18a}Martino della Torre"
                 voice="softspoken"
-                age="71"
+                age="48"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.german"
+                culture="Culture.italian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-  <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
+      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
     </face>
-	<skills>
-<skill id="Engineering" value="150" />
-<skill id="Medicine" value="175" />
-<skill id="Leadership" value="275" />
-<skill id="Steward" value="250" />
-<skill id="Trade" value="0" />
-<skill id="Charm" value="175" />
-<skill id="Roguery" value="225" />
-<skill id="Scouting" value="200" />
-<skill id="Tactics" value="175" />
-<skill id="Crafting" value="75" />
-<skill id="Athletics" value="100" />
-<skill id="Riding" value="250" />
-<skill id="Throwing" value="50" />
-<skill id="Crossbow" value="75" />
-<skill id="Bow" value="100" />
-<skill id="Polearm" value="225" />
-<skill id="TwoHanded" value="125" />
-<skill id="OneHanded" value="300" />
-</skills>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="225" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="250" />
+    </skills>
     <Traits>
-<Trait id="Mercy" value="2" />
-<Trait id="Valor" value="-1" />
-<Trait id="Honor" value="-2" />
-<Trait id="Generosity" value="0" />
-<Trait id="Calculating" value="1" />
-<Trait id="Egalitarian" value="-1" />
-<Trait id="Oligarchic" value="1" />
-<Trait id="Authoritarian" value="1" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pope" />
-      <EquipmentSet id="pope"
+      <EquipmentSet id="italian_lord" />
+      <EquipmentSet id="italian_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_german_18b"
+                name="{=lord_german_18b}Pagano della Torre"
+                voice="softspoken"
+                age="26"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.italian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="italian_lord" />
+      <EquipmentSet id="italian_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_german_18c"
+                name="{=lord_german_18c}Enrico della Torre"
+                voice="softspoken"
+                age="24"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.italian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="italian_lord" />
+      <EquipmentSet id="italian_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_german_18d"
+                name="{=lord_german_18d}Pietro della Torre"
+                voice="softspoken"
+                age="44"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.italian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3843" build="0.345"  key="001E0C0F00E407C46149C2791678E761627E6646D8D5A8A26A1D97B18E78494200A566030A783B430000000000000000000000000000000000000000214C8082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="200" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="125" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="225" />
+      <skill id="Bow" value="150" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="italian_lord" />
+      <EquipmentSet id="italian_lord"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
