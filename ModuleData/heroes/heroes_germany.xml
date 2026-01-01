@@ -65,5 +65,9 @@
 
 
    <Hero id="lord_german_7a" faction="Faction.clan_german_7" />
+   <Hero id="lord_german_7b" faction="Faction.clan_german_7" />
+   <Hero id="lord_german_7c" father="Hero.lord_german_7b" faction="Faction.clan_german_7" />
+   <Hero id="lord_german_7d" faction="Faction.clan_german_7" />
+   <Hero id="lord_german_7e" father="Hero.lord_german_7c" faction="Faction.clan_german_7" />
 
 </Heroes>
