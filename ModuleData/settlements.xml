@@ -22,6 +22,18 @@
   <Settlement id="town_bautzen_reichenbach" culture="Culture.polish"></Settlement>
   <Settlement id="town_bautzen_goreliz" culture="Culture.polish"></Settlement>
 
+  <!-- Germany (HRE) -->
+  <Settlement id="town_frankfurt" owner="Faction.clan_german_1" ></Settlement>
+  <Settlement id="town_wurzburg" owner="Faction.clan_german_1" ></Settlement>
+  <Settlement id="town_lyon" owner="Faction.clan_german_12" ></Settlement>
+  <Settlement id="town_genoa" owner="Faction.clan_german_9" ></Settlement>
+  <Settlement id="town_cologne" owner="Faction.clan_german_10" ></Settlement>
+  <Settlement id="town_metz" owner="Faction.clan_german_2" ></Settlement>
+  <Settlement id="town_erfurt" owner="Faction.clan_german_17" ></Settlement>
+  <Settlement id="town_milan" owner="Faction.clan_german_18" ></Settlement>
+  <Settlement id="town_marseilles" owner="Faction.clan_german_3" ></Settlement>
+  <Settlement id="castle_EN1" owner="Faction.clan_german_7" ></Settlement>
+
   <!-- Netherlands -->
   <Settlement id="town_brussels" owner="Faction.clan_netherlands_1" culture="Culture.german" name="{=town_leuven_name}Leuven" ></Settlement>
   <Settlement id="town_brussels_namur" culture="Culture.german"></Settlement>
@@ -32,7 +44,7 @@
   <!-- Pisa -->
   <Settlement id="town_ES4" owner="Faction.clan_pisa_1"></Settlement>
   <Settlement id="town_cagliari" owner="Faction.clan_german_19"></Settlement>
-  <Settlement id="castle_aleria" owner="Faction.clan_german_7"></Settlement>
+  <Settlement id="castle_aleria" owner="Faction.clan_pisa_3"></Settlement>
 
   <!-- Pomerania -->
   <Settlement id="town_szczecin" owner="Faction.clan_poland_2" ></Settlement>
@@ -51,7 +63,7 @@
 
   <!-- Swabia -->
   <Settlement id="castle_rothenburg" owner="Faction.clan_german_8" name="{=town_hohenstaufen_name}Hohenstaufen Castle" ></Settlement>
-  <Settlement id="town_strasbourg" owner="Faction.clan_swabia_3" ></Settlement>
+  <Settlement id="town_strasbourg" owner="Faction.clan_german_21" ></Settlement>
   <Settlement id="town_zurich" owner="Faction.clan_swabia_4" ></Settlement>
   <Settlement id="castle_liebeneck" owner="Faction.clan_swabia_5" ></Settlement>
 

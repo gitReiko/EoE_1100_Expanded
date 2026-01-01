@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+  <Hero id="lord_pereiaslav_1a" spouse="Hero.lord_pereiaslav_1g" faction="Faction.clan_pereiaslav_1" text="{=lord_pereiaslav_1a.text}todo" father="Hero.lord_pereiaslav_1j_dead" />
+  <Hero id="lord_pereiaslav_1j_dead" faction="Faction.clan_pereiaslav_1" alive="false" />
+
+</Heroes>

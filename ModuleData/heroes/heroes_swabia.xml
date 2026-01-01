@@ -21,15 +21,15 @@
    <Hero id="lord_swabia_2e" mother="Hero.lord_swabia_2b" father="Hero.lord_swabia_2c" faction="Faction.clan_german_5" />
 
 
-   <Hero id="lord_swabia_3a" spouse="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
-   <Hero id="lord_swabia_3b" spouse="Hero.lord_swabia_3a" father="Hero.lord_swabia_3j" faction="Faction.clan_swabia_3" />
-   <Hero id="lord_swabia_3c" mother="Hero.lord_swabia_3a" father="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
-   <Hero id="lord_swabia_3d" mother="Hero.lord_swabia_3a" father="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
-   <Hero id="lord_swabia_3e" mother="Hero.lord_swabia_3a" father="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
-   <Hero id="lord_swabia_3f" mother="Hero.lord_swabia_3a" father="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
-   <Hero id="lord_swabia_3g" mother="Hero.lord_swabia_3a" father="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
-   <Hero id="lord_swabia_3h" mother="Hero.lord_swabia_3a" father="Hero.lord_swabia_3b" faction="Faction.clan_swabia_3" />
-   <Hero id="lord_swabia_3j" faction="Faction.clan_swabia_3" alive="false" />
+   <Hero id="lord_german_21a" spouse="Hero.lord_german_21b" faction="Faction.clan_german_21" />
+   <Hero id="lord_german_21b" spouse="Hero.lord_german_21a" father="Hero.lord_swabia_3j" faction="Faction.clan_german_21" />
+   <Hero id="lord_german_21c" mother="Hero.lord_german_21a" father="Hero.lord_german_21b" faction="Faction.clan_german_21" />
+   <Hero id="lord_swabia_3d" mother="Hero.lord_german_21a" father="Hero.lord_german_21b" faction="Faction.clan_german_21" />
+   <Hero id="lord_swabia_3e" mother="Hero.lord_german_21a" father="Hero.lord_german_21b" faction="Faction.clan_german_21" />
+   <Hero id="lord_swabia_3f" mother="Hero.lord_german_21a" father="Hero.lord_german_21b" faction="Faction.clan_german_21" />
+   <Hero id="lord_swabia_3g" mother="Hero.lord_german_21a" father="Hero.lord_german_21b" faction="Faction.clan_german_21" />
+   <Hero id="lord_swabia_3h" mother="Hero.lord_german_21a" father="Hero.lord_german_21b" faction="Faction.clan_german_21" />
+   <Hero id="lord_swabia_3j" faction="Faction.clan_german_21" alive="false" />
 
 
    <Hero id="lord_swabia_4a" spouse="Hero.lord_swabia_4b" faction="Faction.clan_swabia_4" />

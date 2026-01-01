@@ -25,11 +25,11 @@
     color="fffef55a" color2="fffa515b"
   />
 
-  <Faction id="clan_german_7"
+  <Faction id="clan_pisa_3"
     name="{=clan_pisa_3}Orlandi"
     initial_home_settlement="Settlement.castle_aleria"			   
     tier="3"
-    owner="Hero.lord_german_7a"
+    owner="Hero.lord_pisa_3a"
     culture="Culture.italian"
     super_faction="Kingdom.pisa"
     is_noble="true"

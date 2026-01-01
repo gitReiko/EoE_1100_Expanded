@@ -25,11 +25,11 @@
     color="ff0d6793" color2="fff0b55b"
   />
 
-  <Faction id="clan_swabia_3"
+  <Faction id="clan_german_21"
     name="{=clan_swabia_3}Zähringen"
     initial_home_settlement="Settlement.town_strasbourg"		   		   
     tier="3"
-    owner="Hero.lord_swabia_3a"
+    owner="Hero.lord_german_21a"
     culture="Culture.german"
     super_faction="Kingdom.swabia"
     is_noble="true"
