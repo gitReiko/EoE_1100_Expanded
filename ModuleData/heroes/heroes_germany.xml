@@ -6,6 +6,8 @@
    <Hero id="lord_german_1c" mother="Hero.lord_german_1a" faction="Faction.clan_german_1" />
    <Hero id="lord_german_1d" mother="Hero.lord_german_1a" faction="Faction.clan_german_1" />
    <Hero id="lord_german_1e" mother="Hero.lord_german_1a" faction="Faction.clan_german_1" />
+   <Hero id="lord_german_1f" faction="Faction.clan_german_1" />
+   <Hero id="lord_german_1g" faction="Faction.clan_german_1" />
 
 
    <Hero id="lord_german_12a" spouse="Hero.lord_german_12b" faction="Faction.clan_german_12" />
