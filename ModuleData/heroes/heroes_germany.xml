@@ -32,8 +32,14 @@
    <Hero id="lord_german_10c" mother="Hero.lord_german_10b" father="Hero.lord_german_10a" faction="Faction.clan_german_10" />
 
 
-   <Hero id="lord_german_2a" spouse="Hero.lord_german_2b" faction="Faction.clan_german_2" />
-   <Hero id="lord_german_2b" spouse="Hero.lord_german_2a" faction="Faction.clan_german_2" />
+   <Hero id="lord_german_2a" faction="Faction.clan_german_2" />
+   <Hero id="lord_german_2b" spouse="Hero.lord_german_2c" faction="Faction.clan_german_2" />
+   <Hero id="lord_german_2c" spouse="Hero.lord_german_2b" faction="Faction.clan_german_2" />
+   <Hero id="lord_german_2d" mother="Hero.lord_german_2b" father="Hero.lord_german_2c" faction="Faction.clan_german_2" />
+   <Hero id="lord_german_2e" mother="Hero.lord_german_2b" father="Hero.lord_german_2c" faction="Faction.clan_german_2" />
+   <Hero id="lord_german_2f" mother="Hero.lord_german_2b" father="Hero.lord_german_2c" faction="Faction.clan_german_2" />
+   <Hero id="lord_german_2j" mother="Hero.lord_german_2b" father="Hero.lord_german_2c" faction="Faction.clan_german_2" />
+   <Hero id="lord_german_2h" mother="Hero.lord_german_2b" father="Hero.lord_german_2c" faction="Faction.clan_german_2" />
 
 
    <Hero id="lord_german_17a" faction="Faction.clan_german_17" />
