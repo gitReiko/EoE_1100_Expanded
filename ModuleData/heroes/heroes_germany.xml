@@ -44,7 +44,9 @@
    <Hero id="lord_german_2h" mother="Hero.lord_german_2b" father="Hero.lord_german_2c" faction="Faction.clan_german_2" />
 
 
-   <Hero id="lord_german_17a" faction="Faction.clan_german_17" />
+   <Hero id="lord_german_17a" spouse="Hero.lord_german_17b" faction="Faction.clan_german_17" />
+   <Hero id="lord_german_17b" spouse="Hero.lord_german_17a" faction="Faction.clan_german_17" />
+   <Hero id="lord_german_17c" mother="Hero.lord_german_17b" father="Hero.lord_german_17a" faction="Faction.clan_german_17" />
 
 
    <Hero id="lord_german_18a" faction="Faction.clan_german_18" text="{=lord_german_18a.text}Guibert or Wibert of Ravenna was an Italian prelate, archbishop of Ravenna, who was elected pope in 1080 in opposition to Pope Gregory VII and took the name Clement III. Gregory was the leader of the movement in the church which opposed the traditional claim of European monarchs to control ecclesiastical appointments, and this was opposed by supporters of monarchical rights led by the Holy Roman Emperor. This led to the conflict known as the Investiture Controversy. Gregory was felt by many to have gone too far when he excommunicated the Holy Roman Emperor Henry IV and supported a rival claimant as emperor, and in 1080 the pro-imperial Synod of Brixen pronounced that Gregory was deposed and replaced as pope by Guibert." />
