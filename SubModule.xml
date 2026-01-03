@@ -23,14 +23,12 @@
         </IncludedGameTypes>
         </XmlNode> 
 
-        <!-- <XmlNode>
-        <XmlName id="SPCultures" path="spcultures"/>
+        <XmlName id="SPCultures" path="spcultures_to_eoe_1100"/>
         <IncludedGameTypes>
             <GameType value = "Campaign"/>
             <GameType value = "CustomGame"/>
             <GameType value = "CampaignStoryMode"/>		
         </IncludedGameTypes>
-        </XmlNode>	 -->
         
         <!-- <XmlNode>
         <XmlName id="BodyProperties" path="sandboxcore_bodyproperties"/>
