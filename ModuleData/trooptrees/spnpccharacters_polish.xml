@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+   <NPCCharacter id="polish_levy" name="{=west_slavic_levy.name}West Slavic Levy"></NPCCharacter>
+   <NPCCharacter id="polish_militia_axeman" name="{=west_slavic_militia_axeman.name}West Slavic Militia Axeman"></NPCCharacter>
+   <NPCCharacter id="polish_veteran_militia_axeman" name="{=west_slavic_veteran_militia_axeman.name}West Slavic Veteran Militia Axeman"></NPCCharacter>
+   <NPCCharacter id="polish_infantry_wlodyka" name="{=west_slavic_infantry_wlodyka.name}West Slavic Wlodyka Topornik"></NPCCharacter>
+   <NPCCharacter id="polish_militia_archer" name="{=west_slavic_militia_archer.name}West Slavic Militia Archer"></NPCCharacter>
+   <NPCCharacter id="polish_veteran_militia_archer" name="{=west_slavic_veteran_militia_archer.name}West Slavic Veteran Militia Archer"></NPCCharacter>
+   <NPCCharacter id="polish_archer_wlodyka" name="{=west_slavic_archer_wlodyka.name}West Slavic Wlodyka Archer"></NPCCharacter>
+   <NPCCharacter id="polish_tarczownicy" name="{=west_slavic_tarczownicy.name}West Slavic Tarczownicy"></NPCCharacter>
+   <NPCCharacter id="polish_veteran_tarczownicy" name="{=west_slavic_veteran_tarczownicy.name}West Slavic Veteran Tarczownicy"></NPCCharacter>
+   <NPCCharacter id="polish_druzynnik" name="{=west_slavic_druzynnik.name}West Slavic Druzynnik"></NPCCharacter>
+   <NPCCharacter id="polish_szlachta" name="{=west_slavic_szlachta.name}West Slavic Szlachcic"></NPCCharacter>
+   <NPCCharacter id="polish_rycerz" name="{=west_slavic_rycerz.name}West Slavic Rycerz"></NPCCharacter>
+
+</NPCCharacters>
