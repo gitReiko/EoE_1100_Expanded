@@ -1,7 +1,8 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
 <SPCultures>
-  
-<Culture id="polish">
+
+<!-- names are written in the Polish tradition -->
+<Culture id="polish" name="{=west_slavic_culture}West Slavic">
     <male_names>
       <name name="{=western_slav_male_1}Boleslav" />
       <name name="{=western_slav_male_2}Wenceslaus" />
