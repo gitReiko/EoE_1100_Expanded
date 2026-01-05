@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters> 
+
+  <NPCCharacter id="lord_hungarian_2a"
+    name="{=lord_croatian_1a.name}Petar"
+    voice="softspoken"
+    age="43"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.serbian"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.2601" build="0.4754"  key="00087C040058034A9818A66138B3574988B3ACA9D25779ABA98889518783541900974603099BA49C00000000000000000000000000000000000000004F2C8102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="200" />
+      <skill id="Medicine" value="225" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="serbian_king" />
+      <EquipmentSet id="serbian_king"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_hungarian_2b"
+    name="{=lord_croatian_1b.name}Stjepan*"
+    voice="softspoken"
+    age="38"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.serbian"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.24" weight="0.3951" build="0.6111"  key="000814099758014EA818A6613893574A8893ACA9B25779ABA9888951B783541900996603099BA49A00000000000000000000000000000000000000004F2C6102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="serbian_lord" />
+      <EquipmentSet id="serbian_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_hungarian_2с"
+    name="{=lord_croatian_1c.name}Juraj"
+    voice="softspoken"
+    age="35"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.serbian"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.24" weight="0.5571" build="0.5764"  key="00087C06C05806069818A66138B357498893ACA9D257798BA6888C5167835419006986030679949C00000000000000000000000000000000000000004ED45102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="serbian_lord" />
+      <EquipmentSet id="serbian_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</NPCCharacters>

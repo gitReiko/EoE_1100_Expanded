@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_hungarian_2"
+    name="{=clan_croatia_1.name}Snačić"
+    initial_home_settlement="Settlement.town_zadar"		
+    tier="3"
+    owner="Hero.lord_hungarian_2a"
+    culture="Culture.serbian"
+    super_faction="Kingdom.croatia"
+    is_noble="true"
+    banner_key="11.12.19.1836.1836.764.764.1.0.0.340.39.116.502.554.749.853.0.0.0.424.39.116.324.250.751.595.0.0.0.503.31.116.89.86.551.670.0.0.0.503.51.116.89.86.952.676.0.0.0"
+    color="ff4876ff" color2="ffffd148" 
+   />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Factions>
