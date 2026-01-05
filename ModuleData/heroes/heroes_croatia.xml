@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Heroes>
 
-   <Hero id="lord_hungarian_2a" faction="Faction.clan_hungarian_2" />
-   <Hero id="lord_hungarian_2b" faction="Faction.clan_hungarian_2" text="{=lord_hungarian_2b.text}Brother of the King of Croatia. His name is unknown, the name introduced in the mod is fictitious." />
+   <Hero id="lord_hungarian_2a" spouse="Hero.lord_hungarian_2b" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_hungarian_2b" spouse="Hero.lord_hungarian_2a" faction="Faction.clan_hungarian_2" />
    <Hero id="lord_hungarian_2с" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_croatian_1d" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_croatian_1e" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_croatian_1f" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_croatian_1j" faction="Faction.clan_hungarian_2" />
 
 
 

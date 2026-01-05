@@ -4,7 +4,7 @@
   <Faction id="clan_hungarian_2"
     name="{=clan_croatia_1.name}Snačić"
     initial_home_settlement="Settlement.town_zadar"		
-    tier="3"
+    tier="4"
     owner="Hero.lord_hungarian_2a"
     culture="Culture.serbian"
     super_faction="Kingdom.croatia"
