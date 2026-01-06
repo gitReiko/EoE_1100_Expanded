@@ -10,6 +10,10 @@
    <Hero id="lord_croatian_1j" faction="Faction.clan_hungarian_2" />
 
 
+   <Hero id="lord_hungarian_4a" spouse="Hero.lord_hungarian_4b" faction="Faction.clan_hungarian_4" />
+   <Hero id="lord_hungarian_4b" spouse="Hero.lord_hungarian_4a" faction="Faction.clan_hungarian_4" />
+   <Hero id="lord_croatian_2c" faction="Faction.clan_hungarian_4" />
+   <Hero id="lord_croatian_2d" faction="Faction.clan_hungarian_4" />
 
 
 
