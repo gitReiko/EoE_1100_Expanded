@@ -26,15 +26,15 @@
   <Settlement id="town_zadar" culture="Culture.serbian" owner="Faction.clan_hungarian_2"></Settlement>
   <Settlement id="town_zadar_knin" culture="Culture.serbian"></Settlement>
   <Settlement id="town_zadar_novalja" culture="Culture.serbian"></Settlement>
-  <Settlement id="town_sisak" culture="Culture.serbian" owner="Faction.clan_croatia_2"></Settlement>
+  <Settlement id="town_sisak" culture="Culture.serbian" owner="Faction.clan_croatia_3"></Settlement>
   <Settlement id="town_sisak_vinica" culture="Culture.serbian"></Settlement>
   <Settlement id="town_sisak_gradec" culture="Culture.serbian"></Settlement>
-  <Settlement id="town_kalocsa" culture="Culture.serbian" owner="Faction.clan_croatia_5"></Settlement>
+  <Settlement id="town_kalocsa" culture="Culture.serbian" owner="Faction.clan_croatia_6"></Settlement>
   <Settlement id="town_kalocsa_bodrog" culture="Culture.serbian"></Settlement>
   <Settlement id="town_kalocsa_bacs" culture="Culture.serbian"></Settlement>
-  <Settlement id="castle_gradina" culture="Culture.serbian" owner="Faction.clan_croatia_4"></Settlement>
+  <Settlement id="castle_gradina" culture="Culture.serbian" owner="Faction.clan_croatia_5"></Settlement>
   <Settlement id="castle_gradina_tuzla" culture="Culture.serbian"></Settlement>
-  <Settlement id="castle_jakabhegyi" culture="Culture.serbian" owner="Faction.clan_croatia_3"></Settlement>
+  <Settlement id="castle_jakabhegyi" culture="Culture.serbian" owner="Faction.clan_croatia_4"></Settlement>
   <Settlement id="castle_jakabhegyi_pecs" culture="Culture.serbian"></Settlement>
 
   <!-- Germany (HRE) -->
