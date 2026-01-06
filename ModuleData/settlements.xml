@@ -49,6 +49,9 @@
   <Settlement id="town_marseilles" owner="Faction.clan_german_3" ></Settlement>
   <Settlement id="castle_EN1" owner="Faction.clan_german_7" ></Settlement>
 
+  <!-- Hungary -->
+  <Settlement id="town_solnok" owner="Faction.clan_hungarian_11" ></Settlement>
+
   <!-- Netherlands -->
   <Settlement id="town_brussels" owner="Faction.clan_netherlands_1" culture="Culture.german" name="{=town_leuven_name}Leuven" ></Settlement>
   <Settlement id="town_brussels_namur" culture="Culture.german"></Settlement>
