@@ -34,15 +34,9 @@
    <Hero id="lord_croatian_5d" faction="Faction.clan_croatia_5" />
 
 
-
-
-
-
-
-
-
-
-
-
+   <Hero id="lord_croatian_6a" spouse="Hero.lord_croatian_6b" faction="Faction.clan_croatia_6" />
+   <Hero id="lord_croatian_6b" spouse="Hero.lord_croatian_6a" faction="Faction.clan_croatia_6" />
+   <Hero id="lord_croatian_6c" faction="Faction.clan_croatia_6" />
+   <Hero id="lord_croatian_6d" faction="Faction.clan_croatia_6" />
 
 </Heroes>
