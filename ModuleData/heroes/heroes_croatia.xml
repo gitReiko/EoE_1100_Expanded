@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_hungarian_2a" spouse="Hero.lord_hungarian_2b" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_hungarian_2b" spouse="Hero.lord_hungarian_2a" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_hungarian_2с" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_croatian_1d" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_croatian_1e" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_croatian_1f" faction="Faction.clan_hungarian_2" />
+   <Hero id="lord_croatian_1j" faction="Faction.clan_hungarian_2" />
+
+
+   <Hero id="lord_hungarian_4a" spouse="Hero.lord_hungarian_4b" faction="Faction.clan_hungarian_4" />
+   <Hero id="lord_hungarian_4b" spouse="Hero.lord_hungarian_4a" faction="Faction.clan_hungarian_4" />
+   <Hero id="lord_croatian_2c" faction="Faction.clan_hungarian_4" />
+   <Hero id="lord_croatian_2d" faction="Faction.clan_hungarian_4" />
+
+
+   <Hero id="lord_croatian_3a" spouse="Hero.lord_croatian_3b" faction="Faction.clan_croatia_3" />
+   <Hero id="lord_croatian_3b" spouse="Hero.lord_croatian_3a" faction="Faction.clan_croatia_3" />
+   <Hero id="lord_croatian_3c" mother="Hero.lord_croatian_3b" father="Hero.lord_croatian_3a" faction="Faction.clan_croatia_3" />
+   <Hero id="lord_croatian_3d" faction="Faction.clan_croatia_3" />
+
+
+   <Hero id="lord_croatian_4a" spouse="Hero.lord_croatian_4b" faction="Faction.clan_croatia_4" />
+   <Hero id="lord_croatian_4b" spouse="Hero.lord_croatian_4a" faction="Faction.clan_croatia_4" />
+   <Hero id="lord_croatian_4c" mother="Hero.lord_croatian_4a" father="Hero.lord_croatian_4b" faction="Faction.clan_croatia_4" />
+   <Hero id="lord_croatian_4d" faction="Faction.clan_croatia_4" />
+
+
+   <Hero id="lord_croatian_5a" spouse="Hero.lord_croatian_5b" faction="Faction.clan_croatia_5" />
+   <Hero id="lord_croatian_5b" spouse="Hero.lord_croatian_5a" faction="Faction.clan_croatia_5" />
+   <Hero id="lord_croatian_5c" mother="Hero.lord_croatian_5a" father="Hero.lord_croatian_5b" faction="Faction.clan_croatia_5" />
+   <Hero id="lord_croatian_5d" faction="Faction.clan_croatia_5" />
+
+
+   <Hero id="lord_croatian_6a" spouse="Hero.lord_croatian_6b" faction="Faction.clan_croatia_6" />
+   <Hero id="lord_croatian_6b" spouse="Hero.lord_croatian_6a" faction="Faction.clan_croatia_6" />
+   <Hero id="lord_croatian_6c" faction="Faction.clan_croatia_6" />
+   <Hero id="lord_croatian_6d" faction="Faction.clan_croatia_6" />
+
+</Heroes>

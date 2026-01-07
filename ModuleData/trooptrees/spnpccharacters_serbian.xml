@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  	<NPCCharacter id="serbian_meroph" name="{=south_slav_meroph.name}South Slavic Pozivnik"></NPCCharacter>
+	<NPCCharacter id="serbian_militia_spearman" name="{=south_slav_militia_spearman.name}South Slavic Vojnik Spearman"></NPCCharacter>
+	<NPCCharacter id="serbian_veteran_militia_spearman" name="{=south_slav_veteran_militia_spearman.name}South Slavic Vojnik Veteran Spearman"></NPCCharacter>
+	<NPCCharacter id="serbian_oklopniki_spearman" name="{=south_slav_oklopniki_spearman.name}South Slavic Oklopnik Spearman"></NPCCharacter>
+	<NPCCharacter id="serbian_militia_archer" name="{=south_slav_militia_archer.name}South Slavic Vojnik Archer"></NPCCharacter>
+	<NPCCharacter id="serbian_veteran_militia_archer" name="{=south_slav_veteran_militia_archer.name}South Slavic Vojnik Veteran Archer"></NPCCharacter>
+	<NPCCharacter id="serbian_mounted_archer" name="{=south_slav_mounted_archer.name}South Slavic Mounted Archer"></NPCCharacter>
+	<NPCCharacter id="serbian_light_cavalry" name="{=south_slav_light_cavalry.name}South Slavic Konnik"></NPCCharacter>
+	<NPCCharacter id="serbian_gusar" name="{=south_slav_gusar.name}South Slavic Konjanik"></NPCCharacter>
+	<NPCCharacter id="serbian_bashtinik" name="{=south_slav_bashtinik.name}South Slavic Družinnik"></NPCCharacter>
+	<NPCCharacter id="serbian_vlastelas" name="{=south_slav_vlastelas.name}South Slavic Pancirnik"></NPCCharacter>
+	<NPCCharacter id="serbian_pronoiarii" name="{=south_slav_pronoiarii.name}South Slavic Vitez"></NPCCharacter>
+
+</NPCCharacters>

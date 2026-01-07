@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+    <Kingdom id="croatia" 
+			 owner="Hero.lord_hungarian_2a" 
+		     initial_home_settlement="Settlement.town_prague" 
+			 banner_key="11.12.19.1836.1836.764.764.1.0.0.340.39.116.502.554.749.853.0.0.0.424.39.116.324.250.751.595.0.0.0.503.31.116.89.86.551.670.0.0.0.503.51.116.89.86.952.676.0.0.0" 
+			 primary_banner_color="0xff4876ff" 
+			 secondary_banner_color="0xffffd148" 
+			 color="ff4876ff" 
+			 color2="ffffd148" 
+			 culture="Culture.serbian" 
+			 settlement_banner_mesh="encounter_flag_a" 
+			 flag_mesh="info_screen_flags_a" 
+			 name="{=croatia_kingdom_name}Kingdom of Croatia" 
+			 short_name="{=croatia_kingdom_short_name}Croatia" 
+			 title="{=croatia_kingdom_title}Kingdom of Croatia" 
+			 ruler_title="{=croatia_ruler_title}King" 
+			 text="{=croatia_kingdom_text}In the 11th century, the Croatian Kingdom was ruled by the Trpimirović dynasty, under King Stephen I and his successor, Dmitar Zvonimir. Domestic policy was aimed at strengthening royal power, developing feudalism, and supporting the Catholic Church, especially in alliance with the papacy. Foreign policy balanced between the influence of Byzantium and the Holy Roman Empire, and also included an alliance with Hungary through dynastic marriages. After Zvonimir's death in 1089 a succession crisis began, leading to the intervention of the Hungarian king Calman. The last king of independent Croatia was Petar Snačić, who died in battle on Mount Gvozd in 1097 while defending the kingdom from Hungarian invasion. In 1102, a personal union with Hungary was established, which ended the kingdom's independence.">
+    <relationships>
+    </relationships>
+    <policies>
+    </policies>
+  </Kingdom> 
+</Kingdoms>

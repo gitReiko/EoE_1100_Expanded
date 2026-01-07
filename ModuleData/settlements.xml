@@ -22,6 +22,21 @@
   <Settlement id="town_bautzen_reichenbach" culture="Culture.polish"></Settlement>
   <Settlement id="town_bautzen_goreliz" culture="Culture.polish"></Settlement>
 
+  <!-- Croatia -->
+  <Settlement id="town_zadar" culture="Culture.serbian" owner="Faction.clan_hungarian_2"></Settlement>
+  <Settlement id="town_zadar_knin" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_zadar_novalja" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_sisak" culture="Culture.serbian" owner="Faction.clan_croatia_3"></Settlement>
+  <Settlement id="town_sisak_vinica" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_sisak_gradec" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_kalocsa" culture="Culture.serbian" owner="Faction.clan_croatia_6"></Settlement>
+  <Settlement id="town_kalocsa_bodrog" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_kalocsa_bacs" culture="Culture.serbian"></Settlement>
+  <Settlement id="castle_gradina" culture="Culture.serbian" owner="Faction.clan_croatia_5"></Settlement>
+  <Settlement id="castle_gradina_tuzla" culture="Culture.serbian"></Settlement>
+  <Settlement id="castle_jakabhegyi" culture="Culture.serbian" owner="Faction.clan_croatia_4"></Settlement>
+  <Settlement id="castle_jakabhegyi_pecs" culture="Culture.serbian"></Settlement>
+
   <!-- Germany (HRE) -->
   <Settlement id="town_frankfurt" owner="Faction.clan_german_1" ></Settlement>
   <Settlement id="town_wurzburg" owner="Faction.clan_german_1" ></Settlement>
@@ -33,6 +48,9 @@
   <Settlement id="town_milan" owner="Faction.clan_german_18" ></Settlement>
   <Settlement id="town_marseilles" owner="Faction.clan_german_3" ></Settlement>
   <Settlement id="castle_EN1" owner="Faction.clan_german_7" ></Settlement>
+
+  <!-- Hungary -->
+  <Settlement id="town_solnok" owner="Faction.clan_hungarian_11" ></Settlement>
 
   <!-- Netherlands -->
   <Settlement id="town_brussels" owner="Faction.clan_netherlands_1" culture="Culture.german" name="{=town_leuven_name}Leuven" ></Settlement>
@@ -66,6 +84,14 @@
   <Settlement id="town_strasbourg" owner="Faction.clan_german_21" ></Settlement>
   <Settlement id="town_zurich" owner="Faction.clan_swabia_4" ></Settlement>
   <Settlement id="castle_liebeneck" owner="Faction.clan_swabia_5" ></Settlement>
+
+  <!-- Venice -->
+  <Settlement id="town_venice" owner="Faction.clan_venice_1" ></Settlement>
+  <Settlement id="town_pula" owner="Faction.clan_venice_2" ></Settlement>
+  <Settlement id="town_ragusa" culture="Culture.serbian" owner="Faction.clan_venice_5" ></Settlement>
+  <Settlement id="town_ragusa_budva" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_ragusa_split" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_ragusa_stolac" culture="Culture.serbian"></Settlement>
 
   <!-- Wends -->
   <Settlement id="castle_lubek" owner="Faction.clan_danish_2" culture="Culture.polish"></Settlement>
