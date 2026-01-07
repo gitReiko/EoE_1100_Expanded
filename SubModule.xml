@@ -69,10 +69,26 @@
             <GameType value = "Campaign"/>
             <GameType value = "CustomGame"/>
         </IncludedGameTypes>
+        </XmlNode>
+
+        <XmlNode>
+        <XmlName id="NPCCharacters" path="lords_main_to_eoe_1100"/>
+        <IncludedGameTypes>
+            <GameType value = "Campaign"/>
+            <GameType value = "CustomGame"/>
+        </IncludedGameTypes>
         </XmlNode> 
         
         <XmlNode>
         <XmlName id="Heroes" path="heroes"/>
+        <IncludedGameTypes>
+            <GameType value = "Campaign"/>
+            <GameType value = "CustomGame"/>
+        </IncludedGameTypes>
+        </XmlNode>
+
+        <XmlNode>
+        <XmlName id="Heroes" path="heroes_to_eoe_1100"/>
         <IncludedGameTypes>
             <GameType value = "Campaign"/>
             <GameType value = "CustomGame"/>
@@ -86,7 +102,15 @@
             <GameType value = "CustomGame"/>
         </IncludedGameTypes>
         </XmlNode>
-                
+
+        <XmlNode>
+        <XmlName id="Factions" path="spclans_to_eoe_1100"/>
+        <IncludedGameTypes>
+            <GameType value = "Campaign"/>
+            <GameType value = "CustomGame"/>
+        </IncludedGameTypes>
+        </XmlNode>
+
         <XmlNode>
         <XmlName id="Kingdoms" path="spkingdoms"/>
         <IncludedGameTypes>

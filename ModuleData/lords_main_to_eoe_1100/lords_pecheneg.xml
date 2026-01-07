@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NPCCharacters> 
+  
+<!--pecheneg lords-->
+
+  <NPCCharacter id="lord_pech_1a"
+                name="{=Bayca}Bayca"
+                voice="softspoken"
+                age="45"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.4398" build="0.5602"  key="0015F80E4000318AB8981AC75A6D3B87D3698B3ABDFE344CD22D3DD538898868006876030696723B00000000000000000000000000000000000000003EBC1002"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="125" />
+<skill id="Medicine" value="175" />
+<skill id="Leadership" value="200" />
+<skill id="Steward" value="150" />
+<skill id="Trade" value="175" />
+<skill id="Charm" value="75" />
+<skill id="Roguery" value="200" />
+<skill id="Scouting" value="250" />
+<skill id="Tactics" value="300" />
+<skill id="Crafting" value="0" />
+<skill id="Athletics" value="75" />
+<skill id="Riding" value="250" />
+<skill id="Throwing" value="125" />
+<skill id="Crossbow" value="0" />
+<skill id="Bow" value="300" />
+<skill id="Polearm" value="300" />
+<skill id="TwoHanded" value="50" />
+<skill id="OneHanded" value="100" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="2" />
+<Trait id="Valor" value="0" />
+<Trait id="Honor" value="2" />
+<Trait id="Generosity" value="-1" />
+<Trait id="Calculating" value="0" />
+<Trait id="Egalitarian" value="0" />
+<Trait id="Oligarchic" value="1" />
+<Trait id="Authoritarian" value="1" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_king" />
+      <EquipmentSet id="khuzait_king"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>   
+  
+  <NPCCharacter id="lord_pech_1b"
+                name="{=Zeynep}Zeynep"
+                voice="softspoken"
+                age="40"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.4398" build="0.5602"  key="0015F80E4000300AB8981AC75A6D3B87D3698B3ABDFE344CD22D3DD538898868006876030696723B00000000000000000000000000000000000000003EBC1003"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="50" />
+<skill id="Medicine" value="50" />
+<skill id="Leadership" value="125" />
+<skill id="Steward" value="175" />
+<skill id="Trade" value="25" />
+<skill id="Charm" value="75" />
+<skill id="Roguery" value="175" />
+<skill id="Scouting" value="175" />
+<skill id="Tactics" value="125" />
+<skill id="Crafting" value="0" />
+<skill id="Athletics" value="50" />
+<skill id="Riding" value="175" />
+<skill id="Throwing" value="200" />
+<skill id="Crossbow" value="0" />
+<skill id="Bow" value="175" />
+<skill id="Polearm" value="150" />
+<skill id="TwoHanded" value="50" />
+<skill id="OneHanded" value="125" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="-1" />
+<Trait id="Valor" value="2" />
+<Trait id="Honor" value="1" />
+<Trait id="Generosity" value="2" />
+<Trait id="Calculating" value="-2" />
+<Trait id="Egalitarian" value="-1" />
+<Trait id="Oligarchic" value="1" />
+<Trait id="Authoritarian" value="-2" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_queen" />
+      <EquipmentSet id="khuzait_queen"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter> 
+
+  <NPCCharacter id="lord_pech_1c"
+                name="{=Tarkan}Tarkan"
+                voice="softspoken"
+                age="20"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="50" />
+<skill id="Medicine" value="75" />
+<skill id="Leadership" value="275" />
+<skill id="Steward" value="75" />
+<skill id="Trade" value="100" />
+<skill id="Charm" value="150" />
+<skill id="Roguery" value="125" />
+<skill id="Scouting" value="250" />
+<skill id="Tactics" value="175" />
+<skill id="Crafting" value="0" />
+<skill id="Athletics" value="125" />
+<skill id="Riding" value="250" />
+<skill id="Throwing" value="125" />
+<skill id="Crossbow" value="0" />
+<skill id="Bow" value="300" />
+<skill id="Polearm" value="225" />
+<skill id="TwoHanded" value="125" />
+<skill id="OneHanded" value="225" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="-2" />
+<Trait id="Valor" value="-1" />
+<Trait id="Honor" value="1" />
+<Trait id="Generosity" value="2" />
+<Trait id="Calculating" value="2" />
+<Trait id="Egalitarian" value="-2" />
+<Trait id="Oligarchic" value="1" />
+<Trait id="Authoritarian" value="2" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_lord" />
+      <EquipmentSet id="khuzait_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>   
+  
+  <NPCCharacter id="lord_pech_1d"
+                name="{=Alime}Alime"
+                voice="softspoken"
+                age="18"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40003002B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141003"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="50" />
+<skill id="Medicine" value="75" />
+<skill id="Leadership" value="100" />
+<skill id="Steward" value="100" />
+<skill id="Trade" value="125" />
+<skill id="Charm" value="175" />
+<skill id="Roguery" value="125" />
+<skill id="Scouting" value="175" />
+<skill id="Tactics" value="50" />
+<skill id="Crafting" value="0" />
+<skill id="Athletics" value="150" />
+<skill id="Riding" value="175" />
+<skill id="Throwing" value="75" />
+<skill id="Crossbow" value="0" />
+<skill id="Bow" value="200" />
+<skill id="Polearm" value="125" />
+<skill id="TwoHanded" value="50" />
+<skill id="OneHanded" value="125" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="0" />
+<Trait id="Valor" value="2" />
+<Trait id="Honor" value="1" />
+<Trait id="Generosity" value="2" />
+<Trait id="Calculating" value="0" />
+<Trait id="Egalitarian" value="1" />
+<Trait id="Oligarchic" value="-1" />
+<Trait id="Authoritarian" value="-1" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_lady" />
+      <EquipmentSet id="khuzait_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter> 
+
+<NPCCharacter id="lord_pech_2a"
+                name="{=Qorqutai}Qorqutai"
+                voice="softspoken"
+                age="45"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.5" build="0.6818"  key="000DF80E40001589A678A2459ACA6668D3698476796E977DD22D3DD538898868009A76030996723B0000000000000000000000000000000000000000513C4002"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="100" />
+<skill id="Medicine" value="50" />
+<skill id="Leadership" value="250" />
+<skill id="Steward" value="250" />
+<skill id="Trade" value="100" />
+<skill id="Charm" value="75" />
+<skill id="Roguery" value="300" />
+<skill id="Scouting" value="175" />
+<skill id="Tactics" value="200" />
+<skill id="Crafting" value="0" />
+<skill id="Athletics" value="100" />
+<skill id="Riding" value="300" />
+<skill id="Throwing" value="200" />
+<skill id="Crossbow" value="0" />
+<skill id="Bow" value="225" />
+<skill id="Polearm" value="125" />
+<skill id="TwoHanded" value="0" />
+<skill id="OneHanded" value="200" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="2" />
+<Trait id="Valor" value="1" />
+<Trait id="Honor" value="2" />
+<Trait id="Generosity" value="0" />
+<Trait id="Calculating" value="0" />
+<Trait id="Egalitarian" value="0" />
+<Trait id="Oligarchic" value="2" />
+<Trait id="Authoritarian" value="0" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_lord" />
+      <EquipmentSet id="khuzait_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>   
+  
+  <NPCCharacter id="lord_pech_2b"
+                name="{=Seher}Seher"
+                voice="softspoken"
+                age="40"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.5" build="0.6818"  key="000DF80E4000300CA678A2459ACA6668D3698476796E977DD22D3DD538898868009A76030996723B0000000000000000000000000000000000000000513C1003"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="50" />
+<skill id="Medicine" value="0" />
+<skill id="Leadership" value="75" />
+<skill id="Steward" value="150" />
+<skill id="Trade" value="125" />
+<skill id="Charm" value="175" />
+<skill id="Roguery" value="75" />
+<skill id="Scouting" value="225" />
+<skill id="Tactics" value="75" />
+<skill id="Crafting" value="0" />
+<skill id="Athletics" value="150" />
+<skill id="Riding" value="175" />
+<skill id="Throwing" value="100" />
+<skill id="Crossbow" value="0" />
+<skill id="Bow" value="225" />
+<skill id="Polearm" value="200" />
+<skill id="TwoHanded" value="50" />
+<skill id="OneHanded" value="100" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="-2" />
+<Trait id="Valor" value="2" />
+<Trait id="Honor" value="1" />
+<Trait id="Generosity" value="-1" />
+<Trait id="Calculating" value="1" />
+<Trait id="Egalitarian" value="-1" />
+<Trait id="Oligarchic" value="-2" />
+<Trait id="Authoritarian" value="-2" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_lady" />
+      <EquipmentSet id="khuzait_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter> 
+ 
+  <NPCCharacter id="lord_pech_3a"
+                name="{=Küğel}Küğel"
+                voice="softspoken"
+                age="25"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.5" build="0.5498"  key="000DF80E40002051A6B7AA55BC984662D3698476796E977DD22D3DD538898868007876030796723B000000000000000000000000000000000000000050F44002"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="75" />
+<skill id="Medicine" value="100" />
+<skill id="Leadership" value="175" />
+<skill id="Steward" value="175" />
+<skill id="Trade" value="75" />
+<skill id="Charm" value="75" />
+<skill id="Roguery" value="300" />
+<skill id="Scouting" value="250" />
+<skill id="Tactics" value="175" />
+<skill id="Crafting" value="25" />
+<skill id="Athletics" value="75" />
+<skill id="Riding" value="275" />
+<skill id="Throwing" value="25" />
+<skill id="Crossbow" value="0" />
+<skill id="Bow" value="125" />
+<skill id="Polearm" value="175" />
+<skill id="TwoHanded" value="150" />
+<skill id="OneHanded" value="300" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="1" />
+<Trait id="Valor" value="-1" />
+<Trait id="Honor" value="1" />
+<Trait id="Generosity" value="-1" />
+<Trait id="Calculating" value="2" />
+<Trait id="Egalitarian" value="1" />
+<Trait id="Oligarchic" value="0" />
+<Trait id="Authoritarian" value="-1" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_lord" />
+      <EquipmentSet id="khuzait_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>   
+  
+  <NPCCharacter id="lord_pech_3b"
+                name="{=Bilge}Bilge"
+                voice="softspoken"
+                age="20"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.5" build="0.5498"  key="0020F00E40002007229753887ABCC946D36949ACAC7E9665D22D3DD538898868007876030796723B000000000000000000000000000000000000000050F43003"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="75" />
+<skill id="Medicine" value="75" />
+<skill id="Leadership" value="50" />
+<skill id="Steward" value="100" />
+<skill id="Trade" value="125" />
+<skill id="Charm" value="75" />
+<skill id="Roguery" value="150" />
+<skill id="Scouting" value="150" />
+<skill id="Tactics" value="75" />
+<skill id="Crafting" value="0" />
+<skill id="Athletics" value="50" />
+<skill id="Riding" value="150" />
+<skill id="Throwing" value="100" />
+<skill id="Crossbow" value="0" />
+<skill id="Bow" value="175" />
+<skill id="Polearm" value="175" />
+<skill id="TwoHanded" value="50" />
+<skill id="OneHanded" value="100" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="2" />
+<Trait id="Valor" value="0" />
+<Trait id="Honor" value="-2" />
+<Trait id="Generosity" value="1" />
+<Trait id="Calculating" value="0" />
+<Trait id="Egalitarian" value="-1" />
+<Trait id="Oligarchic" value="0" />
+<Trait id="Authoritarian" value="2" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_lady" />
+      <EquipmentSet id="khuzait_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter> 
+  
+  <NPCCharacter id="lord_pech_4a"
+                name="{=Qosta}Qosta"
+                voice="softspoken"
+                age="25"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.5" build="0.5498"  key="0020F00E40002042229753887ABCC946D36949ACAC7E9665D22D3DD538898868007876030796723B000000000000000000000000000000000000000050F44002"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="100" />
+<skill id="Medicine" value="100" />
+<skill id="Leadership" value="200" />
+<skill id="Steward" value="150" />
+<skill id="Trade" value="25" />
+<skill id="Charm" value="225" />
+<skill id="Roguery" value="250" />
+<skill id="Scouting" value="250" />
+<skill id="Tactics" value="150" />
+<skill id="Crafting" value="75" />
+<skill id="Athletics" value="125" />
+<skill id="Riding" value="200" />
+<skill id="Throwing" value="25" />
+<skill id="Crossbow" value="25" />
+<skill id="Bow" value="100" />
+<skill id="Polearm" value="300" />
+<skill id="TwoHanded" value="175" />
+<skill id="OneHanded" value="225" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="2" />
+<Trait id="Valor" value="-2" />
+<Trait id="Honor" value="1" />
+<Trait id="Generosity" value="0" />
+<Trait id="Calculating" value="0" />
+<Trait id="Egalitarian" value="1" />
+<Trait id="Oligarchic" value="1" />
+<Trait id="Authoritarian" value="-2" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_lord" />
+      <EquipmentSet id="khuzait_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>   
+  
+  <NPCCharacter id="lord_pech_4b"
+                name="{=Cemile}Cemile"
+                voice="softspoken"
+                age="20"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.khuzait"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+<BodyProperties version="4" age="22.15" weight="0.5" build="0.5498"  key="0020F00E4000200E229753887ABCC946D36949ACAC7E9665D22D3DD538898868007876030796723B000000000000000000000000000000000000000050F43003"  />
+    </face>
+	<skills>
+<skill id="Engineering" value="75" />
+<skill id="Medicine" value="100" />
+<skill id="Leadership" value="175" />
+<skill id="Steward" value="125" />
+<skill id="Trade" value="0" />
+<skill id="Charm" value="100" />
+<skill id="Roguery" value="125" />
+<skill id="Scouting" value="225" />
+<skill id="Tactics" value="75" />
+<skill id="Crafting" value="0" />
+<skill id="Athletics" value="100" />
+<skill id="Riding" value="200" />
+<skill id="Throwing" value="200" />
+<skill id="Crossbow" value="0" />
+<skill id="Bow" value="200" />
+<skill id="Polearm" value="100" />
+<skill id="TwoHanded" value="75" />
+<skill id="OneHanded" value="175" />
+</skills>
+    <Traits>
+<Trait id="Mercy" value="1" />
+<Trait id="Valor" value="1" />
+<Trait id="Honor" value="-1" />
+<Trait id="Generosity" value="-1" />
+<Trait id="Calculating" value="-1" />
+<Trait id="Egalitarian" value="1" />
+<Trait id="Oligarchic" value="0" />
+<Trait id="Authoritarian" value="1" />
+</Traits>
+    <Equipments>
+      <EquipmentSet id="khuzait_lady" />
+      <EquipmentSet id="khuzait_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter> 
+  
+</NPCCharacters>

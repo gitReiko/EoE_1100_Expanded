@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_pech_1a" spouse="Hero.lord_pech_1b" faction="Faction.clan_pech_1" />
+   <Hero id="lord_pech_1b" spouse="Hero.lord_pech_1a" faction="Faction.clan_pech_1" />
+   <Hero id="lord_pech_1c" father="Hero.lord_pech_1a" mother="Hero.lord_pech_1b" faction="Faction.clan_pech_1" />
+   <Hero id="lord_pech_1d" father="Hero.lord_pech_1a" mother="Hero.lord_pech_1b" faction="Faction.clan_pech_1" />
+   
+   <Hero id="lord_pech_2a" spouse="Hero.lord_pech_2b" faction="Faction.clan_pech_2" />
+   <Hero id="lord_pech_2b" spouse="Hero.lord_pech_2a" faction="Faction.clan_pech_2" />
+   
+   <Hero id="lord_pech_3a" spouse="Hero.lord_pech_3b" faction="Faction.clan_pech_3" />
+   <Hero id="lord_pech_3b" spouse="Hero.lord_pech_3a" faction="Faction.clan_pech_3" />
+   
+   <Hero id="lord_pech_4a" spouse="Hero.lord_pech_4b" faction="Faction.clan_pech_4" />
+   <Hero id="lord_pech_4b" spouse="Hero.lord_pech_4a" faction="Faction.clan_pech_4" />
+   
+   </Heroes>
