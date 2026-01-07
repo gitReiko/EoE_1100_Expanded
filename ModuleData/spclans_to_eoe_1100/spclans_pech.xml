@@ -15,6 +15,7 @@
 
   <Faction id="clan_pech_2"
     name="{=clan_pech_2}Yula"
+    text="{=clan_pech_fake.text}Banner is not real."
     initial_home_settlement="Settlement.town_pitesti"			   
     tier="3"
     owner="Hero.lord_pech_2a"
@@ -26,7 +27,8 @@
   />
 
   <Faction id="clan_pech_3"
-    name="{=clan_pech_3}Čur"
+    name="{=clan_pech_3}Irtogur"
+    text="{=clan_pech_fake.text}Banner is not real."
     initial_home_settlement="Settlement.town_balti"			   
     tier="3"
     owner="Hero.lord_pech_3a"
@@ -34,7 +36,7 @@
     super_faction="Kingdom.pecheneg"
     is_noble="true"
     banner_key="11.40.19.3418.3418.779.782.1.0.-30.527.116.116.246.236.896.748.0.0.-1.527.116.116.246.236.631.748.0.1.0.510.116.116.246.86.761.736.0.0.-1.510.116.116.246.86.761.754.0.0.-1" 
-    color="ff4876ff" color2="ffffd148" 
+    color="ffc94b4d" color2="fff9d575" 
   />
 
   <Faction id="clan_pech_4"
