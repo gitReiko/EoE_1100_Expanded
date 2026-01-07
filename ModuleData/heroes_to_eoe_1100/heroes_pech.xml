@@ -27,4 +27,11 @@
    <Hero id="lord_pech_4c" faction="Faction.clan_pech_4" />
    <Hero id="lord_pech_4d" faction="Faction.clan_pech_4" />
 
+
+   <Hero id="lord_pech_5a" spouse="Hero.lord_pech_5b" faction="Faction.clan_pech_5" />
+   <Hero id="lord_pech_5b" spouse="Hero.lord_pech_5a" faction="Faction.clan_pech_5" />
+   <Hero id="lord_pech_5c" father="Hero.lord_pech_5a" mother="Hero.lord_pech_5b" faction="Faction.clan_pech_5" />
+   <Hero id="lord_pech_5d" father="Hero.lord_pech_5a" mother="Hero.lord_pech_5b" faction="Faction.clan_pech_5" />
+   <Hero id="lord_pech_5e" father="Hero.lord_pech_5a" mother="Hero.lord_pech_5b" faction="Faction.clan_pech_5" />
+
 </Heroes>

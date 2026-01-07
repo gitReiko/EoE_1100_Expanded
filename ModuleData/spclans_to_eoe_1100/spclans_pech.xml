@@ -52,4 +52,16 @@
     color="ffa97535" color2="fff0e0a5" 
   />
 
+  <Faction id="clan_pech_5"
+    name="{=clan_pech_5}Erdem"
+    initial_home_settlement="Settlement.town_giurgiu"			   
+    tier="3"
+    owner="Hero.lord_pech_5a"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.pecheneg"
+    is_noble="true"
+    banner_key="11.33.19.1836.1836.764.764.1.0.-30.510.63.116.553.305.987.764.0.1.90.514.63.116.188.232.806.764.0.1.270.503.63.116.192.192.849.764.0.1.270.514.33.116.98.121.823.764.0.1.270.503.33.116.100.100.846.764.0.1.270.510.63.116.314.305.632.847.0.0.218.510.63.116.314.305.632.680.0.1.142"
+    color="ffefece5" color2="ffd7967a" 
+  />
+
 </Factions>
