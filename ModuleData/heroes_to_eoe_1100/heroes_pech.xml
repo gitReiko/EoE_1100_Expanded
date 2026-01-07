@@ -24,5 +24,7 @@
 
    <Hero id="lord_pech_4a" spouse="Hero.lord_pech_4b" faction="Faction.clan_pech_4" />
    <Hero id="lord_pech_4b" spouse="Hero.lord_pech_4a" faction="Faction.clan_pech_4" />
+   <Hero id="lord_pech_4c" faction="Faction.clan_pech_4" />
+   <Hero id="lord_pech_4d" faction="Faction.clan_pech_4" />
 
 </Heroes>

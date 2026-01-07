@@ -40,15 +40,16 @@
   />
 
   <Faction id="clan_pech_4"
-    name="{=clan_pech_4}Tolmač"
+    name="{=clan_pech_4}Tolmach"
+    text="{=clan_pech_fake.text}Banner is not real."
     initial_home_settlement="Settlement.town_bacau"			   
     tier="3"
     owner="Hero.lord_pech_4a"
     culture="Culture.khuzait"
     super_faction="Kingdom.pecheneg"
     is_noble="true"
-    banner_key="11.40.19.3418.3418.779.782.1.0.-30.510.116.116.246.236.762.484.0.0.-20.510.116.116.655.236.772.775.0.0.-110.510.116.116.187.236.822.865.0.0.-48.510.116.116.187.236.764.1011.0.0.-48"
-    color="ff4876ff" color2="ffffd148" 
+    banner_key="11.122.19.1836.1836.764.764.1.0.-30.510.44.116.553.305.670.754.0.0.241.510.44.116.553.305.858.754.0.1.119.505.122.116.177.632.762.1034.0.1.90.505.122.116.177.632.762.508.0.1.90.510.44.116.191.305.601.700.0.1.148"
+    color="ffa97535" color2="fff0e0a5" 
   />
 
 </Factions>
