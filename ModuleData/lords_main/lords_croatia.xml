@@ -11,7 +11,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.2601" build="0.4754"  key="00087C040058034A9818A66138B3574988B3ACA9D25779ABA98889518783541900974603099BA49C00000000000000000000000000000000000000004F2C8102"  />
+      <BodyProperties version="4" age="22.07" weight="0.2601" build="0.4754"  key="00087C040058034C9818A66138B3574988B3ACA9D25779ABA98889518783541900974603099BA49C00000000000000000000000000000000000000004F2C8102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="200" />
@@ -149,7 +149,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_1d"
     name="{=lord_croatian_1d.name}Pribislav Čudomirić"
     voice="softspoken"
@@ -160,7 +159,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.24" weight="0.5571" build="0.5764"  key="00087C06C05806069818A66138B357498893ACA9D257798BA6888C5167835419006986030679949C00000000000000000000000000000000000000004ED45102"  />
+      <BodyProperties version="4" age="22.07" weight="0.2321" build="0.4719"  key="00136C0FC0002186AB8927D5BCA5987DB65774992C2A789A93D4CB355C769BA800573603056A82AB00000000000000000000000000000000000000002CA420C4"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -199,7 +198,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_1e"
     name="{=lord_croatian_1e.name}Ugrin Kukar"
     voice="softspoken"
@@ -210,7 +208,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.24" weight="0.5571" build="0.5764"  key="00087C06C05806069818A66138B357498893ACA9D257798BA6888C5167835419006986030679949C00000000000000000000000000000000000000004ED45102"  />
+      <BodyProperties version="4" age="22.07" weight="0.0754" build="0.7472"  key="0020A808D57010C6548B985596671778658354C8CCB95C9695555ABA66BBC535008B16030863A65800000000000000000000000000000000000000005D1C5104"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -249,7 +247,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_1f"
     name="{=lord_croatian_1f.name}Obrad Lasničić"
     voice="softspoken"
@@ -260,7 +257,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.24" weight="0.5571" build="0.5764"  key="00087C06C05806069818A66138B357498893ACA9D257798BA6888C5167835419006986030679949C00000000000000000000000000000000000000004ED45102"  />
+      <BodyProperties version="4" age="22.07" weight="0.285" build="0.5542"  key="0020B408002C008B85929356475CC7AC46972B9A664D53872776B8D9444526D300684603065C564E00000000000000000000000000000000000000001CD46104"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -299,7 +296,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_1j"
     name="{=lord_croatian_1j.name}Pribislav Poletčić"
     voice="softspoken"
@@ -310,7 +306,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.24" weight="0.5571" build="0.5764"  key="00087C06C05806069818A66138B357498893ACA9D257798BA6888C5167835419006986030679949C00000000000000000000000000000000000000004ED45102"  />
+      <BodyProperties version="4" age="22.07" weight="0.4538" build="0.1707"  key="000D480D8FA0104D6C868C82A6479595B76E4B3714C778A9477A55B884A39965008376030858DD8B00000000000000000000000000000000000000007B1C5044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -448,7 +444,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_2c"
     name="{=lord_croatian_2c.name}Domagoj*"
     voice="softspoken"
@@ -459,7 +454,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.4217" build="0.7664"  key="001B9C014F882A1B8E5234D15453265B987343578D6365384BC63454A9BC7C77004B660304764C8A00000000000000000000000000000000000000004C7C9044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -498,7 +493,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_2d"
     name="{=lord_croatian_2d.name}Radomira*"
     default_group="Cavalry"
@@ -510,7 +504,7 @@
     occupation="Lord"
     face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E401410069AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C40C3"  />
+      <BodyProperties version="4" age="22.07" weight="0.3071" build="0.2883"  key="00157C0980003001D465B8E784CC7B679568B284467A7476A78749586A7C364900845603087AD6880000000000000000000000000000000000000000491C2082"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -549,7 +543,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_3a"
     name="{=lord_croatian_3a.name}Petar"
     voice="softspoken"
@@ -560,7 +553,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.7145" build="0.3441"  key="0015740980FC1340CC357463D52433795A43349543376286887794788659BA770075B60307B5876C00000000000000000000000000000000000000000EE40004"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -599,7 +592,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_3b"
     name="{=lord_croatian_3b.name}Dragana*"
     default_group="Cavalry"
@@ -611,7 +603,7 @@
     occupation="Lord"
     face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E401410069AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C40C3"  />
+      <BodyProperties version="4" age="22.07" weight="0.3588" build="0.5568"  key="001B0C0D80A0000E46996795B358B98558563659B8566498588AA3787ABB28B7008856030882955100000000000000000000000000000000000000006D144042"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -650,7 +642,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_3c"
     name="{=lord_croatian_3c.name}Dmitar*"
     voice="softspoken"
@@ -661,7 +652,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.7145" build="0.3441"  key="00153C0E40FC16C2C9357463852436795A433495433462868877947A8659BA770075B60307B5876800000000000000000000000000000000000000000EE42004"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -700,7 +691,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_3d"
     name="{=lord_croatian_3d.name}Ratko*"
     voice="softspoken"
@@ -711,7 +701,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.3627" build="0.196"  key="0018480980FC2008CC857463A52453785A45849543378486887794788657BA77008356030885876900000000000000000000000000000000000000000F140004"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -750,7 +740,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_4a"
     name="{=lord_croatian_4a.name}Mrmonja"
     voice="softspoken"
@@ -761,7 +750,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.3079" build="0.4629"  key="00154C00007029016C4688C452488E86884856878D67258AB5C94884B69B59910077560307C36753000000000000000000000000000000000000000038E48044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -800,7 +789,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_4b"
     name="{=lord_croatian_4b.name}Katarina*"
     default_group="Cavalry"
@@ -812,7 +800,7 @@
     occupation="Lord"
     face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E401410069AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C40C3"  />
+      <BodyProperties version="4" age="22.07" weight="0.4851" build="0.3568"  key="0015740200CC10042BC64AA7CA973998D9AD996729587667762338A7B57768750065760306D73C9800000000000000000000000000000000000000002EC41082"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -851,7 +839,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_4c"
     name="{=lord_croatian_4c.name}Stjepan*"
     voice="softspoken"
@@ -862,7 +849,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.3079" build="0.4629"  key="0018A000177023856C8588C452488B86884656878D67258AB5994884B69859940087560308C367530000000000000000000000000000000000000000391C8044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="25" />
@@ -901,7 +888,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_4d"
     name="{=lord_croatian_4d.name}Mladen*"
     voice="softspoken"
@@ -912,7 +898,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.3079" build="0.2515"  key="00152804007013836C4688B452488B84886856878A67258A85C94887B6AB59930054560305C36753000000000000000000000000000000000000000038AC8044"  />
     </face>
 	  <skills>
         <skill id="Engineering" value="100" />
@@ -951,7 +937,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_5a"
     name="{=lord_croatian_5a.name}Pavao"
     voice="softspoken"
@@ -962,7 +947,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.4475" build="0.3245"  key="001394098000380DC79F67E76B489E4D2474556AC558D848C395667C26B41C9D009576030936A5940000000000000000000000000000000000000000311C2004"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1001,7 +986,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_5b"
     name="{=lord_croatian_5b.name}Marija*"
     default_group="Cavalry"
@@ -1013,7 +997,7 @@
     occupation="Lord"
     face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E401410069AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C40C3"  />
+      <BodyProperties version="4" age="22.07" weight="0.6482" build="0.563"  key="0013B40AD64420019D7132A8D475774B88BB79D99AB568B6689A989B884A85D20078A603075186A8000000000000000000000000000000000000000036DC4082"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1052,7 +1036,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_5c"
     name="{=lord_croatian_5c.name}Petar*"
     voice="softspoken"
@@ -1063,7 +1046,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.3441" build="0.3349"  key="00153C098000114EC79F67E76B489E4D2475556AC5589848C395667986844C98007556030736A594000000000000000000000000000000000000000030FC2004"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1102,7 +1085,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_5d"
     name="{=lord_croatian_5d.name}Grgur*"
     voice="softspoken"
@@ -1113,7 +1095,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.2787" build="0.1683"  key="0015B00D802C1009385877987BA78797A9996837A687D65948B85C629A99A74800834603087D69450000000000000000000000000000000000000000650C4084"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1152,7 +1134,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_6a"
     name="{=lord_croatian_6a.name}Juraj"
     voice="softspoken"
@@ -1163,7 +1144,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.8654" build="0.7021"  key="001B4808DDA0078E84675A843A3AA3779428865AA68EC6759562C8A8C5986A69008BD603085589BB00000000000000000000000000000000000000003B0C50C4"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -1202,7 +1183,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_6b"
     name="{=lord_croatian_6b.name}Dobroslava*"
     default_group="Cavalry"
@@ -1214,7 +1194,7 @@
     occupation="Lord"
     face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E401410069AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C40C3"  />
+      <BodyProperties version="4" age="22.07" weight="0.2948" build="0.2948"  key="0018400B80003007B5DB8D4C3478A657255CA81C8383A5A78946374785A262B8008446030878BA5C000000000000000000000000000000000000000015141082"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1253,7 +1233,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_6c"
     name="{=lord_croatian_6c.name}Miroslav*"
     voice="softspoken"
@@ -1264,7 +1243,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.4799" build="0.5633"  key="00186008C0A012C9546758843A3A837764288658A68AC6759562C8A5C5986A6900987603095589BB00000000000000000000000000000000000000003B2450C4"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1303,7 +1282,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_croatian_6d"
     name="{=lord_croatian_6d.name}Andrija*"
     voice="softspoken"
@@ -1314,7 +1292,7 @@
     occupation="Lord"
     default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.7595" build="0.4433"  key="00005C0E501407DB9AA84627A4A2963C8C79D73DC267EA3879C9AB58468692B50097B60309B46B5B0000000000000000000000000000000000000000473C6142"  />
+      <BodyProperties version="4" age="22.07" weight="0.8654" build="0.4799"  key="001B4408C0A0060C546756843637A3769425665AA689967595624868759866690077D603075589BB00000000000000000000000000000000000000003ADC40C4"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
