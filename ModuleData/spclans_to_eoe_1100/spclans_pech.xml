@@ -2,42 +2,51 @@
 <Factions>
 
   <Faction id="clan_pech_1"
-           name="{=Erdem}Erdem"
-		   initial_home_settlement="Settlement.town_pitesti"		   
-           tier="4"
-           owner="Hero.lord_pech_1a"
-           culture="Culture.khuzait"
-           super_faction="Kingdom.pecheneg"
-           is_noble="true"
-           banner_key="11.40.19.3418.3418.779.782.1.0.-30.528.116.116.677.517.763.760.0.0.-180" />
+    name="{=clan_pech_1}Kuertsitsur"
+    initial_home_settlement="Settlement.town_mauricastro"		   
+    tier="4"
+    owner="Hero.lord_pech_1a"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.pecheneg"
+    is_noble="true"
+    banner_key="11.120.19.1836.1836.764.764.1.0.-30.510.44.116.553.305.670.754.0.0.241.510.44.116.553.305.858.754.0.1.119.505.120.116.177.632.762.1034.0.1.90.505.120.116.177.632.762.508.0.1.90" 
+    color="ff5fbd72" color2="fff0e0a5" 
+  />
 
   <Faction id="clan_pech_2"
-           name="{=Yula}Yula"
-		   initial_home_settlement="Settlement.town_balti"			   
-           tier="3"
-           owner="Hero.lord_pech_2a"
-           culture="Culture.khuzait"
-           super_faction="Kingdom.pecheneg"
-           is_noble="true"
-           banner_key="11.40.19.3418.3418.779.782.1.0.-30.528.116.116.478.365.763.614.0.0.-1.510.116.116.419.320.766.905.0.0.-90" />
+    name="{=clan_pech_2}Yula"
+    initial_home_settlement="Settlement.town_pitesti"			   
+    tier="3"
+    owner="Hero.lord_pech_2a"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.pecheneg"
+    is_noble="true"
+    banner_key="11.40.19.3418.3418.779.782.1.0.-30.528.116.116.478.365.763.614.0.0.-1.510.116.116.419.320.766.905.0.0.-90" 
+    color="ff4876ff" color2="ffffd148" 
+  />
 
   <Faction id="clan_pech_3"
-           name="{=Čur}Čur"
-		   initial_home_settlement="Settlement.town_bacau"			   
-           tier="3"
-           owner="Hero.lord_pech_3a"
-           culture="Culture.khuzait"
-           super_faction="Kingdom.pecheneg"
-           is_noble="true"
-           banner_key="11.40.19.3418.3418.779.782.1.0.-30.527.116.116.246.236.896.748.0.0.-1.527.116.116.246.236.631.748.0.1.0.510.116.116.246.86.761.736.0.0.-1.510.116.116.246.86.761.754.0.0.-1" />		   
+    name="{=clan_pech_3}Čur"
+    initial_home_settlement="Settlement.town_balti"			   
+    tier="3"
+    owner="Hero.lord_pech_3a"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.pecheneg"
+    is_noble="true"
+    banner_key="11.40.19.3418.3418.779.782.1.0.-30.527.116.116.246.236.896.748.0.0.-1.527.116.116.246.236.631.748.0.1.0.510.116.116.246.86.761.736.0.0.-1.510.116.116.246.86.761.754.0.0.-1" 
+    color="ff4876ff" color2="ffffd148" 
+  />
+
   <Faction id="clan_pech_4"
-           name="{=Tolmač}Tolmač"
-		   initial_home_settlement="Settlement.town_giurgiu"			   
-           tier="3"
-           owner="Hero.lord_pech_4a"
-           culture="Culture.khuzait"
-           super_faction="Kingdom.pecheneg"
-           is_noble="true"
-           banner_key="11.40.19.3418.3418.779.782.1.0.-30.510.116.116.246.236.762.484.0.0.-20.510.116.116.655.236.772.775.0.0.-110.510.116.116.187.236.822.865.0.0.-48.510.116.116.187.236.764.1011.0.0.-48" />		
+    name="{=clan_pech_4}Tolmač"
+    initial_home_settlement="Settlement.town_bacau"			   
+    tier="3"
+    owner="Hero.lord_pech_4a"
+    culture="Culture.khuzait"
+    super_faction="Kingdom.pecheneg"
+    is_noble="true"
+    banner_key="11.40.19.3418.3418.779.782.1.0.-30.510.116.116.246.236.762.484.0.0.-20.510.116.116.655.236.772.775.0.0.-110.510.116.116.187.236.822.865.0.0.-48.510.116.116.187.236.764.1011.0.0.-48"
+    color="ff4876ff" color2="ffffd148" 
+  />
 
 </Factions>
