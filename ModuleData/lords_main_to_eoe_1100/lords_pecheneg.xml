@@ -198,7 +198,6 @@
     </Equipments>
     </NPCCharacter> 
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_1e"
                 name="{=lord_pech_1e}Korkut*"
                 voice="softspoken"
@@ -209,7 +208,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.4398" build="0.5602"  key="0015C80E51002182B69837C75A683B879369893ABDFE344CD25B3DD5388988680058760305A6723B00000000000000000000000000000000000000003EBC3002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="75" />
@@ -248,7 +247,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_1f"
                 name="{=lord_pech_1f}Kunduz*"
                 voice="softspoken"
@@ -259,7 +257,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40003002B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141003"  />
+        <BodyProperties version="4" age="22.07" weight="0.4398" build="0.5602"  key="0015C80E51002002B69837C75A683B879369893ABDFE344CD25B3DD5388988680058760305A6723B00000000000000000000000000000000000000003EBC3002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -396,7 +394,6 @@
     </Equipments>
     </NPCCharacter> 
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_2c"
                 name="{=lord_pech_2c}Hars*"
                 voice="softspoken"
@@ -407,7 +404,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.5" build="0.5"  key="0015F80E4000200975708BD6CDC8522973658B3ABDA9344CD22D3DD536898868009776030996723B00000000000000000000000000000000000000003F1C1002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="100" />
@@ -446,7 +443,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_2d"
                 name="{=lord_pech_2d}Chelbir*"
                 voice="softspoken"
@@ -457,7 +453,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.3009" build="0.2731"  key="0018F80E4000000E7570868679C8522673658B3ABDA9344CA22D31D536898868009456030976726B00000000000000000000000000000000000000003F1C1002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -594,7 +590,6 @@
     </Equipments>
     </NPCCharacter> 
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_3c"
                 name="{=lord_pech_3c}Ermis*"
                 voice="softspoken"
@@ -605,7 +600,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.412" build="0.3925"  key="0013A00E4FA000094D4C683826A8E29AC5A595316B697D6A298A4274ACA75B69006666030675AB5800000000000000000000000000000000000000001ECC0082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="200" />
@@ -644,7 +639,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_3d"
                 name="{=lord_pech_3d}Nayman*"
                 voice="softspoken"
@@ -655,7 +649,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.2639" build="0.3925"  key="0015D40E40A020144D88663826A8947A85A595316B697D6A598A45746CA75B69008646030876AB5800000000000000000000000000000000000000001F142082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="75" />
@@ -694,7 +688,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_3e"
                 name="{=lord_pech_3e}Iluz*"
                 voice="softspoken"
@@ -705,7 +698,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40003002B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141003"  />
+        <BodyProperties version="4" age="22.07" weight="0.4546" build="0.1547"  key="0002FC0E69140006DB7CA9653486B6B756B5A9485C683B6E572A8847969B658B005276030568C287000000000000000000000000000000000000000024B420C2"  />
     </face>
 	<skills>
         <skill id="Engineering" value="75" />
@@ -842,7 +835,6 @@
     </Equipments>
     </NPCCharacter> 
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_4c"
                 name="{=lord_pech_4c}Karsak*"
                 voice="softspoken"
@@ -853,7 +845,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.3843" build="0.3194"  key="001EC00E54001012229755887ABC994893684AACAC7E9665D22D3DD538898868005566030596723B000000000000000000000000000000000000000050AC2082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="75" />
@@ -892,7 +884,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_4d"
                 name="{=lord_pech_4d}Nural*"
                 voice="softspoken"
@@ -903,7 +894,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.3843" build="0.3194"  key="0018180E400037C3229755887AB9994773664AACAC7D966592293DD578898868005566030596723B000000000000000000000000000000000000000050AC1082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="100" />
@@ -942,7 +933,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_5a"
                 name="{=lord_pech_5a}Kodar*"
                 voice="softspoken"
@@ -953,7 +943,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.5659" build="0.7729"  key="00023803402C1685DA85B7883635E725D9BA4494558845BD9D62644695CA986B007C860307283DE5000000000000000000000000000000000000000068EC40C2"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -992,7 +982,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_5b"
                 name="{=lord_pech_5b}Jida*"
                 voice="softspoken"
@@ -1003,7 +992,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5498"  key="0020F00E4000200E229753887ABCC946D36949ACAC7E9665D22D3DD538898868007876030796723B000000000000000000000000000000000000000050F43003"  />
+        <BodyProperties version="4" age="22.07" weight="0.3025" build="0.3194"  key="00107403404410047553D874A79771A976685A96875E774986669A55558DA8910055560305C7D68A000000000000000000000000000000000000000062AC1002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="100" />
@@ -1042,7 +1031,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_5c"
                 name="{=lord_pech_5c}Duzgun*"
                 voice="softspoken"
@@ -1053,7 +1041,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.5659" build="0.5509"  key="00109803402C15C8DA8597883635972579B74494558845AD9D62314695CA986B0068860306483AE5000000000000000000000000000000000000000068C440C2"  />
     </face>
 	<skills>
         <skill id="Engineering" value="100" />
@@ -1092,7 +1080,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_5d"
                 name="{=lord_pech_5d}Jandibek*"
                 voice="softspoken"
@@ -1103,7 +1090,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5602"  key="0015F80E40001546B878A2459ACA6668D3698B3ABDFE344CD22D3DD538898868008876030896723B00000000000000000000000000000000000000003F141002"  />
+        <BodyProperties version="4" age="22.07" weight="0.5659" build="0.5509"  key="00103C03402C1282DA85678836356725796744645588456D9A623A48859A986B0068860306483AE5000000000000000000000000000000000000000068C440C2"  />
     </face>
 	<skills>
         <skill id="Engineering" value="75" />
@@ -1142,7 +1129,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_pech_5e"
                 name="{=lord_pech_5e}Kaganay*"
                 voice="softspoken"
@@ -1153,7 +1139,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.5" build="0.5498"  key="0020F00E4000200E229753887ABCC946D36949ACAC7E9665D22D3DD538898868007876030796723B000000000000000000000000000000000000000050F43003"  />
+        <BodyProperties version="4" age="22.07" weight="0.2361" build="0.2454"  key="00103C03402C2002DA85678836356725796744645588456D9A623A48859A986B0054460305483AE5000000000000000000000000000000000000000068A44002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
