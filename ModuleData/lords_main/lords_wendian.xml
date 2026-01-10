@@ -953,4 +953,156 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- facegen -->
+  <NPCCharacter id="lord_wendian_5a"
+                name="{=lord_wendian_5a}Vyacheslav*"
+                voice="softspoken"
+                age="31"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.2" weight="0.4429" build="0.3781"  key="00153C021ACC218F86EBB3B8B3327896B6AA888BB7A779877B7853A68D657E750076760307598585000000000000000000000000000000000000000028E44004"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="polish_lord" />
+      <EquipmentSet id="polish_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wendian_5b"
+                name="{=lord_wendian_5b}Dragomira*"
+                default_group="Cavalry"
+                age="28"
+                voice="softspoken"
+                is_hero="true"
+				is_female="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.2" weight="0.3719" build="0.2485"  key="0010140080FC000BDDCCBBB3A5A5582DC5983EB685512496C3B558A71258D977005466030562955900000000000000000000000000000000000000006CB40004"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="polish_lady" />
+      <EquipmentSet id="polish_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wendian_5c"
+                name="{=lord_wendian_5c}Mstislav*"
+                voice="softspoken"
+                age="27"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.2" weight="0.4429" build="0.3781"  key="00153C021ACC218F86EBB3B8B3327896B6AA888BB7A779877B7853A68D657E750076760307598585000000000000000000000000000000000000000028E44004"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="polish_lord" />
+      <EquipmentSet id="polish_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
 </NPCCharacters>

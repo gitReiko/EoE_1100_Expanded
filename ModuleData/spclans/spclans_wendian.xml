@@ -40,13 +40,25 @@
   <Faction id="clan_wendian_4"
     name="{=clan_wendian_4.name}Redarii"
     initial_home_settlement="Settlement.town_brandenburg" 	
-    tier="3"
+    tier="2"
     owner="Hero.lord_wendian_4a"
     culture="Culture.polish"
     super_faction="Kingdom.wends"
     is_noble="true"
     banner_key="11.142.19.1836.1836.764.764.1.0.0.503.155.116.272.272.764.764.0.0.0.401.155.116.588.588.764.764.0.0.0" 
     color="ff830d0d" color2="ffe9a74d" 
+  />
+
+  <Faction id="clan_wendian_5"
+    name="{=clan_wendian_5.name}Tollenser"
+    initial_home_settlement="Settlement.castle_garz" 	
+    tier="2"
+    owner="Hero.lord_wendian_5a"
+    culture="Culture.polish"
+    super_faction="Kingdom.wends"
+    is_noble="true"
+    banner_key="11.155.19.1836.1836.764.764.1.0.0.124.96.116.533.533.764.764.0.1.0" 
+    color="ffe9a74d" color2="ff3b3122" 
   />
 
 </Factions>
