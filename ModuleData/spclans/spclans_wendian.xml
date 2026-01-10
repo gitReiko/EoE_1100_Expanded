@@ -4,7 +4,7 @@
   <Faction id="clan_danish_2"
     name="{=clan_wendian_1.name}Nakonids"
     initial_home_settlement="Settlement.castle_lubek" 	
-    tier="4"
+    tier="3"
     owner="Hero.lord_danish_2a"
     culture="Culture.polish"
     super_faction="Kingdom.wends"
@@ -16,7 +16,7 @@
   <Faction id="clan_german_23"
     name="{=clan_wendian_2.name}Hevelli"
     initial_home_settlement="Settlement.town_brandenburg" 	
-    tier="4"
+    tier="2"
     owner="Hero.lord_german_23a"
     culture="Culture.polish"
     super_faction="Kingdom.wends"
@@ -28,7 +28,7 @@
   <Faction id="clan_wendian_3"
     name="{=clan_wendian_3.name}Wizlaw"
     initial_home_settlement="Settlement.castle_garz" 	
-    tier="4"
+    tier="3"
     owner="Hero.lord_wendian_3a"
     culture="Culture.polish"
     super_faction="Kingdom.wends"
@@ -37,5 +37,28 @@
     color="ff383838" color2="ffe4c15b" 
   />
 
+  <Faction id="clan_wendian_4"
+    name="{=clan_wendian_4.name}Redarii"
+    initial_home_settlement="Settlement.town_brandenburg" 	
+    tier="2"
+    owner="Hero.lord_wendian_4a"
+    culture="Culture.polish"
+    super_faction="Kingdom.wends"
+    is_noble="true"
+    banner_key="11.142.19.1836.1836.764.764.1.0.0.503.155.116.272.272.764.764.0.0.0.401.155.116.588.588.764.764.0.0.0" 
+    color="ff830d0d" color2="ffe9a74d" 
+  />
+
+  <Faction id="clan_wendian_5"
+    name="{=clan_wendian_5.name}Tollenser"
+    initial_home_settlement="Settlement.castle_garz" 	
+    tier="2"
+    owner="Hero.lord_wendian_5a"
+    culture="Culture.polish"
+    super_faction="Kingdom.wends"
+    is_noble="true"
+    banner_key="11.155.19.1836.1836.764.764.1.0.0.124.96.116.533.533.764.764.0.1.0" 
+    color="ffe9a74d" color2="ff3b3122" 
+  />
 
 </Factions>

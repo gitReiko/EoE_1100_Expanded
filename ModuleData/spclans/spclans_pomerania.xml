@@ -28,7 +28,7 @@
   <Faction id="clan_pomerania_3"
     name="{=clan_pomerania_3.name}Griffin of Nakło"
     initial_home_settlement="Settlement.castle_slupsk" 	
-    tier="3"
+    tier="2"
     owner="Hero.lord_polish_2c"
     culture="Culture.polish"
     super_faction="Kingdom.pomerania"
@@ -40,13 +40,25 @@
   <Faction id="clan_poland_7"
     name="{=clan_pomerania_4.name}Borko"
     initial_home_settlement="Settlement.town_szczecin" 	
-    tier="3"
+    tier="2"
     owner="Hero.lord_polish_7a"
     culture="Culture.polish"
     super_faction="Kingdom.pomerania"
     is_noble="true"
     banner_key="11.155.146.2085.2085.764.764.1.0.0.148.142.116.391.469.764.629.0.1.-8.148.142.116.391.469.764.897.0.1.-8" 
     color="FFe9a74d" color2="FF830d0d" 
+  />
+
+  <Faction id="clan_pomerania_5"
+    name="{=clan_pomerania_5.name}Prislaviden"
+    initial_home_settlement="Settlement.town_szczecin" 	
+    tier="2"
+    owner="Hero.lord_pomeranian_5a"
+    culture="Culture.polish"
+    super_faction="Kingdom.pomerania"
+    is_noble="true"
+    banner_key="11.142.146.2085.2085.764.764.1.0.0.503.155.116.508.508.764.764.0.1.0.505.141.116.385.60.764.764.0.1.0.505.141.116.385.60.764.764.0.1.90" 
+    color="FF3b6298" color2="FFe9a74d" 
   />
 
 </Factions>
