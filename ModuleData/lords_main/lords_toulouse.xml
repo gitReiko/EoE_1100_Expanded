@@ -2,8 +2,8 @@
 <NPCCharacters>
 
     <NPCCharacter id="lord_french_10a"
-                name="{=Raymond IV}Raymond IV"
-                age="59"
+                name="{=lord_toulouse_1a}Raymond IV de Toulouse"
+                age="58"
                 voice="ironic"
                 default_group="Cavalry"
                 is_hero="true"
@@ -14,24 +14,24 @@
         <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
     </face>
     <skills>
-        <skill id="Engineering" value="100" />
+        <skill id="Engineering" value="150" />
         <skill id="Medicine" value="75" />
         <skill id="Leadership" value="150" />
-        <skill id="Steward" value="150" />
+        <skill id="Steward" value="250" />
         <skill id="Trade" value="75" />
-        <skill id="Charm" value="100" />
+        <skill id="Charm" value="200" />
         <skill id="Roguery" value="175" />
-        <skill id="Scouting" value="125" />
+        <skill id="Scouting" value="175" />
         <skill id="Tactics" value="150" />
-        <skill id="Crafting" value="0" />
+        <skill id="Crafting" value="100" />
         <skill id="Athletics" value="100" />
         <skill id="Riding" value="225" />
         <skill id="Throwing" value="0" />
-        <skill id="Crossbow" value="50" />
+        <skill id="Crossbow" value="150" />
         <skill id="Bow" value="75" />
         <skill id="Polearm" value="275" />
-        <skill id="TwoHanded" value="75" />
-        <skill id="OneHanded" value="150" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="200" />
 	</skills>
     <Traits>
         <Trait id="Mercy" value="-2" />
@@ -52,8 +52,8 @@
     </NPCCharacter>
   
     <NPCCharacter id="lord_french_10b"
-                name="{=Elvira of Castile}Elvira of Castile"
-                age="18"
+                name="{=lord_toulouse_1b}Elvire de Castille"
+                age="24"
                 voice="ironic"
                 is_female="true"
                 culture="Culture.vlandia"
@@ -100,9 +100,162 @@
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
-  
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_toulouse_1c"
+                name="{=lord_toulouse_1c}Bertrand de Toulouse"
+                age="29"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="150" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="100" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="200" />
+        <skill id="OneHanded" value="150" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_toulouse_1d"
+                name="{=lord_toulouse_1d}Philippe de Toulouse"
+                age="29"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="200" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="50" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="250" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="2" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_toulouse_1e"
+                name="{=lord_toulouse_1e}Alphonse Jourdain"
+                age="5"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="175" />
+        <skill id="Crafting" value="50" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="200" />
+        <skill id="OneHanded" value="150" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
     <NPCCharacter id="lord_french_11a"
-                name="{=Bernard Ato IV}Bernard Ato IV"
+                name="{=lord_toulouse_2a}Bernard Ato IV"
                 age="36"
                 voice="ironic"
                 default_group="Cavalry"
@@ -152,7 +305,7 @@
     </NPCCharacter>
   
     <NPCCharacter id="lord_french_11b"
-                name="{=Cecilia}Cecilia"
+                name="{=lord_toulouse_2b}Cecilia"
                 age="36"
                 voice="ironic"
                 is_female="true"
@@ -202,7 +355,7 @@
     </NPCCharacter>
   
     <NPCCharacter id="lord_french_11c"
-                name="{=Roger I}Roger I"
+                name="{=lord_toulouse_2c}Roger I"
                 age="18"
                 voice="ironic"
                 default_group="Cavalry"
