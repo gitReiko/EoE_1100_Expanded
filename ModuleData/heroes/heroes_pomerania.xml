@@ -25,4 +25,9 @@
    <Hero id="lord_pomeranian_4b" spouse="Hero.lord_polish_7a" faction="Faction.clan_poland_7" />
    <Hero id="lord_pomeranian_4c" faction="Faction.clan_poland_7" />
 
+
+   <Hero id="lord_pomeranian_5a" spouse="Hero.lord_pomeranian_5b" faction="Faction.clan_pomerania_5" />
+   <Hero id="lord_pomeranian_5b" spouse="Hero.lord_pomeranian_5a" faction="Faction.clan_pomerania_5" />
+   <Hero id="lord_pomeranian_5c" faction="Faction.clan_pomerania_5" />
+
 </Heroes>
