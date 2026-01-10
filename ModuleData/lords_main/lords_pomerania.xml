@@ -838,7 +838,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_pomeranian_5a"
                 name="{=lord_pomeranian_5a.name}Prislav"
                 voice="softspoken"
@@ -849,7 +848,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.01" weight="0.5555" build="0.7834"  key="0002CC03547007C5A639C6A5923AA5689B47879E49887968252A18645BDE66CA006C860306B4876C000000000000000000000000000000000000000036BC20C4"  />
+      <BodyProperties version="4" age="22.01" weight="0.7046" build="0.4711"  key="000AA0041AB4240D8975B25939C9C99CB8B2C7A66BAB49C67B9C7C3B81A987B200A7B6030A7B6D6200000000000000000000000000000000000000003D4C7082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -888,7 +887,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_pomeranian_5b"
                 name="{=lord_pomeranian_5b.name}Zlatomira*"
                 default_group="Cavalry"
@@ -900,7 +898,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.01" weight="0.5421" build="0.3884"  key="0013280D805800016566CED74BA986676B75B373BA544416BD55C698985D36670076860307B85365000000000000000000000000000000000000000056EC1102"  />
+      <BodyProperties version="4" age="22.01" weight="0.3534" build="0.2577"  key="0015640AC058200238C76DDC79A8C69328C66B7C54AA278926B27B798C47A55700745603078BC624000000000000000000000000000000000000000008F440C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -939,7 +937,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_pomeranian_5c"
                 name="{=lord_pomeranian_5c.name}Mitzlaw"
                 voice="softspoken"
@@ -950,7 +947,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.01" weight="0.5555" build="0.7834"  key="0002CC03547007C5A639C6A5923AA5689B47879E49887968252A18645BDE66CA006C860306B4876C000000000000000000000000000000000000000036BC20C4"  />
+      <BodyProperties version="4" age="22.01" weight="0.4491" build="0.3843"  key="000A500400B423128775935639C9C99AB87677A46BAB49C67B9C753781A9878200867603087B6D6500000000000000000000000000000000000000003D147082"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />

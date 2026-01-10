@@ -749,7 +749,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wendian_4a"
                 name="{=lord_wendian_4a}Tugomir*"
                 voice="softspoken"
@@ -760,7 +759,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.2" weight="0.4429" build="0.3781"  key="00153C021ACC218F86EBB3B8B3327896B6AA888BB7A779877B7853A68D657E750076760307598585000000000000000000000000000000000000000028E44004"  />
+      <BodyProperties version="4" age="22.01" weight="0.1993" build="0.4694"  key="000AE0055ECC280DA9D78348398AD4BC49C5B69677C78A18289A37944CB4D692006736030669D58900000000000000000000000000000000000000003AD48082"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -799,7 +798,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wendian_4b"
                 name="{=lord_wendian_4b}Veselina*"
                 default_group="Cavalry"
@@ -811,7 +809,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.2" weight="0.3719" build="0.2485"  key="0010140080FC000BDDCCBBB3A5A5582DC5983EB685512496C3B558A71258D977005466030562955900000000000000000000000000000000000000006CB40004"  />
+      <BodyProperties version="4" age="22.01" weight="0.4954" build="0.4112"  key="000D500D98FC200BB9CCA886A88446646A72B6C98768C4378A6B8B38A6DC9A3A00867603088A1A37000000000000000000000000000000000000000049143082"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -851,7 +849,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wendian_4c"
                 name="{=lord_wendian_4c}Boguslav*"
                 voice="softspoken"
@@ -862,7 +859,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.2" weight="0.4429" build="0.3781"  key="00153C021ACC218F86EBB3B8B3327896B6AA888BB7A779877B7853A68D657E750076760307598585000000000000000000000000000000000000000028E44004"  />
+      <BodyProperties version="4" age="22.01" weight="0.4676" build="0.3287"  key="000AA40540CC28C6A9777367398AD4B849C8869677C78848589A57944CB49692008576030869D58900000000000000000000000000000000000000003B047082"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -901,7 +898,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wendian_4d"
                 name="{=lord_wendian_4d}Ratimira*"
                 default_group="Cavalry"
@@ -913,7 +909,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.2" weight="0.3719" build="0.2485"  key="0010140080FC000BDDCCBBB3A5A5582DC5983EB685512496C3B558A71258D977005466030562955900000000000000000000000000000000000000006CB40004"  />
+      <BodyProperties version="4" age="22.01" weight="0.338" build="0.2454"  key="000A800540CC200FA9777367398AD4B849C8869677C78848589A57944CB49692005456030569D58900000000000000000000000000000000000000003ABC40C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -953,7 +949,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wendian_5a"
                 name="{=lord_wendian_5a}Vyacheslav*"
                 voice="softspoken"
@@ -964,7 +959,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.2" weight="0.4429" build="0.3781"  key="00153C021ACC218F86EBB3B8B3327896B6AA888BB7A779877B7853A68D657E750076760307598585000000000000000000000000000000000000000028E44004"  />
+      <BodyProperties version="4" age="22.01" weight="0.6513" build="0.7408"  key="001BA80B8044335C2819853C6B656C76688779B267AE39771889A6994DB58798008BA6030862B975000000000000000000000000000000000000000053142042"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -1003,7 +998,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wendian_5b"
                 name="{=lord_wendian_5b}Dragomira*"
                 default_group="Cavalry"
@@ -1015,7 +1009,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.2" weight="0.3719" build="0.2485"  key="0010140080FC000BDDCCBBB3A5A5582DC5983EB685512496C3B558A71258D977005466030562955900000000000000000000000000000000000000006CB40004"  />
+      <BodyProperties version="4" age="22.01" weight="0.1867" build="0.8492"  key="00104C081F2C200786958C6778785965C6F7DC67E7A588926A5A92C6A9A936C9006D36030655BC48000000000000000000000000000000000000000078BC10C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1055,7 +1049,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wendian_5c"
                 name="{=lord_wendian_5c}Mstislav*"
                 voice="softspoken"
@@ -1066,7 +1059,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.2" weight="0.4429" build="0.3781"  key="00153C021ACC218F86EBB3B8B3327896B6AA888BB7A779877B7853A68D657E750076760307598585000000000000000000000000000000000000000028E44004"  />
+      <BodyProperties version="4" age="22.01" weight="0.3565" build="0.4306"  key="0018D80B8044309B2687853C6B656876688779B267AA39775889AD9548B56798007656030752B975000000000000000000000000000000000000000052F42042"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
