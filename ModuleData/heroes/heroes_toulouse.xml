@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_french_10a" spouse="Hero.lord_french_10b" faction="Faction.clan_french_10" />
+   <Hero id="lord_french_10b" spouse="Hero.lord_french_10a" father="Hero.lord_castile_1a" mother="Hero.lord_castile_1b" faction="Faction.clan_french_10" />
+
+
+   <Hero id="lord_french_11a" spouse="Hero.lord_french_11b" faction="Faction.clan_french_11" />
+   <Hero id="lord_french_11b" spouse="Hero.lord_french_11a" faction="Faction.clan_french_11" />
+   <Hero id="lord_french_11c" faction="Faction.clan_french_11" />
+
+
+
+
+
+</Heroes>
