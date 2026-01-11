@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_french_10a" spouse="Hero.lord_french_10b" faction="Faction.clan_french_10" />
+   <Hero id="lord_french_10b" spouse="Hero.lord_french_10a" father="Hero.lord_castile_1a" mother="Hero.lord_castile_1b" faction="Faction.clan_french_10" />
+   <Hero id="lord_toulouse_1c" father="Hero.lord_french_10a" faction="Faction.clan_french_10" />
+   <Hero id="lord_toulouse_1d" father="Hero.lord_french_10a" faction="Faction.clan_french_10" />
+   <Hero id="lord_toulouse_1e" mother="Hero.lord_french_10b" father="Hero.lord_french_10a" faction="Faction.clan_french_10" />
+
+
+   <Hero id="lord_french_11a" spouse="Hero.lord_french_11b" faction="Faction.clan_french_11" />
+   <Hero id="lord_french_11b" spouse="Hero.lord_french_11a" faction="Faction.clan_french_11" />
+   <Hero id="lord_french_11c" mother="Hero.lord_french_11b" father="Hero.lord_french_11a" faction="Faction.clan_french_11" />
+   <Hero id="lord_toulouse_2d" mother="Hero.lord_french_11b" father="Hero.lord_french_11a" faction="Faction.clan_french_11" />
+   <Hero id="lord_toulouse_2e" faction="Faction.clan_french_11" />
+   <Hero id="lord_toulouse_2f" faction="Faction.clan_french_11" />
+
+
+   <Hero id="lord_toulouse_3a" spouse="Hero.lord_toulouse_3b" faction="Faction.clan_toulouse_3" />
+   <Hero id="lord_toulouse_3b" spouse="Hero.lord_toulouse_3a" faction="Faction.clan_toulouse_3" />
+   <Hero id="lord_toulouse_3c" mother="Hero.lord_toulouse_3b" father="Hero.lord_toulouse_3a" faction="Faction.clan_toulouse_3" />
+   <Hero id="lord_toulouse_3d" mother="Hero.lord_toulouse_3b" father="Hero.lord_toulouse_3a" faction="Faction.clan_toulouse_3" />
+   <Hero id="lord_toulouse_3e" faction="Faction.clan_toulouse_3" />
+   <Hero id="lord_toulouse_3f" faction="Faction.clan_toulouse_3" />
+
+
+   <Hero id="lord_toulouse_4a" faction="Faction.clan_toulouse_4" />
+   <Hero id="lord_toulouse_4b" spouse="Hero.lord_toulouse_4c" faction="Faction.clan_toulouse_4" />
+   <Hero id="lord_toulouse_4c" spouse="Hero.lord_toulouse_4b" faction="Faction.clan_toulouse_4" />
+   <Hero id="lord_toulouse_4d" faction="Faction.clan_toulouse_4" />
+   <Hero id="lord_toulouse_4e" faction="Faction.clan_toulouse_4" />
+
+
+   <Hero id="lord_toulouse_5a" spouse="Hero.lord_toulouse_5b" faction="Faction.clan_toulouse_5" />
+   <Hero id="lord_toulouse_5b" spouse="Hero.lord_toulouse_5a" faction="Faction.clan_toulouse_5" />
+   <Hero id="lord_toulouse_5c" mother="Hero.lord_toulouse_5b" father="Hero.lord_toulouse_5a" faction="Faction.clan_toulouse_5" />
+   <Hero id="lord_toulouse_5d" mother="Hero.lord_toulouse_5b" father="Hero.lord_toulouse_5a" faction="Faction.clan_toulouse_5" />
+   <Hero id="lord_toulouse_5e" faction="Faction.clan_toulouse_5" />
+   <Hero id="lord_toulouse_5f" faction="Faction.clan_toulouse_5" />
+
+</Heroes>
