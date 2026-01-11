@@ -49,9 +49,16 @@
     color="ffd22e31" color2="fff7bf47"
   />
 
-
-
-
-
+  <Faction id="clan_toulouse_5"
+    name="{=clan_toulouse_5}Melgueil"
+    initial_home_settlement="Settlement.town_montpellier" 			   
+    tier="3"
+    owner="Hero.lord_toulouse_5a"
+    culture="Culture.vlandia"
+    super_faction="Kingdom.toulouse"
+    is_noble="true"
+    banner_key="11.30.19.1836.1836.764.764.1.0.0.505.96.116.2284.784.764.314.0.1.0" 
+    color="ff3b3122" color2="ffcac1ba"
+  />
 
 </Factions>
