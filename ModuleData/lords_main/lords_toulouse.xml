@@ -11,7 +11,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.6677" build="0.523"  key="00084004C02C318CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -101,7 +101,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_1c"
                 name="{=lord_toulouse_1c}Bertrand de Toulouse"
                 age="29"
@@ -112,7 +111,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.3935" build="0.412"  key="00155805402C2085C568AA6748BA4948C28A7DA8D786597C8718B878A7687994008666030865BA3500000000000000000000000000000000000000006CFC2042"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -152,7 +151,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_1d"
                 name="{=lord_toulouse_1d}Philippe de Toulouse"
                 age="29"
@@ -163,7 +161,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.3935" build="0.412"  key="00189C05592C204E6556AA67487A4949928A7DA89786597C8718B176A7687994009666030965873500000000000000000000000000000000000000006D3C2042"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -203,7 +201,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_1e"
                 name="{=lord_toulouse_1e}Alphonse Jourdain"
                 age="5"
@@ -214,7 +211,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.6677" build="0.523"  key="0008200AC02C10059886D767487A4948C2974AA8D786597C8758BA78776879B40098A6030965B63500000000000000000000000000000000000000006D342084"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -364,7 +361,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6495" build="0.2832"  key="0008180D00B4019AE855A59BD456556B7A88875B8AAE9B775A231A799901AAA60084A60308C5B784000000000000000000000000000000000000000065145042"  />
+        <BodyProperties version="4" age="22.06" weight="0.2824" build="0.554"  key="0010A80E40E4310B2889637447694547959B59A793C6BB792B8258548768773800A846030A594A9B0000000000000000000000000000000000000000354C1042"  />
     </face>
     <skills>
         <skill id="Engineering" value="175" />
@@ -404,7 +401,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_2d"
                 name="{=lord_toulouse_2d}Raymond Trencavel"
                 age="6"
@@ -415,7 +411,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="1" build="0.5324"  key="000D180D80E4301325D96374476D4544959857A79386BB752BA25C54776777380078F603076C7A9B000000000000000000000000000000000000000034E42042"  />
     </face>
     <skills>
         <skill id="Engineering" value="175" />
@@ -455,7 +451,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_2e"
                 name="{=lord_toulouse_2e}Pierre de Minerve"
                 age="35"
@@ -466,7 +461,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.1868" build="0.4892"  key="0008540C402C18155C8058734794438846499AB5B397877838A375D87AA686C50097360309D9566D00000000000000000000000000000000000000003B2C4082"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -506,7 +501,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_2f"
                 name="{=lord_toulouse_2f}Bernard de Lautrec"
                 age="41"
@@ -517,7 +511,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.5946" build="0.3792"  key="001B5806DA8816CB6A77975B56698953876387267A964CA957528A675A5595BA007696030746458800000000000000000000000000000000000000002AFC8045"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -557,7 +551,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_3a"
                 name="{=lord_toulouse_3a}Archambaud III de Comborn"
                 age="43"
@@ -568,7 +561,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.3549" build="0.4034"  key="001BB00993E401DC9459C384682C88A639AA6857B6A979599E38AC6C48D6997800C656030C525A320000000000000000000000000000000000000000618C1045"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -608,7 +601,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_3b"
                 name="{=lord_toulouse_3b}Jourdaine de Perigord"
                 age="37"
@@ -620,7 +612,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.9103" build="0.0671"  key="000D980340E41005CA3D654AB5B6A46465D394A874D875ED4B74A8BADBA234150091E6030977486B000000000000000000000000000000000000000025344083"  />
+        <BodyProperties version="4" age="22.06" weight="0.5739" build="0.663"  key="0013B808C0A01001CA7A567CD597687739783628652259AADC9596682236A869007A960307C4757B000000000000000000000000000000000000000038F41043"  />
     </face>
 	<skills>
         <skill id="Engineering" value="0" />
@@ -659,7 +651,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_3c"
                 name="{=lord_toulouse_3c}Archambaud IV de Comborn"
                 age="11"
@@ -670,7 +661,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.6651" build="0.4034"  key="0018D408C0E407DB97799384682888A439AA6857B6A779599E38AC6948B699780096A60309725A320000000000000000000000000000000000000000611C2045"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -710,7 +701,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_3d"
                 name="{=lord_toulouse_3d}Assalide de Comborn"
                 age="8"
@@ -722,7 +712,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.9103" build="0.0671"  key="000D980340E41005CA3D654AB5B6A46465D394A874D875ED4B74A8BADBA234150091E6030977486B000000000000000000000000000000000000000025344083"  />
+        <BodyProperties version="4" age="22.06" weight="0.4336" build="0.375"  key="0018D408C0E4300697799384682888A439AA6857B6A779599E38AC6948B699780096760309725A320000000000000000000000000000000000000000611C1044"  />
     </face>
 	<skills>
         <skill id="Engineering" value="0" />
@@ -761,7 +751,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_3e"
                 name="{=lord_toulouse_3e}Guy d'Aubusson"
                 age="32"
@@ -772,7 +761,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.1668" build="0.7508"  key="0002740540FC13D3AA946CE49898A0D6D7978377AA725847EC66D84789647278007B36030759CC6600000000000000000000000000000000000000002AF42144"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -812,7 +801,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_3f"
                 name="{=lord_toulouse_3f}Guillaume de Chamberet"
                 age="36"
@@ -823,7 +811,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.2921" build="0.8026"  key="00134C08DA88310E64476B826B8B46D7898C67B5471AACCEC9CA77AA9667C36B008C46030869BA3A00000000000000000000000000000000000000001D044044"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -863,7 +851,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_4a"
                 name="{=lord_toulouse_4a}Ebles I de Ventadour"
                 age="60"
@@ -874,7 +861,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.5861" build="0.5468"  key="001010008F88084254567D7A253A7E5BC599897BC8A81B4B666A4AC26C8828840088960308CC4463000000000000000000000000000000000000000062FC8004"  />
     </face>
     <skills>
         <skill id="Engineering" value="175" />
@@ -914,7 +901,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_4b"
                 name="{=lord_toulouse_4b}Ebles II de Ventadour"
                 age="30"
@@ -925,7 +911,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.6417" build="0.7793"  key="001300008088064954567B7A253A7B5B9599897BC8A89A4B666A4AC26A88288400ACA6030A9944630000000000000000000000000000000000000000635C8004"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -965,7 +951,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_4c"
                 name="{=lord_toulouse_4c}Agnes de Montluçon"
                 age="25"
@@ -977,7 +962,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.9103" build="0.0671"  key="000D980340E41005CA3D654AB5B6A46465D394A874D875ED4B74A8BADBA234150091E6030977486B000000000000000000000000000000000000000025344083"  />
+        <BodyProperties version="4" age="22.06" weight="0.5231" build="0.5492"  key="0018700800A0300B63EA93786A68549367B3B798B777437668796DBB699A73660098860309954779000000000000000000000000000000000000000027240104"  />
     </face>
 	<skills>
         <skill id="Engineering" value="100" />
@@ -1016,7 +1001,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_4d"
                 name="{=lord_toulouse_4d}Guillaume de Moustier"
                 age="41"
@@ -1027,7 +1011,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.3286" build="0.4743"  key="001E7C0F00A0110F995C6789836BAB5BA6C576BEA76BA8998594659767BBC5C300875603088D99EA000000000000000000000000000000000000000055043004"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -1067,7 +1051,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_4e"
                 name="{=lord_toulouse_4e}Raymond de Lapleau"
                 age="34"
@@ -1078,7 +1061,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.1818" build="0.4999"  key="00184C0C54E419407E87839B68AB39BADA570B86BC75777981CC97865AC359A400A736030A8786650000000000000000000000000000000000000000334C60C4"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -1118,7 +1101,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_5a"
                 name="{=lord_toulouse_5a}Raymond II de Melgueil"
                 age="34"
@@ -1129,7 +1111,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.2925" build="0.5139"  key="001E540C402C11123877E6C7B427385A45468B4779CA78528D56297B2669A9E800784603074A7137000000000000000000000000000000000000000010FC5084"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -1169,7 +1151,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_5b"
                 name="{=lord_toulouse_5b}Beatrix de Poitiers"
                 age="29"
@@ -1181,7 +1162,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.9103" build="0.0671"  key="000D980340E41005CA3D654AB5B6A46465D394A874D875ED4B74A8BADBA234150091E6030977486B000000000000000000000000000000000000000025344083"  />
+        <BodyProperties version="4" age="22.06" weight="0.3781" build="0.4213"  key="000DA00D9B58300678543B8D8D6748C24937847AD71398135152BB5346A97D53007666030767755A000000000000000000000000000000000000000048EC2043"  />
     </face>
 	<skills>
         <skill id="Engineering" value="0" />
@@ -1220,7 +1201,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_5c"
                 name="{=lord_toulouse_5c}Bernard IV de Melgueil"
                 age="11"
@@ -1231,7 +1211,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.2925" build="0.5139"  key="001E8C0C402C134E3877B6A7B427385845478B4779CA78528D562D798669A9B800984603096A71370000000000000000000000000000000000000000412C5085"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -1271,7 +1251,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_5d"
                 name="{=lord_toulouse_5d}Ermessende de Melgueil"
                 age="8"
@@ -1283,7 +1262,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.9103" build="0.0671"  key="000D980340E41005CA3D654AB5B6A46465D394A874D875ED4B74A8BADBA234150091E6030977486B000000000000000000000000000000000000000025344083"  />
+        <BodyProperties version="4" age="22.06" weight="0.2925" build="0.5139"  key="001B340C402C300D3877B6A7B427385845478B4779CA78528D562D798669A9B800784603076A7137000000000000000000000000000000000000000040EC0104"  />
     </face>
 	<skills>
         <skill id="Engineering" value="25" />
@@ -1322,7 +1301,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_5e"
                 name="{=lord_toulouse_5e}Pierre de Sauve"
                 age="42"
@@ -1333,7 +1311,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.2497" build="0.4365"  key="0002600080B4351B85988579545687A46A5DBB484B9C862A9549BB4D49862A8800674603066C6B9300000000000000000000000000000000000000004CD40045"  />
     </face>
     <skills>
         <skill id="Engineering" value="225" />
@@ -1373,7 +1351,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_toulouse_5f"
                 name="{=lord_toulouse_5f}Hugues de Castries"
                 age="32"
@@ -1384,7 +1361,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6677" build="0.523"  key="00084004C02C394CC586DA6748BA494AC2EA4DA8D786597C8718BD78A76879B40098A6030965BA3500000000000000000000000000000000000000006D341042"  />
+        <BodyProperties version="4" age="22.06" weight="0.4828" build="0.5578"  key="00189406D8A020087878ACADA7CA87B586BEA27498E9A7A432549299535948450068760306C13858000000000000000000000000000000000000000000C46045"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
