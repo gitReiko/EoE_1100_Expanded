@@ -24,5 +24,11 @@
    <Hero id="lord_toulouse_3f" faction="Faction.clan_toulouse_3" />
 
 
+   <Hero id="lord_toulouse_4a" faction="Faction.clan_toulouse_4" />
+   <Hero id="lord_toulouse_4b" spouse="Hero.lord_toulouse_4c" faction="Faction.clan_toulouse_4" />
+   <Hero id="lord_toulouse_4c" spouse="Hero.lord_toulouse_4b" faction="Faction.clan_toulouse_4" />
+   <Hero id="lord_toulouse_4d" faction="Faction.clan_toulouse_4" />
+   <Hero id="lord_toulouse_4e" faction="Faction.clan_toulouse_4" />
+
 
 </Heroes>
