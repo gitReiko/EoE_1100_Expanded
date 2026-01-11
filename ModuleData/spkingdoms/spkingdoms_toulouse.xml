@@ -12,10 +12,10 @@
 			 culture="Culture.vlandia" 
 			 settlement_banner_mesh="encounter_flag_a" 
 			 flag_mesh="info_screen_flags_a" 
-			 name="{=toulouse_kingdom_name}Duchy of Toulouse" 
+			 name="{=toulouse_kingdom_name}County of Toulouse" 
 			 short_name="{=toulouse_kingdom_short_name}Toulouse" 
-			 title="{=toulouse_kingdom_title}Duchy of Toulouse" 
-			 ruler_title="{=toulouse_ruler_title}Duke" 
+			 title="{=toulouse_kingdom_title}County of Toulouse" 
+			 ruler_title="{=toulouse_ruler_title}Count" 
 			 text="{=toulouse_kingdom_text}The County of Toulouse was a powerful and largely autonomous principality in southern France during the Middle Ages. It originated in 778 when Charlemagne established it as a frontier region to defend against Muslim incursions from Spain. By the late 9th century, Toulouse had become effectively independent from the French crown, with its counts exercising near-sovereign authority over vast territories including Quercy, Albi, and parts of Provence. In 1100, Count Raymond IV was leading the First Crusade and had founded the County of Tripoli in the Levant, demonstrating Toulouse’s active foreign policy and military reach. Despite its autonomy, Toulouse’s independence began to erode during the Albigensian Crusade (1209–1229), when French royal forces intervened to suppress the Cathar heresy and assert control. The county was finally absorbed into the French royal domain in 1271 after the death of Count Alphonse without an heir.">
     <relationships>
     </relationships>
