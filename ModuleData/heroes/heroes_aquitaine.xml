@@ -12,6 +12,12 @@
 
    <Hero id="lord_french_5a" spouse="Hero.lord_french_5b" faction="Faction.clan_french_5" />
    <Hero id="lord_french_5b" spouse="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2c" mother="Hero.lord_french_5b" father="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2d" mother="Hero.lord_french_5b" father="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2e" mother="Hero.lord_french_5b" father="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2f" mother="Hero.lord_french_5b" father="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2g" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2h" faction="Faction.clan_french_5" />
 
 
    <Hero id="lord_french_6a" spouse="Hero.lord_french_6b" faction="Faction.clan_french_6" />
