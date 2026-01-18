@@ -37,4 +37,13 @@
    <Hero id="lord_aquitaine_4e" faction="Faction.clan_aquitaine_4" />
    <Hero id="lord_aquitaine_4f" faction="Faction.clan_aquitaine_4" />
 
+
+   <Hero id="lord_aquitaine_5a" spouse="Hero.lord_aquitaine_5b" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5b" spouse="Hero.lord_aquitaine_5a" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5c" mother="Hero.lord_aquitaine_5b" father="Hero.lord_aquitaine_5a" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5d" mother="Hero.lord_aquitaine_5b" father="Hero.lord_aquitaine_5a" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5e" mother="Hero.lord_aquitaine_5b" father="Hero.lord_aquitaine_5a" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5f" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5g" faction="Faction.clan_aquitaine_5" />
+
 </Heroes>
