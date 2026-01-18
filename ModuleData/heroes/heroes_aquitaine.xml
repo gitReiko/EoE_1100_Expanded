@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Heroes>
 
-   <Hero id="lord_french_4a" spouse="Hero.lord_french_4b" faction="Faction.clan_french_4" />
+   <Hero id="lord_french_4a" spouse="Hero.lord_french_4b" father="Hero.lord_aquitaine_1g" faction="Faction.clan_french_4" />
    <Hero id="lord_french_4b" spouse="Hero.lord_french_4a" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1c" mother="Hero.lord_french_4b" father="Hero.lord_french_4a" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1d" mother="Hero.lord_french_4b" father="Hero.lord_french_4a" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1e" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1f" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1g" faction="Faction.clan_french_4" alive="false" />
 
 
    <Hero id="lord_french_5a" spouse="Hero.lord_french_5b" faction="Faction.clan_french_5" />
