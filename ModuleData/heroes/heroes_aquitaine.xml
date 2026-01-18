@@ -55,4 +55,11 @@
    <Hero id="lord_aquitaine_6f" faction="Faction.clan_aquitaine_6" />
    <Hero id="lord_aquitaine_6g" faction="Faction.clan_aquitaine_6" />
 
+
+   <Hero id="lord_aquitaine_7a" spouse="Hero.lord_aquitaine_7b" faction="Faction.clan_aquitaine_7" />
+   <Hero id="lord_aquitaine_7b" spouse="Hero.lord_aquitaine_7a" faction="Faction.clan_aquitaine_7" />
+   <Hero id="lord_aquitaine_7c" faction="Faction.clan_aquitaine_7" />
+   <Hero id="lord_aquitaine_7d" faction="Faction.clan_aquitaine_7" />
+   <Hero id="lord_aquitaine_7e" faction="Faction.clan_aquitaine_7" />
+
 </Heroes>
