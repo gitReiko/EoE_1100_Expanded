@@ -3,7 +3,7 @@
 
   <Faction id="clan_french_4"
     name="{=clan_aquitaine_1}Poitiers"
-    initial_home_settlement="Settlement.castle_talmont" 			   
+    initial_home_settlement="Settlement.town_bordeaux" 			   
     tier="3"
     owner="Hero.lord_french_4a"
     culture="Culture.vlandia"
