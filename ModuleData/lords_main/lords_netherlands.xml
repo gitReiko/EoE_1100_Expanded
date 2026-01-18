@@ -900,7 +900,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.25" weight="0.7368" build="0.2152"  key="0015AC04C0B4300A379E7CBC47A5DA4CC6997885956696897C61687775BF496A0073B60307BA6556000000000000000000000000000000000000000034E43083"  />
+      <BodyProperties version="4" age="22.04" weight="0.3194" build="0.2948"  key="00109C09801410049574864AA2474896AA8A97976386496989A92C758C78CBEB006456030656645500000000000000000000000000000000000000004AC44144"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />

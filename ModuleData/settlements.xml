@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Settlements>
 
+  <!-- Aquitaine -->
+  <Settlement id="town_bordeaux" owner="Faction.clan_french_4" ></Settlement>
+  <Settlement id="castle_talmont" owner="Faction.clan_aquitaine_5" ></Settlement>
+  <Settlement id="town_auch" owner="Faction.clan_aquitaine_6" ></Settlement>
+  <Settlement id="castle_bayonne" owner="Faction.clan_aquitaine_7" ></Settlement>
+  <Settlement id="town_limoges" owner="Faction.clan_aquitaine_8" ></Settlement>
+
   <!-- Bavaria -->
   <Settlement id="town_regensburg" owner="Faction.clan_german_11" ></Settlement>
   <Settlement id="castle_kamen" owner="Faction.clan_bavaria_2" ></Settlement>
@@ -96,7 +103,7 @@
   <!-- Toulouse -->
   <Settlement id="town_toulouse" owner="Faction.clan_french_10" ></Settlement>
   <Settlement id="castle_ventadour" owner="Faction.clan_toulouse_3" ></Settlement>
-  <Settlement id="castle_murol" owner="Faction.clan_toulouse_4" name="{=castle_cahors_name}Cahors Castle" ></Settlement>
+  <Settlement id="castle_murol" owner="Faction.clan_toulouse_4" name="{=castle_rodez_name}Rodez Castle" ></Settlement>
   <Settlement id="town_montpellier" owner="Faction.clan_toulouse_5" ></Settlement>
 
   <!-- Venice -->

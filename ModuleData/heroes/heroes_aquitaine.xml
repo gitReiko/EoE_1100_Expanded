@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_french_4a" spouse="Hero.lord_french_4b" father="Hero.lord_aquitaine_1g" faction="Faction.clan_french_4" />
+   <Hero id="lord_french_4b" spouse="Hero.lord_french_4a" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1c" mother="Hero.lord_french_4b" father="Hero.lord_french_4a" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1d" mother="Hero.lord_french_4b" father="Hero.lord_french_4a" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1e" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1f" faction="Faction.clan_french_4" />
+   <Hero id="lord_aquitaine_1g" faction="Faction.clan_french_4" alive="false" />
+
+
+   <Hero id="lord_french_5a" spouse="Hero.lord_french_5b" faction="Faction.clan_french_5" />
+   <Hero id="lord_french_5b" spouse="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2c" mother="Hero.lord_french_5b" father="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2d" mother="Hero.lord_french_5b" father="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2e" mother="Hero.lord_french_5b" father="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2f" mother="Hero.lord_french_5b" father="Hero.lord_french_5a" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2g" faction="Faction.clan_french_5" />
+   <Hero id="lord_aquitaine_2h" faction="Faction.clan_french_5" />
+
+
+   <Hero id="lord_french_6a" spouse="Hero.lord_french_6b" faction="Faction.clan_french_6" />
+   <Hero id="lord_french_6b" spouse="Hero.lord_french_6a" faction="Faction.clan_french_6" />
+   <Hero id="lord_aquitaine_3c" mother="Hero.lord_french_6b" father="Hero.lord_french_6a" faction="Faction.clan_french_6" />
+   <Hero id="lord_aquitaine_3d" mother="Hero.lord_french_6b" father="Hero.lord_french_6a" faction="Faction.clan_french_6" />
+   <Hero id="lord_aquitaine_3e" mother="Hero.lord_french_6b" father="Hero.lord_french_6a" faction="Faction.clan_french_6" />
+   <Hero id="lord_aquitaine_3f" mother="Hero.lord_french_6b" father="Hero.lord_french_6a" faction="Faction.clan_french_6" />
+   <Hero id="lord_aquitaine_3g" faction="Faction.clan_french_6" />
+   <Hero id="lord_aquitaine_3h" faction="Faction.clan_french_6" />
+
+
+   <Hero id="lord_aquitaine_4a" spouse="Hero.lord_aquitaine_4b" faction="Faction.clan_aquitaine_4" />
+   <Hero id="lord_aquitaine_4b" spouse="Hero.lord_aquitaine_4a" faction="Faction.clan_aquitaine_4" />
+   <Hero id="lord_aquitaine_4c" mother="Hero.lord_aquitaine_4b" father="Hero.lord_aquitaine_4a" faction="Faction.clan_aquitaine_4" />
+   <Hero id="lord_aquitaine_4d" mother="Hero.lord_aquitaine_4b" father="Hero.lord_aquitaine_4a" faction="Faction.clan_aquitaine_4" />
+   <Hero id="lord_aquitaine_4e" faction="Faction.clan_aquitaine_4" />
+   <Hero id="lord_aquitaine_4f" faction="Faction.clan_aquitaine_4" />
+
+
+   <Hero id="lord_aquitaine_5a" spouse="Hero.lord_aquitaine_5b" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5b" spouse="Hero.lord_aquitaine_5a" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5c" mother="Hero.lord_aquitaine_5b" father="Hero.lord_aquitaine_5a" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5d" mother="Hero.lord_aquitaine_5b" father="Hero.lord_aquitaine_5a" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5e" mother="Hero.lord_aquitaine_5b" father="Hero.lord_aquitaine_5a" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5f" faction="Faction.clan_aquitaine_5" />
+   <Hero id="lord_aquitaine_5g" faction="Faction.clan_aquitaine_5" />
+
+
+   <Hero id="lord_aquitaine_6a" spouse="Hero.lord_aquitaine_6b" faction="Faction.clan_aquitaine_6" />
+   <Hero id="lord_aquitaine_6b" spouse="Hero.lord_aquitaine_6a" faction="Faction.clan_aquitaine_6" />
+   <Hero id="lord_aquitaine_6c" mother="Hero.lord_aquitaine_6b" father="Hero.lord_aquitaine_6a" faction="Faction.clan_aquitaine_6" />
+   <Hero id="lord_aquitaine_6d" mother="Hero.lord_aquitaine_6b" father="Hero.lord_aquitaine_6a" faction="Faction.clan_aquitaine_6" />
+   <Hero id="lord_aquitaine_6e" mother="Hero.lord_aquitaine_6b" father="Hero.lord_aquitaine_6a" faction="Faction.clan_aquitaine_6" />
+   <Hero id="lord_aquitaine_6f" faction="Faction.clan_aquitaine_6" />
+   <Hero id="lord_aquitaine_6g" faction="Faction.clan_aquitaine_6" />
+
+
+   <Hero id="lord_aquitaine_7a" spouse="Hero.lord_aquitaine_7b" faction="Faction.clan_aquitaine_7" />
+   <Hero id="lord_aquitaine_7b" spouse="Hero.lord_aquitaine_7a" faction="Faction.clan_aquitaine_7" />
+   <Hero id="lord_aquitaine_7c" faction="Faction.clan_aquitaine_7" />
+   <Hero id="lord_aquitaine_7d" faction="Faction.clan_aquitaine_7" />
+   <Hero id="lord_aquitaine_7e" faction="Faction.clan_aquitaine_7" />
+
+
+   <Hero id="lord_aquitaine_8a" spouse="Hero.lord_aquitaine_8b" faction="Faction.clan_aquitaine_8" />
+   <Hero id="lord_aquitaine_8b" spouse="Hero.lord_aquitaine_8a" faction="Faction.clan_aquitaine_8" />
+   <Hero id="lord_aquitaine_8c" mother="Hero.lord_aquitaine_8b" father="Hero.lord_aquitaine_8a" faction="Faction.clan_aquitaine_8" />
+   <Hero id="lord_aquitaine_8d" mother="Hero.lord_aquitaine_8b" father="Hero.lord_aquitaine_8a" faction="Faction.clan_aquitaine_8" />
+   <Hero id="lord_aquitaine_8e" mother="Hero.lord_aquitaine_8b" father="Hero.lord_aquitaine_8a" faction="Faction.clan_aquitaine_8" />
+   <Hero id="lord_aquitaine_8f" faction="Faction.clan_aquitaine_8" />
+   <Hero id="lord_aquitaine_8g" faction="Faction.clan_aquitaine_8" />
+
+</Heroes>
