@@ -19,4 +19,15 @@
    <Hero id="lord_bretagne_2e" faction="Faction.clan_bretagne_2" />
 
 
+   <Hero id="lord_bretagne_3a" father="Hero.lord_bretagne_3b" spouse="Hero.lord_bretagne_3f" faction="Faction.clan_bretagne_3" />
+   <Hero id="lord_bretagne_3b" alive="false" faction="Faction.clan_bretagne_3" />
+   <Hero id="lord_bretagne_3c" father="Hero.lord_bretagne_3b" alive="false" faction="Faction.clan_bretagne_3" />
+   <Hero id="lord_bretagne_3d" father="Hero.lord_bretagne_3b" faction="Faction.clan_bretagne_3" />
+   <Hero id="lord_bretagne_3e" father="Hero.lord_bretagne_3b" faction="Faction.clan_bretagne_3" />
+   <Hero id="lord_bretagne_3f" father="Hero.lord_bretagne_3b" faction="Faction.clan_bretagne_3" />
+   <Hero id="lord_bretagne_3g" spouse="Hero.lord_bretagne_3a" faction="Faction.clan_bretagne_3" />
+   <Hero id="lord_bretagne_3h" father="Hero.lord_bretagne_3c" faction="Faction.clan_bretagne_3" />
+   <Hero id="lord_bretagne_3i" father="Hero.lord_bretagne_3c" faction="Faction.clan_bretagne_3" />
+   <Hero id="lord_bretagne_3j" father="Hero.lord_bretagne_3c" faction="Faction.clan_bretagne_3" />
+
 </Heroes>

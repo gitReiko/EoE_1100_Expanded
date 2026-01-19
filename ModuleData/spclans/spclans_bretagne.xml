@@ -25,4 +25,16 @@
     color="ffefece5" color2="fff7bf47" 
   />
 
+  <Faction id="clan_bretagne_3"
+    name="{=clan_bretagne_3}Penthievre"
+    initial_home_settlement="Settlement.town_nantes" 			   
+    tier="3"
+    owner="Hero.lord_bretagne_3a"
+    culture="Culture.vlandia"
+    super_faction="Kingdom.bretagne"
+    is_noble="true"
+    banner_key="11.15.19.1836.1836.764.764.1.0.0.505.48.116.1971.116.764.1088.0.1.0.505.48.116.1971.24.777.1004.0.1.0.505.48.116.1971.116.787.920.0.1.0.505.48.116.1971.24.789.837.0.1.0.505.48.116.1971.116.769.753.0.1.0.505.48.116.1971.291.807.1227.0.1.0" 
+    color="fff7bf47" color2="ffe44535" 
+  />
+
 </Factions>
