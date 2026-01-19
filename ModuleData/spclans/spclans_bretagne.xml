@@ -2,7 +2,7 @@
 <Factions>
 
   <Faction id="clan_french_2"
-    name="{=clan_bretagne_2}Cornouaille"
+    name="{=clan_bretagne_1}Cornouaille"
     initial_home_settlement="Settlement.town_nantes" 			   
     tier="3"
     owner="Hero.lord_french_2a"
