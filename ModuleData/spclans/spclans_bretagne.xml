@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_french_2"
+    name="{=clan_bretagne_2}Cornouaille"
+    initial_home_settlement="Settlement.town_nantes" 			   
+    tier="3"
+    owner="Hero.lord_french_2a"
+    culture="Culture.vlandia"
+    super_faction="Kingdom.bretagne"
+    is_noble="true"
+    banner_key="11.33.19.1836.1836.764.764.1.0.0.427.48.116.513.513.764.764.0.1.0" 
+    color="ffefece5" color2="ffe44535" 
+  />
+
+</Factions>
