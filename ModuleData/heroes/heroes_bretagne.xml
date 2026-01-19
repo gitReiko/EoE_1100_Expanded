@@ -12,6 +12,11 @@
    <Hero id="lord_bretagne_1i" faction="Faction.clan_french_2" />
 
 
+   <Hero id="lord_bretagne_2a" faction="Faction.clan_bretagne_2" />
+   <Hero id="lord_bretagne_2b" spouse="Hero.lord_bretagne_2c" faction="Faction.clan_bretagne_2" />
+   <Hero id="lord_bretagne_2c" spouse="Hero.lord_bretagne_2b" faction="Faction.clan_bretagne_2" />
+   <Hero id="lord_bretagne_2d" faction="Faction.clan_bretagne_2" />
+   <Hero id="lord_bretagne_2e" faction="Faction.clan_bretagne_2" />
 
 
 </Heroes>
