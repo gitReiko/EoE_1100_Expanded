@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="bretagne" 
+			 owner="Hero.lord_bretagne_1a" 
+		     initial_home_settlement="Settlement.town_nantes" 
+			 banner_key="11.33.19.1836.1836.764.764.1.0.0.427.48.116.513.513.764.764.0.1.0" 
+			 primary_banner_color="0xffefece5" 
+			 secondary_banner_color="0xffe44535" 
+			 color="ffefece5" 
+			 color2="ffe44535" 
+			 culture="Culture.vlandia" 
+			 settlement_banner_mesh="encounter_flag_a" 
+			 flag_mesh="info_screen_flags_a" 
+			 name="{=bretagne_kingdom_name}Duchy of Bretagne" 
+			 short_name="{=bretagne_kingdom_short_name}Bretagne" 
+			 title="{=bretagne_kingdom_title}Duchy of Bretagne" 
+			 ruler_title="{=bretagne_ruler_title}Duke" 
+			 text="{=bretagne_kingdom_text}In 1100, the Duchy of Bretagne was under the rule of Alan IV de Cornouaille, a member of the House of Cornouaille, and was a vassal of the French king, but in fact functioned as an almost independent feudal state. The Breton nobility actively participated in the Normandy conquest of England, especially members of the House of Penthievre, such as Brian de Bretagne, who received lands in England from William I the Conqueror. Duke Alan IV also formed an alliance with the Normandy dynasty by marrying Constance de Normandie, daughter of William I, which strengthened ties between Bretagne and England. In foreign policy, the duchy tried to balance the influence of Anjou, Normandy, and France by taking part in the Crusades and arranging dynastic marriages. Despite pressure from the French crown, Bretagne kept its own institutions of power, language, and culture, including the Breton language and the ermine coat of arms, which became a symbol of the region.">
+    <relationships>
+    </relationships>
+    <policies>
+    </policies>
+	</Kingdom>
+</Kingdoms>
