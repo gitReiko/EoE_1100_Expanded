@@ -50,7 +50,7 @@
   />
 
   <Faction id="clan_bretagne_5"
-    name="{=clan_bretagne_5}Porhoët"
+    name="{=clan_bretagne_5}Leon"
     initial_home_settlement="Settlement.castle_bertheaume" 			   
     tier="3"
     owner="Hero.lord_bretagne_5a"
