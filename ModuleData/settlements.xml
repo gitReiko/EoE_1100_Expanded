@@ -29,6 +29,11 @@
   <Settlement id="town_bautzen_reichenbach" culture="Culture.polish"></Settlement>
   <Settlement id="town_bautzen_goreliz" culture="Culture.polish"></Settlement>
 
+  <!-- Bretagne -->
+  <Settlement id="town_nantes" owner="Faction.clan_french_2" ></Settlement>
+  <Settlement id="castle_bertheaume" owner="Faction.clan_bretagne_2" ></Settlement>
+  <Settlement id="castle_corlay" owner="Faction.clan_bretagne_4" ></Settlement>
+
   <!-- Croatia -->
   <Settlement id="town_zadar" culture="Culture.serbian" owner="Faction.clan_hungarian_2"></Settlement>
   <Settlement id="town_zadar_knin" culture="Culture.serbian"></Settlement>

@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters> 
+
+  <NPCCharacter id="lord_french_2a"
+                name="{=lord_bretagne_1a}Alan IV de Cornouaille"
+                age="37"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.92" weight="0.7362" build="0.6375"  key="0015440D00B425007D54B3386783475AA477A5A7A8B94B83D9BE716B94A83AAC002AB6030288479C00000000000000000000000000000000000000002E4C0042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="300" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="200" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="225" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_french_2b"
+                name="{=lord_bretagne_1b}Ermengarde d'Anjou"
+                age="32"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.92" weight="0.7362" build="0.7252"  key="0008980D1F44200D87B84BCC5DA65C8AA449495AA5879588643967AA98A5A2A4006BB60306786896000000000000000000000000000000000000000026BC4003"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="25" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="250" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_french_2c"
+                name="{=lord_bretagne_1c}Mathieu II de Nantes"
+                age="35"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.5602" build="0.6375"  key="00056C0D1DB426C67A54833867834757A477A5A7A8B94B83D9B9716764A83AA7005A86030588479C00000000000000000000000000000000000000002E9C1042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="150" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_1d"
+                name="{=lord_bretagne_1d}Hoël de Cornouaille"
+                age="54"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.4336" build="0.4583"  key="00101C0D00B415807A85933867834758A477A5A7A8B94B83D9BE716B94A83AAC005776030588479A00000000000000000000000000000000000000002EBC2042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="175" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="300" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="275" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_1e"
+                name="{=lord_bretagne_1e}Conan III de Cornouaille"
+                age="7"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.7978" build="0.6373"  key="0018640D00B4065B7983933867734758A4777597A8B94B8389BE7B6BC4A83AA8006AC6030668479C00000000000000000000000000000000000000002ECC1042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="175" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_1f"
+                name="{=lord_bretagne_1f}Hawise de Cornouaille"
+                age="10"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.5417" build="0.6373"  key="000A380D00B410027966933867734758A4777596A8B94B8389BE7B6B94A838A8006A86030668479C00000000000000000000000000000000000000002ECC1044"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_1g"
+                name="{=lord_bretagne_1g}Ermengarde"
+                age="31"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.38" build="0.4861"  key="00155C06C0B4200A7DCD432645EC79C7EA3A786459A8DBC846A74B7765C71C6900876603088C36A900000000000000000000000000000000000000001D0C3004"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="250" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="125" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_1h"
+                name="{=lord_bretagne_1h}Daniel de Quimper"
+                age="39"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.3266" build="0.2708"  key="0015840B80E4255366849887957C94A96AAA7A67A66979BE7849368C4984559900C456030C6977E700000000000000000000000000000000000000002F9440C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_1i"
+                name="{=lord_bretagne_1i}Maeloc de Quimper"
+                age="24"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.3266" build="0.2708"  key="0013540A53E425C166A48887957994A66AA77767A669798A7849368C8984559900945603096977C700000000000000000000000000000000000000002F3430C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="225" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_2a"
+                name="{=lord_bretagne_2a}Alain I de Rohan"
+                age="48"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.5014" build="0.2416"  key="0000780980E4300E56214C3CB3736AB554375967A9BD856AA48955814482726C0084860308BAB83600000000000000000000000000000000000000004B0C5082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="225" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_2b"
+                name="{=lord_bretagne_2b}Josselin II de Rohan"
+                age="30"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.5014" build="0.3781"  key="0002140980E4221256714A3CB3736A9554375967A9BD856A848955858482726B00668603067AB83600000000000000000000000000000000000000004ACC5082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_2c"
+                name="{=lord_bretagne_2c}Emma de Leon"
+                age="25"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.4707" build="0.1504"  key="00134403402C10017B8836B673B7776C444598864966479385889AACB597977400427603045B57BB000000000000000000000000000000000000000040841084"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="250" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="125" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_2d"
+                name="{=lord_bretagne_2d}Guy de Kergorlay"
+                age="28"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.7539" build="0.4684"  key="001594035CCC065B5964A8692949DD738388195839A457D9A9C57E8B8C79A9B80047B60304B8D6770000000000000000000000000000000000000000628C2042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_2e"
+                name="{=lord_bretagne_2e}Alain de Chateaugiron"
+                age="32"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.4266" build="0.2951"  key="001390055AA0110842AA1784E5632923AAD4863C73B5E8A5677A87678A49677A008466030886A88400000000000000000000000000000000000000005B049082"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="175" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3a"
+                name="{=lord_bretagne_3a}Alain IV de Fergent"
+                age="32"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.3672" build="0.605"  key="0008A0020F000394139B7A96C5937876814B5A796EAD81A6B754B2832AA7A2A1005966030577B79500000000000000000000000000000000000000004EAC70C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3b"
+                name="{=lord_bretagne_3b}Eudes de Fergent"
+                age="61"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.3672" build="0.605"  key="000A3C00800012D213E87A96A593787685495B796EAD84A6B75492832AA7A2A5007966030777979500000000000000000000000000000000000000004EE470C4"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="275" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3c"
+                name="{=lord_bretagne_3c}Geoffroy I de Fergent"
+                age="42"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.662" build="0.3565"  key="000A7C02000026DB149D7A969593777681487A796BAD84A6B75492838AA7A2A10075A6030777B79500000000000000000000000000000000000000004EE460C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="200" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="250" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3d"
+                name="{=lord_bretagne_3d}Brian de Fergent"
+                age="38"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.3672" build="0.3503"  key="0008540354000702137B7A96C593A876814B587C6AAD81A6B754BE839AA7A2A1005566030577979500000000000000000000000000000000000000004EAC70C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3e"
+                name="{=lord_bretagne_3e}Ribald de Fergent"
+                age="36"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.2454" build="0.2485"  key="000D6C0140000914839B7A96A5967876814B5A796BAD81A6B754B2865867A2A10034460303B7B79500000000000000000000000000000000000000004E5C50C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3f"
+                name="{=lord_bretagne_3f}Richard de Fergent"
+                age="34"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.6281" build="0.4306"  key="000D00021E00261214797A9695957876814B5A796EA883A6B754B2832AA782A3009696030957979500000000000000000000000000000000000000004F2C20C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="275" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3g"
+                name="{=lord_bretagne_3g}Constance de Normandie"
+                age="34"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.5661" build="0.2334"  key="0015500D80B400023B6C878A368C7DA67399C9B66A667CAC95BA75A83AD6A275007486030796C8E9000000000000000000000000000000000000000004E43044"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3h"
+                name="{=lord_bretagne_3h}Geoffroy II de Boterel"
+                age="25"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.4522" build="0.4522"  key="000860008000014C144A759685937778844B7A796BAD84A6B75499838AA7A2A1006776030677879500000000000000000000000000000000000000004EBC70C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3i"
+                name="{=lord_bretagne_3i}Henri II de Boterel"
+                age="23"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.662" build="0.3565"  key="000A980280002283147975969593677683487A796BA986A6875492838AA7A2840075A6030777B79500000000000000000000000000000000000000004EE430C2"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_3j"
+                name="{=lord_bretagne_3j}Mathilde de Boterel"
+                age="21"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.662" build="0.3565"  key="000A980280000006147975969593677683487A796BA986A6875492838AA7A2840075A6030777B79500000000000000000000000000000000000000004EE43044"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="175" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_4a"
+                name="{=lord_bretagne_4a}Eudes I de Porhoët"
+                age="34"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.5982" build="0.8946"  key="0010C00E651412CE9D8A629A537BDC939C8256992E46773636C234797468B8D2005D9603055E29740000000000000000000000000000000000000000389C2102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_4b"
+                name="{=lord_bretagne_4b}Emma de Leon"
+                age="35"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.4676" build="0.6962"  key="0015740B80702007976ACB7E2894ACB688D7773B5B43C41BC599C8C49A4EAC68006A7603069387B4000000000000000000000000000000000000000062DC00C4"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="250" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="275" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="125" />
+      <skill id="Crafting" value="100" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_4c"
+                name="{=lord_bretagne_4c}Josselin II de Porhoët"
+                age="19"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.5982" build="0.6065"  key="0013200AE51412869A8A659A5378DC739C8556994E46773636C234798468B8D400599603055A2974000000000000000000000000000000000000000038AC2102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_4d"
+                name="{=lord_bretagne_4d}Geoffroy de Porhoët"
+                age="18"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.7269" build="0.5633"  key="0015780E521423039D8A649A5578DC939C8456992E46773636C539799468B8A40068B603065A2974000000000000000000000000000000000000000038DC2102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="100" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_4e"
+                name="{=lord_bretagne_4e}Guethenoc de Porhoët"
+                age="15"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.5417" build="0.6867"  key="00185C0AE51438D29D8A6499537BDC96998456993C26793636C26C798468B8D2007A860307592974000000000000000000000000000000000000000038E42102"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_5a"
+                name="{=lord_bretagne_5a}Guihomar II de Leon"
+                age="47"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.3314" build="0.6454"  key="001800040044090DE5A67573855C7C5396B6D4596778DE688483E6A353F767AD007A560307873968000000000000000000000000000000000000000038E41042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_5b"
+                name="{=lord_bretagne_5b}Ehuarn I de Leon"
+                age="58"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.5046" build="0.6454"  key="001568029644295AE58675738559795696B6B4596778DE6884A3BBA383C767AB009A8603098737680000000000000000000000000000000000000000392C1042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_5c"
+                name="{=lord_bretagne_5c}Herve I de Leon"
+                age="22"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.2361" build="0.2824"  key="00103C0400440A0FE7787573855AAC5396A6A4596778AE68A493E6A353C767AD0094460309773968000000000000000000000000000000000000000039241044"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_5d"
+                name="{=lord_bretagne_5d}Guihomar III de Leon"
+                age="22"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.8781" build="0.4861"  key="0015740400443145E56675738559782596C6B5596779BE688483E6A353DB67AD0057D60305874968000000000000000000000000000000000000000038B41042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_5e"
+                name="{=lord_bretagne_5e}Lithuise Adela de Navarre"
+                age="19"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.4059" build="0.678"  key="0020640980442002695378687AB479DB7892B7376B76D36697379D71E7B3A75B008A660308395989000000000000000000000000000000000000000044FC2042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_bretagne_5f"
+                name="{=lord_bretagne_5f}Ehuarn de Leon"
+                age="39"
+                voice="ironic"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.18" weight="0.3904" build="0.3904"  key="001840040044118BE56675738559795856A6845667789C6883A5DBA383D767BB00A666030A67376800000000000000000000000000000000000000005B4C1046"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>
