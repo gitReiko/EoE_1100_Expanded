@@ -32,9 +32,17 @@
 
 
    <Hero id="lord_bretagne_4a" spouse="Hero.lord_bretagne_4b" faction="Faction.clan_bretagne_4" />
-   <Hero id="lord_bretagne_4b" spouse="Hero.lord_bretagne_4a" faction="Faction.clan_bretagne_4" />
+   <Hero id="lord_bretagne_4b" spouse="Hero.lord_bretagne_4a" father="Hero.lord_bretagne_5b" faction="Faction.clan_bretagne_4" />
    <Hero id="lord_bretagne_4c" mother="Hero.lord_bretagne_4b" father="Hero.lord_bretagne_4a" faction="Faction.clan_bretagne_4" />
    <Hero id="lord_bretagne_4d" mother="Hero.lord_bretagne_4b" father="Hero.lord_bretagne_4a" faction="Faction.clan_bretagne_4" />
    <Hero id="lord_bretagne_4e" mother="Hero.lord_bretagne_4b" father="Hero.lord_bretagne_4a" faction="Faction.clan_bretagne_4" />
+
+
+   <Hero id="lord_bretagne_5a" father="Hero.lord_bretagne_5b" faction="Faction.clan_bretagne_5" />
+   <Hero id="lord_bretagne_5b" alive="false" faction="Faction.clan_bretagne_5" />
+   <Hero id="lord_bretagne_5c" spouse="Hero.lord_bretagne_5e" father="Hero.lord_bretagne_5a" faction="Faction.clan_bretagne_5" />
+   <Hero id="lord_bretagne_5d" father="Hero.lord_bretagne_5a" faction="Faction.clan_bretagne_5" />
+   <Hero id="lord_bretagne_5e" spouse="Hero.lord_bretagne_5c" faction="Faction.clan_bretagne_5" />
+   <Hero id="lord_bretagne_5f" father="Hero.lord_bretagne_5b" faction="Faction.clan_bretagne_5" />
 
 </Heroes>
