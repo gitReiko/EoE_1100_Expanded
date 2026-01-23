@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_french_1a" spouse="Hero.lord_french_1b" faction="Faction.clan_french_1" text="{=lord_french_1a.text}Philip I, called the Amorous, was King of the Franks from 1060 to 1108. His reign, like that of most of the early Capetians, was extraordinarily long for the time. The monarchy began a modest recovery from the low it reached in the reign of his father and he added to the royal demesne the Vexin and Bourges." />
+   <Hero id="lord_french_1b" spouse="Hero.lord_french_1a" faction="Faction.clan_french_1" />
+   <Hero id="lord_french_1c" spouse="Hero.lord_french_1d" faction="Faction.clan_french_1" />
+   <Hero id="lord_french_1d" spouse="Hero.lord_french_1c" faction="Faction.clan_french_1" />
+
+
+   <Hero id="lord_french_3a" spouse="Hero.lord_french_3b" faction="Faction.clan_french_3" />
+   <Hero id="lord_french_3b" spouse="Hero.lord_french_3a" faction="Faction.clan_french_3" />
+
+
+   <Hero id="lord_french_8a" spouse="Hero.lord_french_8b" faction="Faction.clan_french_8" />
+   <Hero id="lord_french_8b" spouse="Hero.lord_french_8a" faction="Faction.clan_french_8" />
+   <Hero id="lord_french_8c" faction="Faction.clan_french_8" />
+
+
+   <Hero id="lord_french_9a" spouse="Hero.lord_french_9b" faction="Faction.clan_french_9" />
+   <Hero id="lord_french_9b" spouse="Hero.lord_french_9a" faction="Faction.clan_french_9" />
+
+
+   <Hero id="lord_french_12a" spouse="Hero.lord_french_12b" faction="Faction.clan_french_12" /> 
+   <Hero id="lord_french_12b" spouse="Hero.lord_french_12a" faction="Faction.clan_french_12" /> 
+
+</Heroes>
