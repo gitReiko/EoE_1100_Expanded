@@ -49,6 +49,15 @@
   <Settlement id="castle_jakabhegyi" culture="Culture.serbian" owner="Faction.clan_croatia_4"></Settlement>
   <Settlement id="castle_jakabhegyi_pecs" culture="Culture.serbian"></Settlement>
 
+  <!-- France -->
+  <Settlement id="town_paris" owner="Faction.clan_french_1" ></Settlement>
+  <Settlement id="town_tours" owner="Faction.clan_french_3" ></Settlement>
+  <Settlement id="castle_stgeorge" owner="Faction.clan_french_8" ></Settlement>
+  <Settlement id="town_reims" owner="Faction.clan_french_9" ></Settlement>
+  <Settlement id="castle_calais" owner="Faction.clan_france_5" ></Settlement>
+  <Settlement id="town_bourges" owner="Faction.clan_french_12" ></Settlement>
+  <Settlement id="town_orleans" owner="Faction.clan_france_8" ></Settlement>
+
   <!-- Germany (HRE) -->
   <Settlement id="town_frankfurt" owner="Faction.clan_german_1" ></Settlement>
   <Settlement id="town_wurzburg" owner="Faction.clan_german_1" ></Settlement>

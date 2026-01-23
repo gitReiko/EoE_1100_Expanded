@@ -39,7 +39,7 @@
 
   <Faction id="clan_french_9"
     name="{=clan_france_4.name}Guilhem"
-    initial_home_settlement="Settlement.town_montpellier" 			   
+    initial_home_settlement="Settlement.town_reims" 			   
     tier="2"
     owner="Hero.lord_french_9a"
     culture="Culture.vlandia"
@@ -50,7 +50,7 @@
   />
 
   <Faction id="clan_french_12"
-    name="{=clan_france_5.name}Blois"
+    name="{=clan_france_6.name}Blois"
     initial_home_settlement="Settlement.town_bourges" 			   
     tier="2"
     owner="Hero.lord_french_12a"
