@@ -10,7 +10,9 @@
 
 
    <Hero id="lord_french_3a" spouse="Hero.lord_french_3b" faction="Faction.clan_french_3" />
-   <Hero id="lord_french_3b" spouse="Hero.lord_french_3a" faction="Faction.clan_french_3" />
+   <Hero id="lord_french_3b" father="Hero.lord_french_3a" mother="Hero.lord_french_1b" faction="Faction.clan_french_3" />
+   <Hero id="lord_france_2c" father="Hero.lord_french_3a" faction="Faction.clan_french_3" />
+   <Hero id="lord_france_2d" father="Hero.lord_french_3a" faction="Faction.clan_french_3" />
 
 
    <Hero id="lord_french_8a" spouse="Hero.lord_french_8b" faction="Faction.clan_french_8" />
