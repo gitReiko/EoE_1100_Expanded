@@ -3,7 +3,7 @@
 <NPCCharacters>
 
   <NPCCharacter id="lord_french_1a"
-                name="{=lord_france_1a}Philippe I Capet"
+                name="{=lord_france_new_1a}Philippe I Capet"
                 age="58"
                 voice="ironic"
                 default_group="Cavalry"
@@ -53,7 +53,7 @@
   </NPCCharacter>
   
   <NPCCharacter id="lord_french_1b"
-                name="{=lord_france_1b}Bertrade de Montfort"
+                name="{=lord_france_new_1b}Bertrade de Montfort"
                 age="30"
                 voice="ironic"
                 is_female="true"
@@ -104,7 +104,7 @@
 
     <!-- facegen -->
     <NPCCharacter id="lord_french_1c"
-                name="{=lord_france_1c}Louis VI Capet"
+                name="{=lord_france_new_1c}Louis VI Capet"
                 age="19"
                 voice="ironic"
                 default_group="Cavalry"
@@ -155,7 +155,7 @@
 
     <!-- facegen -->
     <NPCCharacter id="lord_french_1d"
-                name="{=lord_france_1d}Constance de France"
+                name="{=lord_france_new_1d}Constance de France"
                 age="12"
                 voice="ironic"
                 is_female="true"
@@ -205,8 +205,8 @@
   </NPCCharacter>
 
     <!-- facegen -->
-    <NPCCharacter id="lord_france_1e"
-                name="{=lord_france_1e}Philippe de France"
+    <NPCCharacter id="lord_france_new_1e"
+                name="{=lord_france_new_1e}Philippe de France"
                 age="10"
                 voice="ironic"
                 default_group="Cavalry"
@@ -256,8 +256,8 @@
   </NPCCharacter>
 
     <!-- facegen -->
-    <NPCCharacter id="lord_france_1f"
-                name="{=lord_france_1f}Fleur de France"
+    <NPCCharacter id="lord_france_new_1f"
+                name="{=lord_france_new_1f}Fleur de France"
                 age="8"
                 voice="ironic"
                 is_female="true"
@@ -357,8 +357,8 @@
     </NPCCharacter>
 
     <!-- facegen -->
-    <NPCCharacter id="lord_france_2c"
-                name="{=lord_france_2c}Geoffroy IV d'Anjou"
+    <NPCCharacter id="lord_france_new_2c"
+                name="{=lord_france_new_2c}Geoffroy IV d'Anjou"
                 age="25"
                 voice="ironic"
                 default_group="Cavalry"
@@ -459,8 +459,8 @@
     </NPCCharacter>
 
     <!-- facegen -->
-    <NPCCharacter id="lord_france_2d"
-                name="{=lord_france_2d}Foulques V d'Anjou"
+    <NPCCharacter id="lord_france_new_2d"
+                name="{=lord_france_new_2d}Foulques V d'Anjou"
                 age="21"
                 voice="ironic"
                 default_group="Cavalry"
@@ -509,9 +509,9 @@
     </Equipments>
     </NPCCharacter>
 
-  <NPCCharacter id="lord_french_8a"
-                name="{=Odo}Odo"
-                age="40"
+    <NPCCharacter id="lord_french_8a"
+                name="{=lord_france_new_3a}Eudes I de Bourgogne"
+                age="42"
                 voice="ironic"
                 default_group="Cavalry"
                 is_hero="true"
@@ -519,37 +519,37 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-<BodyProperties version="4" age="22.92" weight="0.2764" build="0.2144"  key="0008500D00CC308F74A496B85A9B67CECB4B22CC963648958867792BAE86924600634603064E7398000000000000000000000000000000000000000072BC1042"  />
+        <BodyProperties version="4" age="22.92" weight="0.2764" build="0.2144"  key="0008500D00CC308F74A496B85A9B67CECB4B22CC963648958867792BAE86924600634603064E7398000000000000000000000000000000000000000072BC1042"  />
     </face>
     <skills>
-<skill id="Engineering" value="225" />
-<skill id="Medicine" value="100" />
-<skill id="Leadership" value="175" />
-<skill id="Steward" value="175" />
-<skill id="Trade" value="25" />
-<skill id="Charm" value="200" />
-<skill id="Roguery" value="100" />
-<skill id="Scouting" value="225" />
-<skill id="Tactics" value="275" />
-<skill id="Crafting" value="75" />
-<skill id="Athletics" value="150" />
-<skill id="Riding" value="225" />
-<skill id="Throwing" value="50" />
-<skill id="Crossbow" value="75" />
-<skill id="Bow" value="100" />
-<skill id="Polearm" value="250" />
-<skill id="TwoHanded" value="150" />
-<skill id="OneHanded" value="200" />
+        <skill id="Engineering" value="225" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="200" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="225" />
+        <skill id="Tactics" value="275" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="50" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="200" />
 	</skills>
     <Traits>
-<Trait id="Mercy" value="2" />
-<Trait id="Valor" value="-2" />
-<Trait id="Honor" value="1" />
-<Trait id="Generosity" value="-1" />
-<Trait id="Calculating" value="-2" />
-<Trait id="Egalitarian" value="0" />
-<Trait id="Oligarchic" value="2" />
-<Trait id="Authoritarian" value="-1" />
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="-2" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="-2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="-1" />
     </Traits>
     <Equipments>
       <EquipmentRoster />
@@ -557,11 +557,11 @@
       <EquipmentSet id="vlandia_lord"
                     civilian="true" />
     </Equipments>
-  </NPCCharacter>
+    </NPCCharacter>
   
-  <NPCCharacter id="lord_french_8b"
-                name="{=Sibylla of Burgundy}Sibylla of Burgundy"
-                age="40"
+    <NPCCharacter id="lord_french_8b"
+                name="{=lord_france_new_3b}Sibylle de Bourgogne"
+                age="35"
                 voice="ironic"
                 is_female="true"
                 culture="Culture.vlandia"
@@ -570,48 +570,49 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-<BodyProperties version="4" age="22.92" weight="0.2764" build="0.2144"  key="0008500D1FCC300474A496B85A9B67CECB4B22CC963648958867792BAE86924600634603064E7398000000000000000000000000000000000000000072BC3083"  />
+        <BodyProperties version="4" age="22.92" weight="0.2764" build="0.2144"  key="0008500D1FCC300474A496B85A9B67CECB4B22CC963648958867792BAE86924600634603064E7398000000000000000000000000000000000000000072BC3083"  />
     </face>
 	<skills>
-<skill id="Engineering" value="100" />
-<skill id="Medicine" value="50" />
-<skill id="Leadership" value="100" />
-<skill id="Steward" value="200" />
-<skill id="Trade" value="100" />
-<skill id="Charm" value="175" />
-<skill id="Roguery" value="100" />
-<skill id="Scouting" value="0" />
-<skill id="Tactics" value="50" />
-<skill id="Crafting" value="75" />
-<skill id="Athletics" value="75" />
-<skill id="Riding" value="125" />
-<skill id="Throwing" value="75" />
-<skill id="Crossbow" value="100" />
-<skill id="Bow" value="150" />
-<skill id="Polearm" value="0" />
-<skill id="TwoHanded" value="0" />
-<skill id="OneHanded" value="50" />
-</skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="200" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="0" />
+        <skill id="Tactics" value="50" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="150" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="50" />
+    </skills>
     <Traits>
-<Trait id="Mercy" value="2" />
-<Trait id="Valor" value="-1" />
-<Trait id="Honor" value="-2" />
-<Trait id="Generosity" value="2" />
-<Trait id="Calculating" value="0" />
-<Trait id="Egalitarian" value="2" />
-<Trait id="Oligarchic" value="-1" />
-<Trait id="Authoritarian" value="2" />
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="2" />
+        <Trait id="Oligarchic" value="-1" />
+        <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
                     civilian="true" />
     </Equipments>
-  </NPCCharacter>
-  
-  <NPCCharacter id="lord_french_8c"
-                name="{=Robert}Robert"
-                age="41"
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_french_8c"
+                name="{=lord_france_new_3c}Hugues II de Bourgogne"
+                age="15"
                 voice="ironic"
                 default_group="Cavalry"
                 is_hero="true"
@@ -619,37 +620,37 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-<BodyProperties version="4" age="22.92" weight="0.7808" build="0.3152"  key="0008400B80FC344C5AA6688657352E4847D3467674B78C745869775472A4766A0055C603059876AB000000000000000000000000000000000000000066B46102"  />
+        <BodyProperties version="4" age="22.92" weight="0.7808" build="0.3152"  key="0008400B80FC344C5AA6688657352E4847D3467674B78C745869775472A4766A0055C603059876AB000000000000000000000000000000000000000066B46102"  />
     </face>
     <skills>
-<skill id="Engineering" value="75" />
-<skill id="Medicine" value="100" />
-<skill id="Leadership" value="200" />
-<skill id="Steward" value="125" />
-<skill id="Trade" value="50" />
-<skill id="Charm" value="75" />
-<skill id="Roguery" value="50" />
-<skill id="Scouting" value="125" />
-<skill id="Tactics" value="175" />
-<skill id="Crafting" value="75" />
-<skill id="Athletics" value="150" />
-<skill id="Riding" value="225" />
-<skill id="Throwing" value="75" />
-<skill id="Crossbow" value="50" />
-<skill id="Bow" value="50" />
-<skill id="Polearm" value="300" />
-<skill id="TwoHanded" value="100" />
-<skill id="OneHanded" value="225" />
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="175" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="50" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="300" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="225" />
 	</skills>
     <Traits>
-<Trait id="Mercy" value="-1" />
-<Trait id="Valor" value="1" />
-<Trait id="Honor" value="-2" />
-<Trait id="Generosity" value="0" />
-<Trait id="Calculating" value="0" />
-<Trait id="Egalitarian" value="1" />
-<Trait id="Oligarchic" value="0" />
-<Trait id="Authoritarian" value="0" />
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentRoster />
@@ -657,8 +658,161 @@
       <EquipmentSet id="vlandia_lord"
                     civilian="true" />
     </Equipments>
-  </NPCCharacter>
-  
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_france_new_3d"
+                name="{=lord_france_new_3d}Helie de Bourgogne"
+                age="17"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.2764" build="0.2144"  key="0008500D1FCC300474A496B85A9B67CECB4B22CC963648958867792BAE86924600634603064E7398000000000000000000000000000000000000000072BC3083"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="250" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="0" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="75" />
+        <skill id="Throwing" value="25" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_france_new_3e"
+                name="{=lord_france_new_3e}Mathilde de Bourgogne"
+                age="12"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.2764" build="0.2144"  key="0008500D1FCC300474A496B85A9B67CECB4B22CC963648958867792BAE86924600634603064E7398000000000000000000000000000000000000000072BC3083"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="0" />
+        <skill id="Medicine" value="0" />
+        <skill id="Leadership" value="0" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="25" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="0" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="2" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_france_new_3f"
+                name="{=lord_france_new_3f}Guillaume de Nevers"
+                age="42"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.7808" build="0.3152"  key="0008400B80FC344C5AA6688657352E4847D3467674B78C745869775472A4766A0055C603059876AB000000000000000000000000000000000000000066B46102"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="250" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="25" />
+        <skill id="Crossbow" value="125" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="200" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="-2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
   <NPCCharacter id="lord_french_9a"
                 name="{=William V}William V"
                 age="32"

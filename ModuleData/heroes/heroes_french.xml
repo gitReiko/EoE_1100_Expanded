@@ -5,19 +5,22 @@
    <Hero id="lord_french_1b" spouse="Hero.lord_french_1a" faction="Faction.clan_french_1" />
    <Hero id="lord_french_1c" mother="Hero.lord_french_1b" father="Hero.lord_french_1a" faction="Faction.clan_french_1" />
    <Hero id="lord_french_1d" mother="Hero.lord_french_1b" father="Hero.lord_french_1a" faction="Faction.clan_french_1" />
-   <Hero id="lord_france_1e" mother="Hero.lord_french_1b" father="Hero.lord_french_1a" faction="Faction.clan_french_1" />
-   <Hero id="lord_france_1f" mother="Hero.lord_french_1b" father="Hero.lord_french_1a" faction="Faction.clan_french_1" />
+   <Hero id="lord_france_new_1e" mother="Hero.lord_french_1b" father="Hero.lord_french_1a" faction="Faction.clan_french_1" />
+   <Hero id="lord_france_new_1f" mother="Hero.lord_french_1b" father="Hero.lord_french_1a" faction="Faction.clan_french_1" />
 
 
    <Hero id="lord_french_3a" spouse="Hero.lord_french_3b" faction="Faction.clan_french_3" />
    <Hero id="lord_french_3b" father="Hero.lord_french_3a" mother="Hero.lord_french_1b" faction="Faction.clan_french_3" />
-   <Hero id="lord_france_2c" father="Hero.lord_french_3a" faction="Faction.clan_french_3" />
-   <Hero id="lord_france_2d" father="Hero.lord_french_3a" faction="Faction.clan_french_3" />
+   <Hero id="lord_france_new_2c" father="Hero.lord_french_3a" faction="Faction.clan_french_3" />
+   <Hero id="lord_france_new_2d" father="Hero.lord_french_3a" faction="Faction.clan_french_3" />
 
 
    <Hero id="lord_french_8a" spouse="Hero.lord_french_8b" faction="Faction.clan_french_8" />
    <Hero id="lord_french_8b" spouse="Hero.lord_french_8a" faction="Faction.clan_french_8" />
-   <Hero id="lord_french_8c" faction="Faction.clan_french_8" />
+   <Hero id="lord_french_8c" mother="Hero.lord_french_8b" father="Hero.lord_french_8a" faction="Faction.clan_french_8" />
+   <Hero id="lord_france_new_3d" mother="Hero.lord_french_8b" father="Hero.lord_french_8a" faction="Faction.clan_french_8" />
+   <Hero id="lord_france_new_3e" mother="Hero.lord_french_8b" father="Hero.lord_french_8a" faction="Faction.clan_french_8" />
+   <Hero id="lord_france_new_3f" faction="Faction.clan_french_8" />
 
 
    <Hero id="lord_french_9a" spouse="Hero.lord_french_9b" faction="Faction.clan_french_9" />

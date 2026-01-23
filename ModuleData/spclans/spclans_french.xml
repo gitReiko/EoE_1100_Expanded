@@ -2,7 +2,7 @@
 <Factions>
 
   <Faction id="clan_french_1"
-    name="{=clan_france_1.name}Capet"
+    name="{=clan_france_new_1.name}Capet"
     initial_home_settlement="Settlement.town_paris" 			   
     tier="3"
     owner="Hero.lord_french_1a"
@@ -14,7 +14,7 @@
   />
 
   <Faction id="clan_french_3"
-    name="{=clan_france_2.name}Anjou"
+    name="{=clan_france_new_2.name}Anjou"
     initial_home_settlement="Settlement.town_tours" 			   
     tier="2"
     owner="Hero.lord_french_3a"
@@ -26,19 +26,19 @@
   />
 
   <Faction id="clan_french_8"
-    name="{=clan_france_3.name}Burgundy"
+    name="{=clan_france_new_3.name}Bourgogne"
     initial_home_settlement="Settlement.castle_stgeorge" 			   
     tier="2"
     owner="Hero.lord_french_8a"
     culture="Culture.vlandia"
     super_faction="Kingdom.vlandia"
     is_noble="true"
-    banner_key="11.84.19.1836.1836.779.782.1.0.-30.510.119.116.1970.728.764.764.0.0.315.510.119.116.1970.728.897.628.0.0.315.510.119.116.1970.728.630.900.0.0.315.510.119.116.1970.728.1066.526.0.0.315.510.119.116.1970.728.461.1001.0.0.315.510.119.116.1970.728.1242.426.0.0.315.510.119.116.1970.728.285.1102.0.0.315.510.119.116.1970.728.1372.278.0.0.315.510.119.116.1970.728.156.1250.0.0.315"
-    color="ff3b6298" color2="fff4d32e"
+    banner_key="11.121.19.1836.1836.779.782.1.0.-30.510.141.116.1970.728.764.764.0.0.315.510.141.116.1970.728.897.628.0.0.315.510.141.116.1970.728.630.900.0.0.315.510.141.116.1970.728.1066.526.0.0.315.510.141.116.1970.728.461.1001.0.0.315.510.141.116.1970.728.1242.426.0.0.315.510.141.116.1970.728.285.1102.0.0.315.510.141.116.1970.728.1372.278.0.0.315.510.141.116.1970.728.156.1250.0.0.315"
+    color="ffa3dd2b" color2="fff4d32e"
   />
 
   <Faction id="clan_french_9"
-    name="{=clan_france_4.name}Guilhem"
+    name="{=clan_france_new_4.name}Guilhem"
     initial_home_settlement="Settlement.town_reims" 			   
     tier="2"
     owner="Hero.lord_french_9a"
@@ -50,7 +50,7 @@
   />
 
   <Faction id="clan_french_12"
-    name="{=clan_france_6.name}Blois"
+    name="{=clan_france_new_6.name}Blois"
     initial_home_settlement="Settlement.town_bourges" 			   
     tier="2"
     owner="Hero.lord_french_12a"
