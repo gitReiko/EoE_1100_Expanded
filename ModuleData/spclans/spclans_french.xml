@@ -38,15 +38,15 @@
   />
 
   <Faction id="clan_french_9"
-    name="{=clan_france_new_4.name}Guilhem"
+    name="{=clan_france_new_4.name}Blois-Champagne"
     initial_home_settlement="Settlement.town_reims" 			   
     tier="2"
     owner="Hero.lord_french_9a"
     culture="Culture.vlandia"
     super_faction="Kingdom.vlandia"
     is_noble="true"
-    banner_key="11.111.19.1836.1836.779.782.1.0.-30.503.145.116.464.469.761.770.0.0.0" 
-    color="ff3b6298" color2="fff4d32e"
+    banner_key="11.141.19.1836.1836.779.782.1.0.-30.505.140.116.2151.166.764.764.0.0.315.505.121.116.2151.59.854.674.0.0.315.505.121.116.2151.59.674.854.0.0.315" 
+    color="ffd9d9d9" color2="ff3b6298"
   />
 
   <Faction id="clan_french_12"
