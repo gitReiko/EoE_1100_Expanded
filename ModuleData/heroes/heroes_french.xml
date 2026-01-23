@@ -30,6 +30,12 @@
    <Hero id="lord_france_new_4e" faction="Faction.clan_french_9" />
 
 
+   <Hero id="lord_france_new_5a" spouse="Hero.lord_france_new_5b" faction="Faction.clan_france_new_5" />
+   <Hero id="lord_france_new_5b" spouse="Hero.lord_france_new_5a" faction="Faction.clan_france_new_5" />
+   <Hero id="lord_france_new_5c" faction="Faction.clan_france_new_5" />
+   <Hero id="lord_france_new_5d" faction="Faction.clan_france_new_5" />
+
+
    <Hero id="lord_french_12a" spouse="Hero.lord_french_12b" faction="Faction.clan_french_12" /> 
    <Hero id="lord_french_12b" spouse="Hero.lord_french_12a" faction="Faction.clan_french_12" /> 
 

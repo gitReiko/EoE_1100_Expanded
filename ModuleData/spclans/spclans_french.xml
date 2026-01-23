@@ -49,6 +49,18 @@
     color="ffd9d9d9" color2="ff3b6298"
   />
 
+  <Faction id="clan_france_new_5"
+    name="{=clan_france_new_5.name}Boulogne"
+    initial_home_settlement="Settlement.castle_calais" 			   
+    tier="2"
+    owner="Hero.lord_france_new_5a"
+    culture="Culture.vlandia"
+    super_faction="Kingdom.vlandia"
+    is_noble="true"
+    banner_key="11.121.19.1836.1836.779.782.1.0.-30.503.48.116.300.300.764.924.0.0.0.503.48.116.300.300.624.604.0.0.0.503.48.116.300.300.904.604.0.0.0" 
+    color="ffe44535" color2="fff4d32e"
+  />
+
   <Faction id="clan_french_12"
     name="{=clan_france_new_6.name}Blois"
     initial_home_settlement="Settlement.town_bourges" 			   
