@@ -36,7 +36,13 @@
    <Hero id="lord_france_new_5d" faction="Faction.clan_france_new_5" />
 
 
-   <Hero id="lord_french_12a" spouse="Hero.lord_french_12b" faction="Faction.clan_french_12" /> 
-   <Hero id="lord_french_12b" spouse="Hero.lord_french_12a" faction="Faction.clan_french_12" /> 
+   <Hero id="lord_french_12a" spouse="Hero.lord_french_12b" text="{=lord_french_12a.text}In 1100, the character was on a crusade."  alive="false" faction="Faction.clan_french_12" />
+   <Hero id="lord_french_12b" spouse="Hero.lord_french_12a" faction="Faction.clan_french_12" />
+   <Hero id="lord_france_new_6c" father="Hero.lord_french_12a" mother="Hero.lord_french_12b" faction="Faction.clan_french_12" />
+   <Hero id="lord_france_new_6d" father="Hero.lord_french_12a" mother="Hero.lord_french_12b" faction="Faction.clan_french_12" />
+   <Hero id="lord_france_new_6e" father="Hero.lord_french_12a" mother="Hero.lord_french_12b" faction="Faction.clan_french_12" />
+   <Hero id="lord_france_new_6f" father="Hero.lord_french_12a" mother="Hero.lord_french_12b" faction="Faction.clan_french_12" />
+   <Hero id="lord_france_new_6g" faction="Faction.clan_french_12" />
+   <Hero id="lord_france_new_6h" faction="Faction.clan_french_12" />
 
 </Heroes>

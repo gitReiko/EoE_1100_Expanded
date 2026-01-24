@@ -65,12 +65,12 @@
     name="{=clan_france_new_6.name}Blois"
     initial_home_settlement="Settlement.town_bourges" 			   
     tier="2"
-    owner="Hero.lord_french_12a"
+    owner="Hero.lord_french_12b"
     culture="Culture.vlandia"
     super_faction="Kingdom.vlandia"
     is_noble="true"
-    banner_key="11.119.19.1399.1438.779.782.1.0.89.510.40.116.2132.1199.763.766.0.0.-48.510.47.116.2131.75.669.846.0.0.-48.510.47.116.2151.75.859.694.0.0.-48" 
-    color="ff3b6298" color2="fff4d32e"
+    banner_key="11.141.19.1836.1836.779.782.1.0.-30.505.140.116.2151.166.764.764.0.0.315" 
+    color="ffd9d9d9" color2="ff3b6298"
   />
 
 </Factions>
