@@ -53,4 +53,10 @@
    <Hero id="lord_france_new_7e" faction="Faction.clan_france_new_7" />
    <Hero id="lord_france_new_7f" faction="Faction.clan_france_new_7" />
 
+
+   <Hero id="lord_france_new_8a" spouse="Hero.lord_france_new_8b" faction="Faction.clan_france_new_8" />
+   <Hero id="lord_france_new_8b" spouse="Hero.lord_france_new_8a" faction="Faction.clan_france_new_8" />
+   <Hero id="lord_france_new_8c" faction="Faction.clan_france_new_8" />
+   <Hero id="lord_france_new_8d" faction="Faction.clan_france_new_8" />
+
 </Heroes>
