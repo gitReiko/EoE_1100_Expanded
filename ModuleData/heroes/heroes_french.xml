@@ -7,6 +7,8 @@
    <Hero id="lord_french_1d" mother="Hero.lord_french_1b" father="Hero.lord_french_1a" faction="Faction.clan_french_1" />
    <Hero id="lord_france_new_1e" mother="Hero.lord_french_1b" father="Hero.lord_french_1a" faction="Faction.clan_french_1" />
    <Hero id="lord_france_new_1f" mother="Hero.lord_french_1b" father="Hero.lord_french_1a" faction="Faction.clan_french_1" />
+   <Hero id="lord_france_new_1g" faction="Faction.clan_french_1" />
+   <Hero id="lord_france_new_1h" faction="Faction.clan_french_1" />
 
 
    <Hero id="lord_french_3a" spouse="Hero.lord_french_3b" faction="Faction.clan_french_3" />
