@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
 	<Kingdom id="karelia"
-		name="{=karelia.name}Princedom of Karelians"
+		name="{=karelia.name}Duchy of Karelians"
 		short_name="{=karelia.short_name}Karelians"
-		title="{=karelia.title}Princedom of Karelians"
+		title="{=karelia.title}Duchy of Karelians"
 		ruler_title="{=karelia.ruler_title}Prince"
 	></Kingdom>
 </Kingdoms>

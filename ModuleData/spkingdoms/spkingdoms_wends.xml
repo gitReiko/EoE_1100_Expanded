@@ -12,9 +12,9 @@
 			 culture="Culture.polish" 
 			 settlement_banner_mesh="encounter_flag_a" 
 			 flag_mesh="info_screen_flags_a" 
-			 name="{=wends_kingdom_name}Wendian Duchies" 
+			 name="{=wends_kingdom_name}Rebellion of Wends" 
 			 short_name="{=wends_kingdom_short_name}Wends" 
-			 title="{=wends_kingdom_title}Wendian Duchies" 
+			 title="{=wends_kingdom_title}Rebellion of Wends" 
 			 ruler_title="{=wends_ruler_title}Duke" 
 			 text="{=wends_kingdom_text}The term Wends was used by German‑speaking peoples to describe various Slavic tribes living along the Baltic Sea coast between the Elbe and Oder rivers. Both Germany and Denmark exerted strong political and cultural pressure on these communities. In the mid‑11th century, Duke Gottschalk attempted to impose Christianity across the region, but his reforms provoked a major pagan uprising in 1066, led by the chieftain Kruto. Gottschalk was killed, and Kruto, supported by the pagan nobility, seized power. As prince, Kruto launched frequent raids into Saxon territory, including the destruction of Hamburg in 1072, and maintained control until 1093, when he was overthrown and killed by Gottschalk’s son, Heinrich, who returned with Danish backing. These turbulent events ushered in a period of relative independence for the Wendish lands. Instead of forming a unified state, the region fragmented into several Slavic duchies, which often fought among themselves and struggled to establish lasting cohesion.">
     <relationships>
