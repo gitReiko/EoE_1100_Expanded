@@ -12,9 +12,9 @@
 			 culture="Culture.vlandia"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_b"
-			 name="{=france_new_kingdom_name}Kingdom of France"
+			 name="{=france_new_kingdom_name}Crown of France"
 			 short_name="{=france_new_kingdom_short_name}France"
-			 title="{=france_new_kingdom_title}Kingdom of France"
+			 title="{=france_new_kingdom_title}Crown of France"
 			 ruler_title="{=france_new_ruler_title}King"
 			 text="{=france_new_kingdom_text}France emerged as a unified kingdom in the late 10th century, when Hugh Capet was elected king in 987 and founded the Capetian dynasty. By 1100, however, royal authority remained limited: the king directly controlled only the lands around Paris and Orléans, while powerful feudal houses - Blois, Anjou, Normandy, and Flanders - governed their territories with near-complete independence. The monarchy was weak, and the king relied heavily on alliances with loyal vassals to counter the influence of Normandy and the growing power of England. In the 14th and 15th centuries, France was shaken by the Hundred Years’ War, a long and destructive conflict with England. The eventual French victory in 1453 strengthened the crown and marked the beginning of a gradual process of political centralization. Over the following centuries, France experienced the rise of absolute monarchy, the upheavals of the 1789 Revolution, and ultimately its transformation into a modern republic.">
 		<relationships>
