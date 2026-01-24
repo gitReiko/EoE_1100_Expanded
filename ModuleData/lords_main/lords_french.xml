@@ -2,7 +2,7 @@
 
 <NPCCharacters>
 
-  <NPCCharacter id="lord_french_1a"
+    <NPCCharacter id="lord_french_1a"
                 name="{=lord_france_new_1a}Philippe I Capet"
                 age="58"
                 voice="ironic"
@@ -12,7 +12,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.23" weight="0.5" build="0.5"  key="000A200FC000308BB9DC5578A9235C77537D86629511323BDCB177278A84F667007776030748B49500000000000000000000000000000000000000003EFC5002"  />
+        <BodyProperties version="4" age="22.25" weight="0.5" build="0.5"  key="000A200AC000308BB9DC5578A9235C77537D86629511323BDCB177278A84F667007776030748B49500000000000000000000000000000000000000003EFC5002"  />
     </face>
     <skills>
         <skill id="Engineering" value="225" />
@@ -50,9 +50,9 @@
       <EquipmentSet id="vlandia_king"
                     civilian="true" />
     </Equipments>
-  </NPCCharacter>
+    </NPCCharacter>
   
-  <NPCCharacter id="lord_french_1b"
+    <NPCCharacter id="lord_french_1b"
                 name="{=lord_france_new_1b}Bertrade de Montfort"
                 age="30"
                 voice="ironic"
@@ -100,9 +100,8 @@
       <EquipmentSet id="vlandia_queen"
                     civilian="true" />
     </Equipments>
-  </NPCCharacter>	
+    </NPCCharacter>	
 
-    <!-- facegen -->
     <NPCCharacter id="lord_french_1c"
                 name="{=lord_france_new_1c}Louis VI Capet"
                 age="19"
@@ -113,7 +112,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6367" build="0.718"  key="0008B80B8FA00242417B795C473A9A285A5AAB583BAA5AAAB7B8779B778C3AB900ABA6030ABB2899000000000000000000000000000000000000000049447102"  />
+        <BodyProperties version="4" age="22.25" weight="0.3287" build="0.2978"  key="000D440AD4003285B9DC5878A9235A75537A86629511323BDCB473278A84B667006456030648B48500000000000000000000000000000000000000003EBC5002"  />
     </face>
     <skills>
         <skill id="Engineering" value="200" />
@@ -151,9 +150,8 @@
       <EquipmentSet id="vlandia_lord"
                     civilian="true" />
     </Equipments>
-  </NPCCharacter>
+    </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_french_1d"
                 name="{=lord_france_new_1d}Constance de France"
                 age="12"
@@ -165,7 +163,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6367" build="0.718"  key="0008B80B8FA00002417B795C473A9A285A5AAB583BAA5AAAB7B8779B778C3AB900ABA6030ABB28990000000000000000000000000000000000000000494440C3"  />
+        <BodyProperties version="4" age="22.25" weight="0.3966" build="0.2978"  key="000A44098000300BB98C5878A9235775537A86629511323B8C8473278884B667007466030748B48500000000000000000000000000000000000000003EEC4002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="75" />
@@ -202,9 +200,8 @@
       <EquipmentSet id="vlandia_lady"
                     civilian="true" />
     </Equipments>
-  </NPCCharacter>
+    </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_1e"
                 name="{=lord_france_new_1e}Philippe de France"
                 age="10"
@@ -215,7 +212,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6367" build="0.718"  key="0008B80B8FA00242417B795C473A9A285A5AAB583BAA5AAAB7B8779B778C3AB900ABA6030ABB2899000000000000000000000000000000000000000049447102"  />
+        <BodyProperties version="4" age="22.25" weight="0.2855" build="0.304"  key="0010800AC0003082B99B557AA9235B77537D86628531423BDCB27C279A87C66700A546030A48B79500000000000000000000000000000000000000003F545002"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -253,9 +250,8 @@
       <EquipmentSet id="vlandia_lord"
                     civilian="true" />
     </Equipments>
-  </NPCCharacter>
+    </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_1f"
                 name="{=lord_france_new_1f}Fleur de France"
                 age="8"
@@ -267,7 +263,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6367" build="0.718"  key="0008B80B8FA00002417B795C473A9A285A5AAB583BAA5AAAB7B8779B778C3AB900ABA6030ABB28990000000000000000000000000000000000000000494440C3"  />
+        <BodyProperties version="4" age="22.25" weight="0.2855" build="0.304"  key="000D400AC0003001B999457AA9235877537A97648533423BDCB27C277A87A667007546030748B79500000000000000000000000000000000000000001AE42004"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -306,7 +302,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_1g"
                 name="{=lord_france_new_1g}Renaud de Coucy"
                 age="31"
@@ -318,7 +313,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6367" build="0.718"  key="0008B80B8FA00002417B795C473A9A285A5AAB583BAA5AAAB7B8779B778C3AB900ABA6030ABB28990000000000000000000000000000000000000000494440C3"  />
+        <BodyProperties version="4" age="22.25" weight="0.7273" build="0.7925"  key="0015C4099914211928884AE89C1D69A42A4588787966A36C469B95479BC838A7006CB6030658397A000000000000000000000000000000000000000034D40102"  />
     </face>
 	<skills>
         <skill id="Engineering" value="125" />
@@ -357,7 +352,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_1h"
                 name="{=lord_france_new_1h}Hugues de Crepy"
                 age="47"
@@ -369,7 +363,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6367" build="0.718"  key="0008B80B8FA00002417B795C473A9A285A5AAB583BAA5AAAB7B8779B778C3AB900ABA6030ABB28990000000000000000000000000000000000000000494440C3"  />
+        <BodyProperties version="4" age="22.25" weight="0.3237" build="0.3935"  key="001E90029E701689BC9925B65C88C8E763D377C5A66BA978679539865A92774600865603085D6A6E0000000000000000000000000000000000000000531480C4"  />
     </face>
 	<skills>
         <skill id="Engineering" value="150" />
@@ -408,7 +402,7 @@
     </Equipments>
     </NPCCharacter>
 
-  <NPCCharacter id="lord_french_3a"
+    <NPCCharacter id="lord_french_3a"
                 name="{=lord_french_2a}Foulques IV d'Anjou"
                 age="63"
                 voice="ironic"
@@ -458,7 +452,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_2c"
                 name="{=lord_france_new_2c}Geoffroy IV d'Anjou"
                 age="25"
@@ -469,7 +462,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6367" build="0.718"  key="0008B80B8FA00242417B795C473A9A285A5AAB583BAA5AAAB7B8779B778C3AB900ABA6030ABB2899000000000000000000000000000000000000000049447102"  />
+        <BodyProperties version="4" age="22.25" weight="0.3102" build="0.3287"  key="0005CC06C0B4128C6B877672996B669465865B7699868A9558A99EC5BCCB265D00855603088777A600000000000000000000000000000000000000004B042042"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -509,7 +502,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_french_3b"
                 name="{=lord_french_2b}Hildegarde d'Anjou"
                 age="20"
@@ -521,7 +513,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4244" build="0.4209"  key="0008A8055FB4200D6BA87672C92B669465865B76A9868AD528A99BC5BCCB265D00A666030A8797A600000000000000000000000000000000000000004B444003"  />
+        <BodyProperties version="4" age="22.25" weight="0.5571" build="0.5787"  key="000A5C0340B4300E6B787674B92B689465867B76A9868AF558A993C5BCCB265D00898603086797A600000000000000000000000000000000000000004B0C2004"  />
     </face>
 	<skills>
         <skill id="Engineering" value="125" />
@@ -560,7 +552,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_2d"
                 name="{=lord_france_new_2d}Foulques V d'Anjou"
                 age="21"
@@ -571,7 +562,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.6367" build="0.718"  key="0008B80B8FA00242417B795C473A9A285A5AAB583BAA5AAAB7B8779B778C3AB900ABA6030ABB2899000000000000000000000000000000000000000049447102"  />
+        <BodyProperties version="4" age="22.25" weight="0.5571" build="0.5787"  key="00085C0400B412CD6B787674B92B689465867B76A9868AF558A993C5BCCB265D00898603086797A600000000000000000000000000000000000000004B0C3042"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -711,7 +702,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_french_8c"
                 name="{=lord_france_new_3c}Hugues II de Bourgogne"
                 age="15"
@@ -722,7 +712,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.7808" build="0.3152"  key="0008400B80FC344C5AA6688657352E4847D3467674B78C745869775472A4766A0055C603059876AB000000000000000000000000000000000000000066B46102"  />
+        <BodyProperties version="4" age="22.25" weight="0.2764" build="0.412"  key="000A1C0AC0CC30C665A496B85A9B67CECB4B729C96365895886789287986724600664603064B7378000000000000000000000000000000000000000046D42045"  />
     </face>
     <skills>
         <skill id="Engineering" value="75" />
@@ -762,7 +752,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_3d"
                 name="{=lord_france_new_3d}Helie de Bourgogne"
                 age="17"
@@ -774,7 +763,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.2764" build="0.2144"  key="0008500D1FCC300474A496B85A9B67CECB4B22CC963648958867792BAE86924600634603064E7398000000000000000000000000000000000000000072BC3083"  />
+        <BodyProperties version="4" age="22.25" weight="0.3349" build="0.5262"  key="000A180AC0CC300765A496B85A9B67CEC849759996365695886789287986724600785603074B7378000000000000000000000000000000000000000024FC1042"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -813,7 +802,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_3e"
                 name="{=lord_france_new_3e}Mathilde de Bourgogne"
                 age="12"
@@ -825,7 +813,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.2764" build="0.2144"  key="0008500D1FCC300474A496B85A9B67CECB4B22CC963648958867792BAE86924600634603064E7398000000000000000000000000000000000000000072BC3083"  />
+        <BodyProperties version="4" age="22.25" weight="0.3349" build="0.3225"  key="000A680980CC300A65749688589BB7CAC849859976375695886789287986724600655603066B7375000000000000000000000000000000000000000024D40042"  />
     </face>
 	<skills>
         <skill id="Engineering" value="0" />
@@ -864,9 +852,8 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_3f"
-                name="{=lord_france_new_3f}Guillaume de Nevers"
+                name="{=lord_france_new_3f}Guillaume II de Nevers"
                 age="42"
                 voice="ironic"
                 default_group="Cavalry"
@@ -875,7 +862,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.7808" build="0.3152"  key="0008400B80FC344C5AA6688657352E4847D3467674B78C745869775472A4766A0055C603059876AB000000000000000000000000000000000000000066B46102"  />
+        <BodyProperties version="4" age="22.2" weight="0.2917" build="0.3688"  key="00181C0AC014208DBAA78B18565B9578494C88A76A884477558B97A84A6374860076460307887696000000000000000000000000000000000000000042EC2004"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -1015,7 +1002,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_4c"
                 name="{=lord_france_new_4c}Guillaume de Joinville"
                 age="35"
@@ -1026,7 +1012,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.5057" build="0.3606"  key="00006C0094FC34128CE6753792AC8A32A80871A858D157B3F1C9A994A59673AA0075860307A29B9800000000000000000000000000000000000000002EEC8045"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -1066,7 +1052,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_4d"
                 name="{=lord_france_new_4d}Guy de Dampierre"
                 age="32"
@@ -1077,7 +1062,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.558" build="0.6442"  key="0018B80C622C0913497D589B5D63D665569C562B7949A4636AA2857588859A5D009A860309866534000000000000000000000000000000000000000055349105"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -1117,7 +1102,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_4e"
                 name="{=lord_france_new_4e}Renaud de Nogent"
                 age="30"
@@ -1128,7 +1112,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.5304" build="0.2699"  key="001B7C02948837123B89C6A677675A841889A83B769CC76B5628CBCCB95B65B4007486030775A8A4000000000000000000000000000000000000000034FC2105"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -1168,7 +1152,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_5a"
                 name="{=lord_france_new_5a}Eustache III de Boulogne"
                 age="48"
@@ -1179,7 +1162,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.5304" build="0.7504"  key="001E640E40E41184C9A6947A87829DA7A3499B442378787752A5A483EA4B8958009B86030996B48900000000000000000000000000000000000000002D3C9145"  />
     </face>
     <skills>
         <skill id="Engineering" value="175" />
@@ -1219,7 +1202,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_5b"
                 name="{=lord_france_new_5b}Mary of Scotland"
                 age="19"
@@ -1231,7 +1213,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.3222" build="0.5128"  key="0008240E4088000151B6785D9C8C9758A5BA487E9D29BC9897AE69A26A5BC44B007856030734A44900000000000000000000000000000000000000002AFC3083"  />
+        <BodyProperties version="4" age="22.25" weight="0.2227" build="0.2595"  key="000D2C0AE62C30064448A94C7364BD5A5BA6335796A8D897684D2958A66B978C00743603073A1BC5000000000000000000000000000000000000000006E40042"  />
     </face>
 	<skills>
         <skill id="Engineering" value="0" />
@@ -1270,7 +1252,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_5c"
                 name="{=lord_france_new_5c}Guillaume de Fiennes"
                 age="38"
@@ -1281,7 +1262,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.5419" build="0.6876"  key="00139002802C17C886789A5A53448E957D6A785D376DA5368958BD5A9AB51A96006A8603064B83D6000000000000000000000000000000000000000034DC2085"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -1321,7 +1302,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_5d"
                 name="{=lord_france_new_5d}Renaud de Guînes"
                 age="35"
@@ -1332,7 +1312,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.1723" build="0.4676"  key="0013780C4058321BEA265433A64654B5DA65E96598279A826BADB749A8A9B97900773603079AB683000000000000000000000000000000000000000056E430C5"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -1382,7 +1362,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.02" weight="0.5648" build="0.6875"  key="000A6C08000020CBB9476A869B48D4B3537D86629511323BDCB177278A84F66700BA86030B48B49500000000000000000000000000000000000000003F645002"  />
+        <BodyProperties version="4" age="22.25" weight="0.5603" build="0.6066"  key="00186806D15810938B96E568AC777E8A88763858AC63B6DAB3A279816B8A66890089860308AA967400000000000000000000000000000000000000001D141142"  />
     </face>
     <skills>
         <skill id="Engineering" value="225" />
@@ -1472,7 +1452,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_6c"
                 name="{=lord_france_new_6c}Guillaume de Blois"
                 age="14"
@@ -1483,7 +1462,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.341" build="0.3966"  key="000D4002805811DB89669568A9777A8A87763858AA66B6DAA3A279846B8A668B00865603087A96740000000000000000000000000000000000000000471C1144"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -1523,7 +1502,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_6d"
                 name="{=lord_france_new_6d}Thibaut IV de Blois"
                 age="12"
@@ -1534,7 +1512,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.841" build="0.6744"  key="00108006C05827CB8B76B568AC777A8888783858AA63B69AB3A57352BB8A6676007AD60307AA967400000000000000000000000000000000000000001CFC1142"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -1574,7 +1552,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_6e"
                 name="{=lord_france_new_6e}Lucie de Blois"
                 age="15"
@@ -1586,7 +1563,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.02" weight="0.2662" build="0.4977"  key="00006C000000200DB967956AC8A94568537D86629511323BDCB177278A84F667008746030848B49500000000000000000000000000000000000000003F044003"  />
+        <BodyProperties version="4" age="22.25" weight="0.341" build="0.5787"  key="00138001405810038B76B568AC777A8888783858AA63B69AB3A57352BB8A66760069560306AA9674000000000000000000000000000000000000000038C41102"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -1625,7 +1602,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_6f"
                 name="{=lord_france_new_6f}Alix de Blois"
                 age="16"
@@ -1637,7 +1613,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.02" weight="0.2662" build="0.4977"  key="00006C000000200DB967956AC8A94568537D86629511323BDCB177278A84F667008746030848B49500000000000000000000000000000000000000003F044003"  />
+        <BodyProperties version="4" age="22.25" weight="0.341" build="0.2639"  key="00081801405810068B568568A8777A8888763858AA63B69AD3B57354CB8A66760064560306AA9674000000000000000000000000000000000000000038D41102"  />
     </face>
 	<skills>
         <skill id="Engineering" value="0" />
@@ -1676,7 +1652,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_6g"
                 name="{=lord_france_new_6g}Guillaume de Melun"
                 age="48"
@@ -1687,7 +1662,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.341" build="0.8879"  key="0018500AD72C091A33C43B744A4EA6876AA6A9859474564939AB865B876B4988007D5603076B5E76000000000000000000000000000000000000000056E42102"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -1727,7 +1702,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_6h"
                 name="{=lord_france_new_6h}Herve de Donzy"
                 age="54"
@@ -1738,7 +1712,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.604" build="0.3379"  key="00056808C00023C36749526A888A558DB88399E188564CBD5C795A96597A765900E596030E78599B000000000000000000000000000000000000000041C48106"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -1778,7 +1752,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_7a"
                 name="{=lord_france_new_7a}Hugues de Vermandois"
                 age="43"
@@ -1789,7 +1762,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.25" weight="0.4942" build="0.375"  key="0015AC0C5C1437C93B36D49A4523656A4BB3495BAEC882198B33853B762792E4008676030842B589000000000000000000000000000000000000000026FC7146"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -1829,7 +1802,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_7b"
                 name="{=lord_france_new_7b}Adelaide de Vermandois"
                 age="38"
@@ -1841,7 +1813,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.02" weight="0.2662" build="0.4977"  key="00006C000000200DB967956AC8A94568537D86629511323BDCB177278A84F667008746030848B49500000000000000000000000000000000000000003F044003"  />
+        <BodyProperties version="4" age="22.25" weight="0.2539" build="0.5918"  key="0015640B80FC30049A67699A7B3AE4A76B976576BB474478864997B257B5569F0069460306695991000000000000000000000000000000000000000052C430C2"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -1880,7 +1852,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_7c"
                 name="{=lord_france_new_7c}Mahaut de Vermandois"
                 age="15"
@@ -1892,7 +1863,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.02" weight="0.2662" build="0.4977"  key="00006C000000200DB967956AC8A94568537D86629511323BDCB177278A84F667008746030848B49500000000000000000000000000000000000000003F044003"  />
+        <BodyProperties version="4" age="22.2" weight="0.3935" build="0.375"  key="000D8C0C401410013836D49A4523656A4BB3495BAA8882198B53854B762785B60086660308429589000000000000000000000000000000000000000027044104"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -1931,7 +1902,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_7d"
                 name="{=lord_france_new_7d}Raoul I de Vermandois"
                 age="6"
@@ -1942,7 +1912,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.2" weight="0.3935" build="0.375"  key="00108C0C401412833836D49A4523656A4BB3495BAA8882198B53854B762785B60076660307429589000000000000000000000000000000000000000026FC7146"  />
     </face>
     <skills>
         <skill id="Engineering" value="200" />
@@ -1982,7 +1952,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_7e"
                 name="{=lord_france_new_7e}Raoul I de Boves"
                 age="34"
@@ -1993,7 +1962,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.2" weight="0.5779" build="0.6119"  key="000D84099EB417CD5879668897847778B7973BA79DA58CADB6D6878656A6B567006996030678796900000000000000000000000000000000000000004ED41086"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -2033,7 +2002,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_7f"
                 name="{=lord_france_new_7f}Guy de Senlis"
                 age="28"
@@ -2044,7 +2012,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.2" weight="0.7821" build="0.2231"  key="000D5C04C05839528837529C878795899CCB36769C496D881984BACA9B8A8A390053C603053A4763000000000000000000000000000000000000000044A42046"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -2084,7 +2052,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_8a"
                 name="{=lord_france_new_8a}Aymon II de Bourbon"
                 age="45"
@@ -2095,7 +2062,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.2" weight="0.2215" build="0.8662"  key="0015B80280FC2605A8D93CAD567546A7C4D1418938799DA7C98B127988C86862009D36030985793A000000000000000000000000000000000000000003341086"  />
     </face>
     <skills>
         <skill id="Engineering" value="175" />
@@ -2135,7 +2102,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_8b"
                 name="{=lord_france_new_8b}Aldesinde de Nevers"
                 age="41"
@@ -2147,7 +2113,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.02" weight="0.2662" build="0.4977"  key="00006C000000200DB967956AC8A94568537D86629511323BDCB177278A84F667008746030848B49500000000000000000000000000000000000000003F044003"  />
+        <BodyProperties version="4" age="22.2" weight="0.2917" build="0.3688"  key="0015600ADF142006BAA78B18565B95784B0C88A76C884497558B97A84B6374860086460308889696000000000000000000000000000000000000000043142004"  />
     </face>
 	<skills>
         <skill id="Engineering" value="75" />
@@ -2186,7 +2152,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_8c"
                 name="{=lord_france_new_8c}Gilon II de Sully"
                 age="28"
@@ -2197,7 +2162,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.2" weight="0.2133" build="0.5015"  key="001370099600130F97797948A8779553A71468C669529B2A6C684587B5522A9500783603077C8717000000000000000000000000000000000000000042EC5106"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -2237,7 +2202,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_france_new_8d"
                 name="{=lord_france_new_8d}Guillaume de Saint-Amand"
                 age="32"
@@ -2248,7 +2212,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+        <BodyProperties version="4" age="22.2" weight="0.6118" build="0.5972"  key="00105C02A62C3918575B6673A948DB6388486B8DB3B58A628B6C53B768367C47007996030736A58C000000000000000000000000000000000000000038DC10C6"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -2279,6 +2243,56 @@
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_france_new_8e"
+                name="{=lord_france_new_8e}Guillaume I de Nevers"
+                age="63"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.2" weight="0.2917" build="0.3688"  key="0015600AC0142006BAA78B18565B95784B0C88A76C884497558B97A84B6374860086460308889696000000000000000000000000000000000000000043142004"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="175" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="275" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="300" />
+        <skill id="Scouting" value="250" />
+        <skill id="Tactics" value="150" />
+        <skill id="Crafting" value="0" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="100" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="300" />
+        <skill id="TwoHanded" value="200" />
+        <skill id="OneHanded" value="300" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentRoster />

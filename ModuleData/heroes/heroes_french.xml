@@ -22,7 +22,7 @@
    <Hero id="lord_french_8c" mother="Hero.lord_french_8b" father="Hero.lord_french_8a" faction="Faction.clan_french_8" />
    <Hero id="lord_france_new_3d" mother="Hero.lord_french_8b" father="Hero.lord_french_8a" faction="Faction.clan_french_8" />
    <Hero id="lord_france_new_3e" mother="Hero.lord_french_8b" father="Hero.lord_french_8a" faction="Faction.clan_french_8" />
-   <Hero id="lord_france_new_3f" faction="Faction.clan_french_8" />
+   <Hero id="lord_france_new_3f" father="Hero.lord_france_new_8e" faction="Faction.clan_french_8" />
 
 
    <Hero id="lord_french_9a" spouse="Hero.lord_french_9b" faction="Faction.clan_french_9" />
@@ -57,8 +57,9 @@
 
 
    <Hero id="lord_france_new_8a" spouse="Hero.lord_france_new_8b" faction="Faction.clan_france_new_8" />
-   <Hero id="lord_france_new_8b" spouse="Hero.lord_france_new_8a" faction="Faction.clan_france_new_8" />
+   <Hero id="lord_france_new_8b" spouse="Hero.lord_france_new_8a" father="Hero.lord_france_new_8e" faction="Faction.clan_france_new_8" />
    <Hero id="lord_france_new_8c" faction="Faction.clan_france_new_8" />
    <Hero id="lord_france_new_8d" faction="Faction.clan_france_new_8" />
+   <Hero id="lord_france_new_8e" alive="false" faction="Faction.clan_france_new_8" />
 
 </Heroes>
