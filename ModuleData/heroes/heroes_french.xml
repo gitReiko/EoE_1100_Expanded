@@ -45,4 +45,12 @@
    <Hero id="lord_france_new_6g" faction="Faction.clan_french_12" />
    <Hero id="lord_france_new_6h" faction="Faction.clan_french_12" />
 
+
+   <Hero id="lord_france_new_7a" spouse="Hero.lord_france_new_7b" faction="Faction.clan_france_new_7" />
+   <Hero id="lord_france_new_7b" spouse="Hero.lord_france_new_7a" faction="Faction.clan_france_new_7" />
+   <Hero id="lord_france_new_7c" father="Hero.lord_france_new_7a" mother="Hero.lord_france_new_7b" faction="Faction.clan_france_new_7" />
+   <Hero id="lord_france_new_7d" father="Hero.lord_france_new_7a" mother="Hero.lord_france_new_7b" faction="Faction.clan_france_new_7" />
+   <Hero id="lord_france_new_7e" faction="Faction.clan_france_new_7" />
+   <Hero id="lord_france_new_7f" faction="Faction.clan_france_new_7" />
+
 </Heroes>

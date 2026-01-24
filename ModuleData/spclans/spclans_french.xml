@@ -73,4 +73,16 @@
     color="ffd9d9d9" color2="ff3b6298"
   />
 
+  <Faction id="clan_france_new_7"
+    name="{=clan_france_new_7.name}Vermandois"
+    initial_home_settlement="Settlement.town_paris" 			   
+    tier="2"
+    owner="Hero.lord_france_new_7a"
+    culture="Culture.vlandia"
+    super_faction="Kingdom.vlandia"
+    is_noble="true"
+    banner_key="5.121.141.1490.1490.764.764.1.0.0.505.141.116.2037.321.764.504.0.0.0.505.141.116.2037.321.803.275.0.0.0.424.121.116.228.228.764.517.0.0.0.424.121.116.228.228.949.517.0.0.0.424.121.116.228.228.579.517.0.0.0" 
+    color="fff4d32e" color2="ff3b6298"
+  />
+
 </Factions>

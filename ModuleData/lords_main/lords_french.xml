@@ -1676,4 +1676,310 @@
     </Equipments>
     </NPCCharacter>
 
+    <!-- facegen -->
+    <NPCCharacter id="lord_france_new_7a"
+                name="{=lord_france_new_7a}Hugues de Vermandois"
+                age="43"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="0" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="150" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="50" />
+        <skill id="Crossbow" value="150" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="200" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_france_new_7b"
+                name="{=lord_france_new_7b}Adelaide de Vermandois"
+                age="38"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.02" weight="0.2662" build="0.4977"  key="00006C000000200DB967956AC8A94568537D86629511323BDCB177278A84F667008746030848B49500000000000000000000000000000000000000003F044003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="0" />
+        <skill id="Tactics" value="75" />
+        <skill id="Crafting" value="0" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="100" />
+        <skill id="Throwing" value="0" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_france_new_7c"
+                name="{=lord_france_new_7c}Mahaut de Vermandois"
+                age="15"
+                voice="ironic"
+                is_female="true"
+                culture="Culture.vlandia"
+                is_hero="true"
+                default_group="Cavalry"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.02" weight="0.2662" build="0.4977"  key="00006C000000200DB967956AC8A94568537D86629511323BDCB177278A84F667008746030848B49500000000000000000000000000000000000000003F044003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="0" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="250" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="25" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="125" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="vlandia_lady" />
+      <EquipmentSet id="vlandia_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_france_new_7d"
+                name="{=lord_france_new_7d}Raoul I de Vermandois"
+                age="6"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="200" />
+        <skill id="Medicine" value="175" />
+        <skill id="Leadership" value="225" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="0" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="200" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="175" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="275" />
+        <skill id="Throwing" value="25" />
+        <skill id="Crossbow" value="150" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="250" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_france_new_7e"
+                name="{=lord_france_new_7e}Raoul I de Boves"
+                age="34"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="0" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="150" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="0" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="250" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_france_new_7f"
+                name="{=lord_france_new_7f}Guy de Senlis"
+                age="28"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.92" weight="0.4486" build="0.5128"  key="0008A40F00E4338B88968A5D7775186DB72E7CB67ACBEA84E277787D86A744560068760306D7388E000000000000000000000000000000000000000034D49042"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="175" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="250" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="100" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="175" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="-2" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
 </NPCCharacters>
