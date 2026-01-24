@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="polotsk"
+		name="{=polatsk_kingdom_name}Land of Polack"
+		short_name="{=polatsk_kingdom_short_name}Polack"
+		title="{=polatsk_kingdom_title}Land of Polack"
+		ruler_title="{=polatsk_ruler_title}Kniaz"
+	></Kingdom>
+</Kingdoms>

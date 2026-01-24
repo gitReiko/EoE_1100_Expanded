@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="aragon"
+		short_name="{=aragon_kingdom_short_name}Aragon"
+		title="{=aragon_kingdom_title}Kingdom of Aragon"
+	></Kingdom>
+</Kingdoms>

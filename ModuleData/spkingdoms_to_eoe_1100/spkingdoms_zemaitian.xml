@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="zemaitian"
+		name="{=zemaitian_kingdom_name}Chiefdom of Žemaitians"
+		short_name="{=zemaitian_kingdom_short_name}Žemaitians"
+		title="{=zemaitian_kingdom_title}Chiefdom of Žemaitians"
+		ruler_title="{=zemaitian_ruler_title}Chieftan"
+	></Kingdom>
+</Kingdoms>

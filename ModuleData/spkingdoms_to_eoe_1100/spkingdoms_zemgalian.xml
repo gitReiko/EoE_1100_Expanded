@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="zemgalian"
+		name="{=zemgalian_kingdom_name}Chiefdom of Zemgalians"
+		short_name="{=zemgalian_kingdom_short_name}Zemgalians"
+		title="{=zemgalian_kingdom_title}Chiefdom of Zemgalians"
+		ruler_title="{=zemgalian_ruler_title}Chieftan"
+	></Kingdom>
+</Kingdoms>

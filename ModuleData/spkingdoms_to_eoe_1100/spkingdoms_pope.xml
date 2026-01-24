@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="pope"
+		name="{=papal_states_name}State of the Church" 
+		short_name="{=papal_states_short_name}Church" 
+		title="{=papal_states_title}State of the Church" 
+		ruler_title="{=papal_ruler_title}Pope" 
+	></Kingdom>
+</Kingdoms>

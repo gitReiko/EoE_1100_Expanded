@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="khuzait"
+		name="{=cuman_khanate_name}Khanate of Cumans" 
+		short_name="{=cuman_khanate_short_name}Cumans" 
+		title="{=cuman_khanate_title}Khanate of Cumans" 
+		ruler_title="{=cuman_ruler_title}Khan" 
+	></Kingdom>
+</Kingdoms>

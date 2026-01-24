@@ -12,9 +12,9 @@
 		culture="Culture.khuzait" 
 		settlement_banner_mesh="encounter_flag_a" 
 		flag_mesh="info_screen_flags_a" 
-		name="{=pecheneg_khanate_name}Pecheneg Khanate" 
+		name="{=pecheneg_khanate_name}Khanate of Pechenegs" 
 		short_name="{=pecheneg_khanate_short_name}Pechenegs" 
-		title="{=pecheneg_khanate_title}Pechenegs" 
+		title="{=pecheneg_khanate_title}Khanate of Pechenegs" 
 		ruler_title="{=pecheneg_ruler_title}Khan" 
 		text="{=pecheneg_khanate_text}The Pechenegs or Patzinaks were a semi-nomadic Turkic people from Central Asia who spoke the Pecheneg language. In the 9th and 10th centuries, the Pechenegs controlled much of the steppes of southeast Europe and the Crimean Peninsula. In the 9th century the Pechenegs began a period of wars against Kievan Rus, and for more than two centuries launched raids into the lands of Rus, which sometimes escalated into full-scale wars.">
     <relationships>

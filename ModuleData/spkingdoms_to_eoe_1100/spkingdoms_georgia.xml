@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="georgia" title="{=georgia_kingdom_title}Kingdom of Georgia"></Kingdom>
+</Kingdoms>

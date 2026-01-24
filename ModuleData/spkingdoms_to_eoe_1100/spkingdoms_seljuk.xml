@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="seljuk"
+		name="{=seljuk_empire_name}Empire of Seljuks" 
+		short_name="{=seljuk_empire_short_name}Seljuks" 
+		title="{=seljuk_empire_title}Empire of Seljuks" 
+		ruler_title="{=seljuk_ruler_title}Sultan" 
+	></Kingdom>
+</Kingdoms>

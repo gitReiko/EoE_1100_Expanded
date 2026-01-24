@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="volhynia"
+		name="{=volhynia_kingdom_name}Land of Volhynia"
+		short_name="{=volhynia_kingdom_short_name}Volhynia"
+		title="{=volhynia_kingdom_title}Land of Volhynia"
+		ruler_title="{=volhynia_ruler_title}Kniaz" 
+	></Kingdom>
+</Kingdoms>

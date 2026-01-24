@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="kyiv"
+		name="{=kyiv_kingdom_name}Land of Kyiv" 
+		short_name="{=kyiv_kingdom_short_name}Kyiv" 
+		title="{=kyiv_kingdom_title}Land of Kyiv" 
+		ruler_title="{=kyiv_ruler_title}Great Kniaz" 
+	></Kingdom>
+</Kingdoms>

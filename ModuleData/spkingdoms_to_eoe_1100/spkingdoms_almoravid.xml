@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="aserai"
+		name="{=almoravid_kingdom_name}Emirate of Almoravids"
+		short_name="{=almoravid_kingdom_short_name}Almoravids"
+		title="{=almoravid_kingdom_title}Emirate of Almoravids"
+		ruler_title="{=almoravid_ruler_title}Emir"
+	></Kingdom>
+</Kingdoms>

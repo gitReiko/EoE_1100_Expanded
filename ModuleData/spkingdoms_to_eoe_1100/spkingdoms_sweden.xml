@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="sweden"
+		short_name="{=sweden_kingdom_short_name}Sweden" 
+	></Kingdom>
+</Kingdoms>

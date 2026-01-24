@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="armenia"
+		name="{=cilician_armenia_name}Kingdom of Cilician Armenia" 
+		short_name="{=cilician_armenia_short_name}Armenia" 
+		title="{=cilician_armenia_title}Kingdom of Cilician Armenia" 
+		ruler_title="{=cilician_armenia_ruler_title}King" 
+	></Kingdom>
+</Kingdoms>

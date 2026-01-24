@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="halych"
+		name="{=halych_kingdom_name}Land of Halych"
+		short_name="{=halych_kingdom_short_name}Halych"
+		title="{=halych_kingdom_title}Land of Halych"
+		ruler_title="{=halych_ruler_title}Kniaz"
+	></Kingdom>
+</Kingdoms>

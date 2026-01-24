@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="byzantium"
+		name="{=byzantine_empire_name}Empire of Rhomania" 
+		short_name="{=byzantine_empire_short_name}Rhomania" 
+		title="{=byzantine_empire_title}Empire of Rhomania" 
+		ruler_title="{=byzantine_ruler_title}Basileus"  
+	></Kingdom>
+</Kingdoms>

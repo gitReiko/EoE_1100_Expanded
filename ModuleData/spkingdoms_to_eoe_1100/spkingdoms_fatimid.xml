@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="fatimid"
+		name="{=fatimid_caliphate_name}Caliphate of Fatimids"
+		short_name="{=fatimid_caliphate_short_name}Fatimids"
+		title="{=fatimid_caliphate_title}Caliphate of Fatimids"
+		ruler_title="{=fatimid_ruler_title}Caliph"
+	></Kingdom>
+</Kingdoms>

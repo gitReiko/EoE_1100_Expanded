@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="finland"
+		name="{=finnic.name}Chiefdom of Finns"
+		short_name="{=finnic.short_name}Finns"
+		title="{=finnic.title}Chiefdom of Finns"
+		ruler_title="{=finnic.ruler_title}Chieftan"
+	></Kingdom>
+</Kingdoms>

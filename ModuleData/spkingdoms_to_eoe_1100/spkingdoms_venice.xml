@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="venice"
+		short_name="{=venice_republic_short_name}Venice" 
+	></Kingdom>
+</Kingdoms>

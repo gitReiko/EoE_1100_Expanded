@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="prussia"
+		name="{=prussia.name}Chiefdom of Prussians"
+		short_name="{=prussia.short_name}Prussians"
+		title="{=prussia.title}Chiefdom of Prussians"
+		ruler_title="{=prussia.ruler_title}Chieftan"
+	></Kingdom>
+</Kingdoms>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="kordno"
+		name="{=kordno_kingdom_name}Land of Kordno" 
+		short_name="{=kordno_kingdom_short_name}Kordno" 
+		title="{=kordno_kingdom_title}Land of Kordno" 
+		ruler_title="{=kordno_ruler_title}Kniaz" 
+	></Kingdom>
+</Kingdoms>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="crusade"
+		name="{=crusader_states_name}States of Crusaders" 
+		short_name="{=crusader_states_short_name}Crusaders" 
+		title="{=crusader_states_title}States of Crusaders" 
+		ruler_title="{=crusader_ruler_title}King" 
+	></Kingdom>
+</Kingdoms>

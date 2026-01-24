@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="tavastia"
+		name="{=tavastia.name}Chiefdom of Tavastians"
+		short_name="{=tavastia.short_name}Tavastians"
+		title="{=tavastia.title}Chiefdom of Tavastians"
+		ruler_title="{=tavastia.ruler_title}Chieftan"
+	></Kingdom>
+</Kingdoms>

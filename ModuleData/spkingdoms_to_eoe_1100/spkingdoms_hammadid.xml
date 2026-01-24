@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="hammadid"
+		   name="{=hamamdid_kingdom_name}Sultanate of Hammadids"
+		   short_name="{=hammadid_kingdom_short_name}Hammadids"
+		   title="{=hammadid_kingdom_title}Sultanate of Hammadids"
+		   ruler_title="{=hammadid_ruler_title}Sultan"
+	></Kingdom>
+</Kingdoms>

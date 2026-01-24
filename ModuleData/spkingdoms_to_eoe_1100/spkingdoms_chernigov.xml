@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="chernigov"
+		name="{=chernigov_kingdom_name}Land of Chernigov" 
+		short_name="{=chernigov_kingdom_short_name}Chernigov" 
+		title="{=chernigov_kingdom_title}Land of Chernigov" 
+		ruler_title="{=chernigov_ruler_title}Kniaz" 
+	></Kingdom>
+</Kingdoms>

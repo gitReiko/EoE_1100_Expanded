@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="jatvingian"
+		name="{=jatvingian_kingdom_name}Chiefdom of Jatvingians"
+		short_name="{=jatvingian_kingdom_short_name}Jatvingians"
+		title="{=jatvingian_kingdom_title}Chiefdom of Jatvingians"
+		ruler_title="{=jatvingian_ruler_title}Chieftan"
+	></Kingdom>
+</Kingdoms>

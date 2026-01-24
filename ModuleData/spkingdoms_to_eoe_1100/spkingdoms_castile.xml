@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="castile" short_name="{=castile_kingdom_short_name}Castile" ></Kingdom>
+</Kingdoms>

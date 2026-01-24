@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="aestia"
+		name="{=aestia_kingdom_name}Chiefdom of Aestians"
+		short_name="{=aestia_kingdom_short_name}Aestians"
+		title="{=aestia_kingdom_title}Chiefdom of Aestians"
+		ruler_title="{=aestia_ruler_title}Chieftan"
+	></Kingdom>
+</Kingdoms>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="latgalian"
+		name="{=latgalian_kingdom_name}Chiefdom of Latgalians"
+		short_name="{=latgalian_kingdom_short_name}Latgalians"
+		title="{=latgalian_kingdom_title}Chiefdom of Latgalians"
+		ruler_title="{=latgalian_ruler_title}Chieftan"
+	></Kingdom>
+</Kingdoms>

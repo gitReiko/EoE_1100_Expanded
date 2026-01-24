@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="curonian"
+		name="{=curonian.name}Chiefdom of Curonians"
+		short_name="{=curonian.short_name}Curonians"
+		title="{=curonian.title}Chiefdom of Curonians"
+		ruler_title="{=curonian.ruler_title}Chieftan"
+	></Kingdom>
+</Kingdoms>

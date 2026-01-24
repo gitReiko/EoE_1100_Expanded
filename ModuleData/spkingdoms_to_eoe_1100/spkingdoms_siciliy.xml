@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="sicily"
+		short_name="{=sicily_kingdom_short_name}Sicily"
+	></Kingdom>
+</Kingdoms>
