@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Heroes>
 
-   <Hero id="lord_danish_new_2a" father="Hero.lord_danish_new_2b" faction="Faction.clan_norway_7_new" />
-   <Hero id="lord_danish_new_2b" alive="false" faction="Faction.clan_norway_7_new" />
-   <Hero id="lord_danish_new_2c" father="Hero.lord_danish_new_2a" faction="Faction.clan_norway_7_new" />
-   <Hero id="lord_danish_new_2d" father="Hero.lord_danish_new_2a" faction="Faction.clan_norway_7_new" />
-   <Hero id="lord_danish_new_2e" father="Hero.lord_danish_new_2b" faction="Faction.clan_norway_7_new" />
-   <Hero id="lord_danish_new_2f" father="Hero.lord_danish_new_2e" faction="Faction.clan_norway_7_new" />
-   <Hero id="lord_danish_new_2g" father="Hero.lord_danish_new_2e" faction="Faction.clan_norway_7_new" />
+   <Hero id="lord_danish_new_2a" father="Hero.lord_danish_new_2b" faction="Faction.clan_danish_new_2" />
+   <Hero id="lord_danish_new_2b" alive="false" faction="Faction.clan_danish_new_2" />
+   <Hero id="lord_danish_new_2c" father="Hero.lord_danish_new_2a" faction="Faction.clan_danish_new_2" />
+   <Hero id="lord_danish_new_2d" father="Hero.lord_danish_new_2a" faction="Faction.clan_danish_new_2" />
+   <Hero id="lord_danish_new_2e" father="Hero.lord_danish_new_2b" faction="Faction.clan_danish_new_2" />
+   <Hero id="lord_danish_new_2f" father="Hero.lord_danish_new_2e" faction="Faction.clan_danish_new_2" />
+   <Hero id="lord_danish_new_2g" father="Hero.lord_danish_new_2e" faction="Faction.clan_danish_new_2" />
 
 </Heroes>
