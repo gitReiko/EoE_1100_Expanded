@@ -102,7 +102,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_swedish_4c"
                 name="{=lord_swedish_4c}Erik Jedvardsson"
                 default_group="Cavalry"
@@ -113,7 +112,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.21" weight="0.3707" build="0.8586"  key="0002780AC014051A277DCA9B7A6E8B479B8878A676279A78A749C9764683848500BD66030B8386980000000000000000000000000000000000000000356C2042"  />
+        <BodyProperties version="4" age="22.19" weight="0.3707" build="0.6312"  key="0002780A50140186277DCA9B7A6A8B46988878A696279A75A74999785683848500896603088386980000000000000000000000000000000000000000351C2042"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -153,7 +152,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_swedish_4d"
                 name="{=lord_swedish_4d}Johan Jedvardsson"
                 default_group="Cavalry"
@@ -164,7 +162,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.21" weight="0.3707" build="0.8586"  key="0002780AC014051A277DCA9B7A6E8B479B8878A676279A78A749C9764683848500BD66030B8386980000000000000000000000000000000000000000356C2042"  />
+        <BodyProperties version="4" age="22.19" weight="0.3707" build="0.6157"  key="00025C0AC0141282277DCA787A6B8B45998A78A676279A76A7699D769683848500996603098386980000000000000000000000000000000000000000353C2042"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -204,7 +202,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_swedish_4e"
                 name="{=lord_swedish_4e}Magnus Jedvardsson"
                 default_group="Cavalry"
@@ -215,7 +212,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.21" weight="0.3707" build="0.8586"  key="0002780AC014051A277DCA9B7A6E8B479B8878A676279A78A749C9764683848500BD66030B8386980000000000000000000000000000000000000000356C2042"  />
+        <BodyProperties version="4" age="22.19" weight="0.591" build="0.8586"  key="0005A40AC01422D226C9CA997A6B8B489688788676449A786449C9748683848500BD96030B838698000000000000000000000000000000000000000035842042"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />

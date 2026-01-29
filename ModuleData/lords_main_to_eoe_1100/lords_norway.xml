@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters> 
 
-    <!-- facegen -->
     <NPCCharacter id="lord_norway_new_7a"
                 name="{=lord_norway_new_7a}Ketil Árnmodsson"
                 default_group="Cavalry"
@@ -12,7 +11,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.21" weight="0.6064" build="0.8236"  key="00206C01400011D2A8DA658595D4A73AAC4637616958B6C5762B1AB4AC9A2A97008C96030865877400000000000000000000000000000000000000002D046102"  />
+        <BodyProperties version="4" age="22.19" weight="0.6726" build="0.5394"  key="00026002005823D4A57747AA9857651D698762AAA6A945A55A55C349A4A367790098A6030986347800000000000000000000000000000000000000003D344004"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -52,7 +51,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_norway_new_7b"
                 name="{=lord_norway_new_7b}Árnmóðr"
                 default_group="Cavalry"
@@ -63,7 +61,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.21" weight="0.6064" build="0.8236"  key="00206C01400011D2A8DA658595D4A73AAC4637616958B6C5762B1AB4AC9A2A97008C96030865877400000000000000000000000000000000000000002D046102"  />
+        <BodyProperties version="4" age="22.19" weight="0.6726" build="0.5394"  key="00052C021558254CA56647DC9858651D69B762AAA6AC45A55A55C349A4A3677900C8A6030C76347800000000000000000000000000000000000000003DA44002"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -103,7 +101,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_norway_new_7c"
                 name="{=lord_norway_new_7c}Tore Ketilsson"
                 default_group="Cavalry"
@@ -114,7 +111,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.21" weight="0.6064" build="0.8236"  key="00206C01400011D2A8DA658595D4A73AAC4637616958B6C5762B1AB4AC9A2A97008C96030865877400000000000000000000000000000000000000002D046102"  />
+        <BodyProperties version="4" age="22.19" weight="0.3873" build="0.5394"  key="00052C03575822D2A57747A79557651D698762AAA67946A55855AC4974A36777008866030886347800000000000000000000000000000000000000003D143004"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -154,7 +151,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_norway_new_7d"
                 name="{=lord_norway_new_7d}Sigrid Ketilsdatter"
                 age="16"
@@ -166,7 +162,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.22" weight="0.5447" build="0.5741"  key="0000180000000004A970C862668B484126A6786759889C548957B9C2A6D75E5400998603099538CC00000000000000000000000000000000000000002D242003"  />
+        <BodyProperties version="4" age="22.19" weight="0.3873" build="0.304"  key="00051C0340582007A57747A79557651D698762AAA67946A55855AC4974A36777006566030686347800000000000000000000000000000000000000003CCC4004"  />
     </face>
     <skills>
         <skill id="Engineering" value="25" />
@@ -206,7 +202,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_norway_new_7e"
                 name="{=lord_norway_new_7e}Einar Árnmodsson"
                 default_group="Cavalry"
@@ -217,7 +212,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.21" weight="0.6064" build="0.8236"  key="00206C01400011D2A8DA658595D4A73AAC4637616958B6C5762B1AB4AC9A2A97008C96030865877400000000000000000000000000000000000000002D046102"  />
+        <BodyProperties version="4" age="22.19" weight="0.3904" build="0.5394"  key="00055C0140582083858646DC9856653A69B7629AA6A945855A559347A6A66777009866030976347800000000000000000000000000000000000000003D3C5006"  />
     </face>
     <skills>
         <skill id="Engineering" value="125" />
@@ -257,7 +252,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_norway_new_7f"
                 name="{=lord_norway_new_7f}Ásmund Einarsson"
                 default_group="Cavalry"
@@ -268,7 +262,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.21" weight="0.6064" build="0.8236"  key="00206C01400011D2A8DA658595D4A73AAC4637616958B6C5762B1AB4AC9A2A97008C96030865877400000000000000000000000000000000000000002D046102"  />
+        <BodyProperties version="4" age="22.19" weight="0.3904" build="0.5394"  key="000584014058164E858646BA955665386997627A76AB45855A558347A6CC6777006866030676347800000000000000000000000000000000000000002ED45005"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -308,7 +302,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_norway_new_7g"
                 name="{=lord_norway_new_7g}Ragnhild Einarsdatter"
                 age="17"
@@ -320,7 +313,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.22" weight="0.5447" build="0.5741"  key="0000180000000004A970C862668B484126A6786759889C548957B9C2A6D75E5400998603099538CC00000000000000000000000000000000000000002D242003"  />
+        <BodyProperties version="4" age="22.19" weight="0.3904" build="0.5394"  key="0005840155582001858646BA955665386997627A76AB45855A558347A6CC6777006866030676347800000000000000000000000000000000000000002ED44002"  />
     </face>
     <skills>
         <skill id="Engineering" value="75" />
