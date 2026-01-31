@@ -24,6 +24,14 @@
         </XmlNode>
 
         <XmlNode>
+        <XmlName id="Settlements" path="settlements_to_eoe_1100"/>
+        <IncludedGameTypes>
+            <GameType value = "Campaign"/>
+            <GameType value = "CustomGame"/>
+        </IncludedGameTypes>
+        </XmlNode>
+
+        <XmlNode>
 			<XmlName id="SPCultures" path="spcultures_to_eoe_1100" />
 			<IncludedGameTypes>
 				<GameType value="Campaign" />

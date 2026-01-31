@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settlements>
+
+  <!-- Denmark -->
+  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
+  <Settlement id="town_aalborg" owner="Faction.clan_danish_3" ></Settlement>
+  <Settlement id="town_lund" owner="Faction.clan_danish_4" ></Settlement>
+  <Settlement id="castle_viborg" owner="Faction.clan_danish_new_2" ></Settlement>
+  <Settlement id="castle_helsingborg" owner="Faction.clan_danish_5" ></Settlement>
+  <Settlement id="town_ribe" owner="Faction.clan_danish_7" ></Settlement>
+
+  <!-- Norway -->
+  <Settlement id="town_bergen" owner="Faction.clan_norway_1" ></Settlement>
+  <Settlement id="town_stavanger" owner="Faction.clan_norway_2" ></Settlement>
+  <Settlement id="town_oslo" owner="Faction.clan_norway_3" ></Settlement>
+  <Settlement id="town_arendal" owner="Faction.clan_norway_4" ></Settlement>
+  <Settlement id="town_kirkwall" owner="Faction.clan_norway_5" ></Settlement>
+  <Settlement id="castle_holmwick" owner="Faction.clan_norway_6" ></Settlement>
+
+  <!-- Sweden -->
+  <Settlement id="town_sigtuna" owner="Faction.clan_swedish_1" ></Settlement>
+  <Settlement id="town_vaxjo" owner="Faction.clan_swedish_1" ></Settlement>
+  <Settlement id="castle_skara" owner="Faction.clan_swedish_4" ></Settlement>
+  <Settlement id="town_lodose" owner="Faction.clan_swedish_2" ></Settlement>
+  <Settlement id="town_linkoping" owner="Faction.clan_swedish_3" ></Settlement>
+  <Settlement id="castle_strangnas" owner="Faction.clan_swedish_5" ></Settlement>
+  <Settlement id="town_visby" owner="Faction.clan_swedish_6" ></Settlement>
+  <Settlement id="town_kalmar" owner="Faction.clan_swedish_7" ></Settlement>
+
+</Settlements>
