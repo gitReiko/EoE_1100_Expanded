@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters> 
+
+    <NPCCharacter id="lord_norway_new_7a"
+                name="{=lord_norway_new_7a}Ketil Árnmodsson"
+                default_group="Cavalry"
+                age="49"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.6726" build="0.5394"  key="00026002005823D4A57747AA9857651D698762AAA6A945A55A55C349A4A367790098A6030986347800000000000000000000000000000000000000003D344004"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="200" />
+        <skill id="Leadership" value="300" />
+        <skill id="Steward" value="250" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="200" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="275" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="250" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_norway_new_7b"
+                name="{=lord_norway_new_7b}Árnmóðr"
+                default_group="Cavalry"
+                age="58"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.6726" build="0.5394"  key="00052C021558254CA56647DC9858651D69B762AAA6AC45A55A55C349A4A3677900C8A6030C76347800000000000000000000000000000000000000003DA44002"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="275" />
+        <skill id="Tactics" value="300" />
+        <skill id="Crafting" value="50" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="25" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="300" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="200" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_norway_new_7c"
+                name="{=lord_norway_new_7c}Tore Ketilsson"
+                default_group="Cavalry"
+                age="23"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.3873" build="0.5394"  key="00052C03575822D2A57747A79557651D698762AAA67946A55855AC4974A36777008866030886347800000000000000000000000000000000000000003D143004"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="0" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="200" />
+        <skill id="Tactics" value="150" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="0" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="250" />
+        <skill id="OneHanded" value="200" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_norway_new_7d"
+                name="{=lord_norway_new_7d}Sigrid Ketilsdatter"
+                age="16"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                is_female="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.3873" build="0.304"  key="00051C0340582007A57747A79557651D698762AAA67946A55855AC4974A36777006566030686347800000000000000000000000000000000000000003CCC4004"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="25" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="25" />
+        <skill id="Tactics" value="25" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="50" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lady" />
+      <EquipmentSet id="sturgia_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_norway_new_7e"
+                name="{=lord_norway_new_7e}Einar Árnmodsson"
+                default_group="Cavalry"
+                age="46"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.3904" build="0.5394"  key="00055C0140582083858646DC9856653A69B7629AA6A945855A559347A6A66777009866030976347800000000000000000000000000000000000000003D3C5006"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="175" />
+        <skill id="Crafting" value="50" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="100" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_norway_new_7f"
+                name="{=lord_norway_new_7f}Ásmund Einarsson"
+                default_group="Cavalry"
+                age="22"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.3904" build="0.5394"  key="000584014058164E858646BA955665386997627A76AB45855A558347A6CC6777006866030676347800000000000000000000000000000000000000002ED45005"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="25" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="150" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="200" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_norway_new_7g"
+                name="{=lord_norway_new_7g}Ragnhild Einarsdatter"
+                age="17"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                is_female="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.3904" build="0.5394"  key="0005840155582001858646BA955665386997627A76AB45855A558347A6CC6777006866030676347800000000000000000000000000000000000000002ED44002"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="50" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="0" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="75" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="-2" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lady" />
+      <EquipmentSet id="sturgia_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+</NPCCharacters>

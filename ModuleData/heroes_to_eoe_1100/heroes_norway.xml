@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_norway_new_7a" father="Hero.lord_norway_new_7b" faction="Faction.clan_norway_7_new" />
+   <Hero id="lord_norway_new_7b" alive="false" faction="Faction.clan_norway_7_new" />
+   <Hero id="lord_norway_new_7c" father="Hero.lord_norway_new_7a" faction="Faction.clan_norway_7_new" />
+   <Hero id="lord_norway_new_7d" father="Hero.lord_norway_new_7a" faction="Faction.clan_norway_7_new" />
+   <Hero id="lord_norway_new_7e" father="Hero.lord_norway_new_7b" faction="Faction.clan_norway_7_new" />
+   <Hero id="lord_norway_new_7f" father="Hero.lord_norway_new_7e" faction="Faction.clan_norway_7_new" />
+   <Hero id="lord_norway_new_7g" father="Hero.lord_norway_new_7e" faction="Faction.clan_norway_7_new" />
+
+</Heroes>

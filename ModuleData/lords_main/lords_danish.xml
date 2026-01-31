@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters> 
+
+    <NPCCharacter id="lord_danish_new_2a"
+                name="{=lord_danish_new_2a}Harald Bjørnsson"
+                default_group="Cavalry"
+                age="48"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.7731" build="0.5818"  key="000274080044150299859A5D4B77A957B349766B9C595578997CAEB9927A878A0089C6030893583A000000000000000000000000000000000000000026FC8145"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="25" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="200" />
+        <skill id="Tactics" value="250" />
+        <skill id="Crafting" value="0" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="125" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="225" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="-1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_danish_new_2b"
+                name="{=lord_danish_new_2b}Bjørn Haraldsson"
+                default_group="Cavalry"
+                age="65"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.7731" build="0.5818"  key="00058C08C04412C889939A5D4B77A955B34C736B9C595578997CAEB9927A87CA0069C6030693263A000000000000000000000000000000000000000026C48145"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="225" />
+        <skill id="Leadership" value="275" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="225" />
+        <skill id="Roguery" value="200" />
+        <skill id="Scouting" value="250" />
+        <skill id="Tactics" value="300" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="50" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="275" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="-2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_danish_new_2c"
+                name="{=lord_danish_new_2c}Torgeir Haraldsson"
+                default_group="Cavalry"
+                age="24"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.5448" build="0.5818"  key="000840080044054599858A594B77A75783496669995955789979A5B9947A878A006986030673583A000000000000000000000000000000000000000026CC7144"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="150" />
+        <skill id="Crafting" value="0" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="25" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="200" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="2" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_danish_new_2d"
+                name="{=lord_danish_new_2d}Inge Haraldsdatter"
+                age="14"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                is_female="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.5448" build="0.5818"  key="00081C081544200199858A594B77A75783496669995955789979A5B9947A878A006986030673583A000000000000000000000000000000000000000026CC4002"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="150" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="0" />
+        <skill id="Crafting" value="50" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="100" />
+        <skill id="Throwing" value="100" />
+        <skill id="Crossbow" value="150" />
+        <skill id="Bow" value="150" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="50" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="-1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lady" />
+      <EquipmentSet id="sturgia_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_danish_new_2e"
+                name="{=lord_danish_new_2e}Eirik Bjørnsson"
+                default_group="Cavalry"
+                age="45"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.6157" build="0.5818"  key="000A8C099A44264589969A5A4877A858C34A736B9C595578997AA5B9527A87CA008996030883266A000000000000000000000000000000000000000027048145"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="175" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="50" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="300" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="250" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_danish_new_2f"
+                name="{=lord_danish_new_2f}Sverke Eiriksson"
+                default_group="Cavalry"
+                age="19"
+                voice="softspoken"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.7608" build="0.7176"  key="000560098044279B58769A5A48777858934A736B9C585578997AA5B9967A87CA00BBB6030B83266A0000000000000000000000000000000000000000276C8144"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="250" />
+        <skill id="Steward" value="250" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="225" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="175" />
+        <skill id="Crafting" value="125" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="150" />
+        <skill id="Crossbow" value="50" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="250" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lord" />
+      <EquipmentSet id="sturgia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_danish_new_2g"
+                name="{=lord_danish_new_2g}Ragna Eiriksdatter"
+                age="16"
+                voice="curt"
+                default_group="Cavalry"
+                is_hero="true"
+                is_female="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.19" weight="0.4799" build="0.7176"  key="000560098044100A58769A5A48777858934A736B9C585578997AA5B9967A87CA008B76030883266A0000000000000000000000000000000000000000270C4103"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="25" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="25" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="150" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="25" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="0" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="50" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="2" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="sturgia_lady" />
+      <EquipmentSet id="sturgia_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+</NPCCharacters>

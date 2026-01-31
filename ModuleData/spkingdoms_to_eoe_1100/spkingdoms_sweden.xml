@@ -2,5 +2,6 @@
 <Kingdoms>
 	<Kingdom id="sweden"
 		short_name="{=sweden_kingdom_short_name}Sweden" 
+		banner_key="11.141.109.3000.2231.764.764.1.0.90.340.7.116.404.404.764.614.0.1.0.340.7.116.404.404.764.914.0.1.0"
 	></Kingdom>
 </Kingdoms>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_swedish_4a" spouse="Hero.lord_swedish_4b" faction="Faction.clan_swedish_4" />
+   <Hero id="lord_swedish_4b" spouse="Hero.lord_swedish_4a" faction="Faction.clan_swedish_4" />
+   <Hero id="lord_swedish_4c" father="Hero.lord_swedish_4a" mother="Hero.lord_swedish_4b" faction="Faction.clan_swedish_4" />
+   <Hero id="lord_swedish_4d" father="Hero.lord_swedish_4a" mother="Hero.lord_swedish_4b" faction="Faction.clan_swedish_4" />
+   <Hero id="lord_swedish_4e" father="Hero.lord_swedish_4a" mother="Hero.lord_swedish_4b" faction="Faction.clan_swedish_4" />
+
+</Heroes>
