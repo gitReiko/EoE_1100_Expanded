@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_castile_new_4a"
                 name="{=lord_castile_new_4a}Gonzalo Núñez de Lara"
                 voice="softspoken"
@@ -12,7 +11,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4220345C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC6102"  />
+        <BodyProperties version="4" age="22.14" weight="0.2978" build="0.3781"  key="001B14081A703703969596686587BD34C26868BA313A0C9A394798AA44A593BA00964603096A58C9000000000000000000000000000000000000000041244082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="125" />
@@ -51,7 +50,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_castile_new_4b"
                 name="{=lord_castile_new_4b}Pedro González de Lara"
                 voice="softspoken"
@@ -62,7 +60,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4220345C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC6102"  />
+        <BodyProperties version="4" age="22.14" weight="0.4059" build="0.5015"  key="00183C0800701092867586686587BA34C28868A7313A3C9A394798A884A583BA00886603086758C9000000000000000000000000000000000000000041044082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="125" />
@@ -101,7 +99,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_castile_new_4c"
                 name="{=lord_castile_new_4c}Eva Pérez"
                 default_group="Cavalry"
@@ -113,7 +110,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4300D45C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC4003"  />
+        <BodyProperties version="4" age="22.14" weight="0.2632" build="0.8935"  key="00232808C0140012C6AD7A76CC838C643BC86C80777E64476BA866B3A97A5652008D46030828368500000000000000000000000000000000000000002F1420C2"  />
     </face>
     <skills>
         <skill id="Engineering" value="75" />
@@ -152,7 +149,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_castile_new_4d"
                 name="{=lord_castile_new_4d}Rodrigo González de Lara"
                 voice="softspoken"
@@ -163,7 +159,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4220345C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC6102"  />
+        <BodyProperties version="4" age="22.14" weight="0.7608" build="0.3781"  key="001514080070324D9695B66865A98D34C26868BA513A3C99394798AA44A593BA0096B603096958A9000000000000000000000000000000000000000041244082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="150" />
@@ -202,7 +198,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <!-- facegen -->
     <NPCCharacter id="lord_castile_new_4e"
                 name="{=lord_castile_new_4e}Alfonso González de Lara"
                 voice="softspoken"
@@ -213,7 +208,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4220345C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC6102"  />
+        <BodyProperties version="4" age="22.14" weight="0.5818" build="0.446"  key="00185C08CF701653989596686577B93782686888343A3C9A594792AA44A5939A00579603056A5899000000000000000000000000000000000000000040B44082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="125" />
