@@ -38,6 +38,13 @@
   <Settlement id="town_kirkwall" owner="Faction.clan_norway_5" ></Settlement>
   <Settlement id="castle_holmwick" owner="Faction.clan_norway_6" ></Settlement>
 
+  <!-- Scotland -->
+  <Settlement id="town_edinburgh" owner="Faction.clan_scottish_1" ></Settlement>
+  <Settlement id="town_perth" owner="Faction.clan_scottish_2" ></Settlement>
+  <Settlement id="castle_dingwall" owner="Faction.clan_scottish_3" ></Settlement>
+  <Settlement id="castle_dunvegan" owner="Faction.clan_scottish_5" ></Settlement>
+  <Settlement id="town_stirling" owner="Faction.clan_scottish_6" ></Settlement>
+
   <!-- Sweden -->
   <Settlement id="town_sigtuna" owner="Faction.clan_swedish_1" ></Settlement>
   <Settlement id="town_vaxjo" owner="Faction.clan_swedish_1" ></Settlement>
