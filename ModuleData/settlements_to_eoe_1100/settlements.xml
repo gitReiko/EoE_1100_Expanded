@@ -9,6 +9,19 @@
   <Settlement id="castle_helsingborg" owner="Faction.clan_danish_5" ></Settlement>
   <Settlement id="town_ribe" owner="Faction.clan_danish_7" ></Settlement>
 
+  <!-- England -->
+  <Settlement id="town_london" owner="Faction.clan_english_1" ></Settlement>
+  <Settlement id="castle_caen" owner="Faction.clan_english_1" ></Settlement>
+  <Settlement id="town_winchester" owner="Faction.clan_english_12" ></Settlement>
+  <Settlement id="castle_exeter" owner="Faction.clan_english_2" ></Settlement>
+  <Settlement id="town_york" owner="Faction.clan_english_3" ></Settlement>
+  <Settlement id="town_nottingham" owner="Faction.clan_english_4" ></Settlement>
+  <Settlement id="castle_norwich" owner="Faction.clan_english_5" ></Settlement>
+  <Settlement id="castle_chester" owner="Faction.clan_english_7" ></Settlement>
+  <Settlement id="castle_kendal" owner="Faction.clan_english_7" ></Settlement>
+  <Settlement id="castle_dover" owner="Faction.clan_english_9" ></Settlement>
+  <Settlement id="castle_bamburgh" owner="Faction.clan_english_10" ></Settlement>
+
   <!-- Norway -->
   <Settlement id="town_bergen" owner="Faction.clan_norway_1" ></Settlement>
   <Settlement id="town_stavanger" owner="Faction.clan_norway_2" ></Settlement>
