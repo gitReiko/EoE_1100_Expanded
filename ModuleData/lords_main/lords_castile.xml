@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_castile_new_4a"
+                name="{=lord_castile_new_4a}Gonzalo Núñez de Lara"
+                voice="softspoken"
+                age="53"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4220345C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC6102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="250" />
+        <skill id="Trade" value="200" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="200" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="25" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="empire_lord" />
+      <EquipmentSet id="empire_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_castile_new_4b"
+                name="{=lord_castile_new_4b}Pedro González de Lara"
+                voice="softspoken"
+                age="23"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4220345C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC6102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="200" />
+        <skill id="Tactics" value="250" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="125" />
+        <skill id="Crossbow" value="100" />
+        <skill id="Bow" value="150" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="200" />
+        <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="empire_lord" />
+      <EquipmentSet id="empire_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_castile_new_4c"
+                name="{=lord_castile_new_4c}Eva Pérez"
+                default_group="Cavalry"
+                age="21"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4300D45C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC4003"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="150" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="50" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="0" />
+        <skill id="Crossbow" value="125" />
+        <skill id="Bow" value="150" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="50" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="-2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="empire_lady" />
+      <EquipmentSet id="empire_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_castile_new_4d"
+                name="{=lord_castile_new_4d}Rodrigo González de Lara"
+                voice="softspoken"
+                age="21"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4220345C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC6102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="250" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="0" />
+        <skill id="Charm" value="200" />
+        <skill id="Roguery" value="275" />
+        <skill id="Scouting" value="275" />
+        <skill id="Tactics" value="150" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="25" />
+        <skill id="Crossbow" value="25" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="empire_lord" />
+      <EquipmentSet id="empire_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <!-- facegen -->
+    <NPCCharacter id="lord_castile_new_4e"
+                name="{=lord_castile_new_4e}Alfonso González de Lara"
+                voice="softspoken"
+                age="26"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22.88" weight="0.5368" build="0.1867"  key="0008200400E4220345C987B3E9ABA4D28A759466E7A79E48AA6754C765A768490073860307866777000000000000000000000000000000000000000036EC6102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="250" />
+        <skill id="Crafting" value="125" />
+        <skill id="Athletics" value="225" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="25" />
+        <skill id="Crossbow" value="25" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="300" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="empire_lord" />
+      <EquipmentSet id="empire_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+</NPCCharacters>
