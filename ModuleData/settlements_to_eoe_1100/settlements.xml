@@ -22,6 +22,14 @@
   <Settlement id="castle_dover" owner="Faction.clan_english_9" ></Settlement>
   <Settlement id="castle_bamburgh" owner="Faction.clan_english_10" ></Settlement>
 
+  <!-- Ireland -->
+  <Settlement id="town_waterford" owner="Faction.clan_irish_1" ></Settlement>
+  <Settlement id="castle_kinbane" owner="Faction.clan_irish_2" ></Settlement>
+  <Settlement id="castle_sligo" owner="Faction.clan_irish_3" ></Settlement>
+  <Settlement id="town_dublin" owner="Faction.clan_irish_4" ></Settlement>
+  <Settlement id="castle_maine" owner="Faction.clan_irish_5" ></Settlement>
+  <Settlement id="town_galway" owner="Faction.clan_irish_6" ></Settlement>
+
   <!-- Norway -->
   <Settlement id="town_bergen" owner="Faction.clan_norway_1" ></Settlement>
   <Settlement id="town_stavanger" owner="Faction.clan_norway_2" ></Settlement>
