@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Settlements>
 
+  <!-- Aragon -->
+  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
+  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
+  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
+  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
+  
   <!-- Denmark -->
   <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
   <Settlement id="town_aalborg" owner="Faction.clan_danish_3" ></Settlement>
