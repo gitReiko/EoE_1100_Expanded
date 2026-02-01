@@ -38,7 +38,7 @@
   />
 
   <Faction id="clan_german_4"
-    name="{=clan_german_4}Ivrea"
+    name="{=clan_german_4}Ivrea-Burgundy"
     initial_home_settlement="Settlement.town_lyon"		   
     tier="2"
     owner="Hero.lord_german_4a"
