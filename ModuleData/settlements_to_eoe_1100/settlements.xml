@@ -2,10 +2,10 @@
 <Settlements>
 
   <!-- Aragon -->
-  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
-  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
-  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
-  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
+  <Settlement id="town_pamplona" owner="Faction.clan_aragon_1" ></Settlement>
+  <Settlement id="town_barcelona" owner="Faction.clan_aragon_2" ></Settlement>
+  <Settlement id="castle_castellvell" owner="Faction.clan_aragon_3" ></Settlement>
+  <Settlement id="castle_begur" owner="Faction.clan_aragon_4" ></Settlement>
   
   <!-- Denmark -->
   <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
