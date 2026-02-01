@@ -3,7 +3,7 @@
 
   <Faction id="clan_castile_new_4"
     name="{=clan_castile_new_4}Lara"
-    initial_home_settlement="Settlement.town_pamplona"			   
+    initial_home_settlement="Settlement.castle_tiedra"			   
     tier="2"
     owner="Hero.lord_castile_new_4a"
     culture="Culture.empire"
