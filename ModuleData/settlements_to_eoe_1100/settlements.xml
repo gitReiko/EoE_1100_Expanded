@@ -9,6 +9,27 @@
   <Settlement id="castle_helsingborg" owner="Faction.clan_danish_5" ></Settlement>
   <Settlement id="town_ribe" owner="Faction.clan_danish_7" ></Settlement>
 
+  <!-- England -->
+  <Settlement id="town_london" owner="Faction.clan_english_1" ></Settlement>
+  <Settlement id="castle_caen" owner="Faction.clan_english_1" ></Settlement>
+  <Settlement id="town_winchester" owner="Faction.clan_english_12" ></Settlement>
+  <Settlement id="castle_exeter" owner="Faction.clan_english_2" ></Settlement>
+  <Settlement id="town_york" owner="Faction.clan_english_3" ></Settlement>
+  <Settlement id="town_nottingham" owner="Faction.clan_english_4" ></Settlement>
+  <Settlement id="castle_norwich" owner="Faction.clan_english_5" ></Settlement>
+  <Settlement id="castle_chester" owner="Faction.clan_english_7" ></Settlement>
+  <Settlement id="castle_kendal" owner="Faction.clan_english_7" ></Settlement>
+  <Settlement id="castle_dover" owner="Faction.clan_english_9" ></Settlement>
+  <Settlement id="castle_bamburgh" owner="Faction.clan_english_10" ></Settlement>
+
+  <!-- Ireland -->
+  <Settlement id="town_waterford" owner="Faction.clan_irish_1" ></Settlement>
+  <Settlement id="castle_kinbane" owner="Faction.clan_irish_2" ></Settlement>
+  <Settlement id="castle_sligo" owner="Faction.clan_irish_3" ></Settlement>
+  <Settlement id="town_dublin" owner="Faction.clan_irish_4" ></Settlement>
+  <Settlement id="castle_maine" owner="Faction.clan_irish_5" ></Settlement>
+  <Settlement id="town_galway" owner="Faction.clan_irish_6" ></Settlement>
+
   <!-- Norway -->
   <Settlement id="town_bergen" owner="Faction.clan_norway_1" ></Settlement>
   <Settlement id="town_stavanger" owner="Faction.clan_norway_2" ></Settlement>
@@ -16,6 +37,21 @@
   <Settlement id="town_arendal" owner="Faction.clan_norway_4" ></Settlement>
   <Settlement id="town_kirkwall" owner="Faction.clan_norway_5" ></Settlement>
   <Settlement id="castle_holmwick" owner="Faction.clan_norway_6" ></Settlement>
+
+  <!-- Pechenegs -->
+  <Settlement id="town_kellia" owner="Faction.clan_pech_1" ></Settlement>
+  <Settlement id="town_pitesti" owner="Faction.clan_pech_2" ></Settlement>
+  <Settlement id="town_mauricastro" owner="Faction.clan_pech_1" ></Settlement>
+  <Settlement id="town_balti" owner="Faction.clan_pech_3" ></Settlement>
+  <Settlement id="town_bacau" owner="Faction.clan_pech_4" ></Settlement>
+  <Settlement id="town_giurgiu" owner="Faction.clan_pech_5" ></Settlement>
+
+  <!-- Scotland -->
+  <Settlement id="town_edinburgh" owner="Faction.clan_scottish_1" ></Settlement>
+  <Settlement id="town_perth" owner="Faction.clan_scottish_2" ></Settlement>
+  <Settlement id="castle_dingwall" owner="Faction.clan_scottish_3" ></Settlement>
+  <Settlement id="castle_dunvegan" owner="Faction.clan_scottish_5" ></Settlement>
+  <Settlement id="town_stirling" owner="Faction.clan_scottish_6" ></Settlement>
 
   <!-- Sweden -->
   <Settlement id="town_sigtuna" owner="Faction.clan_swedish_1" ></Settlement>
