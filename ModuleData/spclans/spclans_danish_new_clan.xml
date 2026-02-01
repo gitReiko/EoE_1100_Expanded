@@ -3,7 +3,7 @@
 
   <Faction id="clan_danish_new_2"
     name="{=clan_danish_new_2}Bjørn"
-    initial_home_settlement="Settlement.town_roskilde"			   
+    initial_home_settlement="Settlement.castle_viborg"			   
     tier="2"
     owner="Hero.lord_danish_new_2a"
     culture="Culture.sturgia"

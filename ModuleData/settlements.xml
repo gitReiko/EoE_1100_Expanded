@@ -80,14 +80,6 @@
   <Settlement id="castle_antwerp" owner="Faction.clan_netherlands_3" ></Settlement>
   <Settlement id="town_groningen" owner="Faction.clan_netherlands_4" ></Settlement>
 
-  <!-- Pechenegs -->
-  <Settlement id="town_kellia" owner="Faction.clan_pech_1" ></Settlement>
-  <Settlement id="town_pitesti" owner="Faction.clan_pech_2" ></Settlement>
-  <Settlement id="town_mauricastro" owner="Faction.clan_pech_1" ></Settlement>
-  <Settlement id="town_balti" owner="Faction.clan_pech_3" ></Settlement>
-  <Settlement id="town_bacau" owner="Faction.clan_pech_4" ></Settlement>
-  <Settlement id="town_giurgiu" owner="Faction.clan_pech_5" ></Settlement>
-
   <!-- Pisa -->
   <Settlement id="town_ES4" owner="Faction.clan_pisa_1"></Settlement>
   <Settlement id="town_cagliari" owner="Faction.clan_german_19"></Settlement>

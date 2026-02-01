@@ -38,6 +38,14 @@
   <Settlement id="town_kirkwall" owner="Faction.clan_norway_5" ></Settlement>
   <Settlement id="castle_holmwick" owner="Faction.clan_norway_6" ></Settlement>
 
+  <!-- Pechenegs -->
+  <Settlement id="town_kellia" owner="Faction.clan_pech_1" ></Settlement>
+  <Settlement id="town_pitesti" owner="Faction.clan_pech_2" ></Settlement>
+  <Settlement id="town_mauricastro" owner="Faction.clan_pech_1" ></Settlement>
+  <Settlement id="town_balti" owner="Faction.clan_pech_3" ></Settlement>
+  <Settlement id="town_bacau" owner="Faction.clan_pech_4" ></Settlement>
+  <Settlement id="town_giurgiu" owner="Faction.clan_pech_5" ></Settlement>
+
   <!-- Scotland -->
   <Settlement id="town_edinburgh" owner="Faction.clan_scottish_1" ></Settlement>
   <Settlement id="town_perth" owner="Faction.clan_scottish_2" ></Settlement>
