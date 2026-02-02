@@ -25,4 +25,16 @@
     color="ff830d0d" color2="ff0d0d16" 
   />
 
+  <Faction id="clan_portugal_3"
+    name="{=clan_portugal_3}Sousa"
+    initial_home_settlement="Settlement.town_coimbra"			   
+    tier="3"
+    owner="Hero.lord_portugal_3a"
+    culture="Culture.portuguese"
+    super_faction="Kingdom.portugal"
+    is_noble="true"
+    banner_key="11.142.142.1836.1836.779.782.1.0.0.427.27.7.260.234.764.959.0.0.0.427.27.7.260.234.764.569.0.1.180.427.27.7.260.234.959.764.0.0.90.427.27.7.260.234.569.764.0.1.270" 
+    color="ff830d0d" color2="ffeae1da" 
+  />
+
 </Factions>

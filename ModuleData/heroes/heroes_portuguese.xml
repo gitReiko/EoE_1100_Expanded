@@ -20,7 +20,11 @@
    <Hero id="lord_portugal_2g" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
 
 
-
+   <Hero id="lord_portugal_3a" spouse="Hero.lord_portugal_3b" faction="Faction.clan_portugal_3" />
+   <Hero id="lord_portugal_3b" spouse="Hero.lord_portugal_3a" faction="Faction.clan_portugal_3" />
+   <Hero id="lord_portugal_3c" mother="Hero.lord_portugal_3a" father="Hero.lord_portugal_3b" faction="Faction.clan_portugal_3" />
+   <Hero id="lord_portugal_3d" mother="Hero.lord_portugal_3a" father="Hero.lord_portugal_3b" faction="Faction.clan_portugal_3" />
+   <Hero id="lord_portugal_3e" faction="Faction.clan_portugal_3" />
 
 
 </Heroes>
