@@ -1007,8 +1007,206 @@
     </Equipments>
     </NPCCharacter>
 
+    <!-- facegen -->
+    <NPCCharacter id="lord_portugal_4a"
+        name="{=lord_portugal_4a}Egas Moniz II de Ribadouro"
+        voice="softspoken"
+        age="42"
+        is_female="false"
+        is_hero="true"
+        culture="Culture.portuguese"
+        occupation="Lord"
+        default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22.88" weight="0.4769" build="0.4181"  key="001EE40200B421035A78BA6B49A97B7A7D9B6B756B5E778678AA978D9959814700967603098CA79700000000000000000000000000000000000000002F3C0082"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="175" />
+        <skill id="Leadership" value="250" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="200" />
+        <skill id="Crafting" value="50" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="300" />
+        <skill id="Throwing" value="25" />
+        <skill id="Crossbow" value="50" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="275" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="-2" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="portuguese_lord" />
+      <EquipmentSet id="portuguese_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
+    <!-- facegen -->
+    <NPCCharacter id="lord_portugal_4b"
+        name="{=lord_portugal_4b}Teresa Afonso Gato"
+        default_group="Cavalry"
+        age="33"
+        voice="ironic"
+        is_female="true"
+        is_hero="true"
+        culture="Culture.portuguese"
+        occupation="Lord"
+        face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.88" weight="0.4236" build="0.5061"  key="00132C08C014300B36A868B788667D7946980C788659B7663A6869747454D47A009866030987CC6600000000000000000000000000000000000000005B2C3003"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="0" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="0" />
+        <skill id="Tactics" value="25" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="75" />
+        <skill id="Throwing" value="100" />
+        <skill id="Crossbow" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="75" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="portuguese_lady" />
+      <EquipmentSet id="portuguese_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
+    <!-- facegen -->
+    <NPCCharacter id="lord_portugal_4c"
+        name="{=lord_portugal_4c}Loba de Maia"
+        default_group="Cavalry"
+        age="60"
+        voice="ironic"
+        is_female="true"
+        is_hero="true"
+        culture="Culture.portuguese"
+        occupation="Lord"
+        face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.88" weight="0.4236" build="0.5061"  key="00132C08C014300B36A868B788667D7946980C788659B7663A6869747454D47A009866030987CC6600000000000000000000000000000000000000005B2C3003"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="300" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="275" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="175" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="100" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="175" />
+        <skill id="Riding" value="75" />
+        <skill id="Throwing" value="0" />
+        <skill id="Crossbow" value="0" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="0" />
+        <skill id="TwoHanded" value="0" />
+        <skill id="OneHanded" value="50" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="portuguese_lady" />
+      <EquipmentSet id="portuguese_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
+    <!-- facegen -->
+    <NPCCharacter id="lord_portugal_4d"
+        name="{=lord_portugal_4d}Rodrigo Moniz de Ribadouro"
+        voice="softspoken"
+        age="10"
+        is_female="false"
+        is_hero="true"
+        culture="Culture.portuguese"
+        occupation="Lord"
+        default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22.88" weight="0.4769" build="0.4181"  key="001EE40200B421035A78BA6B49A97B7A7D9B6B756B5E778678AA978D9959814700967603098CA79700000000000000000000000000000000000000002F3C0082"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="0" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="225" />
+        <skill id="Crafting" value="25" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="75" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="250" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="portuguese_lord" />
+      <EquipmentSet id="portuguese_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
 </NPCCharacters>
