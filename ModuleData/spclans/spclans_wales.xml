@@ -25,4 +25,16 @@
     color="ffe9a74d" color2="ff214176" 
   />
 
+  <Faction id="clan_wales_3"
+    name="{=clan_wales_3}Morgannwg"
+    initial_home_settlement="Settlement.town_pembrok"			   
+    tier="3"
+    owner="Hero.lord_wales_3a"
+    culture="Culture.welsh"
+    super_faction="Kingdom.wales"
+    is_noble="true"
+    banner_key="11.142.47.1836.1836.768.788.0.0.0.511.150.116.603.603.764.605.0.0.0.510.150.116.1086.620.269.910.0.0.40.510.150.116.1086.620.1259.910.0.1.320.511.150.116.603.603.768.857.0.0.0.510.150.116.1086.620.273.1161.0.0.40.510.150.116.1086.620.1263.1161.0.1.320.511.150.116.603.603.762.1107.0.0.0.510.150.116.1086.620.267.1411.0.0.40.510.150.116.1086.620.1257.1411.0.1.320"
+    color="ff830d0d" color2="ffccc4bf" 
+  />
+
 </Factions>

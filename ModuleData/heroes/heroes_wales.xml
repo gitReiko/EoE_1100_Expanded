@@ -23,7 +23,13 @@
    <Hero id="lord_wales_2h" father="Hero.lord_wales_2a" faction="Faction.clan_wales_2" />
 
 
-
+   <Hero id="lord_wales_3a" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3b" faction="Faction.clan_wales_3" alive="false" />
+   <Hero id="lord_wales_3c" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3d" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3e" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3f" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3g" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
 
 
 </Heroes>
