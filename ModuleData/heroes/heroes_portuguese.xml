@@ -11,7 +11,13 @@
    <Hero id="lord_portugal_1h" faction="Faction.clan_portugal_1" />
 
 
-
+   <Hero id="lord_portugal_2a" spouse="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2b" spouse="Hero.lord_portugal_2a" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2c" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2d" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2e" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2f" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2g" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
 
 
 
