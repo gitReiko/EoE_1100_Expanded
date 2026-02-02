@@ -3,5 +3,18 @@
 
    <Hero id="lord_portugal_1a" spouse="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />
    <Hero id="lord_portugal_1b" spouse="Hero.lord_portugal_1a" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1c" mother="Hero.lord_portugal_1a" father="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1d" mother="Hero.lord_portugal_1a" father="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1e" spouse="Hero.lord_portugal_1f" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1f" spouse="Hero.lord_portugal_1e" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1g" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1h" faction="Faction.clan_portugal_1" />
+
+
+
+
+
+
+
 
 </Heroes>
