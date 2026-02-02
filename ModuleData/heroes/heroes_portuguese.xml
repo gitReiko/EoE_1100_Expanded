@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_portugal_1a" spouse="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1b" spouse="Hero.lord_portugal_1a" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1c" mother="Hero.lord_portugal_1a" father="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1d" mother="Hero.lord_portugal_1a" father="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1e" spouse="Hero.lord_portugal_1f" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1f" spouse="Hero.lord_portugal_1e" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1g" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1h" faction="Faction.clan_portugal_1" />
+
+
+   <Hero id="lord_portugal_2a" spouse="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2b" spouse="Hero.lord_portugal_2a" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2c" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2d" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2e" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2f" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+   <Hero id="lord_portugal_2g" mother="Hero.lord_portugal_2a" father="Hero.lord_portugal_2b" faction="Faction.clan_portugal_2" />
+
+
+   <Hero id="lord_portugal_3a" spouse="Hero.lord_portugal_3b" faction="Faction.clan_portugal_3" />
+   <Hero id="lord_portugal_3b" spouse="Hero.lord_portugal_3a" faction="Faction.clan_portugal_3" />
+   <Hero id="lord_portugal_3c" mother="Hero.lord_portugal_3a" father="Hero.lord_portugal_3b" faction="Faction.clan_portugal_3" />
+   <Hero id="lord_portugal_3d" mother="Hero.lord_portugal_3a" father="Hero.lord_portugal_3b" faction="Faction.clan_portugal_3" />
+   <Hero id="lord_portugal_3e" faction="Faction.clan_portugal_3" />
+
+
+   <Hero id="lord_portugal_4a" spouse="Hero.lord_portugal_4b" mother="Hero.lord_portugal_4c" faction="Faction.clan_portugal_4" />
+   <Hero id="lord_portugal_4b" spouse="Hero.lord_portugal_4a" faction="Faction.clan_portugal_4" />
+   <Hero id="lord_portugal_4c" faction="Faction.clan_portugal_4" />
+   <Hero id="lord_portugal_4d" mother="Hero.lord_portugal_4a" father="Hero.lord_portugal_4b" faction="Faction.clan_portugal_4" />
+
+</Heroes>
