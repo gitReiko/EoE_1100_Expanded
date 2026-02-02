@@ -5,7 +5,6 @@
    <Hero id="lord_wales_1b" spouse="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
    <Hero id="lord_wales_1c" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
    <Hero id="lord_wales_1d" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
-   <Hero id="lord_wales_1e" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
    <Hero id="lord_wales_1f" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
    <Hero id="lord_wales_1g" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
    <Hero id="lord_wales_1h" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
@@ -14,7 +13,14 @@
    <Hero id="lord_wales_1k" faction="Faction.clan_wales_1" />
 
 
-
+   <Hero id="lord_wales_2a" spouse="Hero.lord_wales_2b" father="Hero.lord_wales_2c" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2b" spouse="Hero.lord_wales_2a" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2c" faction="Faction.clan_wales_2" alive="false" />
+   <Hero id="lord_wales_2d" father="Hero.lord_wales_2c" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2e" father="Hero.lord_wales_2c" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2f" father="Hero.lord_wales_2a" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2g" father="Hero.lord_wales_2a" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2h" father="Hero.lord_wales_2a" faction="Faction.clan_wales_2" />
 
 
 

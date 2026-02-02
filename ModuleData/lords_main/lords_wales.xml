@@ -203,57 +203,6 @@
   </NPCCharacter>
 
   <!-- facegen -->
-  <NPCCharacter id="lord_wales_1e"
-                name="{=lord_wales_1e}Gwenllian ferch Gruffudd"
-                default_group="Cavalry"
-                age="15"
-                voice="ironic"
-                is_female="true"
-                is_hero="true"
-                culture="Culture.welsh"
-                occupation="Lord"
-                face_mesh_cache="true">
-    <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
-    </face>
-    <skills>
-      <skill id="Engineering" value="100" />
-      <skill id="Medicine" value="150" />
-      <skill id="Leadership" value="100" />
-      <skill id="Steward" value="125" />
-      <skill id="Trade" value="100" />
-      <skill id="Charm" value="100" />
-      <skill id="Roguery" value="100" />
-      <skill id="Scouting" value="0" />
-      <skill id="Tactics" value="0" />
-      <skill id="Crafting" value="75" />
-      <skill id="Athletics" value="125" />
-      <skill id="Riding" value="125" />
-      <skill id="Throwing" value="0" />
-      <skill id="Crossbow" value="0" />
-      <skill id="Bow" value="125" />
-      <skill id="Polearm" value="0" />
-      <skill id="TwoHanded" value="0" />
-      <skill id="OneHanded" value="50" />
-	  </skills>
-    <Traits>
-      <Trait id="Mercy" value="2" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Honor" value="0" />
-      <Trait id="Generosity" value="1" />
-      <Trait id="Calculating" value="1" />
-      <Trait id="Egalitarian" value="0" />
-      <Trait id="Oligarchic" value="0" />
-      <Trait id="Authoritarian" value="0" />
-    </Traits>
-    <Equipments>
-      <EquipmentSet id="welsh_lady" />
-      <EquipmentSet id="welsh_lady"
-                    civilian="true" />
-    </Equipments>
-  </NPCCharacter>
-
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1f"
                 name="{=lord_wales_1f}Marared ferch Gruffudd"
                 default_group="Cavalry"
@@ -556,6 +505,410 @@
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wales_2a"
+                name="{=lord_wales_2a}Cadwgan ap Bleddyn"
+                voice="softspoken"
+                age="49"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.welsh"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="welsh_king" />
+      <EquipmentSet id="welsh_king"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wales_2b"
+                name="{=lord_wales_2b}Gwenllian ferch Gruffydd"
+                default_group="Cavalry"
+                age="14"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.welsh"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="welsh_queen" />
+      <EquipmentSet id="welsh_queen"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wales_2c"
+                name="{=lord_wales_2c}Bleddyn ap Cynfyn"
+                voice="softspoken"
+                age="59"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.welsh"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="225" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="welsh_king" />
+      <EquipmentSet id="welsh_king"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wales_2d"
+                name="{=lord_wales_2d}Iorwerth ap Bleddyn"
+                voice="softspoken"
+                age="50"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.welsh"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="welsh_lord" />
+      <EquipmentSet id="welsh_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wales_2e"
+                name="{=lord_wales_2e}Maredudd ap Bleddyn"
+                voice="softspoken"
+                age="48"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.welsh"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="welsh_lord" />
+      <EquipmentSet id="welsh_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wales_2f"
+                name="{=lord_wales_2f}Owain ap Cadwgan"
+                voice="softspoken"
+                age="15"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.welsh"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="welsh_lord" />
+      <EquipmentSet id="welsh_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wales_2g"
+                name="{=lord_wales_2g}Hywel ap Cadwgan"
+                voice="softspoken"
+                age="12"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.welsh"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="welsh_lord" />
+      <EquipmentSet id="welsh_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- facegen -->
+  <NPCCharacter id="lord_wales_2h"
+                name="{=lord_wales_2h}Einion ap Cadwgan"
+                voice="softspoken"
+                age="10"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.welsh"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="welsh_lord" />
+      <EquipmentSet id="welsh_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
 
 
 
