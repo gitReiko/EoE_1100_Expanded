@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_portugal_1a" spouse="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1b" spouse="Hero.lord_portugal_1a" faction="Faction.clan_portugal_1" />
+
+</Heroes>
