@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+    <Kingdom id="portugal" 
+			 owner="Hero.lord_portugal_2a" 
+		     initial_home_settlement="Settlement.town_coimbra" 
+			 banner_key="11.27.142.1836.1836.779.782.1.0.0.505.141.7.1658.150.764.764.0.0.0.505.141.7.1658.150.764.764.0.0.90" 
+			 primary_banner_color="0xffeae1da" 
+			 secondary_banner_color="0xff3b6298" 
+			 color="ffeae1da" 
+			 color2="ff3b6298" 
+			 culture="Culture.portuguese" 
+			 settlement_banner_mesh="encounter_flag_a" 
+			 flag_mesh="info_screen_flags_a" 
+			 name="{=portugal_kingdom_name}County of Portugal" 
+			 short_name="{=portugal_kingdom_short_name}Portugal" 
+			 title="{=portugal_kingdom_title}County of Portugal" 
+			 ruler_title="{=portugal_ruler_title}Duke" 
+			 text="{=portugal_kingdom_text}By 1100, the County of Portugal was ruled by Henry of Burgundy, who had married Teresa of León in 1093 and received the county as part of her dowry from her father, Alfonso VI of León. At this time, the territory was still in the process of consolidation, formed largely from lands recently reconquered from Muslim rule. Henry focused on strengthening local defenses and successfully repelled several Moorish incursions, helping to stabilize the frontier. The region was shaped by a distinctive Galician-Portuguese culture that emerged from the blending of Romanized Hispano-Romans, Suebi settlers, and newer Burgundian and Frankish influences brought by the ruling dynasty. Despite the presence of a foreign count, real power was shared with local noble families, many of whom traced their lineage back to Visigothic aristocracy and early leaders of the Christian Reconquista. These nobles enjoyed considerable autonomy while formally acknowledging Burgundian authority. Over time, these families became the foundation of an increasingly distinct political and social identity. Their cooperation—and occasional rivalry—with the Burgundian rulers would later play a decisive role in the emergence of an independent Kingdom of Portugal.">
+    <relationships>
+    </relationships>
+    <policies>
+    </policies>
+  </Kingdom> 
+</Kingdoms>
