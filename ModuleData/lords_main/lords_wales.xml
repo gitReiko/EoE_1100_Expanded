@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters> 
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1a"
                 name="{=lord_wales_1a}Gruffudd ap Cynan"
                 voice="softspoken"
@@ -12,7 +11,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.4046" build="0.662"  key="0008640D00582185679A7D6C886746577277767877F9CA05B58B464873AC872A00BA66030B9A8B4C0000000000000000000000000000000000000000477C4042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -51,7 +50,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1b"
                 name="{=lord_wales_1b}Angharad ferch Owain"
                 default_group="Cavalry"
@@ -63,7 +61,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.5384" build="0.5139"  key="0008200B9E882001E26692A544799828E5A7AD7BA3DD88A83DDB988A974A868B00688603066A5448000000000000000000000000000000000000000014D42082"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -102,7 +100,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1c"
                 name="{=lord_wales_1c}Owain ap Gruffudd"
                 voice="softspoken"
@@ -113,7 +110,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.4046" build="0.4429"  key="0005400D0F582903669A7D69866746567277767877D9C925B58A464875AC872900976603098A8B4C0000000000000000000000000000000000000000472C4044"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -152,7 +149,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1d"
                 name="{=lord_wales_1d}Cadwaladr ap Gruffudd"
                 voice="softspoken"
@@ -163,7 +159,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.5417" build="0.4892"  key="000A180D005802C2679A7B6C886746597277767877C9CA05B58B4C48938C872A00A786030A9A8B49000000000000000000000000000000000000000047542042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -202,7 +198,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1f"
                 name="{=lord_wales_1f}Marared ferch Gruffudd"
                 default_group="Cavalry"
@@ -214,7 +209,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.4046" build="0.4429"  key="0005400D0F582003669A7D69866746567277767877D9C925B58A464875AC872900876603088A8B4C000000000000000000000000000000000000000032FC4044"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -253,7 +248,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1g"
                 name="{=lord_wales_1g}Rainillt ferch Gruffudd"
                 default_group="Cavalry"
@@ -265,7 +259,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.338" build="0.2824"  key="000A180D00582004679A7B6C886746597277767877C9CA05B58B4C48938C872A00945603099A8B49000000000000000000000000000000000000000047244044"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -304,7 +298,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1h"
                 name="{=lord_wales_1h}Susanna ferch Gruffudd"
                 default_group="Cavalry"
@@ -316,7 +309,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.412" build="0.2824"  key="0005180D00581006669A786A886746597277767877C98A05B58B4748968C875800746603079A8B49000000000000000000000000000000000000000046F44043"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -355,7 +348,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1i"
                 name="{=lord_wales_1i}Annest ferch Gruffudd"
                 default_group="Cavalry"
@@ -367,7 +359,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.412" build="0.2824"  key="0005440D1E001002669A786A886746597277767877C98A05B58B4748968C875800746603079A8B49000000000000000000000000000000000000000046F44043"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -406,7 +398,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1j"
                 name="{=lord_wales_1j}Hywel ap Goronwy"
                 voice="softspoken"
@@ -417,7 +408,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.5941" build="0.4313"  key="000D2C08CFB4178686EA98689D7BDBA686EB86885A914CA7C9284FAB445C87A40076960307A5C88500000000000000000000000000000000000000002EF460C2"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -456,7 +447,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_1k"
                 name="{=lord_wales_1k}Cadwgan ap Rhys"
                 voice="softspoken"
@@ -467,7 +457,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.3716" build="0.2482"  key="000A7C0400FC2045287791AA9B6269A8636874CB75B6B7A53A2DCDA8958568980064660306D599C5000000000000000000000000000000000000000052CC1102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -506,7 +496,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_2a"
                 name="{=lord_wales_2a}Cadwgan ap Bleddyn"
                 voice="softspoken"
@@ -517,7 +506,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.5027" build="0.5528"  key="001880098044181298A6539749EB9D83D88AA186A3D7A3645273DDE7AE89AAAC007886030765637B000000000000000000000000000000000000000056E45105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -556,7 +545,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_2b"
                 name="{=lord_wales_2b}Gwenllian ferch Gruffydd"
                 default_group="Cavalry"
@@ -568,7 +556,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.4046" build="0.662"  key="0008900D0058200A679A7D6C886746577277767877F9CA05B58B464873AC872A00BA66030B9A8B4C0000000000000000000000000000000000000000477C4042"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -607,7 +595,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_2c"
                 name="{=lord_wales_2c}Bleddyn ap Cynfyn"
                 voice="softspoken"
@@ -618,7 +605,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.304" build="0.4707"  key="0010800C5D4419149886539749BB9A85D887A386A3A7A5645273A5E78B897AAC0097560309656379000000000000000000000000000000000000000057247106"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -657,7 +644,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_2d"
                 name="{=lord_wales_2d}Iorwerth ap Bleddyn"
                 voice="softspoken"
@@ -668,7 +654,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.4676" build="0.5818"  key="0013240C5A4415CE75465569458B9A85D887A386A3A7A564527370E78B897AAC00A976030A6563770000000000000000000000000000000000000000434C7102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -707,7 +693,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_2e"
                 name="{=lord_wales_2e}Maredudd ap Bleddyn"
                 voice="softspoken"
@@ -718,7 +703,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.304" build="0.4707"  key="0010980C404412C97886539749B69A85D88773868387A56458736BA78B897AAC00C756030C6563790000000000000000000000000000000000000000579C7106"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="225" />
@@ -757,7 +742,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_2f"
                 name="{=lord_wales_2f}Owain ap Cadwgan"
                 voice="softspoken"
@@ -768,7 +752,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.4429" build="0.3503"  key="00138409924413C898A6537749CB9D85D88AA18683A7A3645273ADA78889AAA9007576030765637B000000000000000000000000000000000000000056E44105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="75" />
@@ -807,7 +791,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_2g"
                 name="{=lord_wales_2g}Hywel ap Cadwgan"
                 voice="softspoken"
@@ -818,7 +801,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.409" build="0.4306"  key="0010280AC04416039876559749EB9A83988AA186A3B7A3645273D3A78D89AAA9008666030865637B000000000000000000000000000000000000000057145105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -857,7 +840,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_2h"
                 name="{=lord_wales_2h}Einion ap Cadwgan"
                 voice="softspoken"
@@ -868,7 +850,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.6188" build="0.3318"  key="00132809804412C59B96539749BBBE83D88AA186A3B7A3675273D4E77B89A77C005596030565937A000000000000000000000000000000000000000056A47105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -907,7 +889,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_3a"
                 name="{=lord_wales_3a}Madog ap Iestyn"
                 voice="softspoken"
@@ -918,7 +899,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.5694" build="0.43"  key="0002A006D02C335237B9974868449A69893476AA1A455335A1C6A368CC77B45800869603087975AA00000000000000000000000000000000000000003D0C9146"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -957,7 +938,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_3b"
                 name="{=lord_wales_3b}Iestyn ap Gwrgant"
                 voice="softspoken"
@@ -968,7 +948,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.5694" build="0.43"  key="0002C006D42C334D3779974868446969873476AA1A455335A196A3687977B45800869603087775AA00000000000000000000000000000000000000003D0C3145"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1007,7 +987,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_3c"
                 name="{=lord_wales_3c}Meuric ap Iestyn"
                 voice="softspoken"
@@ -1018,7 +997,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.3657" build="0.6466"  key="00023C06CF2C308E3779674568446669873476AA37455335A1967B6876777458007A56030777756800000000000000000000000000000000000000002EDC2144"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1057,7 +1036,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_3d"
                 name="{=lord_wales_3d}Rhydd ap Iestyn"
                 voice="softspoken"
@@ -1068,7 +1046,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.5694" build="0.43"  key="0005BC06CE2C100337799548674469678734768A47455335719671577977845800A696030A7775AA0000000000000000000000000000000000000000574C3142"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1107,7 +1085,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_3e"
                 name="{=lord_wales_3e}Nest ferch Iestyn"
                 default_group="Cavalry"
@@ -1119,7 +1096,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.3657" build="0.6466"  key="00023C055E2C20013779674568446669873476AA37455335A1967B6876777458007A56030777756800000000000000000000000000000000000000002EDC2082"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -1158,7 +1135,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_3f"
                 name="{=lord_wales_3f}Catrin ferch Iestyn"
                 default_group="Cavalry"
@@ -1170,7 +1146,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.5694" build="0.43"  key="0005BC06D42C300D37799548674469678734768A47455335719671577977845800A696030A7775AA0000000000000000000000000000000000000000574C3104"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -1209,7 +1185,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_3g"
                 name="{=lord_wales_3g}Gwenllian ferch Iestyn"
                 default_group="Cavalry"
@@ -1221,7 +1196,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.4151" build="0.3009"  key="0008D4055B2C300737799548674469678734768A47455335719671577977845800856603087775AA000000000000000000000000000000000000000057042104"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1260,7 +1235,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_4a"
                 name="{=lord_wales_4a}Nefydd Hardd"
                 voice="softspoken"
@@ -1271,7 +1245,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.3652" build="0.2721"  key="000528099ACC2142A3368988B8998799782E77A85A479A306A829D85244668370064560306859A4300000000000000000000000000000000000000000ED43102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1310,7 +1284,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_4b"
                 name="{=lord_wales_4b}Gwenllian ferch Gweirydd"
                 default_group="Cavalry"
@@ -1322,7 +1295,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.2434" build="0.3616"  key="0005A80B951430017388684A7B9265CE7A547B88879A7C78AA767257A62C4687007546030738CC97000000000000000000000000000000000000000038E410C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -1361,7 +1334,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_4c"
                 name="{=lord_wales_4c}Ithel ap Nefydd"
                 voice="softspoken"
@@ -1372,7 +1344,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.4954" build="0.3565"  key="0005440980CC234DA3668988B8765799782B77A85A479A306A839D85844668370085760308659A43000000000000000000000000000000000000000038FC4102"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="125" />
@@ -1411,7 +1383,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_4d"
                 name="{=lord_wales_4d}Rhys ap Nefydd"
                 voice="softspoken"
@@ -1422,7 +1393,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.4799" build="0.5231"  key="00054C0980CC290576368988B8998799782C77A85A466A326A829D85544689370068760306959A53000000000000000000000000000000000000000026D41104"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1461,7 +1432,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_4e"
                 name="{=lord_wales_4e}Nest ferch Nefydd"
                 default_group="Cavalry"
@@ -1473,7 +1443,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.3287" build="0.2269"  key="0005440980CC3002A3668988B8765799782B77A85A479A306A839D85844668370063560306659A43000000000000000000000000000000000000000038DC2103"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1512,7 +1482,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_5a"
                 name="{=lord_wales_5a}Dafydd ap Ednowain"
                 voice="softspoken"
@@ -1523,7 +1492,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.4769" build="0.5756"  key="00082C0800CC200EA3868988B897978678497785564797306A859385A44665670079760307858747000000000000000000000000000000000000000022F43105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1562,7 +1531,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_5b"
                 name="{=lord_wales_5b}Elen ferch Idnerth"
                 default_group="Cavalry"
@@ -1574,7 +1542,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.622" build="0.5304"  key="0008A00540E400027762271ADE88B6353A5576932B83562A48B7868479777467007896030789788A00000000000000000000000000000000000000002CEC1004"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1613,7 +1581,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_5c"
                 name="{=lord_wales_5c}Ednowain ap Dafydd"
                 voice="softspoken"
@@ -1624,7 +1591,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.3565" build="0.3966"  key="000A9408C0CC31CEA386878888977786774967555647973468859385A44665670076560307858747000000000000000000000000000000000000000046F42105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1663,7 +1630,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_5d"
                 name="{=lord_wales_5d}Madog ap Dafydd"
                 voice="softspoken"
@@ -1674,7 +1640,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.4769" build="0.3503"  key="00057006C0CC2646A5C68B8898979759784977755647A76066859385A4466567009576030975AA470000000000000000000000000000000000000000492C3106"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1713,7 +1679,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_5e"
                 name="{=lord_wales_5e}Angharad ferch Dafydd"
                 default_group="Cavalry"
@@ -1725,7 +1690,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600882006BB88567AA84596864EC787DBC95397D28968BCC7964EA84A008A6603084CDB6700000000000000000000000000000000000000003B0440C3"  />
+      <BodyProperties version="4" age="22.05" weight="0.2608" build="0.3966"  key="000A240800CC3006A386878888977786774967555647973468859385A44665670066460306858747000000000000000000000000000000000000000046BC10C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1764,7 +1729,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_5f"
                 name="{=lord_wales_5f}Heylin ap Ednowain"
                 voice="softspoken"
@@ -1775,7 +1739,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.6157" build="0.4306"  key="0002440980CC330EA336898898975796782977A858477A406C859585744B6D670066960306859A43000000000000000000000000000000000000000022D43105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
@@ -1814,7 +1778,6 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- facegen -->
   <NPCCharacter id="lord_wales_5g"
                 name="{=lord_wales_5g}Ednowain Bendew"
                 voice="softspoken"
@@ -1825,7 +1788,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.88" weight="0.4066" build="0.6587"  key="0013280600880242BB88567AA84596864EC787DBC95397D28968BCC7964EA84A009A6603094CDB6700000000000000000000000000000000000000003B2C9042"  />
+      <BodyProperties version="4" age="22.05" weight="0.3652" build="0.4306"  key="0005800996CC2952A3368988B8979794782977A858479A306A859585844668670076560307859A43000000000000000000000000000000000000000022F43105"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="100" />
