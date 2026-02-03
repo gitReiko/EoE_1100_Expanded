@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_wales_1a" spouse="Hero.lord_wales_1b" faction="Faction.clan_wales_1" />
+   <Hero id="lord_wales_1b" spouse="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
+   <Hero id="lord_wales_1c" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
+   <Hero id="lord_wales_1d" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
+   <Hero id="lord_wales_1f" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
+   <Hero id="lord_wales_1g" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
+   <Hero id="lord_wales_1h" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
+   <Hero id="lord_wales_1i" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_1" />
+   <Hero id="lord_wales_1j" faction="Faction.clan_wales_1" />
+   <Hero id="lord_wales_1k" faction="Faction.clan_wales_1" />
+
+
+   <Hero id="lord_wales_2a" spouse="Hero.lord_wales_2b" father="Hero.lord_wales_2c" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2b" spouse="Hero.lord_wales_2a" mother="Hero.lord_wales_1b" father="Hero.lord_wales_1a" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2c" faction="Faction.clan_wales_2" alive="false" />
+   <Hero id="lord_wales_2d" father="Hero.lord_wales_2c" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2e" father="Hero.lord_wales_2c" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2f" father="Hero.lord_wales_2a" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2g" father="Hero.lord_wales_2a" faction="Faction.clan_wales_2" />
+   <Hero id="lord_wales_2h" father="Hero.lord_wales_2a" faction="Faction.clan_wales_2" />
+
+
+   <Hero id="lord_wales_3a" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3b" faction="Faction.clan_wales_3" alive="false" />
+   <Hero id="lord_wales_3c" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3d" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3e" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3f" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+   <Hero id="lord_wales_3g" father="Hero.lord_wales_3b" faction="Faction.clan_wales_3" />
+
+
+   <Hero id="lord_wales_4a" spouse="Hero.lord_wales_4b" father="Hero.lord_wales_5g" faction="Faction.clan_wales_4" />
+   <Hero id="lord_wales_4b" spouse="Hero.lord_wales_4a" faction="Faction.clan_wales_4" />
+   <Hero id="lord_wales_4c" mother="Hero.lord_wales_4b" father="Hero.lord_wales_4a" faction="Faction.clan_wales_4" />
+   <Hero id="lord_wales_4d" mother="Hero.lord_wales_4b" father="Hero.lord_wales_4a" faction="Faction.clan_wales_4" />
+   <Hero id="lord_wales_4e" mother="Hero.lord_wales_4b" father="Hero.lord_wales_4a" faction="Faction.clan_wales_4" />
+
+
+   <Hero id="lord_wales_5a" spouse="Hero.lord_wales_5b" father="Hero.lord_wales_5g" faction="Faction.clan_wales_5" />
+   <Hero id="lord_wales_5b" spouse="Hero.lord_wales_5a" faction="Faction.clan_wales_5" />
+   <Hero id="lord_wales_5c" mother="Hero.lord_wales_5b" father="Hero.lord_wales_5a" faction="Faction.clan_wales_5" />
+   <Hero id="lord_wales_5d" mother="Hero.lord_wales_5b" father="Hero.lord_wales_5a" faction="Faction.clan_wales_5" />
+   <Hero id="lord_wales_5e" mother="Hero.lord_wales_5b" father="Hero.lord_wales_5a" faction="Faction.clan_wales_5" />
+   <Hero id="lord_wales_5f" father="Hero.lord_wales_5g" faction="Faction.clan_wales_5" />
+   <Hero id="lord_wales_5g" faction="Faction.clan_wales_5" />
+
+</Heroes>

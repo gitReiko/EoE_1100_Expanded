@@ -124,6 +124,11 @@
   <Settlement id="town_ragusa_split" culture="Culture.serbian"></Settlement>
   <Settlement id="town_ragusa_stolac" culture="Culture.serbian"></Settlement>
 
+  <!-- Wales -->
+  <Settlement id="town_pembrok" owner="Faction.clan_wales_1" ></Settlement>
+  <Settlement id="castle_harlech" owner="Faction.clan_wales_1" ></Settlement>
+  <Settlement id="castle_hereford" owner="Faction.clan_wales_2" ></Settlement>
+
   <!-- Wends -->
   <Settlement id="castle_lubek" owner="Faction.clan_danish_2" culture="Culture.polish"></Settlement>
   <Settlement id="castle_lubek_mikilenburg" culture="Culture.polish"></Settlement>
