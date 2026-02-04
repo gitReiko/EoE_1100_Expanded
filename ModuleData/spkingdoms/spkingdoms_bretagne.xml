@@ -3,7 +3,7 @@
 	<Kingdom id="bretagne" 
 			 owner="Hero.lord_french_2a" 
 		     initial_home_settlement="Settlement.town_nantes" 
-			 banner_key="11.33.19.1836.1836.764.764.1.0.0.427.48.116.513.513.764.764.0.1.0" 
+			 banner_key="11.33.19.1836.1836.764.764.1.0.0.427.142.116.513.513.764.764.0.1.0" 
 			 primary_banner_color="0xffefece5" 
 			 secondary_banner_color="0xffe44535" 
 			 color="ffefece5" 
