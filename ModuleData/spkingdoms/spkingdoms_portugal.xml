@@ -4,7 +4,7 @@
     <Kingdom id="portugal" 
 			 owner="Hero.lord_portugal_1a" 
 		     initial_home_settlement="Settlement.town_coimbra" 
-			 banner_key="11.27.142.1836.1836.779.782.1.0.0.505.141.7.1658.150.764.764.0.0.0.505.141.7.1658.150.764.764.0.0.90" 
+			 banner_key="11.27.142.1836.1836.779.782.1.0.0.505.146.7.1658.150.764.764.0.0.0.505.146.7.1658.150.764.764.0.0.90" 
 			 primary_banner_color="0xffeae1da" 
 			 secondary_banner_color="0xff3b6298" 
 			 color="ffeae1da" 
