@@ -4,7 +4,7 @@
     <Kingdom id="pisa" 
 			 owner="Hero.lord_pisa_1a" 
 		     initial_home_settlement="Settlement.town_ES4" 
-			 banner_key="1.83.150.1836.1836.764.764.0.1.90.503.150.116.240.240.1500.1346.0.0.0" 
+			 banner_key="1.142.27.1836.1836.764.764.0.1.90.503.27.116.240.240.1500.1346.0.0.0" 
 			 primary_banner_color="0xfffa515b" 
 			 secondary_banner_color="0xffcdc5c0" 
 			 color="fffa515b" 
