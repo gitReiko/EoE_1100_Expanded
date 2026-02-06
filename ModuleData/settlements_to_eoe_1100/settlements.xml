@@ -9,12 +9,12 @@
 
   <!-- Castile -->
   <Settlement id="town_leon" owner="Faction.clan_castile_1" ></Settlement>
-  <Settlement id="town_toledo" owner="Faction.clan_castile_2" ></Settlement>
+  <Settlement id="town_toledo" owner="Faction.clan_castile_new_4" ></Settlement>
   <Settlement id="town_valencia" owner="Faction.clan_castile_3" ></Settlement>
   <Settlement id="town_santiago" owner="Faction.clan_castile_5" ></Settlement>
   <Settlement id="castle_gomara" owner="Faction.clan_castile_6" ></Settlement>
   <Settlement id="castle_madrid" owner="Faction.clan_castile_7" ></Settlement>
-  <Settlement id="castle_tiedra" owner="Faction.clan_castile_new_4" ></Settlement>
+  <Settlement id="castle_tiedra" owner="Faction.clan_castile_2" ></Settlement>
   
   <!-- Denmark -->
   <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
