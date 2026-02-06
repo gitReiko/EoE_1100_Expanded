@@ -68,11 +68,11 @@
   <Settlement id="castle_dunvegan" owner="Faction.clan_scottish_5" ></Settlement>
   <Settlement id="town_stirling" owner="Faction.clan_scottish_6" ></Settlement>
 
-  <!-- Scotland -->
+  <!-- Sicily -->
   <Settlement id="castle_venosa" owner="Faction.clan_sicily_4" ></Settlement>
   <Settlement id="town_naples" owner="Faction.clan_sicily_6" ></Settlement>
   <Settlement id="town_taranto" owner="Faction.clan_sicily_2" ></Settlement>
-  <Settlement id="castle_reggio" owner="Faction.clan_sicily_1" ></Settlement>
+  <Settlement id="castle_reggio" owner="Faction.clan_sicily_5" ></Settlement>
   <Settlement id="castle_novum" owner="Faction.clan_sicily_7" ></Settlement>
   <Settlement id="town_syracusae" owner="Faction.clan_sicily_3" ></Settlement>
   <Settlement id="town_palermo" owner="Faction.clan_sicily_1" ></Settlement>
