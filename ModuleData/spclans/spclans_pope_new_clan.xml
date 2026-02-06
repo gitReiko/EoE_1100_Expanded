@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_pope_5"
+    name="{=clan_pope_5_new}Colonna"
+    initial_home_settlement="Settlement.town_V6"			   
+    tier="3"
+    owner="Hero.lord_pope_5a"
+    culture="Culture.italian"
+    super_faction="Kingdom.pope"
+    is_noble="true"
+    banner_key="11.142.148.1821.1750.764.764.0.0.0.323.155.143.270.717.764.764.0.1.180.505.142.143.680.138.764.1056.0.1.180.505.27.143.152.507.764.762.0.1.180.505.155.143.178.40.764.1006.0.1.180.505.155.143.256.52.764.1053.0.1.180"
+    color="ffe9a74d" color2="ff830d0d" 
+  />	
+
+</Factions>
