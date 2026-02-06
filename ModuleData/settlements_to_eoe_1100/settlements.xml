@@ -78,4 +78,12 @@
   <Settlement id="town_visby" owner="Faction.clan_swedish_6" ></Settlement>
   <Settlement id="town_kalmar" owner="Faction.clan_swedish_7" ></Settlement>
 
+  <!-- Venice -->
+  <Settlement id="town_venice" owner="Faction.clan_venice_1" ></Settlement>
+  <Settlement id="town_pula" owner="Faction.clan_venice_2" ></Settlement>
+  <Settlement id="town_ragusa" culture="Culture.serbian" owner="Faction.clan_venice_5" ></Settlement>
+  <Settlement id="town_ragusa_budva" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_ragusa_split" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_ragusa_stolac" culture="Culture.serbian"></Settlement>
+
 </Settlements>

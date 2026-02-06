@@ -116,14 +116,6 @@
   <Settlement id="castle_murol" owner="Faction.clan_toulouse_4" name="{=castle_rodez_name}Rodez Castle" ></Settlement>
   <Settlement id="town_montpellier" owner="Faction.clan_toulouse_5" ></Settlement>
 
-  <!-- Venice -->
-  <Settlement id="town_venice" owner="Faction.clan_venice_1" ></Settlement>
-  <Settlement id="town_pula" owner="Faction.clan_venice_2" ></Settlement>
-  <Settlement id="town_ragusa" culture="Culture.serbian" owner="Faction.clan_venice_5" ></Settlement>
-  <Settlement id="town_ragusa_budva" culture="Culture.serbian"></Settlement>
-  <Settlement id="town_ragusa_split" culture="Culture.serbian"></Settlement>
-  <Settlement id="town_ragusa_stolac" culture="Culture.serbian"></Settlement>
-
   <!-- Wales -->
   <Settlement id="town_pembrok" owner="Faction.clan_wales_1" ></Settlement>
   <Settlement id="castle_harlech" owner="Faction.clan_wales_1" ></Settlement>
