@@ -117,9 +117,9 @@
   <Settlement id="town_montpellier" owner="Faction.clan_toulouse_5" ></Settlement>
 
   <!-- Wales -->
-  <Settlement id="town_pembrok" owner="Faction.clan_wales_1" ></Settlement>
+  <Settlement id="town_pembrok" name="{=town_pembrok_name}Llanteulyddog" owner="Faction.clan_wales_1" ></Settlement>
   <Settlement id="castle_harlech" owner="Faction.clan_wales_1" ></Settlement>
-  <Settlement id="castle_hereford" owner="Faction.clan_wales_2" ></Settlement>
+  <Settlement id="castle_hereford" name="{=castle_hereford_name}Mathrafal Castle" culture="Culture.welsh" owner="Faction.clan_wales_2" ></Settlement>
 
   <!-- Wends -->
   <Settlement id="castle_lubek" owner="Faction.clan_danish_2" culture="Culture.polish"></Settlement>
