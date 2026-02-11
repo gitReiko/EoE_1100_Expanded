@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Heroes>
 
-   <Hero id="lord_portugal_1a" spouse="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />
+   <Hero id="lord_portugal_1a" spouse="Hero.lord_portugal_1b" father="Hero.lord_france_new_3g" faction="Faction.clan_portugal_1" />
    <Hero id="lord_portugal_1b" spouse="Hero.lord_portugal_1a" faction="Faction.clan_portugal_1" />
    <Hero id="lord_portugal_1c" mother="Hero.lord_portugal_1a" father="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />
    <Hero id="lord_portugal_1d" mother="Hero.lord_portugal_1a" father="Hero.lord_portugal_1b" faction="Faction.clan_portugal_1" />

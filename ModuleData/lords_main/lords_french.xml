@@ -902,6 +902,56 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_france_new_3g"
+                name="{=lord_france_new_3g}Henri de Bourgogne"
+                age="39"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+        <BodyProperties version="4" age="22.07" weight="0.4306" build="0.4213"  key="00051C0D14CC314554A496A85A9B6788C94B22CC963648958867792BAB86924600766603074E739800000000000000000000000000000000000000004CF41044"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="200" />
+        <skill id="Leadership" value="225" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="200" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="225" />
+        <skill id="Tactics" value="275" />
+        <skill id="Crafting" value="75" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="50" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="200" />
+	</skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vlandia_lord" />
+      <EquipmentSet id="vlandia_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
     <NPCCharacter id="lord_french_9a"
                 name="{=lord_france_new_4a}Hugues I de Champagne"
                 age="26"
