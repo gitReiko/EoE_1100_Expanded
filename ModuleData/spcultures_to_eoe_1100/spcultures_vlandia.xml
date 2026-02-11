@@ -78,12 +78,12 @@
       <name name="{=french_male_73}Salomon" />
       <name name="{=french_male_74}Sébastien" />
       <name name="{=french_male_75}Simon" />
-      <name name="{=french_male_76}Sylvain" />
+      <name name="{=french_male_76}Manassès" />
       <name name="{=french_male_77}Théobald" />
       <name name="{=french_male_78}Théodoric" />
       <name name="{=french_male_79}Thibaut" />
       <name name="{=french_male_80}Thomas" />
-      <name name="{=french_male_81}Timothée" />
+      <name name="{=french_male_81}Hervé" />
       <name name="{=french_male_82}Tristan" />
       <name name="{=french_male_83}Urbain" />
       <name name="{=french_male_84}Valentin" />
@@ -149,14 +149,14 @@
       <name name="{=french_male_144}Prudent" />
       <name name="{=french_male_145}Quentin" />
       <name name="{=french_male_146}Rainier" />
-      <name name="{=french_male_147}Raimondin" />
+      <name name="{=french_male_147}Aicard" />
       <name name="{=french_male_148}Renaud" />
       <name name="{=french_male_149}Renart" />
       <name name="{=french_male_150}Régnier" />
-      <name name="{=french_male_151}Remigius" />
+      <name name="{=french_male_151}Joscelin" />
       <name name="{=french_male_152}Renoul" />
       <name name="{=french_male_153}Rigobert" />
-      <name name="{=french_male_154}Robertin" />
+      <name name="{=french_male_154}Ferry" />
       <name name="{=french_male_155}Roch" />
       <name name="{=french_male_156}Rodrigue" />
       <name name="{=french_male_157}Romain" />
@@ -178,7 +178,7 @@
       <name name="{=french_male_173}Torquil" />
       <name name="{=french_male_174}Toussaint" />
       <name name="{=french_male_175}Turpin" />
-      <name name="{=french_male_176}Urbainus" />
+      <name name="{=french_male_176}Guérin" />
       <name name="{=french_male_177}Valérien" />
       <name name="{=french_male_178}Vespasien" />
       <name name="{=french_male_179}Vital" />
@@ -191,8 +191,8 @@
       <name name="{=french_male_186}Arsène" />
       <name name="{=french_male_187}Aubertin" />
       <name name="{=french_male_188}Balthazar" />
-      <name name="{=french_male_189}Benoist" />
-      <name name="{=french_male_190}Clémentin" />
+      <name name="{=french_male_189}Adhémar" />
+      <name name="{=french_male_190}Archambaud" />
       <name name="{=french_male_191}Constant" />
       <name name="{=french_male_192}Cyprien" />
       <name name="{=french_male_193}Donat" />
@@ -200,9 +200,9 @@
       <name name="{=french_male_195}Gaillard" />
       <name name="{=french_male_196}Godefroi" />
       <name name="{=french_male_197}Hardouin" />
-      <name name="{=french_male_198}Isambard" />
+      <name name="{=french_male_198}Boson" />
       <name name="{=french_male_199}Lancelot" />
-      <name name="{=french_male_200}Odonel" />
+      <name name="{=french_male_200}Aimery" />
     </male_names>
     <female_names>
       <name name="{=french_female_1}Ella" />
@@ -265,29 +265,29 @@
       <name name="{=french_female_58}Perrine" />
       <name name="{=french_female_59}Philippine" />
       <name name="{=french_female_60}Radegonde" />
-      <name name="{=french_female_61}Raymonde" />
+      <name name="{=french_female_61}Bertrade" />
       <name name="{=french_female_62}Reine" />
       <name name="{=french_female_63}Richilde" />
       <name name="{=french_female_64}Rixende" />
       <name name="{=french_female_65}Rose" />
-      <name name="{=french_female_66}Sabine" />
+      <name name="{=french_female_66}Beatrix" />
       <name name="{=french_female_67}Sainte" />
-      <name name="{=french_female_68}Salomé" />
+      <name name="{=french_female_68}Esclarmonde" />
       <name name="{=french_female_69}Sibylle" />
       <name name="{=french_female_70}Simone" />
       <name name="{=french_female_71}Sophie" />
       <name name="{=french_female_72}Suzanne" />
-      <name name="{=french_female_73}Thérèse" />
-      <name name="{=french_female_74}Ursule" />
-      <name name="{=french_female_75}Valérie" />
-      <name name="{=french_female_76}Véronique" />
-      <name name="{=french_female_77}Victoire" />
-      <name name="{=french_female_78}Violante" />
-      <name name="{=french_female_79}Yolande" />
-      <name name="{=french_female_80}Zoé" />
+      <name name="{=french_female_73}Alienette" />
+      <name name="{=french_female_74}Eremburge" />
+      <name name="{=french_female_75}Mabile" />
+      <name name="{=french_female_76}Rohese" />
+      <name name="{=french_female_77}Alpais" />
+      <name name="{=french_female_78}Isabelet" />
+      <name name="{=french_female_79}Clemence" />
+      <name name="{=french_female_80}Agathe" />
       <name name="{=french_female_81}Adeline" />
       <name name="{=french_female_82}Aliénor" />
-      <name name="{=french_female_83}Agnèsse" />
+      <name name="{=french_female_83}Florette" />
       <name name="{=french_female_84}Amicie" />
       <name name="{=french_female_85}Anceline" />
       <name name="{=french_female_86}Appoline" />
@@ -302,7 +302,7 @@
       <name name="{=french_female_95}Catherine" />
       <name name="{=french_female_96}Chantal" />
       <name name="{=french_female_97}Clarisse" />
-      <name name="{=french_female_98}Clotilde" />
+      <name name="{=french_female_98}Garsende" />
       <name name="{=french_female_99}Colombe" />
       <name name="{=french_female_100}Delphine" />
       <name name="{=french_female_101}Dulcie" />
@@ -395,16 +395,16 @@
       <name name="{=french_female_188}Zélie" />
       <name name="{=french_female_189}Zoé" />
       <name name="{=french_female_190}Adélaïde" />
-      <name name="{=french_female_191}Aliénor" />
-      <name name="{=french_female_192}Agnès" />
-      <name name="{=french_female_193}Ameline" />
+      <name name="{=french_female_191}Almodis" />
+      <name name="{=french_female_192}Adelais" />
+      <name name="{=french_female_193}Petronille" />
       <name name="{=french_female_194}Bertille" />
       <name name="{=french_female_195}Clotilde" />
-      <name name="{=french_female_196}Ermengarde" />
-      <name name="{=french_female_197}Mahaut" />
-      <name name="{=french_female_198}Marguerite" />
-      <name name="{=french_female_199}Mathilde" />
-      <name name="{=french_female_200}Perrine" />
+      <name name="{=french_female_196}Helvis" />
+      <name name="{=french_female_197}Isnardine" />
+      <name name="{=french_female_198}Aelis" />
+      <name name="{=french_female_199}Hawise" />
+      <name name="{=french_female_200}Sancia" />
     </female_names>
   </Culture>
 

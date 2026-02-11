@@ -47,13 +47,13 @@
       <name name="{=turk_male_42}Chakmak" />
       <name name="{=turk_male_43}Chalab" />
       <name name="{=turk_male_44}Chaqir" />
-      <name name="{=turk_male_45}Chaqmaq" />
+      <name name="{=turk_male_45}Toghril" />
       <name name="{=turk_male_46}Chaqan" />
       <name name="{=turk_male_47}Chavli" />
       <name name="{=turk_male_48}Chekchi" />
       <name name="{=turk_male_49}Chelbir" />
       <name name="{=turk_male_50}Choban" />
-      <name name="{=turk_male_51}Cholpan" />
+      <name name="{=turk_male_51}Börteçine" />
       <name name="{=turk_male_52}Chor" />
       <name name="{=turk_male_53}Chortan" />
       <name name="{=turk_male_54}Chugay" />
@@ -87,8 +87,8 @@
       <name name="{=turk_male_82}Edebali" />
       <name name="{=turk_male_83}Edi" />
       <name name="{=turk_male_84}Ekin" />
-      <name name="{=turk_male_85}Elchi" />
-      <name name="{=turk_male_86}Eltemur" />
+      <name name="{=turk_male_85}Qutbuddin" />
+      <name name="{=turk_male_86}Temurtash" />
       <name name="{=turk_male_87}Emir" />
       <name name="{=turk_male_88}Enke" />
       <name name="{=turk_male_89}Erek" />
@@ -114,7 +114,7 @@
       <name name="{=turk_male_109}Gurbuz" />
       <name name="{=turk_male_110}Gurhan" />
       <name name="{=turk_male_111}Hakan" />
-      <name name="{=turk_male_112}Haqan" />
+      <name name="{=turk_male_112}Arghun" />
       <name name="{=turk_male_113}Haqqul" />
       <name name="{=turk_male_114}Harman" />
       <name name="{=turk_male_115}Hars" />
@@ -143,12 +143,12 @@
       <name name="{=turk_male_138}Jochi" />
       <name name="{=turk_male_139}Jula" />
       <name name="{=turk_male_140}Jutay" />
-      <name name="{=turk_male_141}Kagan" />
+      <name name="{=turk_male_141}Sancar" />
       <name name="{=turk_male_142}Kaganbek" />
       <name name="{=turk_male_143}Kair" />
       <name name="{=turk_male_144}Kalkan" />
       <name name="{=turk_male_145}Kamal" />
-      <name name="{=turk_male_146}Kara" />
+      <name name="{=turk_male_146}Baraq" />
       <name name="{=turk_male_147}Karabek" />
       <name name="{=turk_male_148}Kargan" />
       <name name="{=turk_male_149}Karkhan" />
@@ -177,7 +177,7 @@
       <name name="{=turk_male_172}Kuchluk" />
       <name name="{=turk_male_173}Kuday" />
       <name name="{=turk_male_174}Kulan" />
-      <name name="{=turk_male_175}Kumush" />
+      <name name="{=turk_male_175}Altamish" />
       <name name="{=turk_male_176}Kunduz" />
       <name name="{=turk_male_177}Kush" />
       <name name="{=turk_male_178}Kutalmish" />
@@ -194,7 +194,7 @@
       <name name="{=turk_male_189}Mongush" />
       <name name="{=turk_male_190}Munduz" />
       <name name="{=turk_male_191}Naiman" />
-      <name name="{=turk_male_192}Nayman" />
+      <name name="{=turk_male_192}Chormaqan" />
       <name name="{=turk_male_193}Nekuz" />
       <name name="{=turk_male_194}Noyan" />
       <name name="{=turk_male_195}Nural" />
@@ -216,7 +216,7 @@
       <name name="{=turk_female_9}Akkiz" />
       <name name="{=turk_female_10}Almila" />
       <name name="{=turk_female_11}Altun" />
-      <name name="{=turk_female_12}Altyn" />
+      <name name="{=turk_female_12}Terken" />
       <name name="{=turk_female_13}Amina" />
       <name name="{=turk_female_14}Amira" />
       <name name="{=turk_female_15}Anchi" />
@@ -246,7 +246,7 @@
       <name name="{=turk_female_39}Baykiz" />
       <name name="{=turk_female_40}Begim" />
       <name name="{=turk_female_41}Begimay" />
-      <name name="{=turk_female_42}Begzade" />
+      <name name="{=turk_female_42}Bulugan" />
       <name name="{=turk_female_43}Bekzade" />
       <name name="{=turk_female_44}Belgin" />
       <name name="{=turk_female_45}Berdana" />
@@ -264,7 +264,7 @@
       <name name="{=turk_female_57}Chelbi" />
       <name name="{=turk_female_58}Chilay" />
       <name name="{=turk_female_59}Cholpan" />
-      <name name="{=turk_female_60}Chulpan" />
+      <name name="{=turk_female_60}Qutluq" />
       <name name="{=turk_female_61}Dana" />
       <name name="{=turk_female_62}Dariya" />
       <name name="{=turk_female_63}Dawla" />
@@ -286,7 +286,7 @@
       <name name="{=turk_female_79}Elma" />
       <name name="{=turk_female_80}Elvan" />
       <name name="{=turk_female_81}Emel" />
-      <name name="{=turk_female_82}Emine" />
+      <name name="{=turk_female_82}Turkan" />
       <name name="{=turk_female_83}Enke" />
       <name name="{=turk_female_84}Erdenay" />
       <name name="{=turk_female_85}Erke" />
@@ -304,8 +304,8 @@
       <name name="{=turk_female_97}Feruza" />
       <name name="{=turk_female_98}Fidan" />
       <name name="{=turk_female_99}Firdaus" />
-      <name name="{=turk_female_100}Firuza" />
-      <name name="{=turk_female_101}Gul" />
+      <name name="{=turk_female_100}Chichek" />
+      <name name="{=turk_female_101}Mengli" />
       <name name="{=turk_female_102}Gulbahar" />
       <name name="{=turk_female_103}Gulbanu" />
       <name name="{=turk_female_104}Gulbike" />
@@ -326,7 +326,7 @@
       <name name="{=turk_female_119}Hawa" />
       <name name="{=turk_female_120}Hazan" />
       <name name="{=turk_female_121}Ilay" />
-      <name name="{=turk_female_122}Ilayda" />
+      <name name="{=turk_female_122}Almalu" />
       <name name="{=turk_female_123}Ilbilge" />
       <name name="{=turk_female_124}Ilgiz" />
       <name name="{=turk_female_125}Ilkim" />
@@ -387,7 +387,7 @@
       <name name="{=turk_female_180}Kokzhan" />
       <name name="{=turk_female_181}Kulan" />
       <name name="{=turk_female_182}Kumush" />
-      <name name="{=turk_female_183}Kunduz" />
+      <name name="{=turk_female_183}Aqbugha" />
       <name name="{=turk_female_184}Kunsay" />
       <name name="{=turk_female_185}Kuralay" />
       <name name="{=turk_female_186}Kushay" />

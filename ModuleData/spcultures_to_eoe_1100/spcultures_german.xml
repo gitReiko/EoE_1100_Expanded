@@ -23,15 +23,15 @@
       <name name="{=german_male_18}Gottfried" />
       <name name="{=german_male_19}Berthold" />
       <name name="{=german_male_20}Sigmund" />
-      <name name="{=german_male_21}Siegfried" />
+      <name name="{=german_male_21}Erchanger" />
       <name name="{=german_male_22}Wolfram" />
-      <name name="{=german_male_23}Reinhard" />
+      <name name="{=german_male_23}Hartnid" />
       <name name="{=german_male_24}Adalbert" />
       <name name="{=german_male_25}Anselm" />
       <name name="{=german_male_26}Balduin" />
       <name name="{=german_male_27}Bernhard" />
       <name name="{=german_male_28}Christian" />
-      <name name="{=german_male_29}Ekkehard" />
+      <name name="{=german_male_29}Meginward" />
       <name name="{=german_male_30}Engelbert" />
       <name name="{=german_male_31}Franz" />
       <name name="{=german_male_32}Gebhard" />
@@ -55,12 +55,12 @@
       <name name="{=german_male_50}Poppo" />
       <name name="{=german_male_51}Raban" />
       <name name="{=german_male_52}Rainer" />
-      <name name="{=german_male_53}Reinmar" />
+      <name name="{=german_male_53}Alwig" />
       <name name="{=german_male_54}Reinold" />
       <name name="{=german_male_55}Rupert" />
       <name name="{=german_male_56}Siegbert" />
-      <name name="{=german_male_57}Sigfrid" />
-      <name name="{=german_male_58}Theoderich" />
+      <name name="{=german_male_57}Frumar" />
+      <name name="{=german_male_58}Liutpold" />
       <name name="{=german_male_59}Thietmar" />
       <name name="{=german_male_60}Udo" />
       <name name="{=german_male_61}Volkmar" />
@@ -77,7 +77,7 @@
       <name name="{=german_male_72}Adalwin" />
       <name name="{=german_male_73}Adalmar" />
       <name name="{=german_male_74}Adalrich" />
-      <name name="{=german_male_75}Adelmar" />
+      <name name="{=german_male_75}Thankmar" />
       <name name="{=german_male_76}Ansbert" />
       <name name="{=german_male_77}Ansgar" />
       <name name="{=german_male_78}Arnulf" />
@@ -86,13 +86,13 @@
       <name name="{=german_male_81}Baldric" />
       <name name="{=german_male_82}Berengar" />
       <name name="{=german_male_83}Bertwin" />
-      <name name="{=german_male_84}Burkhard" />
+      <name name="{=german_male_84}Lantbert" />
       <name name="{=german_male_85}Dankmar" />
       <name name="{=german_male_86}Eckbert" />
       <name name="{=german_male_87}Engelhard" />
       <name name="{=german_male_88}Erwin" />
       <name name="{=german_male_89}Folmar" />
-      <name name="{=german_male_90}Giselher" />
+      <name name="{=german_male_90}Liudolf" />
       <name name="{=german_male_91}Hadamar" />
       <name name="{=german_male_92}Hagen" />
       <name name="{=german_male_93}Hildebrand" />
@@ -108,11 +108,11 @@
       <name name="{=german_male_103}Paul" />
       <name name="{=german_male_104}Reinhart" />
       <name name="{=german_male_105}Stefan" />
-      <name name="{=german_male_106}Ulman" />
-      <name name="{=german_male_107}Valentin" />
+      <name name="{=german_male_106}Albero" />
+      <name name="{=german_male_107}Boppo" />
       <name name="{=german_male_108}Walter" />
       <name name="{=german_male_109}Wolfgang" />
-      <name name="{=german_male_110}Adolf" />
+      <name name="{=german_male_110}Reginbert" />
       <name name="{=german_male_111}Albert" />
       <name name="{=german_male_112}Alexander" />
       <name name="{=german_male_113}Andreas" />
@@ -123,7 +123,7 @@
       <name name="{=german_male_118}Burchard" />
       <name name="{=german_male_119}Claus" />
       <name name="{=german_male_120}Detlef" />
-      <name name="{=german_male_121}Diedrich" />
+      <name name="{=german_male_121}Gebeno" />
       <name name="{=german_male_122}Dirk" />
       <name name="{=german_male_123}Eckhard" />
       <name name="{=german_male_124}Edgar" />
@@ -144,7 +144,7 @@
       <name name="{=german_male_139}Helmuth" />
       <name name="{=german_male_140}Herbert" />
       <name name="{=german_male_141}Heribert" />
-      <name name="{=german_male_142}Hermannus" />
+      <name name="{=german_male_142}Engelram" />
       <name name="{=german_male_143}Hilmar" />
       <name name="{=german_male_144}Ingo" />
       <name name="{=german_male_145}Isenhard" />
@@ -168,7 +168,7 @@
       <name name="{=german_male_163}Ritter" />
       <name name="{=german_male_164}Rochus" />
       <name name="{=german_male_165}Rudiger" />
-      <name name="{=german_male_166}Rupertus" />
+      <name name="{=german_male_166}Sigehard" />
       <name name="{=german_male_167}Severin" />
       <name name="{=german_male_168}Sigismund" />
       <name name="{=german_male_169}Steffen" />
@@ -183,11 +183,11 @@
       <name name="{=german_male_178}Unwin" />
       <name name="{=german_male_179}Valentinus" />
       <name name="{=german_male_180}Volker" />
-      <name name="{=german_male_181}Waldemar" />
+      <name name="{=german_male_181}Bertholdus" />
       <name name="{=german_male_182}Wenzel" />
       <name name="{=german_male_183}Werinher" />
       <name name="{=german_male_184}Wichard" />
-      <name name="{=german_male_185}Wido" />
+      <name name="{=german_male_185}Gottschalk" />
       <name name="{=german_male_186}Wigbert" />
       <name name="{=german_male_187}Wigmar" />
       <name name="{=german_male_188}Winfrid" />
@@ -195,8 +195,8 @@
       <name name="{=german_male_190}Witold" />
       <name name="{=german_male_191}Wolf" />
       <name name="{=german_male_192}Wolfdieter" />
-      <name name="{=german_male_193}Wolfgangus" />
-      <name name="{=german_male_194}Wolframio" />
+      <name name="{=german_male_193}Eitel" />
+      <name name="{=german_male_194}Sibold" />
       <name name="{=german_male_195}Wulfhelm" />
       <name name="{=german_male_196}Wunibald" />
       <name name="{=german_male_197}Xaver" />
@@ -215,11 +215,11 @@
       <name name="{=german_female_8}Barbara" />
       <name name="{=german_female_9}Beatrix" />
       <name name="{=german_female_10}Benedikta" />
-      <name name="{=german_female_11}Bertha" />
+      <name name="{=german_female_11}Gerberga" />
       <name name="{=german_female_12}Brunhild" />
       <name name="{=german_female_13}Clara" />
       <name name="{=german_female_14}Clementia" />
-      <name name="{=german_female_15}Cunigunde" />
+      <name name="{=german_female_15}Adeltrudis" />
       <name name="{=german_female_16}Diemut" />
       <name name="{=german_female_17}Dorothea" />
       <name name="{=german_female_18}Edith" />
@@ -227,7 +227,7 @@
       <name name="{=german_female_20}Elsa" />
       <name name="{=german_female_21}Emerentia" />
       <name name="{=german_female_22}Emma" />
-      <name name="{=german_female_23}Ermengard" />
+      <name name="{=german_female_23}Willibirg" />
       <name name="{=german_female_24}Eva" />
       <name name="{=german_female_25}Frida" />
       <name name="{=german_female_26}Gerburg" />
@@ -267,7 +267,7 @@
       <name name="{=german_female_60}Mathilde" />
       <name name="{=german_female_61}Mechthild" />
       <name name="{=german_female_62}Minna" />
-      <name name="{=german_female_63}Odila" />
+      <name name="{=german_female_63}Gerhildis" />
       <name name="{=german_female_64}Oda" />
       <name name="{=german_female_65}Ottilia" />
       <name name="{=german_female_66}Regina" />
@@ -276,7 +276,7 @@
       <name name="{=german_female_69}Ruthild" />
       <name name="{=german_female_70}Sibylle" />
       <name name="{=german_female_71}Sigrun" />
-      <name name="{=german_female_72}Swanhild" />
+      <name name="{=german_female_72}Adelburgis" />
       <name name="{=german_female_73}Theda" />
       <name name="{=german_female_74}Thekla" />
       <name name="{=german_female_75}Theresia" />
@@ -293,7 +293,7 @@
       <name name="{=german_female_86}Almut" />
       <name name="{=german_female_87}Anneliese" />
       <name name="{=german_female_88}Anselma" />
-      <name name="{=german_female_89}Apollonia" />
+      <name name="{=german_female_89}Perchta" />
       <name name="{=german_female_90}Armgard" />
       <name name="{=german_female_91}Astrid" />
       <name name="{=german_female_92}Aurelia" />
@@ -303,7 +303,7 @@
       <name name="{=german_female_96}Christina" />
       <name name="{=german_female_97}Claudia" />
       <name name="{=german_female_98}Doris" />
-      <name name="{=german_female_99}Editha" />
+      <name name="{=german_female_99}Hroswitha" />
       <name name="{=german_female_100}Edeltraud" />
       <name name="{=german_female_101}Edelgard" />
       <name name="{=german_female_102}Eila" />
@@ -316,14 +316,14 @@
       <name name="{=german_female_109}Gerlint" />
       <name name="{=german_female_110}Guda" />
       <name name="{=german_female_111}Gudrun" />
-      <name name="{=german_female_112}Hadewiga" />
+      <name name="{=german_female_112}Irmelind" />
       <name name="{=german_female_113}Heilwig" />
       <name name="{=german_female_114}Helga" />
       <name name="{=german_female_115}Hildegund" />
       <name name="{=german_female_116}Irmingard" />
       <name name="{=german_female_117}Isentrud" />
       <name name="{=german_female_118}Kunhild" />
-      <name name="{=german_female_119}Luitgardis" />
+      <name name="{=german_female_119}Richenza" />
       <name name="{=german_female_120}Maginburg" />
       <name name="{=german_female_121}Mechthildis" />
       <name name="{=german_female_122}Odila" />
@@ -341,9 +341,9 @@
       <name name="{=german_female_134}Uda" />
       <name name="{=german_female_135}Udelhild" />
       <name name="{=german_female_136}Udelinde" />
-      <name name="{=german_female_137}Walburgis" />
+      <name name="{=german_female_137}Heilburg" />
       <name name="{=german_female_138}Waldhild" />
-      <name name="{=german_female_139}Wendelgard" />
+      <name name="{=german_female_139}Rudlindis" />
       <name name="{=german_female_140}Wichburg" />
       <name name="{=german_female_141}Wigberta" />
       <name name="{=german_female_142}Wilburg" />
@@ -359,7 +359,7 @@
       <name name="{=german_female_152}Wunhild" />
       <name name="{=german_female_153}Wunlind" />
       <name name="{=german_female_154}Yda" />
-      <name name="{=german_female_155}Ysentrud" />
+      <name name="{=german_female_155}Otilia" />
       <name name="{=german_female_156}Ysengard" />
       <name name="{=german_female_157}Zelma" />
       <name name="{=german_female_158}Adelina" />
@@ -373,7 +373,7 @@
       <name name="{=german_female_166}Armgardis" />
       <name name="{=german_female_167}Athalinda" />
       <name name="{=german_female_168}Bilhildis" />
-      <name name="{=german_female_169}Brunhilda" />
+      <name name="{=german_female_169}Richgard" />
       <name name="{=german_female_170}Cuniza" />
       <name name="{=german_female_171}Diemudis" />
       <name name="{=german_female_172}Engelberga" />
@@ -383,26 +383,26 @@
       <name name="{=german_female_176}Frideruna" />
       <name name="{=german_female_177}Gerlindis" />
       <name name="{=german_female_178}Gerlintis" />
-      <name name="{=german_female_179}Guda" />
-      <name name="{=german_female_180}Hadewiga" />
+      <name name="{=german_female_179}Hadamut" />
+      <name name="{=german_female_180}Ludmilla" />
       <name name="{=german_female_181}Heiltrudis" />
       <name name="{=german_female_182}Helmburgis" />
       <name name="{=german_female_183}Herlindis" />
       <name name="{=german_female_184}Hildburgis" />
       <name name="{=german_female_185}Hildegardis" />
       <name name="{=german_female_186}Hildtrudis" />
-      <name name="{=german_female_187}Irmingarda" />
-      <name name="{=german_female_188}Isentrudis" />
+      <name name="{=german_female_187}Gisla" />
+      <name name="{=german_female_188}Willtrud" />
       <name name="{=german_female_189}Kuniza" />
       <name name="{=german_female_190}Liutgardis" />
       <name name="{=german_female_191}Maginlindis" />
-      <name name="{=german_female_192}Mechtilde" />
+      <name name="{=german_female_192}Heilrat" />
       <name name="{=german_female_193}Odiltrudis" />
       <name name="{=german_female_194}Regintrudis" />
       <name name="{=german_female_195}Richlindis" />
-      <name name="{=german_female_196}Roswitha" />
-      <name name="{=german_female_197}Swanhilda" />
-      <name name="{=german_female_198}Theodrada" />
+      <name name="{=german_female_196}Berchthild" />
+      <name name="{=german_female_197}Alheidis" />
+      <name name="{=german_female_198}Blithildis" />
       <name name="{=german_female_199}Waldrada" />
       <name name="{=german_female_200}Wendelburg" />
     </female_names>
