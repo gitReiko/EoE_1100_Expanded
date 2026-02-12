@@ -16,13 +16,15 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - new lords and clan for the Pechenegs
 - other
 
-### Technical support 
+### Technical support and communication
 
 For technical support, please visit the forum. I do not provide technical support. Thanks.
 
-[Discord channel](https://discord.gg/btZAYPSC)
-
 [Support forum](https://discord.com/channels/1092600980123684964/1194790507306565832)
+
+Discuss mod, make suggestions, and much more on the Discord channel.
+
+[Discord channel](https://discord.gg/btZAYPSC)
 
 ### Load order
 
