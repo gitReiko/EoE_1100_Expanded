@@ -31,7 +31,7 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 1. [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006)
 2. Native, Sandbox, etc
 3. ANY OTHER MODS (including Erik's dependencies)
-4. [EoE 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/4867)
+4. [Empires of Europe 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/4867)
 5. [Erik's Troops (Optional)](https://www.nexusmods.com/mountandblade2bannerlord/mods/5475)
 6. Europe 1100 Expanded
 7. [Snowballing Kingdoms - EoE 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/7715)
@@ -39,6 +39,7 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 ### Technical support 
 
 [Discord channel](https://discord.gg/btZAYPSC)
+
 [Support forum](https://discord.com/channels/1092600980123684964/1194790507306565832)
 
 ### My future plans
@@ -54,8 +55,6 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 - detailing other parts of the map. For example, the British Isles. England could be divided into two kingdoms (England and Normandy, struggle for the crown), Kingdom of the Isles could be added, and perhaps something could be done in Ireland and Scotland.
 - other
 
-### [GitHub](https://github.com/gitReiko/EoE_1100_Expanded)
-
 ### Authors
 
 - GizmodosaurusRex
@@ -65,3 +64,8 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 ### Special thanks
 
 To Fatrod, entire EoE team and those who contributed to these mods.
+
+### GitHub
+
+https://github.com/gitReiko/EoE_1100_Expanded
+
