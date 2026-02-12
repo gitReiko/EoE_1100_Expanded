@@ -61,9 +61,9 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 
 ### Authors
 
-- GizmodosaurusRex
-- Lscd88
-- Reiko17
+- GizmodosaurusRex (researches)
+- Lscd88 (banners)
+- Reiko17 (lead)
 
 ### Special thanks
 
