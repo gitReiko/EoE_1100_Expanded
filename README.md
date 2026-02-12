@@ -38,6 +38,8 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 
 ### Technical support 
 
+For technical support, please visit the forum. I do not provide technical support. Thanks.
+
 [Discord channel](https://discord.gg/btZAYPSC)
 
 [Support forum](https://discord.com/channels/1092600980123684964/1194790507306565832)
