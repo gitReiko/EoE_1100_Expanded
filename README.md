@@ -18,28 +18,32 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 ### Snowball dependency
 
-Snowball adds new clans to kingdoms that conquer new settlements.
-
-This allows you to join a kingdom or create your own and simply play. Other kingdoms will also expand.
+Snowball adds new clans to kingdoms that conquer new settlements. This allows you to join a kingdom or create your own and simply play. Other kingdoms will also expand.
 
 ### Other optional mods
 
-1. Start As Anyone https://www.nexusmods.com/mountandblade2bannerlord/mods/8308
+1. [Start As Anyone](https://www.nexusmods.com/mountandblade2bannerlord/mods/8308)
 
 Allows you to start playing for your favorite clan in the game. Join a kingdom or lead it.
 
 ### Load order
 
-1. Harmony https://www.nexusmods.com/mountandblade2bannerlord/mods/2006
+1. [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006)
 2. Native, Sandbox, etc
 3. ANY OTHER MODS (including Erik's dependencies)
-4. Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
-5. Erik's Troops (Optional) https://www.nexusmods.com/mountandblade2bannerlord/mods/5475
+4. [EoE 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/4867)
+5. [Erik's Troops (Optional)](https://www.nexusmods.com/mountandblade2bannerlord/mods/5475)
 6. Europe 1100 Expanded
-7. Snowballing Kingdoms - EoE 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/7715
+7. [Snowballing Kingdoms - EoE 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/7715)
 
-### Future plans
+### Technical support 
 
+[Discord channel](https://discord.gg/btZAYPSC)
+[Support forum](https://discord.com/channels/1092600980123684964/1194790507306565832)
+
+### My future plans
+
+- update my translations into Belarusian
 - add and rework settlements to suit the needs of the mod
 - add regional troop trees for cultures
 - add Serbia kingdom (it was originally planned, but due to the impossibility of changing settlements, it has been postponed for the future.)
@@ -47,19 +51,17 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 - improve banners of all remaining kingdoms
 - improve existing clans (add lords, etc.)
 - add snowballs for all new kingdoms. Improve them.
-- detailing other parts of the map. For example, the British Isles. England could be divided into two kingdoms (England and Normandy, fighting for the crown), the Kingdom of the Isles could be added, and perhaps something could be done in Ireland and Scotland.
+- detailing other parts of the map. For example, the British Isles. England could be divided into two kingdoms (England and Normandy, struggle for the crown), Kingdom of the Isles could be added, and perhaps something could be done in Ireland and Scotland.
 - other
 
-### GitHub
-
-https://github.com/gitReiko/EoE_1100_Expanded
+### [GitHub](https://github.com/gitReiko/EoE_1100_Expanded)
 
 ### Authors
 
-- Reiko17
-- lscd88
 - GizmodosaurusRex
+- Lscd88
+- Reiko17
 
 ### Special thanks
 
-To entire EoE team and those who contributed to these mods.
+To Fatrod, entire EoE team and those who contributed to these mods.
