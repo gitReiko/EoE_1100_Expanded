@@ -42,6 +42,7 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 
 - add and rework settlements to suit the needs of the mod
 - add regional troop trees for cultures
+- add Serbia kingdom (it was originally planned, but due to the impossibility of changing settlements, it has been postponed for the future.)
 - move changes that do not increase system requirements to EoE 1100
 - improve banners of all remaining kingdoms
 - improve existing clans (add lords, etc.)
