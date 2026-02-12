@@ -1,7 +1,7 @@
 <Module>
     <Name value="Empires of Europe 1100 Expanded"/>
     <Id value="Europe1100Expanded"/>
-    <Version value="v1.3.0"/>
+    <Version value="v1.0.0"/>
     <ModuleCategory value="Singleplayer"/>
     <Official value="false" />
     <DependedModules>

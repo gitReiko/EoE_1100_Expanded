@@ -1,1 +1,64 @@
-init
+
+### Version 1.0.0 for EoE 1100 1.3.13.3
+
+### Summary
+
+Official submod for EoE 1100, which extends EoE with new features that increase minimum system requirements. 
+
+### New features
+
+- 16 new kingdoms (Aquitaine, Bavaria, Bohemia, Bretagne, Croatia, HRE Crown, Netherlands, Pisa, Pomerania, Portugal, Saxony, Swabia, Toulouse, Wales, Wends)
+- 106 new clans
+- 535 new lords
+- partial rework of kingdom banners  
+- new names for 5 cultures (French, German, South Slavic, Turkic, West Slavic)
+- kingdom names rework to single style
+- new lords and clan for the Pechenegs
+- other
+
+### Snowball dependency
+
+Snowball adds new clans to kingdoms that conquer new settlements.
+
+This allows you to join a kingdom or create your own and simply play. Other kingdoms will also expand.
+
+### Other optional mods
+
+1. Start As Anyone https://www.nexusmods.com/mountandblade2bannerlord/mods/8308
+
+Allows you to start playing for your favorite clan in the game. Join a kingdom or lead it.
+
+### Load order
+
+1. Harmony https://www.nexusmods.com/mountandblade2bannerlord/mods/2006
+2. Native, Sandbox, etc
+3. ANY OTHER MODS (including Erik's dependencies)
+4. Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
+5. Erik's Troops (Optional) https://www.nexusmods.com/mountandblade2bannerlord/mods/5475
+6. Europe 1100 Expanded
+7. Snowballing Kingdoms - EoE 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/7715
+
+### Future plans
+
+- add and rework settlements to suit the needs of the mod
+- add regional troop trees for cultures
+- move changes that do not increase system requirements to EoE 1100
+- improve banners of all remaining kingdoms
+- improve existing clans (add lords, etc.)
+- add snowballs for all new kingdoms. Improve them.
+- detailing other parts of the map. For example, the British Isles. England could be divided into two kingdoms (England and Normandy, fighting for the crown), the Kingdom of the Isles could be added, and perhaps something could be done in Ireland and Scotland.
+- other
+
+### GitHub
+
+https://github.com/gitReiko/EoE_1100_Expanded
+
+### Authors
+
+- Reiko17
+- lscd88
+- GizmodosaurusRex
+
+### Special thanks
+
+To entire EoE team and those who contributed to these mods.
