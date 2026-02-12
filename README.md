@@ -16,15 +16,13 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - new lords and clan for the Pechenegs
 - other
 
-### Snowball dependency
+### Technical support 
 
-Snowball adds new clans to kingdoms that conquer new settlements. This allows you to join a kingdom or create your own and simply play. Other kingdoms will also expand.
+For technical support, please visit the forum. I do not provide technical support. Thanks.
 
-### Other optional mods
+[Discord channel](https://discord.gg/btZAYPSC)
 
-1. [Start As Anyone](https://www.nexusmods.com/mountandblade2bannerlord/mods/8308)
-
-Allows you to start playing for your favorite clan in the game. Join a kingdom or lead it.
+[Support forum](https://discord.com/channels/1092600980123684964/1194790507306565832)
 
 ### Load order
 
@@ -36,13 +34,15 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 6. Europe 1100 Expanded
 7. [Snowballing Kingdoms - EoE 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/7715)
 
-### Technical support 
+### Snowball dependency
 
-For technical support, please visit the forum. I do not provide technical support. Thanks.
+Snowball adds new clans to kingdoms that conquer new settlements. This allows you to join a kingdom or create your own and simply play. Other kingdoms will also expand.
 
-[Discord channel](https://discord.gg/btZAYPSC)
+### Other optional mods
 
-[Support forum](https://discord.com/channels/1092600980123684964/1194790507306565832)
+1. [Start As Anyone](https://www.nexusmods.com/mountandblade2bannerlord/mods/8308)
+
+Allows you to start playing for your favorite clan in the game. Join a kingdom or lead it.
 
 ### My future plans
 
