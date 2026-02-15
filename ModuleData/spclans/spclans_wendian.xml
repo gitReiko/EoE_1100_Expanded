@@ -26,7 +26,7 @@
   />
 
   <Faction id="clan_wendian_3"
-    name="{=clan_wendian_3.name}Wizlaw"
+    name="{=clan_wendian_3.name}Rügen"
     initial_home_settlement="Settlement.castle_garz" 	
     tier="3"
     owner="Hero.lord_wendian_3a"
