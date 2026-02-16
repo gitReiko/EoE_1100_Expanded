@@ -1,5 +1,5 @@
 
-### Version 1.0.0 for EoE 1100 1.3.13.3
+### Version 1.0.1 for EoE 1100 1.3.13.3
 
 ### Summary
 
