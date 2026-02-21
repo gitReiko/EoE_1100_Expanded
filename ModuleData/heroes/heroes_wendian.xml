@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Heroes>
 
-   <Hero id="lord_danish_2a" mother="Hero.lord_danish_2e" spouse="Hero.lord_danish_2b" faction="Faction.clan_danish_2" />
+   <Hero id="lord_danish_2a" mother="Hero.lord_wendian_1e" spouse="Hero.lord_danish_2b" faction="Faction.clan_danish_2" />
    <Hero id="lord_danish_2b" spouse="Hero.lord_danish_2a" faction="Faction.clan_danish_2" />
    <Hero id="lord_danish_2c" father="Hero.lord_danish_2a" faction="Faction.clan_danish_2" />
    <Hero id="lord_danish_2d" father="Hero.lord_danish_2a" faction="Faction.clan_danish_2" />
