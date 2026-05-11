@@ -101,7 +101,9 @@
   <Settlement id="town_munster" owner="Faction.clan_german_24"></Settlement>
   <Settlement id="castle_stapelburg" owner="Faction.clan_saxony_4"></Settlement>
   <Settlement id="town_hamburg" owner="Faction.clan_german_20"></Settlement>
-  <Settlement id="town_juterbog" owner="Faction.clan_german_13"></Settlement>
+  <Settlement id="town_juterbog" owner="Faction.clan_german_13" culture="Culture.polish"></Settlement>
+  <Settlement id="town_juterbog_golsyn" culture="Culture.polish"></Settlement>
+  <Settlement id="town_juterbog_cottbus" culture="Culture.polish"></Settlement>
   <Settlement id="castle_zerbst" owner="Faction.clan_saxony_7"></Settlement>
 
   <!-- Swabia -->
