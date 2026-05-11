@@ -5,6 +5,10 @@
 
 Official submod for EoE 1100, which extends EoE with new features that increase minimum system requirements. 
 
+### Update 1.0.2
+
+- Toulouse settlements improvement
+
 ### New features
 
 - 16 new kingdoms (Aquitaine, Bavaria, Bohemia, Bretagne, Croatia, HRE Crown, Netherlands, Pisa, Pomerania, Portugal, Saxony, Swabia, Toulouse, Wales, Wends)
