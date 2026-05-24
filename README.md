@@ -1,5 +1,5 @@
 
-### Version 1.0.1 for EoE 1100 1.3.13.3
+### Version 1.0.2 for EoE 1100 1.4.5.1
 
 ### Summary
 
@@ -8,6 +8,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 ### Update 1.0.2
 
 - Borko banner recolor
+- Compatibility with EoE 1.4.5.1 and Bannerlord 1.4.5
 - Juterbog culture changed
 - Toulouse settlements improvement
 
