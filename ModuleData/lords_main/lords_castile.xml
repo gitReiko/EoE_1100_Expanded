@@ -46,7 +46,7 @@
     <Equipments>
       <EquipmentSet id="empire_lord" />
       <EquipmentSet id="empire_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -95,7 +95,7 @@
     <Equipments>
       <EquipmentSet id="empire_lord" />
       <EquipmentSet id="empire_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -145,7 +145,7 @@
     <Equipments>
       <EquipmentSet id="empire_lady" />
       <EquipmentSet id="empire_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -194,7 +194,7 @@
     <Equipments>
       <EquipmentSet id="empire_lord" />
       <EquipmentSet id="empire_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -243,7 +243,7 @@
     <Equipments>
       <EquipmentSet id="empire_lord" />
       <EquipmentSet id="empire_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 

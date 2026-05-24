@@ -47,7 +47,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_king" />
       <EquipmentSet id="khuzait_king"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>   
   
@@ -96,7 +96,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_queen" />
       <EquipmentSet id="khuzait_queen"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter> 
 
@@ -145,7 +145,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>   
   
@@ -194,7 +194,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lady" />
       <EquipmentSet id="khuzait_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter> 
 
@@ -243,7 +243,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -292,7 +292,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lady" />
       <EquipmentSet id="khuzait_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -341,7 +341,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>   
   
@@ -390,7 +390,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lady" />
       <EquipmentSet id="khuzait_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter> 
 
@@ -439,7 +439,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -488,7 +488,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -537,7 +537,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>   
   
@@ -586,7 +586,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lady" />
       <EquipmentSet id="khuzait_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter> 
 
@@ -635,7 +635,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -684,7 +684,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -733,7 +733,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lady" />
       <EquipmentSet id="khuzait_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -782,7 +782,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>   
   
@@ -831,7 +831,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lady" />
       <EquipmentSet id="khuzait_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter> 
 
@@ -880,7 +880,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -929,7 +929,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -978,7 +978,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1027,7 +1027,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lady" />
       <EquipmentSet id="khuzait_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1076,7 +1076,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1125,7 +1125,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lord" />
       <EquipmentSet id="khuzait_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1174,7 +1174,7 @@
     <Equipments>
       <EquipmentSet id="khuzait_lady" />
       <EquipmentSet id="khuzait_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 

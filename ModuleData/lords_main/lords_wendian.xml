@@ -47,7 +47,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
   
@@ -98,7 +98,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lady" />
       <EquipmentSet id="sturgia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
   
@@ -148,7 +148,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
   
@@ -198,7 +198,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -249,7 +249,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lady" />
       <EquipmentSet id="sturgia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -299,7 +299,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -349,7 +349,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -398,7 +398,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -447,7 +447,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -498,7 +498,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lady" />
       <EquipmentSet id="sturgia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -547,7 +547,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -596,7 +596,7 @@
     <Equipments>
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -645,7 +645,7 @@
     <Equipments>
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -696,7 +696,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lady" />
       <EquipmentSet id="sturgia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -745,7 +745,7 @@
     <Equipments>
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -794,7 +794,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -845,7 +845,7 @@
       <EquipmentRoster />
       <EquipmentSet id="polish_lady" />
       <EquipmentSet id="polish_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -894,7 +894,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -945,7 +945,7 @@
       <EquipmentRoster />
       <EquipmentSet id="polish_lady" />
       <EquipmentSet id="polish_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -994,7 +994,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1045,7 +1045,7 @@
       <EquipmentRoster />
       <EquipmentSet id="polish_lady" />
       <EquipmentSet id="polish_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1094,7 +1094,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
