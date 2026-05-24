@@ -7,6 +7,8 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 ### Update 1.0.2
 
+- Borko banner recolor
+- Juterbog culture changed
 - Toulouse settlements improvement
 
 ### New features
