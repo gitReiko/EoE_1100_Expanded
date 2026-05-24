@@ -46,7 +46,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -96,7 +96,7 @@
     <Equipments>
       <EquipmentSet id="polish_lady" />
       <EquipmentSet id="polish_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -145,7 +145,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -194,7 +194,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -243,7 +243,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -292,7 +292,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -342,7 +342,7 @@
     <Equipments>
       <EquipmentSet id="polish_lady" />
       <EquipmentSet id="polish_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -391,7 +391,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -440,7 +440,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -489,7 +489,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -538,7 +538,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -588,7 +588,7 @@
     <Equipments>
       <EquipmentSet id="polish_lady" />
       <EquipmentSet id="polish_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -637,7 +637,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -686,7 +686,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -735,7 +735,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -785,7 +785,7 @@
     <Equipments>
       <EquipmentSet id="polish_lady" />
       <EquipmentSet id="polish_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -834,7 +834,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -883,7 +883,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -933,7 +933,7 @@
     <Equipments>
       <EquipmentSet id="polish_lady" />
       <EquipmentSet id="polish_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -982,7 +982,7 @@
     <Equipments>
       <EquipmentSet id="polish_lord" />
       <EquipmentSet id="polish_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 

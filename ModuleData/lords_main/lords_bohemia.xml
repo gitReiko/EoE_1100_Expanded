@@ -46,7 +46,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -96,7 +96,7 @@
     <Equipments>
       <EquipmentSet id="german_lady" />
       <EquipmentSet id="german_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -145,7 +145,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -194,7 +194,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -244,7 +244,7 @@
     <Equipments>
       <EquipmentSet id="german_lady" />
       <EquipmentSet id="german_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -293,7 +293,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -342,7 +342,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -391,7 +391,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -441,7 +441,7 @@
     <Equipments>
       <EquipmentSet id="german_lady" />
       <EquipmentSet id="german_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -490,7 +490,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -539,7 +539,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -589,7 +589,7 @@
     <Equipments>
       <EquipmentSet id="german_lady" />
       <EquipmentSet id="german_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -638,7 +638,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -687,7 +687,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -736,7 +736,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -785,7 +785,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -835,7 +835,7 @@
     <Equipments>
       <EquipmentSet id="german_lady" />
       <EquipmentSet id="german_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -884,7 +884,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -933,7 +933,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -982,7 +982,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1031,7 +1031,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1081,7 +1081,7 @@
     <Equipments>
       <EquipmentSet id="german_lady" />
       <EquipmentSet id="german_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1130,7 +1130,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1179,7 +1179,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1229,7 +1229,7 @@
     <Equipments>
       <EquipmentSet id="german_lady" />
       <EquipmentSet id="german_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1279,7 +1279,7 @@
     <Equipments>
       <EquipmentSet id="german_lady" />
       <EquipmentSet id="german_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1328,7 +1328,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1378,7 +1378,7 @@
     <Equipments>
       <EquipmentSet id="german_lady" />
       <EquipmentSet id="german_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1427,7 +1427,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1476,7 +1476,7 @@
     <Equipments>
       <EquipmentSet id="german_lord" />
       <EquipmentSet id="german_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 

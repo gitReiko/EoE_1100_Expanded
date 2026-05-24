@@ -47,7 +47,7 @@
 		<Equipments>
 			<EquipmentSet id="rus_king"/>
 			<EquipmentSet id="rus_king"
-						  civilian="true"/>
+						  equipmentType="Civilian"/>
 		</Equipments>
 	</NPCCharacter>
 

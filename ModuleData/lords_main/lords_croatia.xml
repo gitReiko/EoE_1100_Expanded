@@ -46,7 +46,7 @@
     <Equipments>
       <EquipmentSet id="serbian_king" />
       <EquipmentSet id="serbian_king"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -96,7 +96,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lady" />
       <EquipmentSet id="serbian_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -145,7 +145,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -194,7 +194,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -243,7 +243,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -292,7 +292,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -341,7 +341,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -390,7 +390,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -440,7 +440,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lady" />
       <EquipmentSet id="serbian_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -489,7 +489,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -539,7 +539,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lady" />
       <EquipmentSet id="serbian_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -588,7 +588,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -638,7 +638,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lady" />
       <EquipmentSet id="serbian_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -687,7 +687,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -736,7 +736,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -785,7 +785,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -835,7 +835,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lady" />
       <EquipmentSet id="serbian_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -884,7 +884,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -933,7 +933,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -982,7 +982,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1032,7 +1032,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lady" />
       <EquipmentSet id="serbian_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1081,7 +1081,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1130,7 +1130,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1179,7 +1179,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1229,7 +1229,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lady" />
       <EquipmentSet id="serbian_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1278,7 +1278,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1327,7 +1327,7 @@
     <Equipments>
       <EquipmentSet id="serbian_lord" />
       <EquipmentSet id="serbian_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 

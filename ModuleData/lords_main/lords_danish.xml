@@ -47,7 +47,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -97,7 +97,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -147,7 +147,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -198,7 +198,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lady" />
       <EquipmentSet id="sturgia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -248,7 +248,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -298,7 +298,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lord" />
       <EquipmentSet id="sturgia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -349,7 +349,7 @@
       <EquipmentRoster />
       <EquipmentSet id="sturgia_lady" />
       <EquipmentSet id="sturgia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 

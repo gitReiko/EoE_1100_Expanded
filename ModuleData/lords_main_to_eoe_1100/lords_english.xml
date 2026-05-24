@@ -46,7 +46,7 @@
 		<Equipments>
           <EquipmentRoster />
           <EquipmentSet id="english_lord" />
-          <EquipmentSet id="english_lord" civilian="true" />
+          <EquipmentSet id="english_lord" equipmentType="Civilian" />
         </Equipments>
 	</NPCCharacter>
 
@@ -96,7 +96,7 @@
     <Equipments>
       <EquipmentSet id="english_lady" />
       <EquipmentSet id="english_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>  
 

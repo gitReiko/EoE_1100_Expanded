@@ -46,7 +46,7 @@
     <Equipments>
       <EquipmentSet id="welsh_king" />
       <EquipmentSet id="welsh_king"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -96,7 +96,7 @@
     <Equipments>
       <EquipmentSet id="welsh_queen" />
       <EquipmentSet id="welsh_queen"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -145,7 +145,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -194,7 +194,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -244,7 +244,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -294,7 +294,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -344,7 +344,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -394,7 +394,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -443,7 +443,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -492,7 +492,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -541,7 +541,7 @@
     <Equipments>
       <EquipmentSet id="welsh_king" />
       <EquipmentSet id="welsh_king"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -591,7 +591,7 @@
     <Equipments>
       <EquipmentSet id="welsh_queen" />
       <EquipmentSet id="welsh_queen"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -640,7 +640,7 @@
     <Equipments>
       <EquipmentSet id="welsh_king" />
       <EquipmentSet id="welsh_king"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -689,7 +689,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -738,7 +738,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -787,7 +787,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -836,7 +836,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -885,7 +885,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -934,7 +934,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -983,7 +983,7 @@
     <Equipments>
       <EquipmentSet id="welsh_king" />
       <EquipmentSet id="welsh_king"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1032,7 +1032,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1081,7 +1081,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1131,7 +1131,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1181,7 +1181,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1231,7 +1231,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1280,7 +1280,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1330,7 +1330,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1379,7 +1379,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1428,7 +1428,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1478,7 +1478,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1527,7 +1527,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1577,7 +1577,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1626,7 +1626,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1675,7 +1675,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1725,7 +1725,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lady" />
       <EquipmentSet id="welsh_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1774,7 +1774,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
@@ -1823,7 +1823,7 @@
     <Equipments>
       <EquipmentSet id="welsh_lord" />
       <EquipmentSet id="welsh_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 

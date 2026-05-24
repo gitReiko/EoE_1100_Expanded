@@ -48,7 +48,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_king" />
       <EquipmentSet id="vlandia_king"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
   
@@ -98,7 +98,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_queen" />
       <EquipmentSet id="vlandia_queen"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>	
 
@@ -148,7 +148,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -198,7 +198,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -248,7 +248,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -298,7 +298,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -348,7 +348,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -398,7 +398,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -448,7 +448,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -498,7 +498,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -548,7 +548,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -598,7 +598,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -648,7 +648,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
   
@@ -698,7 +698,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -748,7 +748,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -798,7 +798,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -848,7 +848,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -898,7 +898,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -948,7 +948,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -998,7 +998,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
   
@@ -1048,7 +1048,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1098,7 +1098,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1148,7 +1148,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1198,7 +1198,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1248,7 +1248,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1298,7 +1298,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1348,7 +1348,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1398,7 +1398,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1448,7 +1448,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
   
@@ -1498,7 +1498,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1548,7 +1548,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1598,7 +1598,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1648,7 +1648,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1698,7 +1698,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1748,7 +1748,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1798,7 +1798,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1848,7 +1848,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1898,7 +1898,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1948,7 +1948,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -1998,7 +1998,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -2048,7 +2048,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -2098,7 +2098,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -2148,7 +2148,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -2198,7 +2198,7 @@
     <Equipments>
       <EquipmentSet id="vlandia_lady" />
       <EquipmentSet id="vlandia_lady"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -2248,7 +2248,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -2298,7 +2298,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
@@ -2348,7 +2348,7 @@
       <EquipmentRoster />
       <EquipmentSet id="vlandia_lord" />
       <EquipmentSet id="vlandia_lord"
-                    civilian="true" />
+                    equipmentType="Civilian" />
     </Equipments>
     </NPCCharacter>
 
