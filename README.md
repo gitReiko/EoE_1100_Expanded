@@ -7,10 +7,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 ### Update 1.1.0
 
-- Borko banner recolor
-- Compatibility with EoE 1.4.5.1 and Bannerlord 1.4.5
-- Juterbog culture changed
-- Toulouse settlements improvement
+- more members for Scottish clans
 
 ### New features
 
@@ -21,6 +18,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - new names for 5 cultures (French, German, South Slavic, Turkic, West Slavic)
 - kingdom names rework to single style
 - new lords and clan for the Pechenegs
+- new lords for Scottland
 - other
 
 ### Technical support and communication
