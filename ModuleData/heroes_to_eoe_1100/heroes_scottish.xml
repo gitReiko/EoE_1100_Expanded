@@ -18,6 +18,7 @@
 
    <Hero id="lord_scottish_3a" spouse="Hero.lord_scottish_3b" faction="Faction.clan_scottish_3" />
    <Hero id="lord_scottish_3b" spouse="Hero.lord_scottish_3a" faction="Faction.clan_scottish_3" />
+   <Hero id="lord_scottish_3c" mother="Hero.lord_scottish_3b" father="Hero.lord_scottish_3a" faction="Faction.clan_scottish_3" />
 
 
    <Hero id="lord_scottish_4a" spouse="Hero.lord_scottish_4b" faction="Faction.clan_scottish_4" />
