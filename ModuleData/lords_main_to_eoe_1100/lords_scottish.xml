@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="lord_scottish_1a" name="{=lord_scottish_1a}Edgar mac Maíl Choluim" default_group="Cavalry" age="29" voice="softspoken" is_hero="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3707" build="0.8586" key="0002780AC014051A277DCA9B7A6E8B479B8878A676279A78A749C9764683848500BD66030B8386980000000000000000000000000000000000000000356C2042" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="100" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_king" />
+      <EquipmentSet id="scottish_king" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_1b" name="{=lord_scottish_1b}Maíl Coluim mac Donnchada" default_group="Cavalry" age="62" voice="softspoken" is_hero="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.21" weight="0.3707" build="0.8586" key="0002780AC014051A277DCA9B7A6E8B479B8878A676279A78A749C9764683848500BD66030B8386980000000000000000000000000000000000000000356C2042" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="175" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="250" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="125" />
+      <skill id="Athletics" value="175" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="125" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="275" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="225" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_king" />
+      <EquipmentSet id="scottish_king" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_1c" name="{=lord_scottish_1c}Alaxandair mac Maíl Choluim" age="25" voice="curt" is_hero="true" culture="Culture.scottish" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" weight="0.7901" build="0.7686" key="00050C02C0001549CD71192B144364956988797B4E51924558999A068314332605CCC0570C673752000000000000000000000000000000000000000023902004" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="125" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_1d" name="{=lord_scottish_1d}Daibhidh mac Maíl Choluim" age="21" voice="curt" is_hero="true" culture="Culture.scottish" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" weight="0.7901" build="0.7686" key="00050C02C0001549CD71192B144364956988797B4E51924558999A068314332605CCC0570C673752000000000000000000000000000000000000000023902004" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="50" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_1e" name="{=lord_scottish_1e}Edmund mac Maíl Choluim" age="32" voice="softspoken" is_hero="true" culture="Culture.scottish" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" weight="0.7901" build="0.7686" key="00050C02C0001549CD71192B144364956988797B4E51924558999A068314332605CCC0570C673752000000000000000000000000000000000000000023902004" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="225" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_1f" name="{=lord_scottish_1f}Mairead ingen Maíl Choluim" age="27" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="0000100B8000300F7C7768B77658682A7577866254C69643C4B647398C95A0370087760308A7497300000000000000000000000000000000000000003B1C4003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lady" />
+      <EquipmentSet id="scottish_lady" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_1g" name="{=lord_scottish_1g}Eithne ingen Maíl Choluim" age="26" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="0000100B8000300F7C7768B77658682A7577866254C69643C4B647398C95A0370087760308A7497300000000000000000000000000000000000000003B1C4003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="50" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="175" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lady" />
+      <EquipmentSet id="scottish_lady" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <NPCCharacter id="lord_scottish_1d" name="{=Matilda}Matilda" age="20" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="0000100B8000300F7C7768B77658682A7577866254C69643C4B647398C95A0370087760308A7497300000000000000000000000000000000000000003B1C4003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lady" />
+      <EquipmentSet id="scottish_lady" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_2a" name="{=Gartnait}Gartnait" age="31" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.4416" build="0.3516" key="00053C0540881453B45DC725CA977A67A7A2B837682F66B9BA644547A8697658008576030849C8BE00000000000000000000000000000000000000002F047102" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="225" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_2b" name="{=Ete}Ete" age="26" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.5809" build="0.4217" key="000844080014300138BB7D77ED669C9AA712C72198A9BB9856C927768841B56600B696030B2134C70000000000000000000000000000000000000000437C4003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="225" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lady" />
+      <EquipmentSet id="scottish_lady" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_3a" name="{=Óengus}Óengus" age="25" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.5809" build="0.2479" key="00059C0D80FC29566A76C35748A444A7837447287842D87A868459A3786879D600749603077C7387000000000000000000000000000000000000000016F47142" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="25" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_3b" name="{=Olivia}Olivia" age="20" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.5809" build="0.2479" key="00059C0D80FC30016A76C35748A444A7837447287842D87A868459A3786879D600749603077C7387000000000000000000000000000000000000000016F44003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lady" />
+      <EquipmentSet id="scottish_lady" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_4a" name="{=Áed}Áed" age="30" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="001B100D000000437C3C3677AAC688557577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="250" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_4b" name="{=Euphemia}Euphemia" age="25" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001000000000037C3C3677AAC688557577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lady" />
+      <EquipmentSet id="scottish_lady" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_5a" name="{=Lye}Lye" age="31" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001006000004087C3C3677AAC688557577866254C69643C4B647398C95A03700B776030BA7497300000000000000000000000000000000000000003B6C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_5b" name="{=Elspeth}Elspeth" age="27" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="0000100B800000157C1B177C8B7F88877577866254C69643C4B647398C95A0370087760308A7497300000000000000000000000000000000000000003B1C4003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lady" />
+      <EquipmentSet id="scottish_lady" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_6a" name="{=Ruaidrí}Ruaidrí" age="50" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001006000004087C3C3677AAC688557577866254C69643C4B647398C95A03700B776030BA7497300000000000000000000000000000000000000003B6C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="225" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_6b" name="{=Mór Ní}Mór Ní" age="45" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="0000100B800000157C1B177C8B7F88877577866254C69643C4B647398C95A0370087760308A7497300000000000000000000000000000000000000003B1C4003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="50" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lady" />
+      <EquipmentSet id="scottish_lady" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_6c" name="{=Domnall}Domnall" age="25" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001006000004087C3C3677AAC688557577866254C69643C4B647398C95A03700B776030BA7497300000000000000000000000000000000000000003B6C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+
+
+
+
+
+
+
+
+</NPCCharacters>

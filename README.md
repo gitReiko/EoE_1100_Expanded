@@ -1,11 +1,11 @@
 
-### Version 1.0.2 for EoE 1100 1.4.5.1
+### Version 1.1.0 for EoE 1100 1.4.5.1
 
 ### Summary
 
 Official submod for EoE 1100, which extends EoE with new features that increase minimum system requirements. 
 
-### Update 1.0.2
+### Update 1.1.0
 
 - Borko banner recolor
 - Compatibility with EoE 1.4.5.1 and Bannerlord 1.4.5
