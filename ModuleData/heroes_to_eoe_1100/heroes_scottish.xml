@@ -33,8 +33,10 @@
    <Hero id="lord_scottish_5d" faction="Faction.clan_scottish_5" text="{=fictional_lord}Fictional character." />
 
 
-   <Hero id="lord_scottish_6a" spouse="Hero.lord_scottish_6b" faction="Faction.clan_scottish_6" />
-   <Hero id="lord_scottish_6b" spouse="Hero.lord_scottish_6a" faction="Faction.clan_scottish_6" />
+   <Hero id="lord_scottish_6a" faction="Faction.clan_scottish_6" />
+   <Hero id="lord_scottish_6b" father="Hero.lord_scottish_6a" spouse="Hero.lord_scottish_6с" faction="Faction.clan_scottish_6" />
+   <Hero id="lord_scottish_6с" spouse="Hero.lord_scottish_6b" faction="Faction.clan_scottish_6" />
+   <Hero id="lord_scottish_6d" mother="Hero.lord_scottish_6с" father="Hero.lord_scottish_6b" faction="Faction.clan_scottish_6" text="{=fictional_lord}Fictional character." />
 
 
 </Heroes>
