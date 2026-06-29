@@ -326,7 +326,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_scottish_2b" name="{=lord_scottish_2b}Ragnailt*" age="27" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_scottish_2b" name="{=lord_scottish_2b}Ragnailt" age="27" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.06" weight="0.5809" build="0.4217" key="000844080014300138BB7D77ED669C9AA712C72198A9BB9856C927768841B56600B696030B2134C70000000000000000000000000000000000000000437C4003" />
     </face>
@@ -366,7 +366,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_scottish_2c" name="{=lord_scottish_2c}Beathag*" age="11" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_scottish_2c" name="{=lord_scottish_2c}Beathag" age="11" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.06" weight="0.5809" build="0.4217" key="000844080014300138BB7D77ED669C9AA712C72198A9BB9856C927768841B56600B696030B2134C70000000000000000000000000000000000000000437C4003" />
     </face>
@@ -406,7 +406,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_scottish_2d" name="{=lord_scottish_2d}Cennétig*" age="48" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
+  <NPCCharacter id="lord_scottish_2d" name="{=lord_scottish_2d}Cennétig" age="48" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
       <BodyProperties version="4" age="22.06" weight="0.4416" build="0.3516" key="00053C0540881453B45DC725CA977A67A7A2B837682F66B9BA644547A8697658008576030849C8BE00000000000000000000000000000000000000002F047102" />
     </face>

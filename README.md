@@ -19,6 +19,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - kingdom names rework to single style
 - new lords and clan for the Pechenegs
 - new lords for Scottland
+- delete asterisks from the lords names (for compatibility with other mods)
 - other
 
 ### Technical support and communication

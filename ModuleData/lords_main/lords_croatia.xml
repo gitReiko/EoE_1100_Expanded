@@ -51,7 +51,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_hungarian_2b"
-                name="{=lord_croatian_1b}Jelena*"
+                name="{=lord_croatian_1b}Jelena"
                 default_group="Cavalry"
                 age="30"
                 voice="ironic"
@@ -445,7 +445,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_2c"
-    name="{=lord_croatian_2c.name}Domagoj*"
+    name="{=lord_croatian_2c.name}Domagoj"
     voice="softspoken"
     age="31"
     is_female="false"
@@ -494,7 +494,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_2d"
-    name="{=lord_croatian_2d.name}Radomira*"
+    name="{=lord_croatian_2d.name}Radomira"
     default_group="Cavalry"
     age="22"
     voice="ironic"
@@ -593,7 +593,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_3b"
-    name="{=lord_croatian_3b.name}Dragana*"
+    name="{=lord_croatian_3b.name}Dragana"
     default_group="Cavalry"
     age="43"
     voice="ironic"
@@ -643,7 +643,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_3c"
-    name="{=lord_croatian_3c.name}Dmitar*"
+    name="{=lord_croatian_3c.name}Dmitar"
     voice="softspoken"
     age="25"
     is_female="false"
@@ -692,7 +692,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_3d"
-    name="{=lord_croatian_3d.name}Ratko*"
+    name="{=lord_croatian_3d.name}Ratko"
     voice="softspoken"
     age="44"
     is_female="false"
@@ -790,7 +790,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_4b"
-    name="{=lord_croatian_4b.name}Katarina*"
+    name="{=lord_croatian_4b.name}Katarina"
     default_group="Cavalry"
     age="40"
     voice="ironic"
@@ -840,7 +840,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_4c"
-    name="{=lord_croatian_4c.name}Stjepan*"
+    name="{=lord_croatian_4c.name}Stjepan"
     voice="softspoken"
     age="22"
     is_female="false"
@@ -889,7 +889,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_4d"
-    name="{=lord_croatian_4d.name}Mladen*"
+    name="{=lord_croatian_4d.name}Mladen"
     voice="softspoken"
     age="39"
     is_female="false"
@@ -987,7 +987,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_5b"
-    name="{=lord_croatian_5b.name}Marija*"
+    name="{=lord_croatian_5b.name}Marija"
     default_group="Cavalry"
     age="37"
     voice="ironic"
@@ -1037,7 +1037,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_5c"
-    name="{=lord_croatian_5c.name}Petar*"
+    name="{=lord_croatian_5c.name}Petar"
     voice="softspoken"
     age="18"
     is_female="false"
@@ -1086,7 +1086,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_5d"
-    name="{=lord_croatian_5d.name}Grgur*"
+    name="{=lord_croatian_5d.name}Grgur"
     voice="softspoken"
     age="36"
     is_female="false"
@@ -1184,7 +1184,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_6b"
-    name="{=lord_croatian_6b.name}Dobroslava*"
+    name="{=lord_croatian_6b.name}Dobroslava"
     default_group="Cavalry"
     age="31"
     voice="ironic"
@@ -1234,7 +1234,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_6c"
-    name="{=lord_croatian_6c.name}Miroslav*"
+    name="{=lord_croatian_6c.name}Miroslav"
     voice="softspoken"
     age="35"
     is_female="false"
@@ -1283,7 +1283,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_croatian_6d"
-    name="{=lord_croatian_6d.name}Andrija*"
+    name="{=lord_croatian_6d.name}Andrija"
     voice="softspoken"
     age="33"
     is_female="false"

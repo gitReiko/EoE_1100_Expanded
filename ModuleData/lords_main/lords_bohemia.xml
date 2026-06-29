@@ -790,7 +790,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_bohemia_3d"
-                name="{=lord_bohemia_3d}Kateřina*"
+                name="{=lord_bohemia_3d}Kateřina"
                 default_group="Cavalry"
                 age="23"
                 voice="ironic"
@@ -1036,7 +1036,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_bohemia_4b"
-                name="{=lord_bohemia_4b}Marketa*"
+                name="{=lord_bohemia_4b}Marketa"
                 default_group="Cavalry"
                 age="26"
                 voice="ironic"
@@ -1135,7 +1135,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_bohemia_4d"
-                name="{=lord_bohemia_4d}Ctibor*"
+                name="{=lord_bohemia_4d}Ctibor"
                 voice="softspoken"
                 age="34"
                 is_female="false"
@@ -1184,7 +1184,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_bohemia_4e"
-                name="{=lord_bohemia_4e}Jitka*"
+                name="{=lord_bohemia_4e}Jitka"
                 default_group="Cavalry"
                 age="22"
                 voice="ironic"
@@ -1234,7 +1234,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_bohemia_4f"
-                name="{=lord_bohemia_4f}Dorota*"
+                name="{=lord_bohemia_4f}Dorota"
                 default_group="Cavalry"
                 age="16"
                 voice="ironic"
@@ -1333,7 +1333,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_bohemia_5b"
-                name="{=lord_bohemia_5b}Eliska*"
+                name="{=lord_bohemia_5b}Eliska"
                 default_group="Cavalry"
                 age="44"
                 voice="ironic"
@@ -1383,7 +1383,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_bohemia_5c"
-                name="{=lord_bohemia_5c}Zdeslav*"
+                name="{=lord_bohemia_5c}Zdeslav"
                 voice="softspoken"
                 age="22"
                 is_female="false"
@@ -1432,7 +1432,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_bohemia_5d"
-                name="{=lord_bohemia_5d}Jaroslav*"
+                name="{=lord_bohemia_5d}Jaroslav"
                 voice="softspoken"
                 age="19"
                 is_female="false"

@@ -546,7 +546,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_netherlands_2d"
-                name="{=lord_netherlands_2d}Floris*"
+                name="{=lord_netherlands_2d}Floris"
                 voice="softspoken"
                 age="57"
                 is_female="false"
@@ -595,7 +595,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_netherlands_2e"
-                name="{=lord_netherlands_2e}Simon*"
+                name="{=lord_netherlands_2e}Simon"
                 voice="softspoken"
                 age="39"
                 is_female="false"
@@ -1089,7 +1089,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_netherlands_4a"
-                name="{=lord_netherlands_4a}Ocko tom Brok*"
+                name="{=lord_netherlands_4a}Ocko tom Brok"
                 voice="softspoken"
                 age="40"
                 is_female="false"
@@ -1138,7 +1138,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_netherlands_4b"
-                name="{=lord_netherlands_4b}Gela van Norden*"
+                name="{=lord_netherlands_4b}Gela van Norden"
                 default_group="Cavalry"
                 age="35"
                 voice="ironic"
@@ -1188,7 +1188,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_netherlands_4c"
-                name="{=lord_netherlands_4c}Keno tom Brok*"
+                name="{=lord_netherlands_4c}Keno tom Brok"
                 voice="softspoken"
                 age="18"
                 is_female="false"
@@ -1237,7 +1237,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_netherlands_4d"
-                name="{=lord_netherlands_4d}Mammo van Esens*"
+                name="{=lord_netherlands_4d}Mammo van Esens"
                 voice="softspoken"
                 age="41"
                 is_female="false"
@@ -1286,7 +1286,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_netherlands_4e"
-                name="{=lord_netherlands_4e}Remmer van Pewsum*"
+                name="{=lord_netherlands_4e}Remmer van Pewsum"
                 voice="softspoken"
                 age="36"
                 is_female="false"

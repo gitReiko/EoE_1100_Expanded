@@ -51,7 +51,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_pisa_1b"
-                name="{=lord_pisa_1b}Caterina*"
+                name="{=lord_pisa_1b}Caterina"
                 default_group="Cavalry"
                 age="42"
                 voice="ironic"
@@ -346,7 +346,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_pisa_2c"
-                name="{=lord_pisa_2c}Giovanna*"
+                name="{=lord_pisa_2c}Giovanna"
                 default_group="Cavalry"
                 age="23"
                 voice="ironic"
@@ -543,7 +543,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_pisa_3b"
-                name="{=lord_pisa_3b}Lucia*"
+                name="{=lord_pisa_3b}Lucia"
                 default_group="Cavalry"
                 age="39"
                 voice="ironic"
@@ -691,7 +691,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_pisa_4b"
-                name="{=lord_pisa_4b}Agnese*"
+                name="{=lord_pisa_4b}Agnese"
                 default_group="Cavalry"
                 age="34"
                 voice="ironic"
@@ -937,7 +937,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_pisa_5b"
-                name="{=lord_pisa_5b}Bona*"
+                name="{=lord_pisa_5b}Bona"
                 default_group="Cavalry"
                 age="26"
                 voice="ironic"

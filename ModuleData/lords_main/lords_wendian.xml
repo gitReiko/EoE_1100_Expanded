@@ -650,7 +650,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_wendian_3c"
-                name="{=lord_wendian_3c}Gertrud*"
+                name="{=lord_wendian_3c}Gertrud"
                 default_group="Cavalry"
                 age="33"
                 voice="softspoken"
@@ -750,7 +750,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_wendian_4a"
-                name="{=lord_wendian_4a}Tugomir*"
+                name="{=lord_wendian_4a}Tugomir"
                 voice="softspoken"
                 age="27"
                 is_female="false"
@@ -799,7 +799,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_wendian_4b"
-                name="{=lord_wendian_4b}Veselina*"
+                name="{=lord_wendian_4b}Veselina"
                 default_group="Cavalry"
                 age="24"
                 voice="softspoken"
@@ -850,7 +850,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_wendian_4c"
-                name="{=lord_wendian_4c}Boguslav*"
+                name="{=lord_wendian_4c}Boguslav"
                 voice="softspoken"
                 age="22"
                 is_female="false"
@@ -899,7 +899,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_wendian_4d"
-                name="{=lord_wendian_4d}Ratimira*"
+                name="{=lord_wendian_4d}Ratimira"
                 default_group="Cavalry"
                 age="19"
                 voice="softspoken"
@@ -950,7 +950,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_wendian_5a"
-                name="{=lord_wendian_5a}Vyacheslav*"
+                name="{=lord_wendian_5a}Vyacheslav"
                 voice="softspoken"
                 age="31"
                 is_female="false"
@@ -999,7 +999,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_wendian_5b"
-                name="{=lord_wendian_5b}Dragomira*"
+                name="{=lord_wendian_5b}Dragomira"
                 default_group="Cavalry"
                 age="28"
                 voice="softspoken"
@@ -1050,7 +1050,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_wendian_5c"
-                name="{=lord_wendian_5c}Mstislav*"
+                name="{=lord_wendian_5c}Mstislav"
                 voice="softspoken"
                 age="27"
                 is_female="false"

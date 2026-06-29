@@ -3,7 +3,7 @@
 <NPCCharacters> 
 
     <NPCCharacter id="lord_pech_1a"
-                name="{=lord_pech_1a}Chugay*"
+                name="{=lord_pech_1a}Chugay"
                 voice="softspoken"
                 age="51"
                 is_female="false"
@@ -52,7 +52,7 @@
     </NPCCharacter>   
   
     <NPCCharacter id="lord_pech_1b"
-                name="{=lord_pech_1b}Ilgiz*"
+                name="{=lord_pech_1b}Ilgiz"
                 voice="softspoken"
                 age="46"
                 is_female="true"
@@ -101,7 +101,7 @@
     </NPCCharacter> 
 
     <NPCCharacter id="lord_pech_1c"
-                name="{=lord_pech_1c}Dursun*"
+                name="{=lord_pech_1c}Dursun"
                 voice="softspoken"
                 age="24"
                 is_female="false"
@@ -150,7 +150,7 @@
     </NPCCharacter>   
   
     <NPCCharacter id="lord_pech_1d"
-                name="{=lord_pech_1d}Hawa*"
+                name="{=lord_pech_1d}Hawa"
                 voice="softspoken"
                 age="18"
                 is_female="true"
@@ -199,7 +199,7 @@
     </NPCCharacter> 
 
     <NPCCharacter id="lord_pech_1e"
-                name="{=lord_pech_1e}Korkut*"
+                name="{=lord_pech_1e}Korkut"
                 voice="softspoken"
                 age="22"
                 is_female="false"
@@ -248,7 +248,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_1f"
-                name="{=lord_pech_1f}Kunduz*"
+                name="{=lord_pech_1f}Kunduz"
                 voice="softspoken"
                 age="19"
                 is_female="true"
@@ -297,7 +297,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_2a"
-                name="{=lord_pech_2a}Manas*"
+                name="{=lord_pech_2a}Manas"
                 voice="softspoken"
                 age="33"
                 is_female="false"
@@ -346,7 +346,7 @@
     </NPCCharacter>   
   
     <NPCCharacter id="lord_pech_2b"
-                name="{=lord_pech_2b}Jeren*"
+                name="{=lord_pech_2b}Jeren"
                 voice="softspoken"
                 age="28"
                 is_female="true"
@@ -395,7 +395,7 @@
     </NPCCharacter> 
 
     <NPCCharacter id="lord_pech_2c"
-                name="{=lord_pech_2c}Hars*"
+                name="{=lord_pech_2c}Hars"
                 voice="softspoken"
                 age="27"
                 is_female="false"
@@ -444,7 +444,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_2d"
-                name="{=lord_pech_2d}Chelbir*"
+                name="{=lord_pech_2d}Chelbir"
                 voice="softspoken"
                 age="24"
                 is_female="false"
@@ -493,7 +493,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_3a"
-                name="{=lord_pech_3a}Karkhan*"
+                name="{=lord_pech_3a}Karkhan"
                 voice="softspoken"
                 age="34"
                 is_female="false"
@@ -542,7 +542,7 @@
   </NPCCharacter>   
   
     <NPCCharacter id="lord_pech_3b"
-                name="{=lord_pech_3b}Gulden*"
+                name="{=lord_pech_3b}Gulden"
                 voice="softspoken"
                 age="27"
                 is_female="true"
@@ -591,7 +591,7 @@
     </NPCCharacter> 
 
     <NPCCharacter id="lord_pech_3c"
-                name="{=lord_pech_3c}Ermis*"
+                name="{=lord_pech_3c}Ermis"
                 voice="softspoken"
                 age="32"
                 is_female="false"
@@ -640,7 +640,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_3d"
-                name="{=lord_pech_3d}Nayman*"
+                name="{=lord_pech_3d}Nayman"
                 voice="softspoken"
                 age="30"
                 is_female="false"
@@ -689,7 +689,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_3e"
-                name="{=lord_pech_3e}Iluz*"
+                name="{=lord_pech_3e}Iluz"
                 voice="softspoken"
                 age="27"
                 is_female="true"
@@ -738,7 +738,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_4a"
-                name="{=lord_pech_4a}Gurhan*"
+                name="{=lord_pech_4a}Gurhan"
                 voice="softspoken"
                 age="33"
                 is_female="false"
@@ -787,7 +787,7 @@
     </NPCCharacter>   
   
     <NPCCharacter id="lord_pech_4b"
-                name="{=lord_pech_4b}Gulbike*"
+                name="{=lord_pech_4b}Gulbike"
                 voice="softspoken"
                 age="31"
                 is_female="true"
@@ -836,7 +836,7 @@
     </NPCCharacter> 
 
     <NPCCharacter id="lord_pech_4c"
-                name="{=lord_pech_4c}Karsak*"
+                name="{=lord_pech_4c}Karsak"
                 voice="softspoken"
                 age="28"
                 is_female="false"
@@ -885,7 +885,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_4d"
-                name="{=lord_pech_4d}Nural*"
+                name="{=lord_pech_4d}Nural"
                 voice="softspoken"
                 age="27"
                 is_female="false"
@@ -934,7 +934,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_5a"
-                name="{=lord_pech_5a}Kodar*"
+                name="{=lord_pech_5a}Kodar"
                 voice="softspoken"
                 age="51"
                 is_female="false"
@@ -983,7 +983,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_5b"
-                name="{=lord_pech_5b}Jida*"
+                name="{=lord_pech_5b}Jida"
                 voice="softspoken"
                 age="48"
                 is_female="true"
@@ -1032,7 +1032,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_5c"
-                name="{=lord_pech_5c}Duzgun*"
+                name="{=lord_pech_5c}Duzgun"
                 voice="softspoken"
                 age="24"
                 is_female="false"
@@ -1081,7 +1081,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_5d"
-                name="{=lord_pech_5d}Jandibek*"
+                name="{=lord_pech_5d}Jandibek"
                 voice="softspoken"
                 age="22"
                 is_female="false"
@@ -1130,7 +1130,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_pech_5e"
-                name="{=lord_pech_5e}Kaganay*"
+                name="{=lord_pech_5e}Kaganay"
                 voice="softspoken"
                 age="19"
                 is_female="true"
