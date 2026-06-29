@@ -568,69 +568,7 @@
     </Equipments>
   </NPCCharacter>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <NPCCharacter id="lord_scottish_4a" name="{=Áed}Áed" age="30" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
+  <NPCCharacter id="lord_scottish_4a" name="{=lord_scottish_4a}Áed mac Heth" age="46" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
       <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="001B100D000000437C3C3677AAC688557577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
     </face>
@@ -671,7 +609,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_scottish_4b" name="{=Euphemia}Euphemia" age="25" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_scottish_4b" name="{=lord_scottish_4b}Beathag" age="25" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001000000000037C3C3677AAC688557577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003" />
     </face>
@@ -710,6 +648,145 @@
       <EquipmentSet id="scottish_lady" civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_4c" name="{=lord_scottish_4c}Domnall mac Éth" age="18" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="001B100D000000437C3C3677AAC688557577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="scottish_lord" />
+      <EquipmentSet id="scottish_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_scottish_4d" name="{=lord_scottish_4d}Aife" age="19" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001000000000037C3C3677AAC688557577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="scottish_lady" />
+      <EquipmentSet id="scottish_lady" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <NPCCharacter id="lord_scottish_5a" name="{=Lye}Lye" age="31" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
