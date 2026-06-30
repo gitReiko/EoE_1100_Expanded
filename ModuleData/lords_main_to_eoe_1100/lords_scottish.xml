@@ -44,7 +44,7 @@
 
   <NPCCharacter id="lord_scottish_1b" name="{=lord_scottish_1b}Maíl Coluim mac Donnchada" default_group="Cavalry" age="62" voice="softspoken" is_hero="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.21" weight="0.3707" build="0.8586" key="0002780AC014051A277DCA9B7A6E8B479B8878A676279A78A749C9764683848500BD66030B8386980000000000000000000000000000000000000000356C2042" />
+      <BodyProperties version="4" age="22.12" weight="0.3707" build="0.6157"  key="0002780AD01402D43949CA9B7A6C8946888878A676479A78A749C9766683848500C966030C838698000000000000000000000000000000000000000035843042"  />
     </face>
     <skills>
       <skill id="Engineering" value="175" />
@@ -85,7 +85,7 @@
 
   <NPCCharacter id="lord_scottish_1c" name="{=lord_scottish_1c}Alaxandair mac Maíl Choluim" age="25" voice="curt" is_hero="true" culture="Culture.scottish" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" weight="0.7901" build="0.7686" key="00050C02C0001549CD71192B144364956988797B4E51924558999A068314332605CCC0570C673752000000000000000000000000000000000000000023902004" />
+      <BodyProperties version="4" age="22.12" weight="0.3707" build="0.5386"  key="0005540AC014101B3949CA9B7A678948888978A676459A78A7499976668384650088660308538698000000000000000000000000000000000000000047143044"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -126,7 +126,7 @@
 
   <NPCCharacter id="lord_scottish_1d" name="{=lord_scottish_1d}Daibhidh mac Maíl Choluim" age="21" voice="curt" is_hero="true" culture="Culture.scottish" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" weight="0.7901" build="0.7686" key="00050C02C0001549CD71192B144364956988797B4E51924558999A068314332605CCC0570C673752000000000000000000000000000000000000000023902004" />
+      <BodyProperties version="4" age="22.12" weight="0.8935" build="0.4491"  key="00052808C01401053949CA9B75688949688878A6764776786749C9766683848500A7D6030A458698000000000000000000000000000000000000000035545042"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -167,7 +167,7 @@
 
   <NPCCharacter id="lord_scottish_1e" name="{=lord_scottish_1e}Edmund mac Maíl Choluim" age="32" voice="softspoken" is_hero="true" culture="Culture.scottish" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" weight="0.7901" build="0.7686" key="00050C02C0001549CD71192B144364956988797B4E51924558999A068314332605CCC0570C673752000000000000000000000000000000000000000023902004" />
+      <BodyProperties version="4" age="22.12" weight="0.2577" build="0.3102"  key="0010A40AC014208E3649CA9B7A6C8946887A78A67647AA78A747C9763687848300D546030D838698000000000000000000000000000000000000000035BC3082"  />
     </face>
     <skills>
       <skill id="Engineering" value="225" />
@@ -208,7 +208,7 @@
 
   <NPCCharacter id="lord_scottish_1f" name="{=lord_scottish_1f}Mairead ingen Maíl Choluim" age="27" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="0000100B8000300F7C7768B77658682A7577866254C69643C4B647398C95A0370087760308A7497300000000000000000000000000000000000000003B1C4003" />
+      <BodyProperties version="4" age="22.12" weight="0.3904" build="0.6466"  key="0005480AC01400863949CA9B7A6C89468B5879CA76476A78A749897666838485009A660309A886980000000000000000000000000000000000000000352C3045"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -248,7 +248,7 @@
 
   <NPCCharacter id="lord_scottish_1g" name="{=lord_scottish_1g}Eithne ingen Maíl Choluim" age="26" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="0000100B8000300F7C7768B77658682A7577866254C69643C4B647398C95A0370087760308A7497300000000000000000000000000000000000000003B1C4003" />
+      <BodyProperties version="4" age="22.12" weight="0.6898" build="0.4861"  key="0008780C401400425789CA9B7A68897A8886788676479A78A769C977868564850097A60309858698000000000000000000000000000000000000000035346042"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -328,7 +328,7 @@
 
   <NPCCharacter id="lord_scottish_2b" name="{=lord_scottish_2b}Ragnailt" age="27" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.5809" build="0.4217" key="000844080014300138BB7D77ED669C9AA712C72198A9BB9856C927768841B56600B696030B2134C70000000000000000000000000000000000000000437C4003" />
+      <BodyProperties version="4" age="22.12" weight="0.4416" build="0.5448"  key="00027804C0881143845DC725CA977A67A7739837682A66B9BA644B2888677658009876030949C8BE00000000000000000000000000000000000000002F245102"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -368,7 +368,7 @@
 
   <NPCCharacter id="lord_scottish_2c" name="{=lord_scottish_2c}Beathag" age="11" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.5809" build="0.4217" key="000844080014300138BB7D77ED669C9AA712C72198A9BB9856C927768841B56600B696030B2134C70000000000000000000000000000000000000000437C4003" />
+      <BodyProperties version="4" age="22.12" weight="0.4645" build="0.2361"  key="000A1C04DE8811868659C745CA9778678773783766596689BA64422887677658009476030949C8BE00000000000000000000000000000000000000002F3C2102"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -408,7 +408,7 @@
 
   <NPCCharacter id="lord_scottish_2d" name="{=lord_scottish_2d}Cennétig" age="48" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4416" build="0.3516" key="00053C0540881453B45DC725CA977A67A7A2B837682F66B9BA644547A8697658008576030849C8BE00000000000000000000000000000000000000002F047102" />
+      <BodyProperties version="4" age="22.12" weight="0.4066" build="0.3534"  key="00136C021400069C7874B77B98BF611353882ABABB869177A6B3BA38A89334AA00A566030A4965B60000000000000000000000000000000000000000215C9002"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -529,7 +529,7 @@
 
   <NPCCharacter id="lord_scottish_3c" name="{=lord_scottish_3c}Óengus mac Maíl Snechtai" age="15" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.5809" build="0.2479" key="00059C0D80FC29566A76C35748A444A7837447287842D87A868459A3786879D600749603077C7387000000000000000000000000000000000000000016F47142" />
+      <BodyProperties version="4" age="22.12" weight="0.5809" build="0.3565"  key="000A5C0D80FC03C46776C35748A444A7837647287844987A86845483686879B600859603087A7387000000000000000000000000000000000000000017147144"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -651,7 +651,7 @@
 
   <NPCCharacter id="lord_scottish_4c" name="{=lord_scottish_4c}Domnall mac Éth" age="18" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="001B100D000000437C3C3677AAC688557577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+      <BodyProperties version="4" age="22.12" weight="0.3503" build="0.5"  key="0015340C40000342773C3677AA7688555577866254C66643C4864A396C958037009756030977497300000000000000000000000000000000000000003B2C6002"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -692,7 +692,7 @@
 
   <NPCCharacter id="lord_scottish_4d" name="{=lord_scottish_4d}Aife" age="19" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001000000000037C3C3677AAC688557577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003" />
+      <BodyProperties version="4" age="22.12" weight="0.3503" build="0.3966"  key="0015980C40000002763C3677AA7688555577866454966643C4864A3968958036007656030777497300000000000000000000000000000000000000003AEC4002"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -813,7 +813,7 @@
 
   <NPCCharacter id="lord_scottish_5c" name="{=lord_scottish_5c}Macbethad" age="19" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001006000004087C3C3677AAC688557577866254C69643C4B647398C95A03700B776030BA7497300000000000000000000000000000000000000003B6C7002" />
+      <BodyProperties version="4" age="22.12" weight="0.3318" build="0.3719"  key="00052806CF0002C9783C3677AAC688557574866254C69643A4B6473968958337009656030987497600000000000000000000000000000000000000003B2C7006"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -854,7 +854,7 @@
 
   <NPCCharacter id="lord_scottish_5d" name="{=lord_scottish_5d}Cinaed" age="35" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001006000004087C3C3677AAC688557577866254C69643C4B647398C95A03700B776030BA7497300000000000000000000000000000000000000003B6C7002" />
+      <BodyProperties version="4" age="22.12" weight="0.6343" build="0.5694"  key="000D980980441100D6B74BB77629D8564C6B6BCE5B4CC5C5B8DA8A78DD9786A80079A603071646CA00000000000000000000000000000000000000001EF460C6"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -895,7 +895,7 @@
 
   <NPCCharacter id="lord_scottish_6a" name="{=lord_scottish_6a}Roibeart de Brus" age="72" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001006000004087C3C3677AAC688557577866254C69643C4B647398C95A03700B776030BA7497300000000000000000000000000000000000000003B6C7002" />
+      <BodyProperties version="4" age="22.12" weight="0.5787" build="0.6373"  key="0010B804000003C57C8766777A868B977577766254A6965384B647398C95A037008A960308A7697300000000000000000000000000000000000000003B1C7002"  />
     </face>
     <skills>
       <skill id="Engineering" value="175" />
@@ -936,7 +936,7 @@
 
   <NPCCharacter id="lord_scottish_6b" name="{=lord_scottish_6b}Roibeart de Brus" age="44" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001006000004087C3C3677AAC688557577866254C69643C4B647398C95A03700B776030BA7497300000000000000000000000000000000000000003B6C7002" />
+      <BodyProperties version="4" age="22.12" weight="0.3935" build="0.4861"  key="000D7C040000264F7C8746777A8688957578766554A69853848667598A95A03700A766030A67697300000000000000000000000000000000000000003B447004"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -977,7 +977,7 @@
 
   <NPCCharacter id="lord_scottish_6c" name="{=lord_scottish_6c}Aonghas" age="38" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.scottish" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="0000100B800000157C1B177C8B7F88877577866254C69643C4B647398C95A0370087760308A7497300000000000000000000000000000000000000003B1C4003" />
+      <BodyProperties version="4" age="22.12" weight="0.3637" build="0.4429"  key="000D4406D614000B8D91CAB7848595978786537A837B7788852A57A4677A685600875603081A887A000000000000000000000000000000000000000064FC20C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -1017,7 +1017,7 @@
 
     <NPCCharacter id="lord_scottish_6d" name="{=lord_scottish_6d}Eanric" age="20" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.scottish" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.03" weight="0.5" build="0.5" key="00001006000004087C3C3677AAC688557577866254C69643C4B647398C95A03700B776030BA7497300000000000000000000000000000000000000003B6C7002" />
+      <BodyProperties version="4" age="22.12" weight="0.5046" build="0.4213"  key="00085C05400036CE786746767A8688757578766554A6A853848667578A95A037007686030787697300000000000000000000000000000000000000003ADC5004"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
