@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_normandy_1a" spouse="Hero.lord_normandy_1b" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1b" spouse="Hero.lord_normandy_1a" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1c" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1d" father="Hero.lord_normandy_1c" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1e" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1f" father="Hero.lord_normandy_1e" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1g" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1h" father="Hero.lord_normandy_1g" faction="Faction.clan_normandy_1" />
+
+
+
+
+
+
+
+
+
+</Heroes>
