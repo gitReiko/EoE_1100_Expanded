@@ -12,9 +12,9 @@
 			 culture="Culture.german" 
 			 settlement_banner_mesh="encounter_flag_a" 
 			 flag_mesh="info_screen_flags_a" 
-			 name="{=netherlands_kingdom_name}Netherlands" 
-			 short_name="{=netherlands_kingdom_short_name}Netherlands" 
-			 title="{=netherlands_kingdom_title}Netherlands" 
+			 name="{=netherlands_kingdom_name}States of Lowlands" 
+			 short_name="{=netherlands_kingdom_short_name}Lowlands" 
+			 title="{=netherlands_kingdom_title}States of Lowlands" 
 			 ruler_title="{=netherlands_ruler_title}Duke" 
 			 text="{=netherlands_kingdom_text}The Low Countries, or the Netherlands, was the name for a historical region that included the lands of modern Belgium, the Netherlands, Luxembourg, and parts of northern France and northern Germany. Around 1100, this area was divided into many small states—some under the Holy Roman Empire, others under France—yet most of them enjoyed significant autonomy. During this period, the House of Leuven built a wide network of dynastic and political alliances, managing to bring much of the region under its influence. Although this did not result in the formation of a unified state, the foundations for future consolidation were already visible. Standing apart from the rest was Frisian Freedom, a unique community that rejected feudal structures and maintained its own traditions of self‑governance.">
     <relationships>
