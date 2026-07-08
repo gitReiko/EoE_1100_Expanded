@@ -80,6 +80,9 @@
   <Settlement id="castle_antwerp" owner="Faction.clan_netherlands_3" ></Settlement>
   <Settlement id="town_groningen" owner="Faction.clan_netherlands_4" ></Settlement>
 
+  <!-- Normandy -->
+  <Settlement id="castle_caen" owner="Faction.clan_normandy_1"></Settlement>
+
   <!-- Pisa -->
   <Settlement id="town_ES4" owner="Faction.clan_pisa_1"></Settlement>
   <Settlement id="town_cagliari" owner="Faction.clan_german_19"></Settlement>
