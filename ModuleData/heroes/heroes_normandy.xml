@@ -18,6 +18,11 @@
    <Hero id="lord_normandy_2e" mother="Hero.lord_english_7b" father="Hero.lord_english_7a" faction="Faction.clan_english_7" />
 
 
+   <Hero id="lord_english_10a" spouse="Hero.lord_english_10b" faction="Faction.clan_english_10" />
+   <Hero id="lord_english_10b" spouse="Hero.lord_english_10a" faction="Faction.clan_english_10" />
+   <Hero id="lord_normandy_3c" faction="Faction.clan_english_10" />
+   <Hero id="lord_normandy_3d" faction="Faction.clan_english_10" />
+   <Hero id="lord_normandy_3e" faction="Faction.clan_english_10" />
 
 
 
