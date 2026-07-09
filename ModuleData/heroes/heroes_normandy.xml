@@ -11,7 +11,11 @@
    <Hero id="lord_normandy_1h" father="Hero.lord_normandy_1g" faction="Faction.clan_normandy_1" />
 
 
-
+   <Hero id="lord_english_7a" spouse="Hero.lord_english_7b" faction="Faction.clan_english_7" />
+   <Hero id="lord_english_7b" spouse="Hero.lord_english_7a" faction="Faction.clan_english_7" />
+   <Hero id="lord_normandy_2c" mother="Hero.lord_english_7b" father="Hero.lord_english_7a" faction="Faction.clan_english_7" />
+   <Hero id="lord_normandy_2d" mother="Hero.lord_english_7b" father="Hero.lord_english_7a" faction="Faction.clan_english_7" />
+   <Hero id="lord_normandy_2e" mother="Hero.lord_english_7b" father="Hero.lord_english_7a" faction="Faction.clan_english_7" />
 
 
 

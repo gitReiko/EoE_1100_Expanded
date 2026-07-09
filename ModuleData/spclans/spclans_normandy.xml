@@ -13,4 +13,16 @@
     color="ffeae1da" color2="ff224277" 
   />
 
+  <Faction id="clan_english_7"
+    name="{=clan_normandy_2}Bellême"
+    initial_home_settlement="Settlement.castle_caen" 			   
+    tier="2"
+    owner="Hero.lord_english_7a"
+    culture="Culture.vlandia"
+    super_faction="Kingdom.normandy"
+    is_noble="true"
+    banner_key="11.155.12.3000.3000.764.764.0.1.315.505.12.116.2423.132.789.669.0.0.315.505.12.116.2423.132.927.484.0.0.315.505.12.116.2423.132.1200.431.0.0.315.505.12.116.2423.132.1376.281.0.0.315.505.12.116.2423.132.674.880.0.0.315.505.12.116.2423.132.476.1010.0.0.315.505.12.116.2423.132.360.1220.0.0.315.505.12.116.2423.132.165.1350.0.0.315"
+    color="ffeae1da" color2="ff224277" 
+  />	
+
 </Factions>
