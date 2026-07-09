@@ -37,7 +37,17 @@
     color="ffcb293d" color2="ffefefef" 
   />
 
-
+  <Faction id="clan_english_11"
+    name="{=clan_normandy_4}Breteuil"
+    initial_home_settlement="Settlement.castle_bamburgh" 		   
+    tier="2"
+    owner="Hero.lord_english_11a"
+    culture="Culture.english"
+    super_faction="Kingdom.normandy"
+    is_noble="true"
+    banner_key="11.155.142.1836.1836.779.782.1.0.0.505.12.7.1968.170.764.764.0.0.0.505.12.7.1968.170.764.764.0.0.90"
+    color="ffdbb752" color2="ff3769aa" 
+  />
 
 
 
