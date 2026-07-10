@@ -1223,8 +1223,251 @@
         </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_normandy_6a" name="{=lord_normandy_6a}Hugues de Montgomery" age="45" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="150" />
+            <skill id="Leadership" value="250" />
+            <skill id="Steward" value="200" />
+            <skill id="Trade" value="0" />
+            <skill id="Charm" value="175" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="150" />
+            <skill id="Tactics" value="275" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="225" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="200" />
+            <skill id="TwoHanded" value="100" />
+            <skill id="OneHanded" value="225" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="-2" />
+            <Trait id="Egalitarian" value="-1" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
 
+    <NPCCharacter id="lord_normandy_6b" name="{=lord_normandy_6b}Roger II de Montgomery" age="56" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="75" />
+            <skill id="Leadership" value="125" />
+            <skill id="Steward" value="125" />
+            <skill id="Trade" value="100" />
+            <skill id="Charm" value="50" />
+            <skill id="Roguery" value="50" />
+            <skill id="Scouting" value="175" />
+            <skill id="Tactics" value="250" />
+            <skill id="Crafting" value="0" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="225" />
+            <skill id="Throwing" value="75" />
+            <skill id="Crossbow" value="0" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="300" />
+            <skill id="TwoHanded" value="125" />
+            <skill id="OneHanded" value="200" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="1" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="-1" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
 
+    <NPCCharacter id="lord_normandy_6c" name="{=lord_normandy_6c}Philippe de Montgomery" age="41" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="100" />
+            <skill id="Leadership" value="100" />
+            <skill id="Steward" value="100" />
+            <skill id="Trade" value="50" />
+            <skill id="Charm" value="50" />
+            <skill id="Roguery" value="125" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="200" />
+            <skill id="Crafting" value="100" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="225" />
+            <skill id="Throwing" value="75" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="50" />
+            <skill id="Polearm" value="225" />
+            <skill id="TwoHanded" value="175" />
+            <skill id="OneHanded" value="150" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Valor" value="-2" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_normandy_6d" name="{=lord_normandy_6d}Arnoul de Montgomery" age="34" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="75" />
+            <skill id="Medicine" value="100" />
+            <skill id="Leadership" value="125" />
+            <skill id="Steward" value="175" />
+            <skill id="Trade" value="125" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="75" />
+            <skill id="Scouting" value="175" />
+            <skill id="Tactics" value="175" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="200" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="0" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="200" />
+            <skill id="TwoHanded" value="150" />
+            <skill id="OneHanded" value="275" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_normandy_6e" name="{=lord_normandy_6e}Guillaume Pantulf" age="36" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="200" />
+            <skill id="Steward" value="175" />
+            <skill id="Trade" value="75" />
+            <skill id="Charm" value="75" />
+            <skill id="Roguery" value="125" />
+            <skill id="Scouting" value="175" />
+            <skill id="Tactics" value="200" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="150" />
+            <skill id="Riding" value="225" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="250" />
+            <skill id="TwoHanded" value="100" />
+            <skill id="OneHanded" value="150" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="-2" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="2" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="2" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_normandy_6f" name="{=lord_normandy_6f}Warin de Metz" age="53" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="100" />
+            <skill id="Leadership" value="175" />
+            <skill id="Steward" value="175" />
+            <skill id="Trade" value="75" />
+            <skill id="Charm" value="50" />
+            <skill id="Roguery" value="175" />
+            <skill id="Scouting" value="125" />
+            <skill id="Tactics" value="225" />
+            <skill id="Crafting" value="0" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="225" />
+            <skill id="Throwing" value="0" />
+            <skill id="Crossbow" value="0" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="275" />
+            <skill id="TwoHanded" value="100" />
+            <skill id="OneHanded" value="200" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-2" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="2" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
 
 
 

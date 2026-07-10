@@ -50,7 +50,7 @@
   />
 
   <Faction id="clan_english_12" 
-    name="{=clan_english_12.name}Beaumont"
+    name="{=clan_normandy_5}Beaumont"
     initial_home_settlement="Settlement.castle_bamburgh"  		   
     tier="2"
     owner="Hero.lord_english_12a"
@@ -61,7 +61,17 @@
     color="fff51417" color2="ffffd700" 
   />
 
-
+  <Faction id="clan_normandy_6" 
+    name="{=clan_normandy_6}Montgomery"
+    initial_home_settlement="Settlement.castle_caen"  		   
+    tier="2"
+    owner="Hero.lord_normandy_6a"
+    culture="Culture.english"
+    super_faction="Kingdom.normandy"
+    is_noble="true"
+    banner_key="11.12.109.3000.2231.764.764.1.0.90.424.155.116.375.375.599.616.0.1.1.424.155.116.375.375.931.616.0.1.1.424.155.116.375.375.765.914.0.1.1" 
+    color="ff224277" color2="ffe9a74d" 
+  />
 
 
 
