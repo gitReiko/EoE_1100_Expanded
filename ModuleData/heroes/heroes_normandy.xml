@@ -49,5 +49,11 @@
    <Hero id="lord_normandy_6f" faction="Faction.clan_normandy_6" />
 
 
+   <Hero id="lord_normandy_7a" spouse="Hero.lord_normandy_7b" faction="Faction.clan_normandy_7" />
+   <Hero id="lord_normandy_7b" spouse="Hero.lord_normandy_7a" faction="Faction.clan_normandy_7" />
+   <Hero id="lord_normandy_7c" father="Hero.lord_normandy_7a" mother="Hero.lord_normandy_7b" faction="Faction.clan_normandy_7" />
+   <Hero id="lord_normandy_7d" father="Hero.lord_normandy_7a" mother="Hero.lord_normandy_7b" faction="Faction.clan_normandy_7" />
+   <Hero id="lord_normandy_7e" faction="Faction.clan_normandy_7" />
+
 
 </Heroes>
