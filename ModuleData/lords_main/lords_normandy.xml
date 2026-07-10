@@ -937,6 +937,300 @@
         </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_english_12a" name="{=lord_normandy_5a}Robert de Beaumont" age="60" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="150" />
+            <skill id="Leadership" value="150" />
+            <skill id="Steward" value="125" />
+            <skill id="Trade" value="50" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="200" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="250" />
+            <skill id="Throwing" value="75" />
+            <skill id="Crossbow" value="50" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="250" />
+            <skill id="TwoHanded" value="200" />
+            <skill id="OneHanded" value="150" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="-2" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="-1" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_english_12b" name="{=lord_normandy_5b}Roger de Beaumont" age="62" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="50" />
+            <skill id="Leadership" value="175" />
+            <skill id="Steward" value="125" />
+            <skill id="Trade" value="75" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="75" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="175" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="250" />
+            <skill id="Throwing" value="75" />
+            <skill id="Crossbow" value="0" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="275" />
+            <skill id="TwoHanded" value="75" />
+            <skill id="OneHanded" value="250" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="-2" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="-1" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_normandy_5c" name="{=lord_normandy_5c}Guillaume de Beaumont" age="52" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="200" />
+            <skill id="Medicine" value="225" />
+            <skill id="Leadership" value="250" />
+            <skill id="Steward" value="225" />
+            <skill id="Trade" value="0" />
+            <skill id="Charm" value="125" />
+            <skill id="Roguery" value="225" />
+            <skill id="Scouting" value="125" />
+            <skill id="Tactics" value="275" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="150" />
+            <skill id="Riding" value="275" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="0" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="200" />
+            <skill id="TwoHanded" value="150" />
+            <skill id="OneHanded" value="175" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="1" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="2" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="1" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_normandy_5d" name="{=lord_normandy_5d}Henri de Beaumont" age="56" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="75" />
+            <skill id="Leadership" value="150" />
+            <skill id="Steward" value="175" />
+            <skill id="Trade" value="75" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="150" />
+            <skill id="Tactics" value="150" />
+            <skill id="Crafting" value="0" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="175" />
+            <skill id="Throwing" value="100" />
+            <skill id="Crossbow" value="0" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="200" />
+            <skill id="TwoHanded" value="125" />
+            <skill id="OneHanded" value="175" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="1" />
+            <Trait id="Authoritarian" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_normandy_5e" name="{=lord_normandy_5e}Marguerite" age="50" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010B804C00010027CEC993469A487877577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB44003" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="50" />
+            <skill id="Medicine" value="150" />
+            <skill id="Leadership" value="125" />
+            <skill id="Steward" value="225" />
+            <skill id="Trade" value="150" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="125" />
+            <skill id="Scouting" value="75" />
+            <skill id="Tactics" value="0" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="100" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="1" />
+            <Trait id="Egalitarian" value="2" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="english_lady" />
+            <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_normandy_5f" name="{=lord_normandy_5f}Roger de Beaumont" age="21" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="175" />
+            <skill id="Steward" value="150" />
+            <skill id="Trade" value="100" />
+            <skill id="Charm" value="50" />
+            <skill id="Roguery" value="75" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="150" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="150" />
+            <skill id="Riding" value="225" />
+            <skill id="Throwing" value="125" />
+            <skill id="Crossbow" value="150" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="175" />
+            <skill id="TwoHanded" value="75" />
+            <skill id="OneHanded" value="200" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="-1" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_normandy_5g" name="{=lord_normandy_5g}Robert de Beaumont" age="16" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+        <face>
+            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="75" />
+            <skill id="Medicine" value="0" />
+            <skill id="Leadership" value="125" />
+            <skill id="Steward" value="100" />
+            <skill id="Trade" value="50" />
+            <skill id="Charm" value="75" />
+            <skill id="Roguery" value="50" />
+            <skill id="Scouting" value="125" />
+            <skill id="Tactics" value="175" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="200" />
+            <skill id="Throwing" value="0" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="250" />
+            <skill id="TwoHanded" value="125" />
+            <skill id="OneHanded" value="150" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="1" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="1" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster />
+            <EquipmentSet id="english_lord" />
+            <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+
+
+
+
+
+
+
+
 
 
 
