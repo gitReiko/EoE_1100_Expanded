@@ -85,7 +85,17 @@
     color="ffe9a74d" color2="ff224277" 
   />
 
-
+  <Faction id="clan_normandy_8" 
+    name="{=clan_normandy_8}Harcourt"
+    initial_home_settlement="Settlement.castle_caen"  		   
+    tier="2"
+    owner="Hero.lord_normandy_8a"
+    culture="Culture.english"
+    super_faction="Kingdom.normandy"
+    is_noble="true"
+    banner_key="11.142.109.3000.2231.764.764.1.0.90.505.155.116.2236.167.764.620.0.1.0.505.155.116.2236.167.764.908.0.1.0.505.155.116.2236.167.764.1196.0.1.0.505.155.116.2236.167.764.332.0.1.0" 
+    color="fff0e130" color2="fff0303f" 
+  />
 
 
 </Factions>
