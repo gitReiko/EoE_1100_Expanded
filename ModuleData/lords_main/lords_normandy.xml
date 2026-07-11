@@ -531,7 +531,7 @@
 
     <NPCCharacter id="lord_english_10a" name="{=lord_normandy_3a}Robert de Mowbray" age="48" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.06" weight="0.5" build="0.5" key="00026408C00000817C77CE892D72D6457577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+            <BodyProperties version="4" age="22.16" weight="0.4204" build="0.413"  key="00184000801419C083398876269A7784B3B6AA757E5926B966C15549A8CBCE48009666030963E9BC00000000000000000000000000000000000000003B246082"  />
         </face>
         <skills>
             <skill id="Engineering" value="200" />
@@ -572,7 +572,7 @@
 
     <NPCCharacter id="lord_english_10b" name="{=lord_normandy_3b}Mathilde de l'Aigle" age="41" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
         <face>
-            <BodyProperties version="4" age="22.06" weight="0.5" build="0.5" key="00026408C00000017C77CE892D72D6457577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003" />
+            <BodyProperties version="4" age="22.16" weight="0.338" build="0.483"  key="000A5C04110000049D6946385647D535498E427C83753879749D7E57EC53657500675603061B6C4900000000000000000000000000000000000000003ACC2102"  />
         </face>
         <skills>
             <skill id="Engineering" value="50" />
@@ -612,7 +612,7 @@
 
     <NPCCharacter id="lord_normandy_3c" name="{=lord_normandy_3c}Nigel d'Aubigny" age="34" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.06" weight="0.5" build="0.5" key="00026408C00000817C77CE892D72D6457577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+            <BodyProperties version="4" age="22.16" weight="0.4643" build="0.3101"  key="00159006D4A035DBA9624733A833A7F5DD6669D7955558887E824A3D99389AB50095760309436B8D00000000000000000000000000000000000000004B2C9082"  />
         </face>
         <skills>
             <skill id="Engineering" value="150" />
@@ -653,7 +653,7 @@
 
     <NPCCharacter id="lord_normandy_3d" name="{=lord_normandy_3d}Arkil Morelson" age="31" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.06" weight="0.5" build="0.5" key="00026408C00000817C77CE892D72D6457577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+            <BodyProperties version="4" age="22.16" weight="0.4266" build="0.6384"  key="0018AC0A401410D7AACC97DA28747A8829979AC81AA944DB8393C8E4978A395B009A6603097884560000000000000000000000000000000000000000413C4082"  />
         </face>
         <skills>
             <skill id="Engineering" value="50" />
@@ -694,7 +694,7 @@
 
     <NPCCharacter id="lord_normandy_3e" name="{=lord_normandy_3e}Ulf de Sheriff Hutton" age="28" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.06" weight="0.5" build="0.5" key="00026408C00000817C77CE892D72D6457577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+            <BodyProperties version="4" age="22.16" weight="0.5206" build="0.4286"  key="00130402808809C255748B79869735727A9C8954CC995319B6967AD5996AA74D004686030468A778000000000000000000000000000000000000000060842042"  />
         </face>
         <skills>
             <skill id="Engineering" value="75" />
@@ -735,7 +735,7 @@
 
     <NPCCharacter id="lord_english_11a" name="{=lord_normandy_4a}Eustache de Breteuil" age="52" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.5" build="0.5" key="0010B804C00010027CEC993469A487877577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+            <BodyProperties version="4" age="22.16" weight="0.1919" build="0.8819"  key="0010540C5D14289A47757B75C78B879ABCA975325748A66787CD9A4979AB339900AD36030ABB5D350000000000000000000000000000000000000000435C40C2"  />
         </face>
         <skills>
             <skill id="Engineering" value="125" />
@@ -776,7 +776,7 @@
 
     <NPCCharacter id="lord_english_11b" name="{=lord_normandy_4b}Juliane de Breteuil" age="24" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010B804C00010027CEC993469A487877577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB44003" />
+            <BodyProperties version="4" age="22.16" weight="0.434" build="0.4653"  key="0015600ACF1400016957B967B8797B54C87A78935446884686A578699DC49BC400577603055596CC000000000000000000000000000000000000000046B41082"  />
         </face>
         <skills>
             <skill id="Engineering" value="50" />
@@ -816,7 +816,7 @@
 
     <NPCCharacter id="lord_normandy_4c" name="{=lord_normandy_4c}Hugues de Breteuil" age="21" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.5" build="0.5" key="0010B804C00010027CEC993469A487877577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+            <BodyProperties version="4" age="22.16" weight="0.4275" build="0.5787"  key="000D24098014328C479577759788877A8C6875325748A667879D9869C6A833990089660308BB59350000000000000000000000000000000000000000430440C4"  />
         </face>
         <skills>
             <skill id="Engineering" value="175" />
@@ -857,7 +857,7 @@
 
     <NPCCharacter id="lord_normandy_4d" name="{=lord_normandy_4d}Raoul de Breteuil" age="15" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.5" build="0.5" key="0010B804C00010027CEC993469A487877577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+            <BodyProperties version="4" age="22.16" weight="1" build="0.6003"  key="0013900C57142301477578759787879ABC897932574AA86787CD9A9979AB33990089F60308BB5D350000000000000000000000000000000000000000430C40C2"  />
         </face>
         <skills>
             <skill id="Engineering" value="100" />
@@ -898,7 +898,7 @@
 
     <NPCCharacter id="lord_normandy_4e" name="{=lord_normandy_4e}Guillaume de Breteuil" age="11" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.5" build="0.5" key="0010B804C00010027CEC993469A487877577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+            <BodyProperties version="4" age="22.16" weight="0.1919" build="0.6867"  key="0010440C4014200647757775978B87978CAB75325748A66787CD9A6956AB3399009A360309BB59350000000000000000000000000000000000000000432C40C2"  />
         </face>
         <skills>
             <skill id="Engineering" value="50" />
@@ -939,7 +939,7 @@
 
     <NPCCharacter id="lord_english_12a" name="{=lord_normandy_5a}Robert de Beaumont" age="60" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.6157" build="0.5315"  key="001B980D80A034052A68B66775CC925BA9946AAA698632632757989C779A99C50088960308669C680000000000000000000000000000000000000000211470C5"  />
         </face>
         <skills>
             <skill id="Engineering" value="125" />
@@ -980,7 +980,7 @@
 
     <NPCCharacter id="lord_english_12b" name="{=lord_normandy_5b}Roger de Beaumont" age="62" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.7205" build="0.5315"  key="0020700FDAA036D22A69B66A95CCD25BA9D46AAC69D632932757989C339A99E20078B60307669C68000000000000000000000000000000000000000020EC70C5"  />
         </face>
         <skills>
             <skill id="Engineering" value="125" />
@@ -1021,7 +1021,7 @@
 
     <NPCCharacter id="lord_normandy_5c" name="{=lord_normandy_5c}Guillaume de Beaumont" age="52" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.412" build="0.767"  key="001B2C0FD4A032C92A69966A9578925BA9946AAB69A6529357579899339A9992008C660308669A680000000000000000000000000000000000000000211C70C5"  />
         </face>
         <skills>
             <skill id="Engineering" value="200" />
@@ -1062,7 +1062,7 @@
 
     <NPCCharacter id="lord_normandy_5d" name="{=lord_normandy_5d}Henri de Beaumont" age="56" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.4275" build="0.4676"  key="001B240B80A0338D2A6AB68A95B9D25BA9D46A89697636932759989C839A99920097660309769A6800000000000000000000000000000000000000003D3470C6"  />
         </face>
         <skills>
             <skill id="Engineering" value="100" />
@@ -1103,7 +1103,7 @@
 
     <NPCCharacter id="lord_normandy_5e" name="{=lord_normandy_5e}Marguerite" age="50" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010B804C00010027CEC993469A487877577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB44003" />
+            <BodyProperties version="4" age="22.16" weight="0.4985" build="0.4998"  key="000A340C4070200B989A4C9349B9B7F578A84549A8A7E7C6AC2A42759652B9430087760308646379000000000000000000000000000000000000000065142082"  />
         </face>
         <skills>
             <skill id="Engineering" value="50" />
@@ -1143,7 +1143,7 @@
 
     <NPCCharacter id="lord_normandy_5f" name="{=lord_normandy_5f}Roger de Beaumont" age="21" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.5633" build="0.5324"  key="0018240B80A035D25C4A868A65B9825BA9D46A89697636A64759989C839A9B9500B886030B789A6800000000000000000000000000000000000000003D8470C6"  />
         </face>
         <skills>
             <skill id="Engineering" value="100" />
@@ -1184,7 +1184,7 @@
 
     <NPCCharacter id="lord_normandy_5g" name="{=lord_normandy_5g}Robert de Beaumont" age="16" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.517" build="0.5509"  key="0015A40B80A030DB286C968A65B9765BAA546B994B7636936759929C839A99960088860308769A680000000000000000000000000000000000000000550C70C4"  />
         </face>
         <skills>
             <skill id="Engineering" value="75" />
@@ -1225,7 +1225,7 @@
 
     <NPCCharacter id="lord_normandy_6a" name="{=lord_normandy_6a}Hugues de Montgomery" age="45" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.5941" build="0.3781"  key="0010C003407001CF72B9A8885A978456DE479B7B9679AB883646756B597484A500969603097B2C5E0000000000000000000000000000000000000000551C4144"  />
         </face>
         <skills>
             <skill id="Engineering" value="125" />
@@ -1266,7 +1266,7 @@
 
     <NPCCharacter id="lord_normandy_6b" name="{=lord_normandy_6b}Roger II de Montgomery" age="56" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.5941" build="0.2423"  key="000D60034070110E7259A8885A978578DE779B795679AB883646796B597484A500749603077B2C5E00000000000000000000000000000000000000003CF44144"  />
         </face>
         <skills>
             <skill id="Engineering" value="100" />
@@ -1307,7 +1307,7 @@
 
     <NPCCharacter id="lord_normandy_6c" name="{=lord_normandy_6c}Philippe de Montgomery" age="41" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.838" build="0.2423"  key="001060029570111C7289A8585A976578D8779C795676A78836467965597484A50094D603097B2C5E0000000000000000000000000000000000000000252C40C6"  />
         </face>
         <skills>
             <skill id="Engineering" value="125" />
@@ -1348,7 +1348,7 @@
 
     <NPCCharacter id="lord_normandy_6d" name="{=lord_normandy_6d}Arnoul de Montgomery" age="34" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.8657" build="0.2577"  key="00107803407011547559A8885A978578B9778779567968883646796BA483A6C50054D603057B2C5E00000000000000000000000000000000000000003C9C4144"  />
         </face>
         <skills>
             <skill id="Engineering" value="75" />
@@ -1389,7 +1389,7 @@
 
     <NPCCharacter id="lord_normandy_6e" name="{=lord_normandy_6e}Guillaume Pantulf" age="36" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.0992" build="0.5075"  key="00153808CF44374E6B6554BC3186869937E17A6A77709AD8575553C7A589164A008816030812ABA400000000000000000000000000000000000000003D0C90C4"  />
         </face>
         <skills>
             <skill id="Engineering" value="100" />
@@ -1430,7 +1430,7 @@
 
     <NPCCharacter id="lord_normandy_6f" name="{=lord_normandy_6f}Warin de Metz" age="53" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.705" build="0.9385"  key="0018A808C0440408C7BA7D9B3BADB57B53D0BA297A9A613A856B8918B9249286006EB603067B54AA00000000000000000000000000000000000000005ED460C4"  />
         </face>
         <skills>
             <skill id="Engineering" value="125" />
@@ -1471,7 +1471,7 @@
 
     <NPCCharacter id="lord_normandy_7a" name="{=lord_normandy_7a}Ralph de Mortimer" age="46" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.8378" build="0.3356"  key="0010AC08001405D2C469797B54574D79724D838EB8593A78854538745D4878950075D603076857A6000000000000000000000000000000000000000042E450C4"  />
         </face>
         <skills>
             <skill id="Engineering" value="125" />
@@ -1512,7 +1512,7 @@
 
     <NPCCharacter id="lord_normandy_7b" name="{=lord_normandy_7b}Mélisende" age="50" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010B804C00010027CEC993469A487877577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB44003" />
+            <BodyProperties version="4" age="22.16" weight="0.6081" build="0.7132"  key="0015E80B80FC00076277977779663AAA4952C58659A9CA384587AB8C8A54662900AB96030AC8ACA3000000000000000000000000000000000000000067542042"  />
         </face>
         <skills>
             <skill id="Engineering" value="50" />
@@ -1552,7 +1552,7 @@
 
     <NPCCharacter id="lord_normandy_7c" name="{=lord_normandy_7c}Hugues de Mortimer" age="17" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.6744" build="0.3356"  key="000DE40A40140606C479797854554D79756A838EB8593A78854538775A4878950055A603055855A6000000000000000000000000000000000000000042A450C5"  />
         </face>
         <skills>
             <skill id="Engineering" value="100" />
@@ -1593,7 +1593,7 @@
 
     <NPCCharacter id="lord_normandy_7d" name="{=lord_normandy_7d}Roger de Mortimer" age="12" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.6713" build="0.4676"  key="000DB406C014230BC469597954554979A44D838878593878854538778D4878950097A603096857A60000000000000000000000000000000000000000432C50C2"  />
         </face>
         <skills>
             <skill id="Engineering" value="75" />
@@ -1634,7 +1634,7 @@
 
     <NPCCharacter id="lord_normandy_7e" name="{=lord_normandy_7e}Ranulf de Wigmore" age="56" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.5633" build="0.3719"  key="000D6808C0CC14D451A9A4D8B693678CDB77697CC9868C37D7782D34C54DA74B007686030795229800000000000000000000000000000000000000003AEC5142"  />
         </face>
         <skills>
             <skill id="Engineering" value="100" />
@@ -1675,7 +1675,7 @@
 
     <NPCCharacter id="lord_normandy_8a" name="{=lord_normandy_8a}Robert d'Harcourt" age="48" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.6806" build="0.6447"  key="0018A4040FFC02C5A9A487689AC774D7894B4493939595E56566D44767CB67BA008AA60308222C4600000000000000000000000000000000000000004B0C9142"  />
         </face>
         <skills>
             <skill id="Engineering" value="150" />
@@ -1716,7 +1716,7 @@
 
     <NPCCharacter id="lord_normandy_8b" name="{=lord_normandy_8b}Colette" age="36" voice="ironic" is_female="true" culture="Culture.vlandia" is_hero="true" default_group="Cavalry" occupation="Lord" face_mesh_cache="true">
         <face>
-            <BodyProperties version="4" age="22.92" weight="0.7362" build="0.7252" key="0008980D1F44200D87B84BCC5DA65C8AA449495AA5879588643967AA98A5A2A4006BB60306786896000000000000000000000000000000000000000026BC4003" />
+            <BodyProperties version="4" age="22.16" weight="0.5073" build="0.7176"  key="001568001BB43006A64859B5868A87B57C9539A5E2486B979A5A884A24C37685005B86030596DA5800000000000000000000000000000000000000002AAC1082"  />
         </face>
         <skills>
             <skill id="Engineering" value="0" />
@@ -1756,7 +1756,7 @@
 
     <NPCCharacter id="lord_normandy_8c" name="{=lord_normandy_8c}Guillaume d'Harcourt" age="16" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
         <face>
-            <BodyProperties version="4" age="22.07" weight="0.4398" build="0.4352" key="0010240AC00010067C353AB76DAC82B97577866254C69643C4B647398C95A0370057760305A7497300000000000000000000000000000000000000003AB47002" />
+            <BodyProperties version="4" age="22.16" weight="0.6806" build="0.6447"  key="0015A40400FC16C286A487689A877487894B4493939595A56566844797C967BA00AAA6030A222C4600000000000000000000000000000000000000004B4C7142"  />
         </face>
         <skills>
             <skill id="Engineering" value="75" />
@@ -1797,7 +1797,7 @@
 
     <NPCCharacter id="lord_normandy_8d" name="{=lord_normandy_8d}Agnes d'Harcourt" age="8" voice="ironic" is_female="true" culture="Culture.vlandia" is_hero="true" default_group="Cavalry" occupation="Lord" face_mesh_cache="true">
         <face>
-            <BodyProperties version="4" age="22.92" weight="0.7362" build="0.7252" key="0008980D1F44200D87B84BCC5DA65C8AA449495AA5879588643967AA98A5A2A4006BB60306786896000000000000000000000000000000000000000026BC4003" />
+            <BodyProperties version="4" age="22.16" weight="0.2423" build="0.3565"  key="001BC40340FC0681A9A4876899574485894B7795939595E59766D46767CB67BA0065460306222C4600000000000000000000000000000000000000004ACC9145"  />
         </face>
         <skills>
             <skill id="Engineering" value="0" />
