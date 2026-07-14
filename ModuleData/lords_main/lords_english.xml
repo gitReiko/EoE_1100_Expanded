@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NPCCharacters>
+
+  <NPCCharacter id="dead_lord_english_1e" name="{=William I}William the Conqueror" age="72" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.15" weight="0.5" build="0.5" key="0008400A4000008EB98CDA5CC4E6225A537D86629511323BDCB177278A84F667007776030748B49500000000000000000000000000000000000000003EFC5002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="250" />
+      <skill id="Medicine" value="250" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="200" />
+      <skill id="Charm" value="275" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="100" />
+      <skill id="Athletics" value="175" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="200" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="175" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="225" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="2" />
+
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_king" />
+      <EquipmentSet id="english_king_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="dead_lord_english_1f" name="{=Matilda of Flanders}Matilda of Flanders" age="69" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.5532" build="0.5053" key="00081C0B80E420015747779BB5B293A74B98637C89646446B878A88AC34BD4750098860309A93644000000000000000000000000000000000000000055240043" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="175" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_queen" />
+      <EquipmentSet id="english_queen_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_1a" name="{=William II}William II" age="43" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.5" build="0.5" key="0005B8078000300BF876623E89638A8871E76058C4317967B45645306A710017007776030781100100000000000000000000000000000000000000003AF47002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="250" />
+      <skill id="Medicine" value="250" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="200" />
+      <skill id="Charm" value="275" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="100" />
+      <skill id="Athletics" value="175" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="200" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="175" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="225" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="2" />
+
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_king" />
+      <EquipmentSet id="english_king_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_1b" name="{=Agatha}Agatha" age="33" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.5532" build="0.5053" key="00081C0B80E420015747779BB5B293A74B98637C89646446B878A88AC34BD4750098860309A93644000000000000000000000000000000000000000055240043" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="175" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_queen" />
+      <EquipmentSet id="english_queen_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_1c" name="{=Henry}Henry" age="32" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_1d" name="{=Cecily}Cecily" age="44" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B420017725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C0043" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_lady" />
+      <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_2a" name="{=Gilbert Fitz Richard}Gilbert Fitz Richard" age="34" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="225" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="200" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_2b" name="{=Adeliza de Clermont}Adeliza de Clermont" age="25" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B420017725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C0043" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="175" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_lady" />
+      <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_3a" name="{=William de Warenne}William de Warenne" age="28" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.6411" build="0.4595" key="001544020070174642ABB58463786568A39A67E6A79C6785C7A73A4CD81928760097A603093B8928000000000000000000000000000000000000000037249142" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_3b" name="{=Elizabeth of Vermandois}Elizabeth of Vermandois" age="18" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.6411" build="0.4595" key="001544020070200142ABB58463786568A39A67E6A79C6785C7A73A4CD81928760097A603093B8928000000000000000000000000000000000000000037240043" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="150" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_lady" />
+      <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_4a" name="{=Robert Malet}Robert Malet" age="50" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.341" build="0.3611" key="0008A008002C2289757883A677A299842B7ED44D4BA4A93B999DA5AABB648C960015560301654B7500000000000000000000000000000000000000004E247042" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="200" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="300" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_4b" name="{=Hesilia }Hesilia " age="45" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.341" build="0.3611" key="0008A008002C200E757883A677A299842B7ED44D4BA4A93B999DA5AABB648C960015560301654B7500000000000000000000000000000000000000004E2420C3" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="50" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="0" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_lady" />
+      <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_5a" name="{=Herbert de Losinga}Herbert de Losinga" age="41" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.7411" build="0.5485" key="000A6004C0A0200E757C63C39A14673A498C77A14764691A6C48A796EDA5A8EA0078B60307405AA5000000000000000000000000000000000000000060F420C3" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_6a" name="{=Roger de Poitou}Roger de Poitou" age="35" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_6b" name="{=Almodis}Almodis" age="20" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.06" weight="0.5896" build="0.3611" key="0018700080FC200EA978D78978A9928925868A44A6DA495BC9B4CA9572858CA200359603039A17A500000000000000000000000000000000000000002C7420C3" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="25" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_lady" />
+      <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_8a" name="{=Alan}Alan" age="22" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="200" />
+      <skill id="Medicine" value="225" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="200" />
+      <skill id="Scouting" value="250" />
+      <skill id="Tactics" value="100" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="200" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_8b" name="{=Avelina}Avelina" age="20" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00002000000020027C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="75" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_lady" />
+      <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_9a" name="{=Hugh}Hugh" age="53" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00002000000012067C57829B893888187577866254C69643C4B647398C95A03700A776030AA7497300000000000000000000000000000000000000003B5C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_9b" name="{=Ermentrude}Ermentrude" age="43" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="0000200D8000200B7C57829B893888187577866254C69643C4B647398C95A0370067760306A7497300000000000000000000000000000000000000003AD44003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_lady" />
+      <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_9c" name="{=Geva}Geva" age="20" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="0000200D8000300A7C3B67AB893628D67577866254C69643C4B647398C95A0370067760306A7497300000000000000000000000000000000000000003AD44003" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="english_lady" />
+      <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+
+</NPCCharacters>
