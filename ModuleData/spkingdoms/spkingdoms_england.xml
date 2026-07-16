@@ -18,7 +18,6 @@
 		ruler_title="{=england_ruler_title}King"
 		text="{=england_kingdom_text_new}The Kingdom of England emerged as a unified state in the 10th century, when various Anglo-Saxon kingdoms were consolidated under a single monarchy. In 1066, the Norman Conquest dramatically reshaped England after William the Conqueror defeated Harold II at the Battle of Hastings, establishing a new Norman ruling elite. This conquest replaced much of the Anglo-Saxon aristocracy and firmly tied England’s political elite to Normandy. After William’s death, his sons Robert Curthose and Henry I of England became central figures in a dynastic struggle; Henry I seized the throne in 1100, leading to a period of consolidation and administrative reform. Henry I strengthened royal authority and developed more structured governance, including the expansion of the royal treasury and legal institutions. In the centuries that followed, England evolved into a powerful medieval kingdom, shaped by internal conflicts, dynastic disputes, and its ongoing involvement in European affairs.">
 	<relationships>
-		<relationship kingdom="Kingdom.battania" value="-25" isAtWar="true" />
 		<relationship kingdom="Kingdom.scotland" value="-25" isAtWar="false" />		
 		<relationship kingdom="Kingdom.vlandia" value="-25" isAtWar="true" />		
 	</relationships>

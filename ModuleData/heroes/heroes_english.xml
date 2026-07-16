@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <Heroes>
 
+   <Hero id="lord_english_1a" spouse="Hero.lord_english_1b" father="Hero.dead_lord_english_1e" mother="Hero.dead_lord_english_1f" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1b" spouse="Hero.lord_english_1a" father="Hero.lord_scottish_1b" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1c" father="Hero.lord_english_1a" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1d" faction="Faction.clan_english_1" />
    <Hero id="dead_lord_english_1e" alive="false" spouse="Hero.dead_lord_english_1f" faction="Faction.clan_english_1" />
    <Hero id="dead_lord_english_1f" alive="false" spouse="Hero.dead_lord_english_1e" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1g" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1h" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1i" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1j" faction="Faction.clan_english_1" />
 
-   <Hero id="lord_english_1a" spouse="Hero.lord_english_1b" father="Hero.dead_lord_english_1e" mother="Hero.dead_lord_english_1f" faction="Faction.clan_english_1" text="{=lord_english_1a.text}William II was King of England from 26 September 1087 until his death in 1100, with powers over Normandy and influence in Scotland. He was less successful in extending control into Wales. The third son of William the Conqueror, he is commonly referred to as William Rufus, perhaps because of his ruddy appearance or, more likely, due to having red hair as a child that grew out in later life." />
-   <Hero id="lord_english_1b" spouse="Hero.lord_english_1a" faction="Faction.clan_english_1" />
-   <Hero id="lord_english_1c" faction="Faction.clan_english_1" />
-   <Hero id="lord_english_1d" faction="Faction.clan_english_1" />
 
    <Hero id="lord_english_2a" spouse="Hero.lord_english_2b" faction="Faction.clan_english_2" />
    <Hero id="lord_english_2b" spouse="Hero.lord_english_2a" faction="Faction.clan_english_2" />
 
+
    <Hero id="lord_english_3a" spouse="Hero.lord_english_3b" faction="Faction.clan_english_3" />
    <Hero id="lord_english_3b" spouse="Hero.lord_english_3a" faction="Faction.clan_english_3" />
+
 
    <Hero id="lord_english_4a" spouse="Hero.lord_english_4b" faction="Faction.clan_english_4" />
    <Hero id="lord_english_4b" spouse="Hero.lord_english_4a" faction="Faction.clan_english_4" />
 
+
    <Hero id="lord_english_5a" faction="Faction.clan_english_5" />
+
 
    <Hero id="lord_english_6a" spouse="Hero.lord_english_6b" faction="Faction.clan_english_6" />
    <Hero id="lord_english_6b" spouse="Hero.lord_english_6a" faction="Faction.clan_english_6" />
@@ -27,8 +34,10 @@
    <Hero id="lord_english_8a" spouse="Hero.lord_english_8b" faction="Faction.clan_english_8" />
    <Hero id="lord_english_8b" spouse="Hero.lord_english_8a" faction="Faction.clan_english_8" />
 
+
    <Hero id="lord_english_9a" spouse="Hero.lord_english_9b" faction="Faction.clan_english_9" />
    <Hero id="lord_english_9b" spouse="Hero.lord_english_9a" faction="Faction.clan_english_9" />
    <Hero id="lord_english_9c" father="Hero.lord_english_9a" mother="Hero.lord_english_9b" faction="Faction.clan_english_9" />
+
 
 </Heroes>
