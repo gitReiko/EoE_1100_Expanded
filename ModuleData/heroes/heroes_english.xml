@@ -28,8 +28,13 @@
    <Hero id="lord_english_3e" faction="Faction.clan_english_3" />
 
 
-   <Hero id="lord_english_4a" spouse="Hero.lord_english_4b" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4a" spouse="Hero.lord_english_4b" father="Hero.lord_english_4c" faction="Faction.clan_english_4" />
    <Hero id="lord_english_4b" spouse="Hero.lord_english_4a" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4c" alive="false" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4d" father="Hero.lord_english_4c" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4e" father="Hero.lord_english_4a" mother="Hero.lord_english_4b" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4f" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4g" faction="Faction.clan_english_4" />
 
 
    <Hero id="lord_english_5a" faction="Faction.clan_english_5" />
