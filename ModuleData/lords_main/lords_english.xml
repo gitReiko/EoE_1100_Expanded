@@ -168,7 +168,7 @@
 
   <NPCCharacter id="lord_english_1c" name="{=lord_english_1c_new}Robert de Gloucester" age="11" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+      <BodyProperties version="4" age="22.22" weight="0.3935" build="0.5787"  key="00151C0800002085F866623B89638A8871A76058C4317967B45645306A731017005966030581100100000000000000000000000000000000000000003ABC7002"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -209,7 +209,7 @@
 
   <NPCCharacter id="lord_english_1d" name="{=lord_english_1d_new}Roger Bigod" age="40" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B420017725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C0043" />
+      <BodyProperties version="4" age="22.22" weight="0.7256" build="0.4704"  key="0005800E5C8820D8CC967A97C39C86ABE8ABE87C5845E83C57B93CDA937586830037B60303C3DB74000000000000000000000000000000000000000036745042"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -249,7 +249,7 @@
 
   <NPCCharacter id="lord_english_1g" name="{=lord_english_1g}Miles Crispin" age="36" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+      <BodyProperties version="4" age="22.22" weight="0.7431" build="0.8472"  key="000A2C0152B428C26C7A988B768731B9B88AA99C683A87AD74789977DB666BA3007DB6030798B925000000000000000000000000000000000000000032F440C5"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -290,7 +290,7 @@
 
   <NPCCharacter id="lord_english_1h" name="{=lord_english_1h}Richard de Redvers" age="39" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+      <BodyProperties version="4" age="22.22" weight="0.3707" build="0.4858"  key="0013780C400022C269AC4DAE7E686567166645A618A8687435D657C6BC58876900B766030B77A3C700000000000000000000000000000000000000002D745005"  />
     </face>
     <skills>
       <skill id="Engineering" value="200" />
@@ -331,7 +331,7 @@
 
   <NPCCharacter id="lord_english_1i" name="{=lord_english_1i}Ranulf Flambard" age="38" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+      <BodyProperties version="4" age="22.22" weight="0.3287" build="0.3565"  key="001524040000198F27A28D6B9A64B16A994845477C799797258748946375CCA200455603048678A800000000000000000000000000000000000000005E7C5046"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -372,7 +372,7 @@
 
   <NPCCharacter id="lord_english_1j" name="{=lord_english_1j}Eudo Dapifer" age="53" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+      <BodyProperties version="4" age="22.22" weight="0.3388" build="0.4994"  key="00087C0200703553595C46C99488C5D7B9C4B16C58652723DC2A36BA51828B56007756030737986500000000000000000000000000000000000000004CF43146"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -489,7 +489,7 @@
 
   <NPCCharacter id="lord_english_2c" name="{=lord_english_2c}Richard de Clare" age="65" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+      <BodyProperties version="4" age="22.22" weight="0.4738" build="0.3411"  key="0008D40090B421DB7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082"  />
     </face>
     <skills>
       <skill id="Engineering" value="175" />
@@ -530,7 +530,7 @@
 
   <NPCCharacter id="lord_english_2d" name="{=lord_english_2d}Roger de Clare" age="37" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+      <BodyProperties version="4" age="22.22" weight="0.4028" build="0.4306"  key="000AB006C0B433807725957198C329C38663BD9C49AA665D263A7267825C689900666603068AC42800000000000000000000000000000000000000003EBC5042"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -571,7 +571,7 @@
 
   <NPCCharacter id="lord_english_2e" name="{=lord_english_2e}Walter de Clare" age="32" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+      <BodyProperties version="4" age="22.22" weight="0.588" build="0.4491"  key="000AA00140B406C67725B591789329A38654BD9C49BA668D263A7368825B689900679603064EC42800000000000000000000000000000000000000001AC44086"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -612,7 +612,7 @@
 
   <NPCCharacter id="lord_english_2f" name="{=lord_english_2f}Richard de Clare" age="6" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.4738" build="0.3411" key="0008D40080B421CD7725B57198C329C38672BD9C49EA668D263A7268825B689900457603046AC42800000000000000000000000000000000000000003E7C4082" />
+      <BodyProperties version="4" age="22.22" weight="0.4398" build="0.4676"  key="000AEC06C0B425C47725B57198A329978672BD9C49EA668D263A72688259689900777603076AA42800000000000000000000000000000000000000003EE44084"  />
     </face>
     <skills>
       <skill id="Engineering" value="200" />
@@ -729,7 +729,7 @@
 
   <NPCCharacter id="lord_english_3c" name="{=lord_english_3c}William de Warenne" age="59" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.6411" build="0.4595" key="001544020070174642ABB58463786568A39A67E6A79C6785C7A73A4CD81928760097A603093B8928000000000000000000000000000000000000000037249142" />
+      <BodyProperties version="4" age="22.22" weight="0.6411" build="0.5417"  key="0018A80200701683428BB58666786566A39A67B6A79C6785A7A7384CD819287600B8A6030B3B8928000000000000000000000000000000000000000037648144"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -770,7 +770,7 @@
 
   <NPCCharacter id="lord_english_3d" name="{=lord_english_3d}Reginald de Warenne" age="35" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.6411" build="0.4595" key="001544020070174642ABB58463786568A39A67E6A79C6785C7A73A4CD81928760097A603093B8928000000000000000000000000000000000000000037249142" />
+      <BodyProperties version="4" age="22.22" weight="0.4676" build="0.4861"  key="0010D8034070169B426BBACA66786566839867B6A7996785A7D73248D819287600777603073B8C28000000000000000000000000000000000000000036F47105"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -811,7 +811,7 @@
 
   <NPCCharacter id="lord_english_3e" name="{=lord_english_3e}Ralph de Greystoke" age="38" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.6411" build="0.4595" key="001544020070174642ABB58463786568A39A67E6A79C6785C7A73A4CD81928760097A603093B8928000000000000000000000000000000000000000037249142" />
+      <BodyProperties version="4" age="22.22" weight="0.3351" build="0.4476"  key="0013600C51FC049B93691E356886CBE497297C958A7347BE8AD789D73A98927900875603082D473800000000000000000000000000000000000000001F0C4106"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
