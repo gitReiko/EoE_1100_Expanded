@@ -1295,7 +1295,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_english_6a" name="{=Roger de Poitou}Roger de Poitou" age="35" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+  <NPCCharacter id="lord_english_6a" name="{=lord_english_6a_new}William de Courcy" age="52" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
       <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
     </face>
@@ -1336,7 +1336,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_english_6b" name="{=Almodis}Almodis" age="20" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_english_6b" name="{=lord_english_6b_new}Emma de Falaise" age="44" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.06" weight="0.5896" build="0.3611" key="0018700080FC200EA978D78978A9928925868A44A6DA495BC9B4CA9572858CA200359603039A17A500000000000000000000000000000000000000002C7420C3" />
     </face>
@@ -1373,6 +1373,170 @@
     <Equipments>
       <EquipmentSet id="english_lady" />
       <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_6c" name="{=lord_english_6c}Richard de Courcy" age="25" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="300" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_6d" name="{=lord_english_6d}Robert de Courcy" age="46" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="250" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_6e" name="{=lord_english_6e}Richard de Courcy" age="78" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="175" />
+      <skill id="Medicine" value="200" />
+      <skill id="Leadership" value="250" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="300" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_6f" name="{=lord_english_6f}William de Tracy" age="36" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="25" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
