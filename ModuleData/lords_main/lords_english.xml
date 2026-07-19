@@ -928,7 +928,7 @@
 
   <NPCCharacter id="lord_english_4c" name="{=lord_english_4c}William Malet" age="51" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.341" build="0.3611" key="0008A008002C2289757883A677A299842B7ED44D4BA4A93B999DA5AABB648C960015560301654B7500000000000000000000000000000000000000004E247042" />
+      <BodyProperties version="4" age="22.17" weight="0.3009" build="0.2639"  key="0005580E5E2C32C277C88366777267642B7EA44D4BA4A97B999DADA7BB648C960044560304654C7500000000000000000000000000000000000000004E7C7042"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -969,7 +969,7 @@
 
   <NPCCharacter id="lord_english_4d" name="{=lord_english_4d}Gilbert Malet" age="46" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.341" build="0.3611" key="0008A008002C2289757883A677A299842B7ED44D4BA4A93B999DA5AABB648C960015560301654B7500000000000000000000000000000000000000004E247042" />
+      <BodyProperties version="4" age="22.17" weight="0.3843" build="0.2639"  key="00102C0E402C1883758883B677716787297C94494BA4A97599B8ADA7BF648C960054660305654C7500000000000000000000000000000000000000006AA46046"  />
     </face>
     <skills>
       <skill id="Engineering" value="175" />
@@ -1010,7 +1010,7 @@
 
   <NPCCharacter id="lord_english_4e" name="{=lord_english_4e}William Malet" age="10" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.341" build="0.3611" key="0008A008002C2289757883A677A299842B7ED44D4BA4A93B999DA5AABB648C960015560301654B7500000000000000000000000000000000000000004E247042" />
+      <BodyProperties version="4" age="22.17" weight="0.3009" build="0.2917"  key="0008680AC02C210E7578868677A477872B7ED44D4BA4A93B9999A5AABB648996004456030465487500000000000000000000000000000000000000004E8C7045"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -1051,7 +1051,7 @@
 
   <NPCCharacter id="lord_english_4f" name="{=lord_english_4f}Hugh de Caisneto" age="37" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.341" build="0.3611" key="0008A008002C2289757883A677A299842B7ED44D4BA4A93B999DA5AABB648C960015560301654B7500000000000000000000000000000000000000004E247042" />
+      <BodyProperties version="4" age="22.17" weight="0.4804" build="0.4954"  key="001374055970214356BD8A698888477C759953B78BB6679149CE9D3694E4C29D0087760308A4A786000000000000000000000000000000000000000021149085"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -1092,7 +1092,7 @@
 
   <NPCCharacter id="lord_english_4g" name="{=lord_english_4g}William de Stuteville" age="43" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.341" build="0.3611" key="0008A008002C2289757883A677A299842B7ED44D4BA4A93B999DA5AABB648C960015560301654B7500000000000000000000000000000000000000004E247042" />
+      <BodyProperties version="4" age="22.17" weight="0.4431" build="0.338"  key="000D8009A400195B8C5D83B7D68C958C8D8947B97789AC59AC52A6A88E9965C800A576030A8658D800000000000000000000000000000000000000001B4C10C4"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -1133,7 +1133,7 @@
 
   <NPCCharacter id="lord_english_5a" name="{=lord_english_5a_new}Herbert de Losinga" age="46" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.7411" build="0.5485" key="000A6004C0A0200E757C63C39A14673A498C77A14764691A6C48A796EDA5A8EA0078B60307405AA5000000000000000000000000000000000000000060F420C3" />
+      <BodyProperties version="4" age="22.17" weight="0.7411" build="0.5485"  key="000A600140A0200E757C63C39A14673A498C77A14764691A6C48A796EDA5A8EA0078B60307405AA5000000000000000000000000000000000000000060F420C3"  />
     </face>
     <skills>
       <skill id="Engineering" value="225" />
@@ -1174,7 +1174,7 @@
 
   <NPCCharacter id="lord_english_5b" name="{=lord_english_5b}Robert de Losinga" age="48" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.7411" build="0.5485" key="000A6004C0A0200E757C63C39A14673A498C77A14764691A6C48A796EDA5A8EA0078B60307405AA5000000000000000000000000000000000000000060F420C3" />
+      <BodyProperties version="4" age="22.17" weight="0.5602" build="0.5485"  key="0010240280A02004754A63C39953673A498977C14768691A6C48A096EDA5A8CA0098860309425AA50000000000000000000000000000000000000000612C40C2"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -1215,7 +1215,7 @@
 
   <NPCCharacter id="lord_english_5c" name="{=lord_english_5c}Gerard de Losinga" age="39" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.7411" build="0.5485" key="000A6004C0A0200E757C63C39A14673A498C77A14764691A6C48A796EDA5A8EA0078B60307405AA5000000000000000000000000000000000000000060F420C3" />
+      <BodyProperties version="4" age="22.17" weight="0.3472" build="0.4028"  key="00189C0298A02012754863C39753773A498677C14768691A6C4AA996EDA3A8CB0076560307125AA500000000000000000000000000000000000000004AF440C4"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -1256,7 +1256,7 @@
 
   <NPCCharacter id="lord_english_5d" name="{=lord_english_5d}Reeve de Thetford" age="26" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.06" weight="0.7411" build="0.5485" key="000A6004C0A0200E757C63C39A14673A498C77A14764691A6C48A796EDA5A8EA0078B60307405AA5000000000000000000000000000000000000000060F420C3" />
+      <BodyProperties version="4" age="22.17" weight="0.3407" build="0.5787"  key="0018B40C40E4005ABA855BBCD9D6445783BBDB7B829876BCB558BC9498757B6B00795603071574D700000000000000000000000000000000000000003ADC10C4"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -1378,7 +1378,7 @@
 
   <NPCCharacter id="lord_english_6c" name="{=lord_english_6c}Richard de Courcy" age="25" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
+      <BodyProperties version="4" age="22.17" weight="0.5" build="0.5324"  key="0008100C400014C27A58AA4836366645757A668354C67643C4B647376C95A277009876030987497500000000000000000000000000000000000000004F2C7005"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -1419,7 +1419,7 @@
 
   <NPCCharacter id="lord_english_6d" name="{=lord_english_6d}Robert de Courcy" age="46" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
+      <BodyProperties version="4" age="22.17" weight="0.4676" build="0.4676"  key="0005400B800013529A778848363656757577866757A6769384B647376C95A4370087760308A7497300000000000000000000000000000000000000003B042006"  />
     </face>
     <skills>
       <skill id="Engineering" value="225" />
@@ -1460,7 +1460,7 @@
 
   <NPCCharacter id="lord_english_6e" name="{=lord_english_6e}Richard de Courcy" age="78" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
+      <BodyProperties version="4" age="22.17" weight="0.6528" build="0.5972"  key="000224098E0033949A77A848363886787577866254A67663A4B647396C95A4370099A6030987497300000000000000000000000000000000000000003B345002"  />
     </face>
     <skills>
       <skill id="Engineering" value="175" />
@@ -1501,7 +1501,7 @@
 
   <NPCCharacter id="lord_english_6f" name="{=lord_english_6f}William de Tracy" age="36" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.22" weight="0.5" build="0.8194" key="0005200D000014CD7C77DA48361666437577866254C69643C4B647398C95A03700BC76030BA7497300000000000000000000000000000000000000003B6C7002" />
+      <BodyProperties version="4" age="22.17" weight="0.6239" build="0.7607"  key="00134C09802C27CC3989864972715848727763840479A9494B5688D960789A8B00BB96030B9598910000000000000000000000000000000000000000157C7004"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1623,7 +1623,7 @@
 
   <NPCCharacter id="lord_english_8c" name="{=lord_english_8c}William FitzAlan" age="9" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+      <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="0005CC05400002C57C86A6778751A6987577A86456C6A643C4B667398C95A0370077760307A7897600000000000000000000000000000000000000003AF47002"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -1664,7 +1664,7 @@
 
   <NPCCharacter id="lord_english_8d" name="{=lord_english_8d}Walter FitzAlan" age="7" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+      <BodyProperties version="4" age="22.17" weight="0.3565" build="0.3657"  key="00152008C000211B7C748687855176987577866254C69643C4B647598C95B577007556030787497300000000000000000000000000000000000000003AF47004"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -1705,7 +1705,7 @@
 
   <NPCCharacter id="lord_english_8e" name="{=lord_english_8e}Brian FitzAlan" age="35" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+      <BodyProperties version="4" age="22.17" weight="0.4676" build="0.5417"  key="000DA408C00030C859968687878778967579666254A69643C49647595C959577006876030687497300000000000000000000000000000000000000003AD45005"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -1746,7 +1746,7 @@
 
   <NPCCharacter id="lord_english_8f" name="{=lord_english_8f}Jordan FitzAlan" age="23" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+      <BodyProperties version="4" age="22.17" weight="0.3935" build="0.375"  key="000524014000138359668687878758965576666254A696438497475959959577006666030687477300000000000000000000000000000000000000003ACC5006"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -1868,7 +1868,7 @@
 
   <NPCCharacter id="lord_english_9c" name="{=lord_english_9c_new}Agnes d'Avranches," age="22" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="0000200D8000300A7C3B67AB893628D67577866254C69643C4B647398C95A0370067760306A7497300000000000000000000000000000000000000003AD44003" />
+      <BodyProperties version="4" age="22.17" weight="0.2454" build="0.1991"  key="000248008000100B7A568299893888377577886254969645C4B647397A9583370063460306874973000000000000000000000000000000000000000054D46004"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -1908,7 +1908,7 @@
 
   <NPCCharacter id="lord_english_9d" name="{=lord_english_9d}Richard d'Avranches" age="18" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00002000000012067C57829B893888187577866254C69643C4B647398C95A03700A776030AA7497300000000000000000000000000000000000000003B5C7002" />
+      <BodyProperties version="4" age="22.17" weight="0.4213" build="0.412"  key="000D4001400015047AC78498863866187567866254967643C4B647378875A036008666030887443700000000000000000000000000000000000000003B0C5002"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -1949,7 +1949,7 @@
 
   <NPCCharacter id="lord_english_9e" name="{=lord_english_9e}Odo d'Avranches" age="36" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00002000000012067C57829B893888187577866254C69643C4B647398C95A03700A776030AA7497300000000000000000000000000000000000000003B5C7002" />
+      <BodyProperties version="4" age="22.17" weight="0.2442" build="0.3288"  key="0015800D00140286C888B847B95BA2328BB878A4D7D299B6C4635C758D4542660075460307A78195000000000000000000000000000000000000000028DC9142"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
