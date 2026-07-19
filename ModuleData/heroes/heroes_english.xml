@@ -53,6 +53,10 @@
 
    <Hero id="lord_english_8a" spouse="Hero.lord_english_8b" faction="Faction.clan_english_8" />
    <Hero id="lord_english_8b" spouse="Hero.lord_english_8a" faction="Faction.clan_english_8" />
+   <Hero id="lord_english_8c" father="Hero.lord_english_8a" mother="Hero.lord_english_8b" faction="Faction.clan_english_8" />
+   <Hero id="lord_english_8d" father="Hero.lord_english_8a" mother="Hero.lord_english_8b" faction="Faction.clan_english_8" />
+   <Hero id="lord_english_8e" faction="Faction.clan_english_8" />
+   <Hero id="lord_english_8f" faction="Faction.clan_english_8" />
 
 
    <Hero id="lord_english_9a" spouse="Hero.lord_english_9b" faction="Faction.clan_english_9" />

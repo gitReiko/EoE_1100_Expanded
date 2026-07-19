@@ -1540,7 +1540,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_english_8a" name="{=Alan}Alan" age="22" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+  <NPCCharacter id="lord_english_8a" name="{=lord_english_8a_new}Alan fitz Flaad" age="32" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
     <face>
       <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
     </face>
@@ -1581,7 +1581,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="lord_english_8b" name="{=Avelina}Avelina" age="20" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_english_8b" name="{=lord_english_8b_new}Avelina de Hesdin" age="25" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.english" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00002000000020027C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003" />
     </face>
@@ -1618,6 +1618,170 @@
     <Equipments>
       <EquipmentSet id="english_lady" />
       <EquipmentSet id="english_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_8c" name="{=lord_english_8c}William FitzAlan" age="9" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_8d" name="{=lord_english_8d}Walter FitzAlan" age="7" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="25" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_8e" name="{=lord_english_8e}Brian FitzAlan" age="35" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_english_8f" name="{=lord_english_8f}Jordan FitzAlan" age="23" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.english" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.13" weight="0.5" build="0.5" key="00052008C00020457C7486778751A6CB7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="english_lord" />
+      <EquipmentSet id="english_lord_civ" equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
 
