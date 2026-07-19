@@ -37,7 +37,10 @@
    <Hero id="lord_english_4g" faction="Faction.clan_english_4" />
 
 
-   <Hero id="lord_english_5a" faction="Faction.clan_english_5" />
+   <Hero id="lord_english_5a" father="Hero.lord_english_5b" faction="Faction.clan_english_5" />
+   <Hero id="lord_english_5b" alive="false" faction="Faction.clan_english_5" />
+   <Hero id="lord_english_5c" father="Hero.lord_english_5b" faction="Faction.clan_english_5" text="{=lord_english_5c.text}The exact name of Herbert de Losinga's brother is unknown. Historical records only preserve the initial G." />
+   <Hero id="lord_english_5d" faction="Faction.clan_english_5" />
 
 
    <Hero id="lord_english_6a" spouse="Hero.lord_english_6b" faction="Faction.clan_english_6" />
