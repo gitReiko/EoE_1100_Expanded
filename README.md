@@ -7,7 +7,8 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 ### Update 1.1.0
 
-- more members for Scottish clans
+- Normandy kingdom
+- more members for Scotland and England
 - delete asterisks from the lords names (for compatibility with other mods)
 
 ### New features
