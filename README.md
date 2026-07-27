@@ -56,7 +56,6 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 
 ### My future plans
 
-- update my translations into Belarusian
 - add and rework settlements to suit the needs of the mod
 - add regional troop trees for cultures
 - add Serbia kingdom (it was originally planned, but due to the impossibility of changing settlements, it has been postponed for the future.)
