@@ -10,6 +10,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - Normandy kingdom
 - more members for Scotland and England
 - delete asterisks from the lords names (for compatibility with other mods)
+- Arnmødling banner improvement
 
 ### New features
 
