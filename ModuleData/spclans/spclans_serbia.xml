@@ -18,11 +18,23 @@
     initial_home_settlement="Settlement.castle_shkoder"				   
     tier="3"
     owner="Hero.lord_byzantine_3a"
-    culture="Culture.byzantine"
-    super_faction="Kingdom.byzantium"
+    culture="Culture.serbian"
+    super_faction="Kingdom.serbia"
     is_noble="true"
     banner_key="11.142.19.1836.1836.768.788.1.0.-30.505.155.116.2706.228.764.764.0.1.315" 
     color="ffe9a74d" color2="ff830d0d"
+  />
+
+  <Faction id="clan_serbia_3"
+    name="{=clan_serbia_3}Morava"
+    initial_home_settlement="Settlement.castle_shkoder"				   
+    tier="3"
+    owner="Hero.lord_serbia_3a"
+    culture="Culture.serbian"
+    super_faction="Kingdom.serbia"
+    is_noble="true"
+    banner_key="11.12.19.1836.1836.768.788.1.0.-30.335.27.116.360.309.617.598.0.1.0.335.27.116.360.309.911.598.0.1.0.335.27.116.360.309.764.931.0.1.0" 
+    color="ff224277" color2="ffeae1da"
   />
 
 
