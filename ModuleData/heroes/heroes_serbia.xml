@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_serbia_1a" faction="Faction.clan_serbia_1" father="Hero.lord_serbia_1g" />
+   <Hero id="lord_serbia_1b" spouse="Hero.lord_serbia_1c" faction="Faction.clan_serbia_1" text="{=fictional_lord}Fictional character." />
+   <Hero id="lord_serbia_1c" spouse="Hero.lord_serbia_1b" father="Hero.lord_serbia_1g" faction="Faction.clan_serbia_1" />
+   <Hero id="lord_serbia_1d" father="Hero.lord_serbia_1a" mother="Hero.lord_serbia_1b" faction="Faction.clan_serbia_1" />
+   <Hero id="lord_serbia_1e" father="Hero.lord_serbia_1a" mother="Hero.lord_serbia_1b" faction="Faction.clan_serbia_1" />
+   <Hero id="lord_serbia_1f" faction="Faction.clan_serbia_1" text="{=fictional_lord}Fictional character." />
+   <Hero id="lord_serbia_1g" alive="false" faction="Faction.clan_serbia_1" />
+
+
+</Heroes>

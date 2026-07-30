@@ -109,6 +109,10 @@
   <Settlement id="town_juterbog_cottbus" culture="Culture.polish"></Settlement>
   <Settlement id="castle_zerbst" owner="Faction.clan_saxony_7"></Settlement>
 
+  <!-- Serbia -->
+  <Settlement id="castle_ras" owner="Faction.clan_serbia_1"></Settlement>
+  <Settlement id="castle_shkoder" owner="Faction.clan_byzantine_3"></Settlement>
+
   <!-- Swabia -->
   <Settlement id="castle_rothenburg" owner="Faction.clan_german_8" name="{=town_hohenstaufen_name}Hohenstaufen Castle" ></Settlement>
   <Settlement id="town_strasbourg" owner="Faction.clan_german_21" ></Settlement>
