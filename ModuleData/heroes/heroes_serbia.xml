@@ -12,6 +12,9 @@
 
    <Hero id="lord_byzantine_3a" spouse="Hero.lord_byzantine_3b" faction="Faction.clan_byzantine_3" />
    <Hero id="lord_byzantine_3b" spouse="Hero.lord_byzantine_3a" faction="Faction.clan_byzantine_3" />
+   <Hero id="lord_serbia_2c" father="Hero.lord_byzantine_3a" mother="Hero.lord_byzantine_3b" faction="Faction.clan_byzantine_3" />
+   <Hero id="lord_serbia_2d" father="Hero.lord_byzantine_3a" mother="Hero.lord_byzantine_3b" faction="Faction.clan_byzantine_3" />
+   <Hero id="lord_serbia_2e" father="Hero.lord_byzantine_3a" mother="Hero.lord_byzantine_3b" faction="Faction.clan_byzantine_3" />
 
 
 </Heroes>

@@ -16,7 +16,7 @@
   <Faction id="clan_byzantine_3"
     name="{=clan_serbia_2}Vojislavljević"
     initial_home_settlement="Settlement.castle_shkoder"				   
-    tier="4"
+    tier="3"
     owner="Hero.lord_byzantine_3a"
     culture="Culture.byzantine"
     super_faction="Kingdom.byzantium"
