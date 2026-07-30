@@ -10,4 +10,8 @@
    <Hero id="lord_serbia_1g" alive="false" faction="Faction.clan_serbia_1" />
 
 
+   <Hero id="lord_byzantine_3a" spouse="Hero.lord_byzantine_3b" faction="Faction.clan_byzantine_3" />
+   <Hero id="lord_byzantine_3b" spouse="Hero.lord_byzantine_3a" faction="Faction.clan_byzantine_3" />
+
+
 </Heroes>

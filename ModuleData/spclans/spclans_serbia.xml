@@ -13,4 +13,17 @@
     color="ffe50000" color2="ff0000e5"
   />
 
+  <Faction id="clan_byzantine_3"
+    name="{=clan_serbia_2}Vojislavljević"
+    initial_home_settlement="Settlement.castle_shkoder"				   
+    tier="4"
+    owner="Hero.lord_byzantine_3a"
+    culture="Culture.byzantine"
+    super_faction="Kingdom.byzantium"
+    is_noble="true"
+    banner_key="11.142.19.1836.1836.768.788.1.0.-30.505.155.116.2706.228.764.764.0.1.315" 
+    color="ffe9a74d" color2="ff830d0d"
+  />
+
+
 </Factions>
