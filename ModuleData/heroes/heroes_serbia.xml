@@ -24,4 +24,13 @@
    <Hero id="lord_serbia_3e" father="Hero.lord_serbia_3a" mother="Hero.lord_serbia_3b" faction="Faction.clan_serbia_3" text="{=fictional_lord}Fictional character." />
 
 
+   <Hero id="lord_serbia_4a" spouse="Hero.lord_serbia_4b" faction="Faction.clan_serbia_4" text="{=fictional_lord}Fictional character." />
+   <Hero id="lord_serbia_4b" spouse="Hero.lord_serbia_4a" faction="Faction.clan_serbia_4" text="{=fictional_lord}Fictional character." />
+   <Hero id="lord_serbia_4c" father="Hero.lord_serbia_4a" mother="Hero.lord_serbia_4b" faction="Faction.clan_serbia_4" text="{=fictional_lord}Fictional character." />
+   <Hero id="lord_serbia_4d" father="Hero.lord_serbia_4a" mother="Hero.lord_serbia_4b" faction="Faction.clan_serbia_4" text="{=fictional_lord}Fictional character." />
+
+
+
+
+
 </Heroes>
