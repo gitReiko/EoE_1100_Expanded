@@ -49,4 +49,16 @@
     color="ffffe135" color2="ff3553ff"
   />
 
+  <Faction id="clan_serbia_5"
+    name="{=clan_serbia_5}Zachlumia"
+    initial_home_settlement="Settlement.castle_ras"				   
+    tier="3"
+    owner="Hero.lord_serbia_5a"
+    culture="Culture.serbian"
+    super_faction="Kingdom.serbia"
+    is_noble="true"
+    banner_key="11.27.19.1836.1836.768.788.1.0.-30.505.142.116.2893.170.716.788.0.0.45.505.142.116.2893.170.514.578.0.0.45.505.142.116.2893.170.897.1023.0.0.45.505.142.116.2893.170.245.430.0.0.45.505.142.116.2893.170.21.239.0.0.45.505.142.116.2893.170.1282.1055.0.0.45.505.142.116.2893.170.1462.1294.0.0.45" 
+    color="ffeae1da" color2="ff830d0d"
+  />
+
 </Factions>
