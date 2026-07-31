@@ -3,7 +3,7 @@
 
   <NPCCharacter id="lord_serbia_1a" name="{=lord_serbia_1a}Vukan I" voice="softspoken" age="50" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.07" weight="0.2601" build="0.4754" key="00087C040058034C9818A66138B3574988B3ACA9D25779ABA98889518783541900974603099BA49C00000000000000000000000000000000000000004F2C8102" />
+      <BodyProperties version="4" age="22.1" weight="0.2221" build="0.4797"  key="001E74054070038557B7A751C77877AA7B4C3957C7C5B788AE6D7769877867880067360306A71D7800000000000000000000000000000000000000005AC44004"  />
     </face>
     <skills>
       <skill id="Engineering" value="250" />
@@ -43,7 +43,7 @@
 
   <NPCCharacter id="lord_serbia_1b" name="{=lord_serbia_1b}Maria" default_group="Cavalry" age="41" voice="ironic" is_female="true" is_hero="true" culture="Culture.serbian" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.14" weight="0.3407" build="0.2176" key="0010500340E420016462A467495583C828C5497A88A167286557CD858A5B75BA0073560307A9186500000000000000000000000000000000000000004EE41003" />
+      <BodyProperties version="4" age="22.1" weight="0.5849" build="0.7655"  key="001E8C0AD3140001A67CCC198D157573C77CA8D874566ABC7723776397798366008B9603089881A800000000000000000000000000000000000000001CFC1004"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -83,7 +83,7 @@
 
   <NPCCharacter id="lord_serbia_1c" name="{=lord_serbia_1c}Marko" voice="softspoken" age="49" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.07" weight="0.2601" build="0.4754" key="00087C040058034C9818A66138B3574988B3ACA9D25779ABA98889518783541900974603099BA49C00000000000000000000000000000000000000004F2C8102" />
+      <BodyProperties version="4" age="22.1" weight="0.8534" build="0.2485"  key="001B0006CF70160957B9A745677876567B4C3957C7758788AA6D7768877867880084D60308374A7800000000000000000000000000000000000000005B1C4004"  />
     </face>
     <skills>
       <skill id="Engineering" value="175" />
@@ -123,7 +123,7 @@
 
   <NPCCharacter id="lord_serbia_1d" name="{=lord_serbia_1d}Uroš I" voice="softspoken" age="19" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.07" weight="0.2601" build="0.4754" key="00087C040058034C9818A66138B3574988B3ACA9D25779ABA98889518783541900974603099BA49C00000000000000000000000000000000000000004F2C8102" />
+      <BodyProperties version="4" age="22.1" weight="0.338" build="0.4797"  key="001E38081470234457B787519778779A7A4A3957C7C58788BE6D7769877667880077560307A71D7800000000000000000000000000000000000000004EEC4004"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -163,7 +163,7 @@
 
   <NPCCharacter id="lord_serbia_1e" name="{=lord_serbia_1e}Stefan" voice="softspoken" age="15" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.07" weight="0.2601" build="0.4754" key="00087C040058034C9818A66138B3574988B3ACA9D25779ABA98889518783541900974603099BA49C00000000000000000000000000000000000000004F2C8102" />
+      <BodyProperties version="4" age="22.1" weight="0.3164" build="0.3657"  key="001B8805407002CD5793A753977877AAB94C3957A7C27788AE6A7769C77667850085560308A71A7800000000000000000000000000000000000000005B044005"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -203,7 +203,7 @@
 
   <NPCCharacter id="lord_serbia_1f" name="{=lord_serbia_1f}Zavida" voice="softspoken" age="32" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.07" weight="0.2601" build="0.4754" key="00087C040058034C9818A66138B3574988B3ACA9D25779ABA98889518783541900974603099BA49C00000000000000000000000000000000000000004F2C8102" />
+      <BodyProperties version="4" age="22.1" weight="0.5211" build="0.7269"  key="00202C0D0014169B6EE28B9439C88B3BB6CA1DBA459BA775C48BB3657ACAE4DC005B8603059966CD000000000000000000000000000000000000000030A40042"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -243,7 +243,7 @@
 
   <NPCCharacter id="lord_serbia_1g" name="{=lord_serbia_1g}Petrislav" voice="softspoken" age="58" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.07" weight="0.2601" build="0.4754" key="00087C040058034C9818A66138B3574988B3ACA9D25779ABA98889518783541900974603099BA49C00000000000000000000000000000000000000004F2C8102" />
+      <BodyProperties version="4" age="22.1" weight="0.4275" build="0.5972"  key="0020CC054070128257B7A741977876587B4C3957C7A5B788AE6D7769877867880089660308A71D7800000000000000000000000000000000000000005B144004"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -283,7 +283,7 @@
 
   <NPCCharacter id="lord_byzantine_3a" name="{=lord_serbia_2a}Konstantin Bodin" voice="softspoken" age="50" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.625" build="0.5393"  key="001B280C402C170E42256C895B39C64AC9EBD76664D3375A6CCA9B396886868800889603085D4480000000000000000000000000000000000000000028FC1142"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -323,7 +323,7 @@
 
   <NPCCharacter id="lord_byzantine_3b" name="{=lord_serbia_2b}Jakvinta" default_group="Cavalry" age="19" voice="ironic" is_female="true" is_hero="true" culture="Culture.serbian" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405830069A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052544083" />
+      <BodyProperties version="4" age="22.1" weight="0.6939" build="0.7355"  key="001B400D0000000A58A57647C729688EC48B3AA56746ABE653865457CB5B9A77007BA603079A858500000000000000000000000000000000000000006AF420C4"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -363,7 +363,7 @@
 
   <NPCCharacter id="lord_serbia_2c" name="{=lord_serbia_2c}Dorde Bodinović" voice="softspoken" age="17" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.5417" build="0.4244"  key="001B640C402C17C2427569895939C648C9CB976664B3375A6CCA9B379886828800A686030A5D4480000000000000000000000000000000000000000065541146"  />
     </face>
     <skills>
       <skill id="Engineering" value="200" />
@@ -403,7 +403,7 @@
 
   <NPCCharacter id="lord_serbia_2d" name="{=lord_serbia_2d}Mihailo Bodinović" voice="softspoken" age="15" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.7824" build="0.7577"  key="0020140AC02C10C342556C895B39C98B99EB976664B3375A49CA983968568688007BC603075D4480000000000000000000000000000000000000000028F41144"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -443,7 +443,7 @@
 
   <NPCCharacter id="lord_serbia_2e" name="{=lord_serbia_2e}Vladimir Bodinović" voice="softspoken" age="11" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.5015" build="0.3904"  key="0023740C402C268C41256C895B39C64A99EB97246473375A6CCA99368386868800668603065F4483000000000000000000000000000000000000000028CC4142"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -483,7 +483,7 @@
 
   <NPCCharacter id="lord_serbia_3a" name="{=lord_serbia_3a}Prvoslav" voice="softspoken" age="56" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.4336" build="0.625"  key="001BBC0411CC09931C48B9AAA78829838746C399B857B2988C6568A9748B6825008976030897979300000000000000000000000000000000000000004EFC2084"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -523,7 +523,7 @@
 
   <NPCCharacter id="lord_serbia_3b" name="{=lord_serbia_3b}Cveta" default_group="Cavalry" age="52" voice="ironic" is_female="true" is_hero="true" culture="Culture.serbian" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405830069A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052544083" />
+      <BodyProperties version="4" age="22.1" weight="0.3212" build="0.8395"  key="001B8405405810077C8AA7AB68376C45EA5FB8BB8864D8327A9645ACA3B68BBA003D560303A8BC9A0000000000000000000000000000000000000000147410C3"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -563,7 +563,7 @@
 
   <NPCCharacter id="lord_serbia_3c" name="{=lord_serbia_3c}Tihomir" voice="softspoken" age="26" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.4336" build="0.4985"  key="001BFC0400CC20061A87B9AA878828868746C36988577298896568A9448868250057760305479793000000000000000000000000000000000000000048B44085"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -603,7 +603,7 @@
 
   <NPCCharacter id="lord_serbia_3d" name="{=lord_serbia_3d}Dragutin" voice="softspoken" age="26" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.3009" build="0.4306"  key="001E840340CC0385197899A5AD8827836746A399B857B2988C4528A974696825009656030995979300000000000000000000000000000000000000004F241084"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -643,7 +643,7 @@
 
   <NPCCharacter id="lord_serbia_3e" name="{=lord_serbia_3e}Katarina" default_group="Cavalry" age="19" voice="ironic" is_female="true" is_hero="true" culture="Culture.serbian" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405830069A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052544083" />
+      <BodyProperties version="4" age="22.1" weight="0.3009" build="0.4306"  key="001ECC0340CC1003197899A5AD8827836746A399B857B2988C4528A974696825006656030695979300000000000000000000000000000000000000002CDC1043"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -683,7 +683,7 @@
 
   <NPCCharacter id="lord_serbia_4a" name="{=lord_serbia_4a}Radovan" voice="softspoken" age="51" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.801" build="0.595"  key="000D140280CC11492A658C87898714BE92848A9466B5AA6B3146869E6D7485B10059C6030528B856000000000000000000000000000000000000000066A45144"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -723,7 +723,7 @@
 
   <NPCCharacter id="lord_serbia_4b" name="{=lord_serbia_4b}Zorica" default_group="Cavalry" age="47" voice="ironic" is_female="true" is_hero="true" culture="Culture.serbian" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405830069A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052544083" />
+      <BodyProperties version="4" age="22.1" weight="0.5602" build="0.5232"  key="001E1C055E881002436C7975B877C88B8A6469AC298B987B5C8C7BAE988B79680068860306685EB8000000000000000000000000000000000000000046D40083"  />
     </face>
     <skills>
       <skill id="Engineering" value="25" />
@@ -763,7 +763,7 @@
 
   <NPCCharacter id="lord_serbia_4c" name="{=lord_serbia_4c}Lazar" voice="softspoken" age="23" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.8565" build="0.595"  key="000D3C0280CC29032A658A878987149E72846A946685AA6B3146869E7B7485B10059D6030527B85500000000000000000000000000000000000000004AA45146"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -803,7 +803,7 @@
 
   <NPCCharacter id="lord_serbia_4d" name="{=lord_serbia_4d}Milica" default_group="Cavalry" age="17" voice="ironic" is_female="true" is_hero="true" culture="Culture.serbian" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405830069A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052544083" />
+      <BodyProperties version="4" age="22.1" weight="0.6528" build="0.595"  key="000D3C0280CC10062A658A878987149E72846A946685AA6B3146869E7B7485B10059A6030527B85500000000000000000000000000000000000000004AA410C3"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -843,7 +843,7 @@
 
   <NPCCharacter id="lord_serbia_5a" name="{=lord_serbia_5a}Vojislav" voice="softspoken" age="42" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.4061" build="0.9109"  key="001EB40E5714228876C896778282933968467647669A9744794A7874BD855566007E660307986B5600000000000000000000000000000000000000004AEC4106"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -883,7 +883,7 @@
 
   <NPCCharacter id="lord_serbia_5b" name="{=lord_serbia_5b}Gradislava" default_group="Cavalry" age="38" voice="ironic" is_female="true" is_hero="true" culture="Culture.serbian" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405830069A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052544083" />
+      <BodyProperties version="4" age="22.1" weight="0.7311" build="0.5334"  key="001B300AC000200D97C726A797F646D55D7867E3557733674BD64AB9981996740068B60306CAC46B000000000000000000000000000000000000000060BC0043"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -923,7 +923,7 @@
 
   <NPCCharacter id="lord_serbia_5c" name="{=lord_serbia_5c}Prvoslav" voice="softspoken" age="20" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
     <face>
-      <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+      <BodyProperties version="4" age="22.1" weight="0.5201" build="0.7546"  key="001EE00E401427CE76C896778682833968467647669A9744794A7874BA855566008B860308986B5600000000000000000000000000000000000000004B144104"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
