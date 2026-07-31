@@ -7,21 +7,23 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 ### Update 1.1.0
 
-- Normandy kingdom
-- more members for Scotland and England
+- England kingdom rework
+- new kingdoms (Normandy, Serbia)
+- new lords (Scotland, England)
 - delete asterisks from the lords names (for compatibility with other mods)
 - Arnmødling banner improvement
 
 ### New features
 
-- 16 new kingdoms (Aquitaine, Bavaria, Bohemia, Bretagne, Croatia, HRE Crown, Netherlands, Pisa, Pomerania, Portugal, Saxony, Swabia, Toulouse, Wales, Wends)
-- 106 new clans
-- 535 new lords
+- 18 new kingdoms (Aquitaine, Bavaria, Bohemia, Bretagne, Croatia, Netherlands, Normandy, Pisa, Pomerania, Portugal, Saxony, Serbia, Swabia, Toulouse, Wales, Wends)
+- kingdom reworks (England, France, HRE)
+- 127+ new clans
+- 739+ new lords
 - partial rework of kingdom banners  
 - new names for 5 cultures (French, German, South Slavic, Turkic, West Slavic)
 - kingdom names rework to single style
-- new lords and clan for the Pechenegs
-- new lords for Scottland
+- new clans (Pechenegs, Norway)
+- new lords (Pechenegs, Scottland)
 - other
 
 ### Technical support and communication
@@ -58,7 +60,6 @@ Allows you to start playing for your favorite clan in the game. Join a kingdom o
 
 - add and rework settlements to suit the needs of the mod
 - add regional troop trees for cultures
-- add Serbia kingdom (it was originally planned, but due to the impossibility of changing settlements, it has been postponed for the future.)
 - move changes that do not increase system requirements to EoE 1100
 - improve banners of all remaining kingdoms
 - improve existing clans (add lords, etc.)
