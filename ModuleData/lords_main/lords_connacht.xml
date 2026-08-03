@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="lord_irish_6a" name="{=Ruaidrí}Ruaidrí" age="50" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.5" build="0.5" key="0000000540002003797C643B1C899A8A9B68866255A096774D4951EDD869B4C500777603078D6B7300000000000000000000000000000000000000003CFC0002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="275" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="150" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="battania_king" />
+      <EquipmentSet id="battania_king_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_irish_6b" name="{=Mór Ní}Mór Ní" age="45" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.4329" build="0.3611" key="000500000000300A79289A54D6A523853655866255A0967792765729795A59B90075660307C4875600000000000000000000000000000000000000003CEC0083" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="0" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="battania_lady" />
+      <EquipmentSet id="battania_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_irish_6c" name="{=Domnall}Domnall" age="25" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.5" build="0.5" key="0000000540002003797C643B1C899A8A9B68866255A096774D4951EDD869B4C500777603078D6B7300000000000000000000000000000000000000003CFC0002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="225" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="battania_lord" />
+      <EquipmentSet id="battania_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_irish_3a" name="{=Domnall}Domnall" age="40" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="225" />
+      <skill id="Leadership" value="300" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="25" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="300" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="1" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="battania_lord" />
+      <EquipmentSet id="battania_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_irish_3b" name="{=Maeve}Maeve" age="30" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.3073" build="0.5645" key="00087C06002C1002849723C69369898A4DDE99446AA9471B8887B4C83872D584007856030776772A000000000000000000000000000000000000000020DC20C3" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="50" />
+      <skill id="Medicine" value="150" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="-2" />
+      <Trait id="Oligarchic" value="-1" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="battania_lady" />
+      <EquipmentSet id="battania_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+
+
+
+
+</NPCCharacters>
