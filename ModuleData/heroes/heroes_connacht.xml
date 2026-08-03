@@ -2,9 +2,13 @@
 <Heroes>
 
 
-   <Hero id="lord_irish_6a" spouse="Hero.lord_irish_6b" faction="Faction.clan_irish_6" />
-   <Hero id="lord_irish_6b" spouse="Hero.lord_irish_6a" faction="Faction.clan_irish_6" />
-   <Hero id="lord_irish_6c" father="Hero.lord_irish_6a" mother="Hero.lord_irish_6b" faction="Faction.clan_irish_6" />
+   <Hero id="lord_irish_6a" faction="Faction.clan_irish_6" />
+   <Hero id="lord_irish_6b" father="Hero.lord_irish_6a" faction="Faction.clan_irish_6" />
+   <Hero id="lord_irish_6c" father="Hero.lord_irish_6a" faction="Faction.clan_irish_6" />
+   <Hero id="lord_connacht_1d" faction="Faction.clan_irish_6" />
+   <Hero id="lord_connacht_1e" father="Hero.lord_connacht_1d" faction="Faction.clan_irish_6" />
+   <Hero id="lord_connacht_1f" faction="Faction.clan_irish_6" />
+   <Hero id="lord_connacht_1g" faction="Faction.clan_irish_6" />
 
 
    <Hero id="lord_irish_3a" spouse="Hero.lord_irish_3b" faction="Faction.clan_irish_3" />
