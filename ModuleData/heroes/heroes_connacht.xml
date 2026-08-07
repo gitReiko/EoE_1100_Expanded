@@ -26,4 +26,11 @@
    <Hero id="lord_connacht_3e" faction="Faction.clan_connacht_3" />
 
 
+   <Hero id="lord_connacht_4a" faction="Faction.clan_connacht_4" />
+   <Hero id="lord_connacht_4b" faction="Faction.clan_connacht_4" />
+   <Hero id="lord_connacht_4c" faction="Faction.clan_connacht_4" />
+   <Hero id="lord_connacht_4d" faction="Faction.clan_connacht_4" />
+   <Hero id="lord_connacht_4e" faction="Faction.clan_connacht_4" />
+
+
 </Heroes>

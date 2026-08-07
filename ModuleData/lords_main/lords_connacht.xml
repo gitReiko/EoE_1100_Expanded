@@ -736,11 +736,210 @@
     </Equipments>
   </NPCCharacter>
 
+  <NPCCharacter id="lord_connacht_4a" name="{=lord_connacht_4a}Gilla Ísu Ua Ragallaig" age="45" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="250" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="250" />
+      <skill id="Crossbow" value="50" />
+      <skill id="Bow" value="250" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="battania_lord" />
+      <EquipmentSet id="battania_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
 
+  <NPCCharacter id="lord_connacht_4b" name="{=lord_connacht_4b}Cathal Ua Ragallaig" age="28" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="25" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="250" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="battania_lord" />
+      <EquipmentSet id="battania_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
 
+  <NPCCharacter id="lord_connacht_4c" name="{=lord_connacht_4c}Domnall Ua Ragallaig" age="37" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="275" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="175" />
+      <skill id="Crafting" value="225" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="125" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="150" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="battania_lord" />
+      <EquipmentSet id="battania_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
 
+  <NPCCharacter id="lord_connacht_4d" name="{=lord_connacht_4d}Áed Ua Faracháin" age="39" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="225" />
+      <skill id="Medicine" value="225" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="150" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="275" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="300" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="battania_lord" />
+      <EquipmentSet id="battania_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
 
-
+  <NPCCharacter id="lord_connacht_4e" name="{=lord_connacht_4e}Domnall Ua Finn" age="34" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="125" />
+      <skill id="Polearm" value="275" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="battania_lord" />
+      <EquipmentSet id="battania_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
 
 
 </NPCCharacters>
