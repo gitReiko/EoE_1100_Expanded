@@ -34,6 +34,10 @@
   <Settlement id="castle_bertheaume" owner="Faction.clan_bretagne_2" ></Settlement>
   <Settlement id="castle_corlay" owner="Faction.clan_bretagne_4" ></Settlement>
 
+  <!-- Connacht -->
+  <Settlement id="castle_sligo" owner="Faction.clan_irish_3" ></Settlement>
+  <Settlement id="town_galway" owner="Faction.clan_irish_6" ></Settlement>
+
   <!-- Croatia -->
   <Settlement id="town_zadar" culture="Culture.serbian" owner="Faction.clan_hungarian_2"></Settlement>
   <Settlement id="town_zadar_knin" culture="Culture.serbian"></Settlement>

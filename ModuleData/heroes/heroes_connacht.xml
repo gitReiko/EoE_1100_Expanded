@@ -13,6 +13,10 @@
 
    <Hero id="lord_irish_3a" spouse="Hero.lord_irish_3b" faction="Faction.clan_irish_3" />
    <Hero id="lord_irish_3b" spouse="Hero.lord_irish_3a" faction="Faction.clan_irish_3" />
+   <Hero id="lord_connacht_2c" faction="Faction.clan_irish_3" />
+   <Hero id="lord_connacht_2d" faction="Faction.clan_irish_3" />
+   <Hero id="lord_connacht_2e" faction="Faction.clan_irish_3" />
+   <Hero id="lord_connacht_2f" faction="Faction.clan_irish_3" />
 
 
 </Heroes>
