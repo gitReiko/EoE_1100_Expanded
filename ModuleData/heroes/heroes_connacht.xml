@@ -19,4 +19,11 @@
    <Hero id="lord_connacht_2f" faction="Faction.clan_irish_3" />
 
 
+   <Hero id="lord_connacht_3a" spouse="Hero.lord_connacht_3b" faction="Faction.clan_connacht_3" />
+   <Hero id="lord_connacht_3b" spouse="Hero.lord_connacht_3a" faction="Faction.clan_connacht_3" />
+   <Hero id="lord_connacht_3c" faction="Faction.clan_connacht_3" />
+   <Hero id="lord_connacht_3d" faction="Faction.clan_connacht_3" />
+   <Hero id="lord_connacht_3e" faction="Faction.clan_connacht_3" />
+
+
 </Heroes>

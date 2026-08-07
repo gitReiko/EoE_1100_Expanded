@@ -25,4 +25,16 @@
     color="ffe9a74d" color2="ff25252d" 
   />
 
+  <Faction id="clan_connacht_3"
+    name="{=clan_connacht_3}Ua Dubhda"
+    initial_home_settlement="Settlement.town_galway"
+    tier="4"
+    owner="Hero.lord_connacht_3a"
+    culture="Culture.battania"
+    super_faction="Kingdom.connacht"
+    is_noble="true"
+    banner_key="11.126.19.1836.1836.768.788.1.0.-30.505.155.116.1921.147.764.764.0.0.45.505.155.116.1921.147.764.764.0.1.315"
+    color="ff35681c" color2="ffe9a74d" 
+  />
+
 </Factions>
