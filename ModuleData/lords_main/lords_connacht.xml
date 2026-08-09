@@ -458,7 +458,7 @@
       <skill id="Engineering" value="50" />
       <skill id="Medicine" value="0" />
       <skill id="Leadership" value="100" />
-      <skill id="Steward" value="12s5" />
+      <skill id="Steward" value="125" />
       <skill id="Trade" value="25" />
       <skill id="Charm" value="100" />
       <skill id="Roguery" value="125" />
@@ -551,7 +551,7 @@
       <skill id="Riding" value="200" />
       <skill id="Throwing" value="75" />
       <skill id="Crossbow" value="0" />
-      <skill id="Bow" value="17s5" />
+      <skill id="Bow" value="175" />
       <skill id="Polearm" value="250" />
       <skill id="TwoHanded" value="50" />
       <skill id="OneHanded" value="250" />
@@ -591,7 +591,7 @@
       <skill id="Athletics" value="100" />
       <skill id="Riding" value="125" />
       <skill id="Throwing" value="0" />
-      <skill id="Crossbow" value="0s" />
+      <skill id="Crossbow" value="0" />
       <skill id="Bow" value="100" />
       <skill id="Polearm" value="0" />
       <skill id="TwoHanded" value="0" />
