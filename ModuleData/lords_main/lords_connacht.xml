@@ -44,7 +44,7 @@
 
   <NPCCharacter id="lord_irish_6b" name="{=lord_connacht_1b}Toirdelbach Ua Conchobair" age="16" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.05" weight="0.5" build="0.5" key="0000000540002003797C643B1C899A8A9B68866255A096774D4951EDD869B4C500777603078D6B7300000000000000000000000000000000000000003CFC0002" />
+      <BodyProperties version="4" age="22.1" weight="0.4151" build="0.3657"  key="00054C0540000005797A64391C899A889B675662558096774D49519D9869B4A500956603098D697300000000000000000000000000000000000000005D2C1005"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -85,7 +85,7 @@
 
   <NPCCharacter id="lord_irish_6c" name="{=lord_connacht_1c}Cathal Crobhdearg Ua Conchobair" age="19" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.05" weight="0.5" build="0.5" key="0000000540002003797C643B1C899A8A9B68866255A096774D4951EDD869B4C500777603078D6B7300000000000000000000000000000000000000003CFC0002" />
+      <BodyProperties version="4" age="22.1" weight="0.7546" build="0.7207"  key="000540081500200977A9643B1A89788A9866866255A79A774D495CA9986984C5008BB603088D6B7300000000000000000000000000000000000000003D145002"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -126,7 +126,7 @@
 
   <NPCCharacter id="lord_connacht_1d" name="{=lord_connacht_1d}Domnall Ua Briain" age="32" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.05" weight="0.5" build="0.5" key="0000000540002003797C643B1C899A8A9B68866255A096774D4951EDD869B4C500777603078D6B7300000000000000000000000000000000000000003CFC0002" />
+      <BodyProperties version="4" age="22.1" weight="0.4127" build="0.2075"  key="0008C00D00E41481B92A4927A7AB75A63668CB9655788346A3A949A4A3CE6A750053660305534C7D00000000000000000000000000000000000000002A9C7146"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -167,7 +167,7 @@
 
   <NPCCharacter id="lord_connacht_1e" name="{=lord_connacht_1e}Sadb ingen Domnaill" age="14" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3073" build="0.5645" key="00087C06002C1002849723C69369898A4DDE99446AA9471B8887B4C83872D584007856030776772A000000000000000000000000000000000000000020DC20C3" />
+      <BodyProperties version="4" age="22.1" weight="0.4127" build="0.2075"  key="0008C00D00E41001B92A4927A7AB75A63668CB9655788346A3A949A4A3CE6A750053660305534C7D0000000000000000000000000000000000000000149C4104"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -207,7 +207,7 @@
 
   <NPCCharacter id="lord_connacht_1f" name="{=lord_connacht_1f}Domnall mac Tigernáin" age="33" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.05" weight="0.5" build="0.5" key="0000000540002003797C643B1C899A8A9B68866255A096774D4951EDD869B4C500777603078D6B7300000000000000000000000000000000000000003CFC0002" />
+      <BodyProperties version="4" age="22.1" weight="0.2995" build="0.6028"  key="0005BC0980141780698773B98795A254B97765A6B6344A298A486824163879BA0089460308D54387000000000000000000000000000000000000000039041106"  />
     </face>
     <skills>
       <skill id="Engineering" value="75" />
@@ -248,7 +248,7 @@
 
   <NPCCharacter id="lord_connacht_1g" name="{=lord_connacht_1g}Cathal Ua hEidhin" age="46" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.05" weight="0.5" build="0.5" key="0000000540002003797C643B1C899A8A9B68866255A096774D4951EDD869B4C500777603078D6B7300000000000000000000000000000000000000003CFC0002" />
+      <BodyProperties version="4" age="22.1" weight="0.5694" build="0.3724"  key="00087C0140140A92C5789864677EAA4A873267A5887CD72788A7AAA45AAD98780056960305D6C446000000000000000000000000000000000000000070A46104"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -370,7 +370,7 @@
 
   <NPCCharacter id="lord_connacht_2c" name="{=lord_connacht_2c}Domnall Ua Ruairc" age="34" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.2948" build="0.5201"  key="00052804C058280D5968542795453557A6857B841773847B6B5A985284895677006846030654B6A600000000000000000000000000000000000000003CD47004"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -411,7 +411,7 @@
 
   <NPCCharacter id="lord_connacht_2d" name="{=lord_connacht_2d}Gilla Ísu Ua Ragallaig" age="47" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.5293" build="0.2491"  key="000A840D80E433CE757B7AA859C87B7277A778D678587887C49825C5C7B2377E0074860307D8739900000000000000000000000000000000000000005CEC9105"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -452,7 +452,7 @@
 
   <NPCCharacter id="lord_connacht_2e" name="{=lord_connacht_2e}Cathal Ua Ragallaig" age="35" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.3863" build="0.291"  key="000A800218E4240EA489987B45965671CB3854B618A46875B98A6215EB478A650074660307DB536A00000000000000000000000000000000000000000EDC6105"  />
     </face>
     <skills>
       <skill id="Engineering" value="50" />
@@ -493,7 +493,7 @@
 
   <NPCCharacter id="lord_connacht_2f" name="{=lord_connacht_2f}Murchad Ua Maelmhuaid" age="42" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.4079" build="0.6266"  key="0010A406C0442056495C76799875286D78818EA3C6973473AD686C87EAE4344800A966030A56994D00000000000000000000000000000000000000004F5C6005"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -534,7 +534,7 @@
 
   <NPCCharacter id="lord_connacht_3a" name="{=lord_connacht_3a}Aedh Ua Dubhda" age="44" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.3884" build="0.2112"  key="00083C04D57039D90B689D84D399DBA6BEA76E7978C7586A8C7538736779674B00936603094992AD00000000000000000000000000000000000000004D346005"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -575,7 +575,7 @@
 
   <NPCCharacter id="lord_connacht_3b" name="{=lord_connacht_3b}Mór" age="40" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.battania" occupation="Lord" face_mesh_cache="true">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3073" build="0.5645" key="00087C06002C1002849723C69369898A4DDE99446AA9471B8887B4C83872D584007856030776772A000000000000000000000000000000000000000020DC20C3" />
+      <BodyProperties version="4" age="22.1" weight="0.5304" build="0.3501"  key="0005600980FC00104B6BB947D463A9876C75C44A9AC38BA577767A6137AB89BC0075860307857878000000000000000000000000000000000000000032EC0104"  />
     </face>
     <skills>
       <skill id="Engineering" value="0" />
@@ -615,7 +615,7 @@
 
   <NPCCharacter id="lord_connacht_3c" name="{=lord_connacht_3c}Domnall Ua Dubhda" age="36" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.2117" build="0.7505"  key="00058C0D9A88138D7774488C94E99975AB873573A689A5952B2BB367B2B3884D006B36030672A388000000000000000000000000000000000000000022D43145"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -656,7 +656,7 @@
 
   <NPCCharacter id="lord_connacht_3d" name="{=lord_connacht_3d}Aedh Ua Cellaig" age="38" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.2117" build="0.1925"  key="000A240340FC17057D7463C9981AC8767A55A17A5486698B7B765A93796541B70083360308A7599400000000000000000000000000000000000000002B048085"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -697,7 +697,7 @@
 
   <NPCCharacter id="lord_connacht_3e" name="{=lord_connacht_3e}Murchad Ua Flaithbertaig" age="48" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.3275" build="0.5625"  key="000A800A40E434037AA9369774CA5FA59C8EAB7956995B98B28AD7BB8A89C66A009856030958A76600000000000000000000000000000000000000000B2C2085"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -738,7 +738,7 @@
 
   <NPCCharacter id="lord_connacht_4a" name="{=lord_connacht_4a}Gilla Ísu Ua Ragallaig" age="45" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.5333" build="0.6517"  key="0000100340B432DD889A8353776364656BCA7728968D6C878CD486985B2788B7007A860307B6453700000000000000000000000000000000000000003EF49085"  />
     </face>
     <skills>
       <skill id="Engineering" value="150" />
@@ -779,7 +779,7 @@
 
   <NPCCharacter id="lord_connacht_4b" name="{=lord_connacht_4b}Cathal Ua Ragallaig" age="28" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.6793" build="0.5803"  key="000A3806E800339B866377EB7788745E9247B85989E88738C96C5663C9E577750059A603059989C600000000000000000000000000000000000000001EAC5046"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
@@ -820,7 +820,7 @@
 
   <NPCCharacter id="lord_connacht_4c" name="{=lord_connacht_4c}Domnall Ua Ragallaig" age="37" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.466" build="0.5699"  key="000A60000014124A7A965B3B9D545944E48CB6395DEC3376978D66C3592324990039760303B75A7A0000000000000000000000000000000000000000186470C4"  />
     </face>
     <skills>
       <skill id="Engineering" value="125" />
@@ -861,7 +861,7 @@
 
   <NPCCharacter id="lord_connacht_4d" name="{=lord_connacht_4d}Áed Ua Faracháin" age="39" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.6384" build="0.3777"  key="00088806DC14388BA39672A7B78A7885AC88B32B777EA4403D769C694442AD750076A60307969298000000000000000000000000000000000000000040DC4144"  />
     </face>
     <skills>
       <skill id="Engineering" value="225" />
@@ -902,7 +902,7 @@
 
   <NPCCharacter id="lord_connacht_4e" name="{=lord_connacht_4e}Domnall Ua Finn" age="34" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.battania" occupation="Lord">
     <face>
-      <BodyProperties version="4" age="22.6" weight="0.3972" build="0.6431" key="000D500F00581042C5985627C5493576D6859BB41B93847B6B5A9886CC895677008A66030874B6D600000000000000000000000000000000000000003D1C7002" />
+      <BodyProperties version="4" age="22.1" weight="0.341" build="0.7731"  key="00087C02972C3506697397B7D8A8A89C4BC348848938B2C948D8646BC86A9379007C560307A9D895000000000000000000000000000000000000000044DC9082"  />
     </face>
     <skills>
       <skill id="Engineering" value="100" />
