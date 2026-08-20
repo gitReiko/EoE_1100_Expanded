@@ -5,5 +5,6 @@
 		short_name="{=chernigov_kingdom_short_name}Chernigov" 
 		title="{=chernigov_kingdom_title}Land of Chernigov" 
 		ruler_title="{=chernigov_ruler_title}Kniaz" 
+		banner_key="11.27.48.1836.1836.768.765.1.0.0.510.149.149.466.312.792.898.0.0.0.510.149.149.354.312.792.875.0.0.90.510.149.149.411.312.605.736.0.0.90.510.149.149.411.312.979.736.0.0.90.510.149.149.212.312.601.668.0.0.0.510.149.149.184.312.792.526.0.0.0"
 	></Kingdom>
 </Kingdoms>
