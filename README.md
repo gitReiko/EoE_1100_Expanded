@@ -12,7 +12,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - new lords (Scotland, England)
 - delete asterisks from the lords names (for compatibility with other mods)
 - Arnmødling banner improvement
-- banners rework (Chernogov, Halych, Hungary, Kyiv, Pereiaslav, Polack, Poland)
+- banners rework (Chernogov, Halych, Hungary, Kyiv, Pereiaslav, Polack, Poland, Volhynia)
 
 ### New features
 
