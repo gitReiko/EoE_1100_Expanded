@@ -8,6 +8,12 @@
   <Settlement id="castle_bayonne" owner="Faction.clan_aquitaine_7" ></Settlement>
   <Settlement id="town_limoges" owner="Faction.clan_aquitaine_8" ></Settlement>
 
+  <!-- Aragon -->
+  <Settlement id="town_pamplona" owner="Faction.clan_aragon_1" ></Settlement>
+  <Settlement id="town_barcelona" owner="Faction.clan_aragon_2" ></Settlement>
+  <Settlement id="castle_castellvell" owner="Faction.clan_aragon_3" ></Settlement>
+  <Settlement id="castle_begur" owner="Faction.clan_aragon_4" ></Settlement>
+
   <!-- Bavaria -->
   <Settlement id="town_regensburg" owner="Faction.clan_german_11" ></Settlement>
   <Settlement id="castle_kamen" owner="Faction.clan_bavaria_2" ></Settlement>
@@ -34,6 +40,15 @@
   <Settlement id="castle_bertheaume" owner="Faction.clan_bretagne_2" ></Settlement>
   <Settlement id="castle_corlay" owner="Faction.clan_bretagne_4" ></Settlement>
 
+  <!-- Castile -->
+  <Settlement id="town_leon" owner="Faction.clan_castile_1" ></Settlement>
+  <Settlement id="town_toledo" owner="Faction.clan_castile_new_4" ></Settlement>
+  <Settlement id="town_valencia" owner="Faction.clan_castile_3" ></Settlement>
+  <Settlement id="town_santiago" owner="Faction.clan_castile_5" ></Settlement>
+  <Settlement id="castle_gomara" owner="Faction.clan_castile_6" ></Settlement>
+  <Settlement id="castle_madrid" owner="Faction.clan_castile_7" ></Settlement>
+  <Settlement id="castle_tiedra" owner="Faction.clan_castile_2" ></Settlement>
+
   <!-- Connacht -->
   <Settlement id="castle_sligo" owner="Faction.clan_irish_3" ></Settlement>
   <Settlement id="town_galway" owner="Faction.clan_irish_6" ></Settlement>
@@ -52,6 +67,32 @@
   <Settlement id="castle_gradina_tuzla" culture="Culture.serbian"></Settlement>
   <Settlement id="castle_jakabhegyi" culture="Culture.serbian" owner="Faction.clan_croatia_4"></Settlement>
   <Settlement id="castle_jakabhegyi_pecs" culture="Culture.serbian"></Settlement>
+
+  <!-- Denmark -->
+  <Settlement id="town_roskilde" owner="Faction.clan_danish_1" ></Settlement>
+  <Settlement id="town_aalborg" owner="Faction.clan_danish_3" ></Settlement>
+  <Settlement id="town_lund" owner="Faction.clan_danish_4" ></Settlement>
+  <Settlement id="castle_viborg" owner="Faction.clan_danish_new_2" ></Settlement>
+  <Settlement id="castle_helsingborg" owner="Faction.clan_danish_5" ></Settlement>
+  <Settlement id="town_ribe" owner="Faction.clan_danish_7" ></Settlement>
+
+  <!-- England -->
+  <Settlement id="town_london" owner="Faction.clan_english_1" ></Settlement>
+  <Settlement id="town_winchester" owner="Faction.clan_english_12" ></Settlement>
+  <Settlement id="castle_exeter" owner="Faction.clan_english_2" ></Settlement>
+  <Settlement id="town_york" owner="Faction.clan_english_3" ></Settlement>
+  <Settlement id="town_nottingham" owner="Faction.clan_english_4" ></Settlement>
+  <Settlement id="castle_norwich" owner="Faction.clan_english_5" ></Settlement>
+  <Settlement id="castle_chester" owner="Faction.clan_english_7" ></Settlement>
+  <Settlement id="castle_kendal" owner="Faction.clan_english_7" ></Settlement>
+  <Settlement id="castle_dover" owner="Faction.clan_english_9" ></Settlement>
+  <Settlement id="castle_bamburgh" owner="Faction.clan_english_10" ></Settlement>
+
+  <!-- Ireland -->
+  <Settlement id="town_waterford" owner="Faction.clan_irish_1" ></Settlement>
+  <Settlement id="castle_kinbane" owner="Faction.clan_irish_2" ></Settlement>
+  <Settlement id="town_dublin" owner="Faction.clan_irish_4" ></Settlement>
+  <Settlement id="castle_maine" owner="Faction.clan_irish_5" ></Settlement>
 
   <!-- France -->
   <Settlement id="town_paris" owner="Faction.clan_french_1" ></Settlement>
@@ -87,6 +128,22 @@
   <!-- Normandy -->
   <Settlement id="castle_caen" owner="Faction.clan_normandy_1"></Settlement>
 
+  <!-- Norway -->
+  <Settlement id="town_bergen" owner="Faction.clan_norway_1" ></Settlement>
+  <Settlement id="town_stavanger" owner="Faction.clan_norway_2" ></Settlement>
+  <Settlement id="town_oslo" owner="Faction.clan_norway_3" ></Settlement>
+  <Settlement id="town_arendal" owner="Faction.clan_norway_4" ></Settlement>
+  <Settlement id="town_kirkwall" owner="Faction.clan_norway_5" ></Settlement>
+  <Settlement id="castle_holmwick" owner="Faction.clan_norway_6" ></Settlement>
+
+  <!-- Pechenegs -->
+  <Settlement id="town_kellia" owner="Faction.clan_pech_1" ></Settlement>
+  <Settlement id="town_pitesti" owner="Faction.clan_pech_2" ></Settlement>
+  <Settlement id="town_mauricastro" owner="Faction.clan_pech_1" ></Settlement>
+  <Settlement id="town_balti" owner="Faction.clan_pech_3" ></Settlement>
+  <Settlement id="town_bacau" owner="Faction.clan_pech_4" ></Settlement>
+  <Settlement id="town_giurgiu" owner="Faction.clan_pech_5" ></Settlement>
+
   <!-- Pisa -->
   <Settlement id="town_ES4" owner="Faction.clan_pisa_1"></Settlement>
   <Settlement id="town_cagliari" owner="Faction.clan_german_19"></Settlement>
@@ -117,17 +174,51 @@
   <Settlement id="castle_ras" owner="Faction.clan_serbia_1"></Settlement>
   <Settlement id="castle_shkoder" owner="Faction.clan_byzantine_3"></Settlement>
 
+  <!-- Scotland -->
+  <Settlement id="town_edinburgh" owner="Faction.clan_scottish_1" ></Settlement>
+  <Settlement id="town_perth" owner="Faction.clan_scottish_2" ></Settlement>
+  <Settlement id="castle_dingwall" owner="Faction.clan_scottish_3" ></Settlement>
+  <Settlement id="castle_dunvegan" owner="Faction.clan_scottish_5" ></Settlement>
+  <Settlement id="town_stirling" owner="Faction.clan_scottish_6" ></Settlement>
+
+  <!-- Sicily -->
+  <Settlement id="castle_venosa" owner="Faction.clan_sicily_4" ></Settlement>
+  <Settlement id="town_naples" owner="Faction.clan_sicily_6" ></Settlement>
+  <Settlement id="town_taranto" owner="Faction.clan_sicily_2" ></Settlement>
+  <Settlement id="castle_reggio" owner="Faction.clan_sicily_5" ></Settlement>
+  <Settlement id="castle_novum" owner="Faction.clan_sicily_7" ></Settlement>
+  <Settlement id="town_syracusae" owner="Faction.clan_sicily_3" ></Settlement>
+  <Settlement id="town_palermo" owner="Faction.clan_sicily_1" ></Settlement>
+
   <!-- Swabia -->
   <Settlement id="castle_rothenburg" owner="Faction.clan_german_8" name="{=town_hohenstaufen_name}Hohenstaufen Castle" ></Settlement>
   <Settlement id="town_strasbourg" owner="Faction.clan_german_21" ></Settlement>
   <Settlement id="town_zurich" owner="Faction.clan_swabia_4" ></Settlement>
   <Settlement id="castle_liebeneck" owner="Faction.clan_swabia_5" ></Settlement>
 
+  <!-- Sweden -->
+  <Settlement id="town_sigtuna" owner="Faction.clan_swedish_1" ></Settlement>
+  <Settlement id="town_vaxjo" owner="Faction.clan_swedish_1" ></Settlement>
+  <Settlement id="castle_skara" owner="Faction.clan_swedish_4" ></Settlement>
+  <Settlement id="town_lodose" owner="Faction.clan_swedish_2" ></Settlement>
+  <Settlement id="town_linkoping" owner="Faction.clan_swedish_3" ></Settlement>
+  <Settlement id="castle_strangnas" owner="Faction.clan_swedish_5" ></Settlement>
+  <Settlement id="town_visby" owner="Faction.clan_swedish_6" ></Settlement>
+  <Settlement id="town_kalmar" owner="Faction.clan_swedish_7" ></Settlement>
+
   <!-- Toulouse -->
   <Settlement id="town_toulouse" owner="Faction.clan_french_10" ></Settlement>
   <Settlement id="castle_ventadour" owner="Faction.clan_toulouse_4" ></Settlement>
   <Settlement id="castle_murol" owner="Faction.clan_toulouse_3" name="{=castle_rodez_name}Rodez Castle" ></Settlement>
   <Settlement id="town_montpellier" owner="Faction.clan_toulouse_5" ></Settlement>
+
+  <!-- Venice -->
+  <Settlement id="town_venice" owner="Faction.clan_venice_1" ></Settlement>
+  <Settlement id="town_pula" owner="Faction.clan_venice_2" ></Settlement>
+  <Settlement id="town_ragusa" culture="Culture.serbian" owner="Faction.clan_venice_5" ></Settlement>
+  <Settlement id="town_ragusa_budva" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_ragusa_split" culture="Culture.serbian"></Settlement>
+  <Settlement id="town_ragusa_stolac" culture="Culture.serbian"></Settlement>
 
   <!-- Wales -->
   <Settlement id="town_pembrok" name="{=town_pembrok_name}Llanteulyddog" owner="Faction.clan_wales_1" ></Settlement>
