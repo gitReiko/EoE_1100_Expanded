@@ -96,14 +96,6 @@
         </XmlNode>
 
         <XmlNode>
-        <XmlName id="Heroes" path="heroes_to_eoe_1100"/>
-        <IncludedGameTypes>
-            <GameType value = "Campaign"/>
-            <GameType value = "CustomGame"/>
-        </IncludedGameTypes>
-        </XmlNode>
-
-        <XmlNode>
         <XmlName id="Factions" path="spclans"/>
         <IncludedGameTypes>
             <GameType value = "Campaign"/>
