@@ -24,7 +24,7 @@
         </XmlNode>
 
         <XmlNode>
-			<XmlName id="SPCultures" path="spcultures_to_eoe_1100" />
+			<XmlName id="SPCultures" path="spcultures" />
 			<IncludedGameTypes>
 				<GameType value="Campaign" />
 				<GameType value="CustomGame" />
