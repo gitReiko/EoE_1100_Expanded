@@ -13,7 +13,7 @@
 
     <SubModules>
     </SubModules>
-  
+
     <Xmls>
         <XmlNode>
         <XmlName id="Settlements" path="settlements"/>
@@ -24,47 +24,23 @@
         </XmlNode>
 
         <XmlNode>
-			<XmlName id="SPCultures" path="spcultures" />
+			<XmlName id="SPCultures" path="cultures" />
 			<IncludedGameTypes>
 				<GameType value="Campaign" />
 				<GameType value="CustomGame" />
 			</IncludedGameTypes>
 		</XmlNode>
-        
-        <!-- <XmlNode>
-        <XmlName id="BodyProperties" path="sandboxcore_bodyproperties"/>
-        <IncludedGameTypes>
-            <GameType value = "Campaign"/>
-            <GameType value = "CustomGame"/>
-        </IncludedGameTypes>
-        </XmlNode>		 -->
-        
-        <!-- <XmlNode>
-        <XmlName id="GameText" path="module_strings"/>
-        <IncludedGameTypes>
-            <GameType value = "Campaign"/>
-            <GameType value = "CustomGame"/>
-        </IncludedGameTypes>
-        </XmlNode>	 -->
-        
+
         <XmlNode>
-        <XmlName id="NPCCharacters" path="trooptrees"/>
+        <XmlName id="NPCCharacters" path="troops"/>
         <IncludedGameTypes>
             <GameType value = "Campaign"/>
             <GameType value = "CustomGame"/>
         </IncludedGameTypes>
         </XmlNode> 
-        
-        <!-- <XmlNode>
-        <XmlName id="partyTemplates" path="partyTemplates"/>
-        <IncludedGameTypes>
-            <GameType value = "Campaign"/>
-            <GameType value = "CustomGame"/>
-        </IncludedGameTypes>
-        </XmlNode> -->
 
         <XmlNode>
-        <XmlName id="NPCCharacters" path="lords_main"/>
+        <XmlName id="NPCCharacters" path="lords"/>
         <IncludedGameTypes>
             <GameType value = "Campaign"/>
             <GameType value = "CustomGame"/>
@@ -80,7 +56,7 @@
         </XmlNode>
 
         <XmlNode>
-        <XmlName id="Factions" path="spclans"/>
+        <XmlName id="Factions" path="clans"/>
         <IncludedGameTypes>
             <GameType value = "Campaign"/>
             <GameType value = "CustomGame"/>
@@ -88,7 +64,7 @@
         </XmlNode>
 
         <XmlNode>
-        <XmlName id="Kingdoms" path="spkingdoms"/>
+        <XmlName id="Kingdoms" path="kingdoms"/>
         <IncludedGameTypes>
             <GameType value = "Campaign"/>
             <GameType value = "CustomGame"/>
