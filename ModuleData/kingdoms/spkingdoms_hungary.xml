@@ -3,5 +3,9 @@
 	<Kingdom id="hungary"
 		short_name="{=hungarian_kingdom_short_name}Hungary"
 		banner_key="11.27.19.1836.1836.779.782.1.0.-30.505.142.116.106.7638.764.257.0.0.-90.505.142.116.106.7638.764.441.0.0.-90.505.142.116.106.7638.764.625.0.0.-90.505.142.116.106.7638.764.809.0.0.-90.505.142.116.106.7638.764.993.0.0.-90.505.142.116.106.7638.764.1177.0.0.-90"
+		primary_banner_color="0xFFA01414" 
+		secondary_banner_color="0xFFF4EBD0" 
+		color="FFA01414" 
+		color2="FFF4EBD0" 
 	></Kingdom>
 </Kingdoms>
