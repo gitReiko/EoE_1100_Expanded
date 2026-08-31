@@ -6,5 +6,9 @@
 		title="{=halych_kingdom_title}Land of Halych"
 		ruler_title="{=halych_ruler_title}Kniaz"
 		banner_key="11.27.48.1836.1836.768.765.1.0.0.510.65.40.437.292.764.858.0.0.0.510.65.40.730.292.764.760.0.0.90.510.65.40.332.292.564.723.0.0.100.510.65.40.332.292.964.723.0.1.260.510.65.40.211.292.764.942.0.0.0.510.65.40.139.292.764.1022.0.0.0"
+		primary_banner_color="0xFF8B4674" 
+		secondary_banner_color="0xFFF4EBD0" 
+		color="FF8B4674" 
+		color2="FFF4EBD0" 
 	></Kingdom>
 </Kingdoms>
