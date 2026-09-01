@@ -6,5 +6,9 @@
 		title="{=lithuanian_kingdom_title}Chiefdom of Lithuanians"
 		ruler_title="{=lithuanian_ruler_title}Chieftan"
 		banner_key="11.12.48.1836.1836.767.764.1.0.0.510.155.116.546.348.762.806.0.0.45.510.155.116.218.348.662.1015.0.0.135.510.155.116.546.348.762.723.0.1.134.510.155.116.218.348.662.515.0.1.44"
+		primary_banner_color="0xFFFDD714" 
+		secondary_banner_color="0xFF224326" 
+		color="FFFDD714" 
+		color2="FF224326"
 	></Kingdom>
 </Kingdoms>
