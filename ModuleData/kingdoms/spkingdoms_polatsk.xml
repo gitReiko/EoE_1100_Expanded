@@ -6,5 +6,9 @@
 		title="{=polatsk_kingdom_title}Land of Polack"
 		ruler_title="{=polatsk_ruler_title}Kniaz"
 		banner_key="11.146.48.1836.1836.767.764.1.0.0.510.27.116.354.313.983.784.0.1.90.510.27.116.354.313.546.784.0.1.90.510.27.116.546.313.764.957.0.1.0.510.27.116.500.313.764.727.0.1.90.510.27.116.333.313.764.775.0.1.45.510.27.116.333.313.764.775.0.1.135" 
+		primary_banner_color="0xFF15345C" 
+		secondary_banner_color="0xFFF5F5DC" 
+		color="FF15345C" 
+		color2="FFF5F5DC" 
 	></Kingdom>
 </Kingdoms>
