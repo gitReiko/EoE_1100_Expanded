@@ -10,8 +10,9 @@
     super_faction="Kingdom.pecheneg"
     is_noble="true"
     banner_key="11.126.19.1836.1836.764.764.1.0.-30.510.155.116.553.305.670.754.0.0.241.510.155.116.553.305.858.754.0.1.119.505.126.116.177.632.762.1034.0.1.90.505.126.116.177.632.762.508.0.1.90" 
-    color="ff5fbd72" color2="fff0e0a5" 
+    color="FF15541C" color2="FFF4C430" 
   />
+  <!-- green - yellow -->
 
   <Faction id="clan_pech_2"
     name="{=clan_pech_2}Yula"
@@ -23,8 +24,9 @@
     super_faction="Kingdom.pecheneg"
     is_noble="true"
     banner_key="11.100.19.1836.1836.764.764.1.0.-30.510.27.116.295.305.764.717.0.0.0.510.27.116.295.305.654.607.0.0.90.510.27.116.295.305.764.1037.0.0.0.510.27.116.295.305.654.927.0.0.90" 
-    color="ff6c72a2" color2="ffeae1da" 
+    color="FF4B0082" color2="FFFFCC00" 
   />
+  <!-- purple - yellow -->
 
   <Faction id="clan_pech_3"
     name="{=clan_pech_3}Irtogur"
@@ -36,8 +38,9 @@
     super_faction="Kingdom.pecheneg"
     is_noble="true"
     banner_key="11.142.19.1836.1836.764.764.1.0.-30.510.155.116.519.305.764.764.0.0.0.510.155.116.211.305.874.652.0.0.90.510.155.116.211.305.654.876.0.0.90" 
-    color="ffc94b4d" color2="fff9d575" 
+    color="FF990000" color2="FFFFCC00" 
   />
+  <!-- red - yellow -->
 
   <Faction id="clan_pech_4"
     name="{=clan_pech_4}Tolmach"
@@ -49,8 +52,9 @@
     super_faction="Kingdom.pecheneg"
     is_noble="true"
     banner_key="11.123.19.1836.1836.764.764.1.0.-30.510.155.116.553.305.670.754.0.0.241.510.155.116.553.305.858.754.0.1.119.505.123.116.177.632.762.1034.0.1.90.505.123.116.177.632.762.508.0.1.90.510.155.116.191.305.601.700.0.1.148"
-    color="ffa97535" color2="fff0e0a5" 
+    color="FFF4C430" color2="FF5C4033" 
   />
+  <!-- yellow - brown -->
 
   <Faction id="clan_pech_5"
     name="{=clan_pech_5}Erdem"
@@ -61,7 +65,8 @@
     super_faction="Kingdom.pecheneg"
     is_noble="true"
     banner_key="11.27.19.1836.1836.764.764.1.0.-30.510.100.116.553.305.987.764.0.1.90.514.100.116.188.232.806.764.0.1.270.503.100.116.192.192.849.764.0.1.270.514.27.116.98.121.823.764.0.1.270.503.27.116.100.100.846.764.0.1.270.510.100.116.314.305.632.847.0.0.218.510.100.116.314.305.632.680.0.1.142"
-    color="ffefece5" color2="ffd7967a" 
+    color="FFF4EBD0" color2="FF1F305E" 
   />
+  <!-- white - blue -->
 
 </Factions>
