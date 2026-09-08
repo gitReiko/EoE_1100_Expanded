@@ -1,26 +1,32 @@
 
-### Version 1.0.2 for EoE 1100 1.4.5.1
+### Version 1.1.0 for EoE 1100 1.4.5.1
 
 ### Summary
 
 Official submod for EoE 1100, which extends EoE with new features that increase minimum system requirements. 
 
-### Update 1.0.2
+### Update 1.1.0
 
-- Borko banner recolor
-- Compatibility with EoE 1.4.5.1 and Bannerlord 1.4.5
-- Juterbog culture changed
-- Toulouse settlements improvement
+- crash fix for latest patches
+- England kingdom rework
+- new kingdoms (Normandy, Serbia)
+- new lords (Scotland, England)
+- delete asterisks from the lords names (for compatibility with other mods)
+- Arnmødling banner improvement
+- banners rework (Aestians, Chernogov, Cumans, Curonians, Finns, Halych, Hungary, Jatvingians, Karelians, Kordno, Kyiv, Latgalians, Lithuanians, Pereiaslav, Polack, Poland, Prussians, Tavastians, Volhynia, Zemaitians, Zemgalians)
+- clans recolor
 
 ### New features
 
-- 16 new kingdoms (Aquitaine, Bavaria, Bohemia, Bretagne, Croatia, HRE Crown, Netherlands, Pisa, Pomerania, Portugal, Saxony, Swabia, Toulouse, Wales, Wends)
-- 106 new clans
-- 535 new lords
+- 18 new kingdoms (Aquitaine, Bavaria, Bohemia, Bretagne, Croatia, Netherlands, Normandy, Pisa, Pomerania, Portugal, Saxony, Serbia, Swabia, Toulouse, Wales, Wends)
+- kingdom reworks (England, France, HRE)
+- 127+ new clans
+- 739+ new lords
 - partial rework of kingdom banners  
 - new names for 5 cultures (French, German, South Slavic, Turkic, West Slavic)
 - kingdom names rework to single style
-- new lords and clan for the Pechenegs
+- new clans (Pechenegs, Norway)
+- new lords (Pechenegs, Scottland)
 - other
 
 ### Technical support and communication
@@ -39,9 +45,12 @@ Discuss mod, make suggestions, and much more on the Discord channel.
 2. Native, Sandbox, etc
 3. ANY OTHER MODS (including Erik's dependencies)
 4. [Empires of Europe 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/4867)
-5. [Erik's Troops (Optional)](https://www.nexusmods.com/mountandblade2bannerlord/mods/5475)
-6. Europe 1100 Expanded
-7. [Snowballing Kingdoms - EoE 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/7715)
+5. Europe 1100 Expanded
+6. [Snowballing Kingdoms - EoE 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/7715)
+
+### Erik's Troops
+
+It's not recommended because these are two overhauls that modify the same things, so there are a lot of conflicts. Although the game might still run.
 
 ### Snowball dependency
 
@@ -53,12 +62,12 @@ Snowball adds new clans to kingdoms that conquer new settlements. This allows yo
 
 Allows you to start playing for your favorite clan in the game. Join a kingdom or lead it.
 
+2. [Kingdom Borders](https://www.nexusmods.com/mountandblade2bannerlord/mods/10699)
+
 ### My future plans
 
-- update my translations into Belarusian
 - add and rework settlements to suit the needs of the mod
 - add regional troop trees for cultures
-- add Serbia kingdom (it was originally planned, but due to the impossibility of changing settlements, it has been postponed for the future.)
 - move changes that do not increase system requirements to EoE 1100
 - improve banners of all remaining kingdoms
 - improve existing clans (add lords, etc.)

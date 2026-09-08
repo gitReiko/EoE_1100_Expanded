@@ -102,20 +102,20 @@
   <string id="lord_bohemia_3a" text="Mutina"/>
   <string id="lord_bohemia_3b" text="Česta"/>
   <string id="lord_bohemia_3c" text="Jan"/>
-  <string id="lord_bohemia_3d" text="Kateřina*"/>
+  <string id="lord_bohemia_3d" text="Kateřina"/>
   <string id="lord_bohemia_3e" text="Bořut"/>
   <string id="lord_bohemia_3f" text="Čeč"/>
   <string id="lord_bohemia_3g" text="Nemoj"/>
   <string id="lord_bohemia_4a" text="Dětřišek"/>
-  <string id="lord_bohemia_4b" text="Marketa*"/>
+  <string id="lord_bohemia_4b" text="Marketa"/>
   <string id="lord_bohemia_4c" text="Budislav"/>
-  <string id="lord_bohemia_4d" text="Ctibor*"/>
-  <string id="lord_bohemia_4e" text="Jitka*"/>
-  <string id="lord_bohemia_4f" text="Dorota*"/>
+  <string id="lord_bohemia_4d" text="Ctibor"/>
+  <string id="lord_bohemia_4e" text="Jitka"/>
+  <string id="lord_bohemia_4f" text="Dorota"/>
   <string id="lord_bohemia_5a" text="Diviš"/>
-  <string id="lord_bohemia_5b" text="Eliska*"/>
-  <string id="lord_bohemia_5c" text="Zdeslav*"/>
-  <string id="lord_bohemia_5d" text="Jaroslav*"/>
+  <string id="lord_bohemia_5b" text="Eliska"/>
+  <string id="lord_bohemia_5c" text="Zdeslav"/>
+  <string id="lord_bohemia_5d" text="Jaroslav"/>
   <!--input/lords_main/lords_bretagne.xml-->
   <string id="lord_bretagne_1a" text="Alan IV de Cornouaille"/>
   <string id="lord_bretagne_1b" text="Ermengarde d'Anjou"/>
@@ -160,7 +160,7 @@
   <string id="lord_castile_new_4e" text="Alfonso González de Lara"/>
   <!--input/lords_main/lords_croatia.xml-->
   <string id="lord_croatian_1a.name" text="Petar"/>
-  <string id="lord_croatian_1b" text="Jelena*"/>
+  <string id="lord_croatian_1b" text="Jelena"/>
   <string id="lord_croatian_1c.name" text="Juraj"/>
   <string id="lord_croatian_1d.name" text="Pribislav Čudomirić"/>
   <string id="lord_croatian_1e.name" text="Ugrin Kukar"/>
@@ -168,24 +168,24 @@
   <string id="lord_croatian_1j.name" text="Pribislav Poletčić"/>
   <string id="lord_croatian_2a.name" text="Dujam"/>
   <string id="lord_croatian_2b.name" text="Mirta"/>
-  <string id="lord_croatian_2c.name" text="Domagoj*"/>
-  <string id="lord_croatian_2d.name" text="Radomira*"/>
+  <string id="lord_croatian_2c.name" text="Domagoj"/>
+  <string id="lord_croatian_2d.name" text="Radomira"/>
   <string id="lord_croatian_3a.name" text="Petar"/>
-  <string id="lord_croatian_3b.name" text="Dragana*"/>
-  <string id="lord_croatian_3c.name" text="Dmitar*"/>
-  <string id="lord_croatian_3d.name" text="Ratko*"/>
+  <string id="lord_croatian_3b.name" text="Dragana"/>
+  <string id="lord_croatian_3c.name" text="Dmitar"/>
+  <string id="lord_croatian_3d.name" text="Ratko"/>
   <string id="lord_croatian_4a.name" text="Mrmonja"/>
-  <string id="lord_croatian_4b.name" text="Katarina*"/>
-  <string id="lord_croatian_4c.name" text="Stjepan*"/>
-  <string id="lord_croatian_4d.name" text="Mladen*"/>
+  <string id="lord_croatian_4b.name" text="Katarina"/>
+  <string id="lord_croatian_4c.name" text="Stjepan"/>
+  <string id="lord_croatian_4d.name" text="Mladen"/>
   <string id="lord_croatian_5a.name" text="Pavao"/>
-  <string id="lord_croatian_5b.name" text="Marija*"/>
-  <string id="lord_croatian_5c.name" text="Petar*"/>
-  <string id="lord_croatian_5d.name" text="Grgur*"/>
+  <string id="lord_croatian_5b.name" text="Marija"/>
+  <string id="lord_croatian_5c.name" text="Petar"/>
+  <string id="lord_croatian_5d.name" text="Grgur"/>
   <string id="lord_croatian_6a.name" text="Juraj"/>
-  <string id="lord_croatian_6b.name" text="Dobroslava*"/>
-  <string id="lord_croatian_6c.name" text="Miroslav*"/>
-  <string id="lord_croatian_6d.name" text="Andrija*"/>
+  <string id="lord_croatian_6b.name" text="Dobroslava"/>
+  <string id="lord_croatian_6c.name" text="Miroslav"/>
+  <string id="lord_croatian_6d.name" text="Andrija"/>
   <!--input/lords_main/lords_danish.xml-->
   <string id="lord_danish_new_2a" text="Harald Bjørnsson"/>
   <string id="lord_danish_new_2b" text="Bjørn Haraldsson"/>
@@ -305,8 +305,8 @@
   <string id="lord_netherlands_2a" text="Floris II van Holland"/>
   <string id="lord_netherlands_2b" text="Petronilla van Lotharingen"/>
   <string id="lord_netherlands_2c" text="Dirk V van Holland"/>
-  <string id="lord_netherlands_2d" text="Floris*"/>
-  <string id="lord_netherlands_2e" text="Simon*"/>
+  <string id="lord_netherlands_2d" text="Floris"/>
+  <string id="lord_netherlands_2e" text="Simon"/>
   <string id="lord_netherlands_3a" text="Gerard I van Gelre"/>
   <string id="lord_netherlands_3b" text="Gerard III van Wassenberg"/>
   <string id="lord_netherlands_3c" text="Gosewijn I van Valkenburg"/>
@@ -316,11 +316,11 @@
   <string id="lord_netherlands_3g" text="Adelheid van Gelre"/>
   <string id="lord_netherlands_3h" text="Yolanda van Gelre"/>
   <string id="lord_netherlands_3k" text="Gerard II van Gelre"/>
-  <string id="lord_netherlands_4a" text="Ocko tom Brok*"/>
-  <string id="lord_netherlands_4b" text="Gela van Norden*"/>
-  <string id="lord_netherlands_4c" text="Keno tom Brok*"/>
-  <string id="lord_netherlands_4d" text="Mammo van Esens*"/>
-  <string id="lord_netherlands_4e" text="Remmer van Pewsum*"/>
+  <string id="lord_netherlands_4a" text="Ocko tom Brok"/>
+  <string id="lord_netherlands_4b" text="Gela van Norden"/>
+  <string id="lord_netherlands_4c" text="Keno tom Brok"/>
+  <string id="lord_netherlands_4d" text="Mammo van Esens"/>
+  <string id="lord_netherlands_4e" text="Remmer van Pewsum"/>
   <string id="lord_netherlands_5a" text="Robrecht II van Jeruzalem"/>
   <string id="lord_netherlands_5b" text="Clementia van Bourgondië"/>
   <string id="lord_netherlands_5c" text="Robrecht I van Vlaanderen"/>
@@ -331,46 +331,46 @@
   <string id="lord_pereiaslav_1j_dead.name" text="Vsevolod I Iaroslavych"/>
   <!--input/lords_main/lords_pisa.xml-->
   <string id="lord_pisa_1a" text="Lanfranco il Vecchio"/>
-  <string id="lord_pisa_1b" text="Caterina*"/>
+  <string id="lord_pisa_1b" text="Caterina"/>
   <string id="lord_pisa_1c" text="Bonifacio Lanfranchi"/>
   <string id="lord_pisa_1d" text="Lanfranco di Pisa"/>
   <string id="lord_pisa_1e" text="Dagoberto Lanfranchi"/>
   <string id="lord_pisa_2a" text="Tedicio della Gherardesca"/>
   <string id="lord_pisa_2b" text="Galvano della Gherardesca"/>
-  <string id="lord_pisa_2c" text="Giovanna*"/>
+  <string id="lord_pisa_2c" text="Giovanna"/>
   <string id="lord_pisa_2d" text="Pietro della Gherardesca"/>
   <string id="lord_pisa_2e" text="Gherardo di Bizerno"/>
   <string id="lord_pisa_3a" text="Orlando di Pescia"/>
-  <string id="lord_pisa_3b" text="Lucia*"/>
+  <string id="lord_pisa_3b" text="Lucia"/>
   <string id="lord_pisa_3c" text="Guglielmo di Pescia"/>
   <string id="lord_pisa_4a" text="Gregorio Gaetani"/>
-  <string id="lord_pisa_4b" text="Agnese*"/>
+  <string id="lord_pisa_4b" text="Agnese"/>
   <string id="lord_pisa_4c" text="Pietro Gaetani"/>
   <string id="lord_pisa_4d" text="Benedetto Gaetani"/>
   <string id="lord_pisa_4e" text="Giovanni Gaetani"/>
   <string id="lord_pisa_5a" text="Aldobrandino Conti"/>
-  <string id="lord_pisa_5b" text="Bona*"/>
+  <string id="lord_pisa_5b" text="Bona"/>
   <string id="lord_pisa_5c" text="Gregorio Conti"/>
   <!--input/lords_main/lords_pomerania.xml-->
   <string id="lord_pomeranian_1a.name" text="Świętobor of Pomerania"/>
   <string id="lord_polish_2b.name" text="Anna"/>
   <string id="lord_polish_2d.name" text="Wartislaw I Świętoborzyc"/>
   <string id="lord_polish_2e.name" text="Racibor I Świętoborzyc"/>
-  <string id="lord_pomeranian_1f.name" text="Gniewosz*"/>
+  <string id="lord_pomeranian_1f.name" text="Gniewosz"/>
   <string id="lord_pomeranian_2a.name" text="Siemomysł II Świętoborzyc"/>
-  <string id="lord_pomeranian_2b.name" text="Milica*"/>
+  <string id="lord_pomeranian_2b.name" text="Milica"/>
   <string id="lord_pomeranian_2c.name" text="Sambor Elder of Gdansk"/>
-  <string id="lord_pomeranian_2d.name" text="Barnim*"/>
-  <string id="lord_pomeranian_2e.name" text="Przemysł*"/>
+  <string id="lord_pomeranian_2d.name" text="Barnim"/>
+  <string id="lord_pomeranian_2e.name" text="Przemysł"/>
   <string id="lord_polish_2c.name" text="Świętopełk Świętoborzyc"/>
-  <string id="lord_pomeranian_3b.name" text="Adelheid*"/>
+  <string id="lord_pomeranian_3b.name" text="Adelheid"/>
   <string id="lord_pomeranian_3c.name" text="Swantibor II the Elder"/>
-  <string id="lord_pomeranian_3d.name" text="Mściwoj*"/>
+  <string id="lord_pomeranian_3d.name" text="Mściwoj"/>
   <string id="lord_polish_7a.name" text="Borko"/>
-  <string id="lord_pomeranian_4b.name" text="Radosława*"/>
-  <string id="lord_pomeranian_4c.name" text="Jaromar*"/>
+  <string id="lord_pomeranian_4b.name" text="Radosława"/>
+  <string id="lord_pomeranian_4c.name" text="Jaromar"/>
   <string id="lord_pomeranian_5a.name" text="Prislav"/>
-  <string id="lord_pomeranian_5b.name" text="Zlatomira*"/>
+  <string id="lord_pomeranian_5b.name" text="Zlatomira"/>
   <string id="lord_pomeranian_5c.name" text="Mitzlaw"/>
   <!--input/lords_main/lords_pope.xml-->
   <string id="lord_pope_5a" text="Pietro Colonna"/>
@@ -546,14 +546,14 @@
   <string id="lord_wendian_2d" text="Paulus"/>
   <string id="lord_wendian_3a" text="Grin"/>
   <string id="lord_wendian_3b" text="Vislaw"/>
-  <string id="lord_wendian_3c" text="Gertrud*"/>
+  <string id="lord_wendian_3c" text="Gertrud"/>
   <string id="lord_wendian_3d" text="Ratislaw"/>
-  <string id="lord_wendian_4a" text="Tugomir*"/>
-  <string id="lord_wendian_4b" text="Veselina*"/>
-  <string id="lord_wendian_4c" text="Boguslav*"/>
-  <string id="lord_wendian_4d" text="Ratimira*"/>
-  <string id="lord_wendian_5a" text="Vyacheslav*"/>
-  <string id="lord_wendian_5b" text="Dragomira*"/>
-  <string id="lord_wendian_5c" text="Mstislav*"/>
+  <string id="lord_wendian_4a" text="Tugomir"/>
+  <string id="lord_wendian_4b" text="Veselina"/>
+  <string id="lord_wendian_4c" text="Boguslav"/>
+  <string id="lord_wendian_4d" text="Ratimira"/>
+  <string id="lord_wendian_5a" text="Vyacheslav"/>
+  <string id="lord_wendian_5b" text="Dragomira"/>
+  <string id="lord_wendian_5c" text="Mstislav"/>
  </strings>
 </base>

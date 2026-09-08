@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_normandy_1a" spouse="Hero.lord_normandy_1b" father="Hero.dead_lord_english_1e" mother="Hero.dead_lord_english_1f" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1b" spouse="Hero.lord_normandy_1a" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1c" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1d" father="Hero.lord_normandy_1c" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1e" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1f" father="Hero.lord_normandy_1e" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1g" faction="Faction.clan_normandy_1" />
+   <Hero id="lord_normandy_1h" father="Hero.lord_normandy_1g" faction="Faction.clan_normandy_1" />
+
+
+   <Hero id="lord_english_7a" spouse="Hero.lord_english_7b" father="Hero.lord_normandy_6b" faction="Faction.clan_english_7" />
+   <Hero id="lord_english_7b" spouse="Hero.lord_english_7a" faction="Faction.clan_english_7" />
+   <Hero id="lord_normandy_2c" mother="Hero.lord_english_7b" father="Hero.lord_english_7a" faction="Faction.clan_english_7" />
+   <Hero id="lord_normandy_2d" mother="Hero.lord_english_7b" father="Hero.lord_english_7a" faction="Faction.clan_english_7" />
+   <Hero id="lord_normandy_2e" mother="Hero.lord_english_7b" father="Hero.lord_english_7a" faction="Faction.clan_english_7" />
+
+
+   <Hero id="lord_english_10a" spouse="Hero.lord_english_10b" faction="Faction.clan_english_10" />
+   <Hero id="lord_english_10b" spouse="Hero.lord_english_10a" faction="Faction.clan_english_10" />
+   <Hero id="lord_normandy_3c" faction="Faction.clan_english_10" />
+   <Hero id="lord_normandy_3d" faction="Faction.clan_english_10" />
+   <Hero id="lord_normandy_3e" faction="Faction.clan_english_10" />
+
+
+   <Hero id="lord_english_11a" spouse="Hero.lord_english_11b" faction="Faction.clan_english_11" />
+   <Hero id="lord_english_11b" spouse="Hero.lord_english_11a" faction="Faction.clan_english_11" />
+   <Hero id="lord_normandy_4c" father="Hero.lord_english_11a" faction="Faction.clan_english_11" />
+   <Hero id="lord_normandy_4d" father="Hero.lord_english_11a" faction="Faction.clan_english_11" />
+   <Hero id="lord_normandy_4e" father="Hero.lord_english_11a" faction="Faction.clan_english_11" />
+
+
+   <Hero id="lord_english_12a" father="Hero.lord_english_12b" faction="Faction.clan_english_12" />
+   <Hero id="lord_english_12b" alive="false" faction="Faction.clan_english_12" />
+   <Hero id="lord_normandy_5c" father="Hero.lord_english_12b" faction="Faction.clan_english_12" />
+   <Hero id="lord_normandy_5d" spouse="Hero.lord_normandy_5e" father="Hero.lord_english_12b" faction="Faction.clan_english_12" />
+   <Hero id="lord_normandy_5e" spouse="Hero.lord_normandy_5d" faction="Faction.clan_english_12" />
+   <Hero id="lord_normandy_5f" mother="Hero.lord_normandy_5e" father="Hero.lord_normandy_5d" faction="Faction.clan_english_12" />
+   <Hero id="lord_normandy_5g" mother="Hero.lord_normandy_5e" father="Hero.lord_normandy_5d" faction="Faction.clan_english_12" />
+
+
+   <Hero id="lord_normandy_6a" father="Hero.lord_normandy_6b" faction="Faction.clan_normandy_6" />
+   <Hero id="lord_normandy_6b" alive="false" faction="Faction.clan_normandy_6" />
+   <Hero id="lord_normandy_6c" father="Hero.lord_normandy_6b" faction="Faction.clan_normandy_6" />
+   <Hero id="lord_normandy_6d" father="Hero.lord_normandy_6b" faction="Faction.clan_normandy_6" />
+   <Hero id="lord_normandy_6e" faction="Faction.clan_normandy_6" />
+   <Hero id="lord_normandy_6f" faction="Faction.clan_normandy_6" />
+
+
+   <Hero id="lord_normandy_7a" spouse="Hero.lord_normandy_7b" faction="Faction.clan_normandy_7" />
+   <Hero id="lord_normandy_7b" spouse="Hero.lord_normandy_7a" faction="Faction.clan_normandy_7" />
+   <Hero id="lord_normandy_7c" father="Hero.lord_normandy_7a" mother="Hero.lord_normandy_7b" faction="Faction.clan_normandy_7" />
+   <Hero id="lord_normandy_7d" father="Hero.lord_normandy_7a" mother="Hero.lord_normandy_7b" faction="Faction.clan_normandy_7" />
+   <Hero id="lord_normandy_7e" faction="Faction.clan_normandy_7" />
+
+
+   <Hero id="lord_normandy_8a" spouse="Hero.lord_normandy_8b" faction="Faction.clan_normandy_8" />
+   <Hero id="lord_normandy_8b" spouse="Hero.lord_normandy_8a" faction="Faction.clan_normandy_8" />
+   <Hero id="lord_normandy_8c" father="Hero.lord_normandy_8a" mother="Hero.lord_normandy_8b" faction="Faction.clan_normandy_8" />
+   <Hero id="lord_normandy_8d" father="Hero.lord_normandy_8a" mother="Hero.lord_normandy_8b" faction="Faction.clan_normandy_8" />
+
+
+</Heroes>

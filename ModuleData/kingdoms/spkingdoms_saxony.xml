@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+    <Kingdom id="saxony" 
+			 owner="Hero.lord_german_22a" 
+		     initial_home_settlement="Settlement.town_bremen" 
+			 banner_key="11.155.19.1836.1836.764.764.1.0.0.505.14.116.481.200.763.587.0.1.0.505.14.116.487.119.763.805.0.1.90.505.14.116.420.119.920.757.0.1.90.505.14.116.420.119.606.757.0.1.90.503.14.116.119.119.606.939.0.1.90.503.14.116.119.119.920.939.0.1.90.503.14.116.119.119.763.1006.0.1.90.503.155.116.59.59.684.675.0.1.90.503.155.116.59.59.842.675.0.1.90.503.155.116.134.189.684.507.0.1.90.503.155.116.134.189.842.507.0.1.90.503.14.116.108.108.763.505.0.1.90.503.155.116.43.43.763.505.0.1.90.503.14.116.108.108.955.505.0.1.90.503.155.116.43.43.955.505.0.1.90.503.14.116.108.108.571.505.0.1.90.503.155.116.43.43.571.505.0.1.90" 
+			 primary_banner_color="0xFFA9161C" 
+			 secondary_banner_color="0xFFDAA520" 
+			 color="FFA9161C" 
+			 color2="FFDAA520" 
+			 culture="Culture.german" 
+			 settlement_banner_mesh="encounter_flag_a" 
+			 flag_mesh="info_screen_flags_a" 
+			 name="{=saxony_kingdom_name}Duchy of Saxony" 
+			 short_name="{=saxony_kingdom_short_name}Saxony" 
+			 title="{=saxony_kingdom_title}Duchy of Saxony" 
+			 ruler_title="{=saxony_ruler_title}Duke" 
+			 text="{=saxony_kingdom_text}In the 12th century, Saxony was one of the most powerful and influential duchies within the Holy Roman Empire. A few decades earlier, between 1073 and 1075, the region had risen in open rebellion against Emperor Henry IV, driven by his attempts to centralize authority and by the heavy exploitation of Saxon lands. The conflict left deep scars and shaped Saxony’s political landscape for generations. Around 1100, the duchy was ruled by Magnus Billung, the last male heir of the long‑standing Billung dynasty. His death in 1106 ended the family’s rule and opened the way for a new political order. Power passed to Lothar von Supplinburg, a skilled and ambitious nobleman who would later ascend to the imperial throne as Holy Roman Emperor. His rise strengthened Saxony’s prestige but also intensified rivalries among the local nobility, as various families competed for influence under the new regime. These internal tensions, combined with the growing ambitions of neighboring principalities, gradually weakened the unity of the duchy. Over time, Saxony began to fragment into smaller territorial lordships, a process that would continue throughout the 12th and 13th centuries and eventually reshape the political map of northern Germany.">
+    <relationships>
+    </relationships>
+    <policies>
+    </policies>
+  </Kingdom> 
+</Kingdoms>

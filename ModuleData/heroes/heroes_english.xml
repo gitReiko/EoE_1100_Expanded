@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_english_1a" spouse="Hero.lord_english_1b" father="Hero.dead_lord_english_1e" mother="Hero.dead_lord_english_1f" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1b" spouse="Hero.lord_english_1a" father="Hero.lord_scottish_1b" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1c" father="Hero.lord_english_1a" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1d" faction="Faction.clan_english_1" />
+   <Hero id="dead_lord_english_1e" alive="false" spouse="Hero.dead_lord_english_1f" faction="Faction.clan_english_1" />
+   <Hero id="dead_lord_english_1f" alive="false" spouse="Hero.dead_lord_english_1e" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1g" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1h" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1i" faction="Faction.clan_english_1" />
+   <Hero id="lord_english_1j" faction="Faction.clan_english_1" />
+
+
+   <Hero id="lord_english_2a" spouse="Hero.lord_english_2b" father="Hero.lord_english_2c" faction="Faction.clan_english_2" />
+   <Hero id="lord_english_2b" spouse="Hero.lord_english_2a" faction="Faction.clan_english_2" />
+   <Hero id="lord_english_2c" alive="false" faction="Faction.clan_english_2" />
+   <Hero id="lord_english_2d" father="Hero.lord_english_2c" faction="Faction.clan_english_2" />
+   <Hero id="lord_english_2e" father="Hero.lord_english_2c" faction="Faction.clan_english_2" />
+   <Hero id="lord_english_2f" father="Hero.lord_english_2a" mother="Hero.lord_english_2b" faction="Faction.clan_english_2" />
+
+
+   <Hero id="lord_english_3a" spouse="Hero.lord_english_3b" father="Hero.lord_english_3c" faction="Faction.clan_english_3" />
+   <Hero id="lord_english_3b" spouse="Hero.lord_english_3a" faction="Faction.clan_english_3" />
+   <Hero id="lord_english_3c" alive="false" faction="Faction.clan_english_3" />
+   <Hero id="lord_english_3d" father="Hero.lord_english_3c" faction="Faction.clan_english_3" />
+   <Hero id="lord_english_3e" faction="Faction.clan_english_3" />
+
+
+   <Hero id="lord_english_4a" spouse="Hero.lord_english_4b" father="Hero.lord_english_4c" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4b" spouse="Hero.lord_english_4a" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4c" alive="false" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4d" father="Hero.lord_english_4c" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4e" father="Hero.lord_english_4a" mother="Hero.lord_english_4b" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4f" faction="Faction.clan_english_4" />
+   <Hero id="lord_english_4g" faction="Faction.clan_english_4" />
+
+
+   <Hero id="lord_english_5a" father="Hero.lord_english_5b" faction="Faction.clan_english_5" />
+   <Hero id="lord_english_5b" alive="false" faction="Faction.clan_english_5" />
+   <Hero id="lord_english_5c" father="Hero.lord_english_5b" faction="Faction.clan_english_5" text="{=lord_english_5c.text}The exact name of Herbert de Losinga's brother is unknown. Historical records only preserve the initial G." />
+   <Hero id="lord_english_5d" faction="Faction.clan_english_5" />
+
+
+   <Hero id="lord_english_6a" spouse="Hero.lord_english_6b" father="Hero.lord_english_6e" faction="Faction.clan_english_6" />
+   <Hero id="lord_english_6b" spouse="Hero.lord_english_6a" faction="Faction.clan_english_6" />
+   <Hero id="lord_english_6c" father="Hero.lord_english_6a" mother="Hero.lord_english_6b" faction="Faction.clan_english_6" />
+   <Hero id="lord_english_6d" father="Hero.lord_english_6e" faction="Faction.clan_english_6" />
+   <Hero id="lord_english_6e" alive="false" faction="Faction.clan_english_6" />
+   <Hero id="lord_english_6f" faction="Faction.clan_english_6" />
+
+
+   <Hero id="lord_english_8a" spouse="Hero.lord_english_8b" faction="Faction.clan_english_8" />
+   <Hero id="lord_english_8b" spouse="Hero.lord_english_8a" faction="Faction.clan_english_8" />
+   <Hero id="lord_english_8c" father="Hero.lord_english_8a" mother="Hero.lord_english_8b" faction="Faction.clan_english_8" />
+   <Hero id="lord_english_8d" father="Hero.lord_english_8a" mother="Hero.lord_english_8b" faction="Faction.clan_english_8" />
+   <Hero id="lord_english_8e" faction="Faction.clan_english_8" />
+   <Hero id="lord_english_8f" faction="Faction.clan_english_8" />
+
+
+   <Hero id="lord_english_9a" spouse="Hero.lord_english_9b" faction="Faction.clan_english_9" />
+   <Hero id="lord_english_9b" spouse="Hero.lord_english_9a" faction="Faction.clan_english_9" />
+   <Hero id="lord_english_9c" father="Hero.lord_english_9a" mother="Hero.lord_english_9b" faction="Faction.clan_english_9" />
+   <Hero id="lord_english_9d" father="Hero.lord_english_9a" mother="Hero.lord_english_9b" faction="Faction.clan_english_9" />
+   <Hero id="lord_english_9e" faction="Faction.clan_english_9" />
+
+
+</Heroes>

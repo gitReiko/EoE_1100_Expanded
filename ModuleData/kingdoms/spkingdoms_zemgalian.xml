@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+	<Kingdom id="zemgalian"
+		name="{=zemgalian_kingdom_name}Chiefdom of Zemgalians"
+		short_name="{=zemgalian_kingdom_short_name}Zemgalians"
+		title="{=zemgalian_kingdom_title}Chiefdom of Zemgalians"
+		ruler_title="{=zemgalian_ruler_title}Chieftan"
+		banner_key="11.155.48.1836.1836.767.764.1.0.0.510.27.116.179.263.763.763.0.0.0.510.27.116.179.263.763.763.0.0.90.510.27.116.179.263.960.763.0.0.0.510.27.116.179.263.960.763.0.0.90.510.27.116.179.263.565.763.0.0.0.510.27.116.179.263.565.763.0.0.90.510.27.116.179.263.763.961.0.0.0.510.27.116.179.263.763.961.0.0.90.510.27.116.179.263.763.566.0.0.0.510.27.116.179.263.763.566.0.0.90"
+		primary_banner_color="0xFFCC7722" 
+		secondary_banner_color="0xFFD2B48C" 
+		color="FFCC7722" 
+		color2="FFD2B48C" 
+	></Kingdom>
+</Kingdoms>

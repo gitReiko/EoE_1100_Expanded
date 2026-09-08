@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+
+   <Hero id="lord_irish_6a" faction="Faction.clan_irish_6" />
+   <Hero id="lord_irish_6b" father="Hero.lord_irish_6a" faction="Faction.clan_irish_6" />
+   <Hero id="lord_irish_6c" father="Hero.lord_irish_6a" faction="Faction.clan_irish_6" />
+   <Hero id="lord_connacht_1d" faction="Faction.clan_irish_6" />
+   <Hero id="lord_connacht_1e" father="Hero.lord_connacht_1d" faction="Faction.clan_irish_6" />
+   <Hero id="lord_connacht_1f" faction="Faction.clan_irish_6" />
+   <Hero id="lord_connacht_1g" faction="Faction.clan_irish_6" />
+
+
+   <Hero id="lord_irish_3a" spouse="Hero.lord_irish_3b" faction="Faction.clan_irish_3" />
+   <Hero id="lord_irish_3b" spouse="Hero.lord_irish_3a" faction="Faction.clan_irish_3" />
+   <Hero id="lord_connacht_2c" faction="Faction.clan_irish_3" />
+   <Hero id="lord_connacht_2d" faction="Faction.clan_irish_3" />
+   <Hero id="lord_connacht_2e" faction="Faction.clan_irish_3" />
+   <Hero id="lord_connacht_2f" faction="Faction.clan_irish_3" />
+
+
+   <Hero id="lord_connacht_3a" spouse="Hero.lord_connacht_3b" faction="Faction.clan_connacht_3" />
+   <Hero id="lord_connacht_3b" spouse="Hero.lord_connacht_3a" faction="Faction.clan_connacht_3" />
+   <Hero id="lord_connacht_3c" faction="Faction.clan_connacht_3" />
+   <Hero id="lord_connacht_3d" faction="Faction.clan_connacht_3" />
+   <Hero id="lord_connacht_3e" faction="Faction.clan_connacht_3" />
+
+
+   <Hero id="lord_connacht_4a" faction="Faction.clan_connacht_4" />
+   <Hero id="lord_connacht_4b" faction="Faction.clan_connacht_4" />
+   <Hero id="lord_connacht_4c" faction="Faction.clan_connacht_4" />
+   <Hero id="lord_connacht_4d" faction="Faction.clan_connacht_4" />
+   <Hero id="lord_connacht_4e" faction="Faction.clan_connacht_4" />
+
+
+</Heroes>
