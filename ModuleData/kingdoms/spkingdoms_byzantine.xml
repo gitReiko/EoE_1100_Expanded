@@ -4,6 +4,11 @@
 		name="{=byzantine_empire_name}Empire of Rhomania" 
 		short_name="{=byzantine_empire_short_name}Rhomania" 
 		title="{=byzantine_empire_title}Empire of Rhomania" 
-		ruler_title="{=byzantine_ruler_title}Basileus"  
+		ruler_title="{=byzantine_ruler_title}Basileus" 
+		banner_key="11.142.40.3770.3770.779.782.1.0.-30.505.155.116.4363.141.764.764.0.0.0.505.155.116.4363.141.764.764.0.0.90.503.155.116.150.150.584.584.0.0.90.503.155.116.150.150.944.584.0.0.90.503.155.116.150.150.944.944.0.0.90.503.155.116.150.150.584.944.0.0.90"
+		primary_banner_color="0xFF411443" 
+		secondary_banner_color="0xFFDAA520" 
+		color="FF411443" 
+		color2="FFDAA520" 
 	></Kingdom>
 </Kingdoms>
