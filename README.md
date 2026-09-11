@@ -8,6 +8,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 ### Update 1.1.1
 
 - banners rework (Byzantine)
+- clans and lords tune (Byzantine)
 
 ### New features
 
