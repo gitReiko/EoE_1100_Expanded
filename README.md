@@ -14,6 +14,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 - 18 new kingdoms (Aquitaine, Bavaria, Bohemia, Bretagne, Croatia, Netherlands, Normandy, Pisa, Pomerania, Portugal, Saxony, Serbia, Swabia, Toulouse, Wales, Wends)
 - kingdom reworks (England, France, HRE)
+- partial kingdoms rework (Byzantine)
 - 127+ new clans
 - 739+ new lords
 - partial rework of kingdom banners  
