@@ -201,7 +201,7 @@
 
   <Settlement id="castle_caen" owner="Faction.clan_english_7"></Settlement>
 
-  <Settlement id="castle_exeter" name="{=town_exeter_name}Exeter" owner="Faction.clan_english_12" posX="176.402" posY="1091.183" culture="Culture.welsh" gate_posX="177.2635" gate_posY="1092.72" text="{=town_exeter_text}York text...">
+  <Settlement id="castle_exeter" name="{=town_exeter_name}Exeter" owner="Faction.clan_english_12" posX="176.402" posY="1091.183" culture="Culture.welsh" gate_posX="177.2635" gate_posY="1092.72" text="{=town_exeter_text}Exeter text...">
     <Components>
       <Town id="castle_comp_exeter" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="2500">
         <Buildings>
