@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_byzantine_1a" spouse="Hero.lord_byzantine_1b" faction="Faction.clan_byzantine_1" text="{=lord_byzantine_1a.text}Alexios I Komnenos was Byzantine emperor from 1081 to 1118. Although he was not the first emperor of the Komnenian dynasty, it was during his reign that the Komnenos family came to full power and initiated a hereditary succession to the throne. Inheriting a collapsing empire and faced with constant warfare during his reign against both the Seljuq Turks in Asia Minor and the Normans in the western Balkans, Alexios was able to curb the Byzantine decline and begin the military, financial, and territorial recovery known as the Komnenian restoration. His appeals to Western Europe for help against the Turks were also the catalyst that contributed to the convoking of the Crusades." />
+   <Hero id="lord_byzantine_1b" spouse="Hero.lord_byzantine_1a" faction="Faction.clan_byzantine_1" />
+   <Hero id="lord_byzantine_1c" father="Hero.lord_byzantine_1a" mother="Hero.lord_byzantine_1b" faction="Faction.clan_byzantine_1" />
+   <Hero id="lord_byzantine_1d" father="Hero.lord_byzantine_1a" mother="Hero.lord_byzantine_1b" faction="Faction.clan_byzantine_1" />
+
+
+   <Hero id="lord_byzantine_2a" spouse="Hero.lord_byzantine_2b" faction="Faction.clan_byzantine_2" />
+   <Hero id="lord_byzantine_2b" spouse="Hero.lord_byzantine_2a" faction="Faction.clan_byzantine_2" />
+
+
+   <Hero id="lord_byzantine_3a" spouse="Hero.lord_byzantine_3b" faction="Faction.clan_byzantine_3" />
+   <Hero id="lord_byzantine_3b" spouse="Hero.lord_byzantine_3a" faction="Faction.clan_byzantine_3" />
+
+
+   <Hero id="lord_byzantine_4a" spouse="Hero.lord_byzantine_4b" faction="Faction.clan_byzantine_4" />
+   <Hero id="lord_byzantine_4b" spouse="Hero.lord_byzantine_4a" faction="Faction.clan_byzantine_4" />
+   <Hero id="lord_byzantine_4c" father="Hero.lord_byzantine_4a" mother="Hero.lord_byzantine_4a" faction="Faction.clan_byzantine_4" />
+
+
+   <Hero id="lord_byzantine_5a" spouse="Hero.lord_byzantine_5b" faction="Faction.clan_byzantine_5" />
+   <Hero id="lord_byzantine_5b" spouse="Hero.lord_byzantine_5a" faction="Faction.clan_byzantine_5" />
+
+
+   <Hero id="lord_byzantine_6a" faction="Faction.clan_byzantine_6" />
+
+
+   <Hero id="lord_byzantine_7a" spouse="Hero.lord_byzantine_7b" faction="Faction.clan_byzantine_7" />
+   <Hero id="lord_byzantine_7b" spouse="Hero.lord_byzantine_7a" faction="Faction.clan_byzantine_7" />
+
+
+   <Hero id="lord_byzantine_8a" spouse="Hero.lord_byzantine_8b" faction="Faction.clan_byzantine_8" />
+   <Hero id="lord_byzantine_8b" spouse="Hero.lord_byzantine_8a" faction="Faction.clan_byzantine_8" />
+
+
+   <Hero id="lord_byzantine_9a" spouse="Hero.lord_byzantine_9b" faction="Faction.clan_byzantine_9" />
+   <Hero id="lord_byzantine_9b" spouse="Hero.lord_byzantine_9a" faction="Faction.clan_byzantine_9" />
+
+
+   <Hero id="lord_byzantine_10a" spouse="Hero.lord_byzantine_10b" faction="Faction.clan_byzantine_10" />
+   <Hero id="lord_byzantine_10b" spouse="Hero.lord_byzantine_10a" faction="Faction.clan_byzantine_10" />
+
+
+   <Hero id="lord_byzantine_11a" spouse="Hero.lord_byzantine_11b" faction="Faction.clan_byzantine_11" />
+   <Hero id="lord_byzantine_11b" spouse="Hero.lord_byzantine_11a" faction="Faction.clan_byzantine_11" />
+
+
+   <Hero id="lord_byzantine_12a" spouse="Hero.lord_byzantine_12b" faction="Faction.clan_byzantine_12" />
+   <Hero id="lord_byzantine_12b" spouse="Hero.lord_byzantine_12a" faction="Faction.clan_byzantine_12" />
+
+
+   <Hero id="lord_byzantine_13a" spouse="Hero.lord_byzantine_13b" faction="Faction.clan_byzantine_13" />
+   <Hero id="lord_byzantine_13b" spouse="Hero.lord_byzantine_13a" faction="Faction.clan_byzantine_13" />
+
+
+   <Hero id="lord_byzantine_14a" spouse="Hero.lord_byzantine_14b" faction="Faction.clan_byzantine_14" />
+   <Hero id="lord_byzantine_14b" spouse="Hero.lord_byzantine_14a" faction="Faction.clan_byzantine_14" />
+
+
+</Heroes>

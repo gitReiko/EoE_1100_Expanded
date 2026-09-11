@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+    <NPCCharacter id="lord_byzantine_1a" name="{=Alexios I}Alexios I" voice="softspoken" age="43" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.6788" build="0.5857" key="0013A0034044330F8966A55A81687688B4988466926B4256E9D6B4326D6777B70079A6030787478700000000000000000000000000000000000000003AEC8082" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="300" />
+            <skill id="Medicine" value="225" />
+            <skill id="Leadership" value="300" />
+            <skill id="Steward" value="300" />
+            <skill id="Trade" value="200" />
+            <skill id="Charm" value="250" />
+            <skill id="Roguery" value="225" />
+            <skill id="Scouting" value="250" />
+            <skill id="Tactics" value="300" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="250" />
+            <skill id="Riding" value="275" />
+            <skill id="Throwing" value="100" />
+            <skill id="Crossbow" value="125" />
+            <skill id="Bow" value="150" />
+            <skill id="Polearm" value="250" />
+            <skill id="TwoHanded" value="150" />
+            <skill id="OneHanded" value="275" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="1" />
+            <Trait id="Valor" value="2" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="2" />
+            <Trait id="Egalitarian" value="1" />
+            <Trait id="Oligarchic" value="1" />
+            <Trait id="Authoritarian" value="2" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="byzantine_king" />
+            <EquipmentSet id="byzantine_king_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_1b" name="{=Eirene Doukaina}Eirene Doukaina" default_group="Cavalry" age="34" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.1181" build="0.5857" key="0013A0034044300F8966A55A81687688B4988466926B4256E9D6B4326D6777B7007926030787478700000000000000000000000000000000000000003AEC4083" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="100" />
+            <skill id="Steward" value="100" />
+            <skill id="Trade" value="225" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="75" />
+            <skill id="Scouting" value="50" />
+            <skill id="Tactics" value="0" />
+            <skill id="Crafting" value="0" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="125" />
+            <skill id="Throwing" value="100" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="150" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="50" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="2" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="2" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="2" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="2" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="byzantine_queen" />
+            <EquipmentSet id="byzantine_queen_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_1c" name="{=John II}Ioannis II" voice="softspoken" age="18" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.4755" build="0.3195" key="0018C00E40002689671485A87715435B6392347C5C6C681643DB7B99496377BC00C576030C8D868400000000000000000000000000000000000000003B847102" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="150" />
+            <skill id="Steward" value="175" />
+            <skill id="Trade" value="0" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="150" />
+            <skill id="Scouting" value="125" />
+            <skill id="Tactics" value="225" />
+            <skill id="Crafting" value="25" />
+            <skill id="Athletics" value="150" />
+            <skill id="Riding" value="250" />
+            <skill id="Throwing" value="75" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="250" />
+            <skill id="TwoHanded" value="200" />
+            <skill id="OneHanded" value="175" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="-2" />
+            <Trait id="Egalitarian" value="1" />
+            <Trait id="Oligarchic" value="1" />
+            <Trait id="Authoritarian" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_1d" name="{=Anna}Anna" default_group="Cavalry" age="18" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.4755" build="0.3195" key="0018C00E4000300F671485A87715435B6392347C5C6C681643DB7B99496377BC00457603048D868400000000000000000000000000000000000000003A7C4083" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="75" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="50" />
+            <skill id="Steward" value="150" />
+            <skill id="Trade" value="75" />
+            <skill id="Charm" value="150" />
+            <skill id="Roguery" value="150" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="25" />
+            <skill id="Crafting" value="25" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="100" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="25" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="2" />
+            <Trait id="Egalitarian" value="1" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_2a" name="{=Ioannis}Ioannis" voice="softspoken" age="36" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.4755" build="0.6588" key="0023AC0A40FC29DAAA468586792479566C5C37C98686B62C7D9167B58566A6C900BA76030B92745A000000000000000000000000000000000000000025843002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="175" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="200" />
+            <skill id="Steward" value="175" />
+            <skill id="Trade" value="100" />
+            <skill id="Charm" value="175" />
+            <skill id="Roguery" value="300" />
+            <skill id="Scouting" value="175" />
+            <skill id="Tactics" value="250" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="250" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="50" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="275" />
+            <skill id="TwoHanded" value="150" />
+            <skill id="OneHanded" value="200" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="1" />
+            <Trait id="Valor" value="2" />
+            <Trait id="Honor" value="-2" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="1" />
+            <Trait id="Oligarchic" value="-1" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_2b" name="{=Sophia Pegonitissa}Sophia Pegonitissa" default_group="Cavalry" age="31" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.4362" build="0.6588" key="0023AC0A40FC300DAA468586792479566C5C37C98686B62C7D9167B58566A6C9004A76030492745A000000000000000000000000000000000000000024944083" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="75" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="50" />
+            <skill id="Steward" value="150" />
+            <skill id="Trade" value="150" />
+            <skill id="Charm" value="75" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="75" />
+            <skill id="Tactics" value="75" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="125" />
+            <skill id="Throwing" value="75" />
+            <skill id="Crossbow" value="150" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="2" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="1" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_3a" name="{=Constantine Bodin}Constantine Bodin" voice="softspoken" age="40" is_female="false" is_hero="true" culture="Culture.serbian" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405837D39A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052547042" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="150" />
+            <skill id="Leadership" value="175" />
+            <skill id="Steward" value="250" />
+            <skill id="Trade" value="0" />
+            <skill id="Charm" value="125" />
+            <skill id="Roguery" value="300" />
+            <skill id="Scouting" value="225" />
+            <skill id="Tactics" value="300" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="300" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="50" />
+            <skill id="Polearm" value="300" />
+            <skill id="TwoHanded" value="125" />
+            <skill id="OneHanded" value="300" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-2" />
+            <Trait id="Valor" value="-2" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="2" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="-2" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_3b" name="{=Jaquinta}Jaquinta" default_group="Cavalry" age="19" voice="ironic" is_female="true" is_hero="true" culture="Culture.serbian" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.7687" build="0.2586" key="0023740C405830069A668112455147769C79677799368823988585B888E6796E0034C60303B68795000000000000000000000000000000000000000052544083" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="50" />
+            <skill id="Steward" value="150" />
+            <skill id="Trade" value="75" />
+            <skill id="Charm" value="75" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="50" />
+            <skill id="Tactics" value="50" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="125" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="100" />
+            <skill id="Bow" value="150" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="50" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="1" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="-2" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="-2" />
+            <Trait id="Egalitarian" value="1" />
+            <Trait id="Oligarchic" value="-1" />
+            <Trait id="Authoritarian" value="2" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_4a" name="{=Georgios}Georgios" voice="softspoken" age="36" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.3547" build="0.4137" key="0010D40B80A037CB38685A798AD797AA87D931A589566B66E4576F74852C4D4200B656030BE982A500000000000000000000000000000000000000003D7C7042" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="150" />
+            <skill id="Medicine" value="100" />
+            <skill id="Leadership" value="300" />
+            <skill id="Steward" value="225" />
+            <skill id="Trade" value="75" />
+            <skill id="Charm" value="75" />
+            <skill id="Roguery" value="75" />
+            <skill id="Scouting" value="125" />
+            <skill id="Tactics" value="275" />
+            <skill id="Crafting" value="25" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="225" />
+            <skill id="Throwing" value="75" />
+            <skill id="Crossbow" value="50" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="200" />
+            <skill id="TwoHanded" value="150" />
+            <skill id="OneHanded" value="200" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="2" />
+            <Trait id="Valor" value="2" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="1" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_4b" name="{=Anna Doukaina}Anna Doukaina" default_group="Cavalry" age="36" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.3547" build="0.4137" key="0010D40B80A0100B38685A798AD797AA87D931A589566B66E4576F74852C4D420066560306E982A500000000000000000000000000000000000000003CD42003" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="75" />
+            <skill id="Medicine" value="100" />
+            <skill id="Leadership" value="25" />
+            <skill id="Steward" value="100" />
+            <skill id="Trade" value="125" />
+            <skill id="Charm" value="150" />
+            <skill id="Roguery" value="125" />
+            <skill id="Scouting" value="75" />
+            <skill id="Tactics" value="50" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="100" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="0" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="50" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="2" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_4c" name="{=Nikephoros}Nikephoros" voice="softspoken" age="18" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.26" weight="0.3547" build="0.2187" key="0013780400B419C8826796C7998993CAB67987B7C696664A64A2527DE504A68D0083560308AB86A60000000000000000000000000000000000000000771C4142" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="150" />
+            <skill id="Leadership" value="150" />
+            <skill id="Steward" value="150" />
+            <skill id="Trade" value="0" />
+            <skill id="Charm" value="125" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="150" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="200" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="50" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="225" />
+            <skill id="TwoHanded" value="75" />
+            <skill id="OneHanded" value="250" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="2" />
+            <Trait id="Valor" value="-2" />
+            <Trait id="Honor" value="2" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="2" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="-2" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_5a" name="{=lord_byzantine_5a}Manuel Angelos" voice="softspoken" age="39" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.64" weight="0.5" build="0.5" key="0008B8008000300D7C7664876753888A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="150" />
+            <skill id="Medicine" value="100" />
+            <skill id="Leadership" value="225" />
+            <skill id="Steward" value="225" />
+            <skill id="Trade" value="25" />
+            <skill id="Charm" value="150" />
+            <skill id="Roguery" value="200" />
+            <skill id="Scouting" value="150" />
+            <skill id="Tactics" value="225" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="150" />
+            <skill id="Riding" value="250" />
+            <skill id="Throwing" value="75" />
+            <skill id="Crossbow" value="125" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="225" />
+            <skill id="TwoHanded" value="200" />
+            <skill id="OneHanded" value="300" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Calculating" value="-2" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="-2" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_5b" name="{=Natalie}Natalie" default_group="Cavalry" age="39" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.64" weight="0.5" build="0.5" key="001BB80A400030047C7664876753888A7577866254C69643C4B647398C95A0370037760303A7497300000000000000000000000000000000000000003A6C4003" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="75" />
+            <skill id="Leadership" value="75" />
+            <skill id="Steward" value="250" />
+            <skill id="Trade" value="125" />
+            <skill id="Charm" value="150" />
+            <skill id="Roguery" value="125" />
+            <skill id="Scouting" value="75" />
+            <skill id="Tactics" value="75" />
+            <skill id="Crafting" value="0" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="75" />
+            <skill id="Throwing" value="100" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="50" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="2" />
+            <Trait id="Oligarchic" value="-2" />
+            <Trait id="Authoritarian" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_6a" name="{=lord_byzantine_6a}Nikephoros Bryennios the Younger" voice="softspoken" age="39" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.64" weight="0.5" build="0.5" key="001BB800000033817C7664876753888A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AEC7002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="175" />
+            <skill id="Medicine" value="175" />
+            <skill id="Leadership" value="250" />
+            <skill id="Steward" value="175" />
+            <skill id="Trade" value="50" />
+            <skill id="Charm" value="50" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="200" />
+            <skill id="Crafting" value="25" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="200" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="0" />
+            <skill id="Bow" value="50" />
+            <skill id="Polearm" value="250" />
+            <skill id="TwoHanded" value="175" />
+            <skill id="OneHanded" value="225" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-2" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="0" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_7a" name="{=Konstantínos}Konstantínos" voice="softspoken" age="42" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.5" build="0.6806" key="002EB806C0003947B894B98762767845B4AB638BA88996AD8B995875657A66E7004A76030487796900000000000000000000000000000000000000006A8C40C2" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="225" />
+            <skill id="Medicine" value="175" />
+            <skill id="Leadership" value="300" />
+            <skill id="Steward" value="225" />
+            <skill id="Trade" value="25" />
+            <skill id="Charm" value="75" />
+            <skill id="Roguery" value="125" />
+            <skill id="Scouting" value="75" />
+            <skill id="Tactics" value="175" />
+            <skill id="Crafting" value="25" />
+            <skill id="Athletics" value="150" />
+            <skill id="Riding" value="200" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="100" />
+            <skill id="Bow" value="50" />
+            <skill id="Polearm" value="250" />
+            <skill id="TwoHanded" value="175" />
+            <skill id="OneHanded" value="175" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="2" />
+            <Trait id="Valor" value="2" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="-1" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_7b" name="{=Thalia}Thalia" default_group="Cavalry" age="35" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.5" build="0.6806" key="002EB806C0003007B894B98762767845B4AB638BA88996AD8B995875657A66E7004A76030487796900000000000000000000000000000000000000006A8C40C3" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="25" />
+            <skill id="Medicine" value="225" />
+            <skill id="Leadership" value="125" />
+            <skill id="Steward" value="100" />
+            <skill id="Trade" value="150" />
+            <skill id="Charm" value="75" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="50" />
+            <skill id="Tactics" value="25" />
+            <skill id="Crafting" value="0" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="75" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="125" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="-2" />
+            <Trait id="Generosity" value="-2" />
+            <Trait id="Calculating" value="-2" />
+            <Trait id="Egalitarian" value="1" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="2" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_8a" name="{=lord_byzantine_8a}Nikephoros Phokas" voice="softspoken" age="42" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.1009" build="0.2636" key="0031DC0FC08839556B9C6777752B788C74374584A66E7A598B9D387D685126370094260309A9699D00000000000000000000000000000000000000000B3C40C2" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="225" />
+            <skill id="Medicine" value="175" />
+            <skill id="Leadership" value="175" />
+            <skill id="Steward" value="175" />
+            <skill id="Trade" value="0" />
+            <skill id="Charm" value="50" />
+            <skill id="Roguery" value="150" />
+            <skill id="Scouting" value="150" />
+            <skill id="Tactics" value="150" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="250" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="50" />
+            <skill id="Bow" value="50" />
+            <skill id="Polearm" value="175" />
+            <skill id="TwoHanded" value="125" />
+            <skill id="OneHanded" value="300" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Valor" value="2" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="2" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_8b" name="{=Iris}Iris" default_group="Cavalry" age="35" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.1009" build="0.2636" key="0031DC0FC088000F6B9C6777752B788C74374584A66E7A598B9D387D685126370094260309A9699D00000000000000000000000000000000000000000B3C2083" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="50" />
+            <skill id="Medicine" value="150" />
+            <skill id="Leadership" value="0" />
+            <skill id="Steward" value="150" />
+            <skill id="Trade" value="100" />
+            <skill id="Charm" value="75" />
+            <skill id="Roguery" value="150" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="50" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="75" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="50" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="0" />
+            <Trait id="Valor" value="-2" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="-2" />
+            <Trait id="Egalitarian" value="2" />
+            <Trait id="Oligarchic" value="1" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_9a" name="{=lord_byzantine_9a}Nikephoros Melissenos" voice="softspoken" age="42" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+
+            <BodyProperties version="4" age="22.17" weight="0.3606" build="0.7757" key="000A7006C088304C6828B39A89347A5877A418787878DA89543A727886BA9879007C5603073B9A76000000000000000000000000000000000000000042EC40C2" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="275" />
+            <skill id="Steward" value="125" />
+            <skill id="Trade" value="50" />
+            <skill id="Charm" value="225" />
+            <skill id="Roguery" value="275" />
+            <skill id="Scouting" value="250" />
+            <skill id="Tactics" value="225" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="225" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="50" />
+            <skill id="Polearm" value="300" />
+            <skill id="TwoHanded" value="125" />
+            <skill id="OneHanded" value="225" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="2" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="1" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="1" />
+            <Trait id="Authoritarian" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_9b" name="{=lord_byzantine_9b}Eudokia Komnene" default_group="Cavalry" age="38" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.3606" build="0.7757" key="000A7006C088100B6828B39A89347A5877A418787878DA89543A727886BA9879007C5603073B9A76000000000000000000000000000000000000000042EC4003" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="75" />
+            <skill id="Medicine" value="75" />
+            <skill id="Leadership" value="50" />
+            <skill id="Steward" value="225" />
+            <skill id="Trade" value="100" />
+            <skill id="Charm" value="150" />
+            <skill id="Roguery" value="75" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="75" />
+            <skill id="Crafting" value="0" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="75" />
+            <skill id="Throwing" value="0" />
+            <skill id="Crossbow" value="75" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-2" />
+            <Trait id="Valor" value="-2" />
+            <Trait id="Honor" value="2" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="-1" />
+            <Trait id="Authoritarian" value="2" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_10a" name="{=Ioannis}Ioannis" voice="softspoken" age="33" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.873" build="0.7757" key="0023500A40FC254F46A15755A67C2A3C5958987586607999829C7A63A8368B7D006CD6030654E4C8000000000000000000000000000000000000000042CC0082" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="100" />
+            <skill id="Leadership" value="200" />
+            <skill id="Steward" value="125" />
+            <skill id="Trade" value="75" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="50" />
+            <skill id="Scouting" value="50" />
+            <skill id="Tactics" value="175" />
+            <skill id="Crafting" value="0" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="200" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="150" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="200" />
+            <skill id="TwoHanded" value="100" />
+            <skill id="OneHanded" value="150" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-2" />
+            <Trait id="Valor" value="-2" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="1" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="2" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_10b" name="{=Selene}Selene" default_group="Cavalry" age="30" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.873" build="0.7757" key="0023500A40FC100B46A15755A67C2A3C5958987586607999829C7A63A8368B7D006CD6030654E4C8000000000000000000000000000000000000000042CC4003" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="50" />
+            <skill id="Leadership" value="100" />
+            <skill id="Steward" value="225" />
+            <skill id="Trade" value="125" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="125" />
+            <skill id="Tactics" value="50" />
+            <skill id="Crafting" value="0" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="75" />
+            <skill id="Throwing" value="0" />
+            <skill id="Crossbow" value="100" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="1" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="-2" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="-2" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="-1" />
+            <Trait id="Authoritarian" value="2" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_11a" name="{=lord_byzantine_11a}Pothos Argyros" voice="softspoken" age="25" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.1567" build="0.3355" key="00087C0F002C208FB32A359A6832C93799544DA36E73C6DA86C8C767629B245300A526030A4E65C8000000000000000000000000000000000000000043440082" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="175" />
+            <skill id="Steward" value="150" />
+            <skill id="Trade" value="100" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="75" />
+            <skill id="Tactics" value="150" />
+            <skill id="Crafting" value="25" />
+            <skill id="Athletics" value="150" />
+            <skill id="Riding" value="200" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="25" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="250" />
+            <skill id="TwoHanded" value="50" />
+            <skill id="OneHanded" value="225" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="1" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Generosity" value="-1" />
+            <Trait id="Calculating" value="1" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="-2" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_11b" name="{=Angelina}Angelina" default_group="Cavalry" age="20" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.1567" build="0.3355" key="00087C0F002C200DB32A359A6832C93799544DA36E73C6DA86C8C767629B245300A526030A4E65C8000000000000000000000000000000000000000043440083" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="25" />
+            <skill id="Medicine" value="150" />
+            <skill id="Leadership" value="50" />
+            <skill id="Steward" value="125" />
+            <skill id="Trade" value="150" />
+            <skill id="Charm" value="125" />
+            <skill id="Roguery" value="125" />
+            <skill id="Scouting" value="50" />
+            <skill id="Tactics" value="75" />
+            <skill id="Crafting" value="25" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="75" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="125" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-2" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="-2" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_12a" name="{=lord_byzantine_12a}John Axouch" voice="softspoken" age="50" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.271" build="0.2585" key="001B7C0D005821CB79B78A7488B1B9AD4448665A47A3A674A9F978756883B4DA00944603097859E700000000000000000000000000000000000000001D2C1102" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="150" />
+            <skill id="Medicine" value="200" />
+            <skill id="Leadership" value="225" />
+            <skill id="Steward" value="150" />
+            <skill id="Trade" value="100" />
+            <skill id="Charm" value="150" />
+            <skill id="Roguery" value="175" />
+            <skill id="Scouting" value="150" />
+            <skill id="Tactics" value="200" />
+            <skill id="Crafting" value="25" />
+            <skill id="Athletics" value="125" />
+            <skill id="Riding" value="300" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="125" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="300" />
+            <skill id="TwoHanded" value="125" />
+            <skill id="OneHanded" value="225" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-2" />
+            <Trait id="Valor" value="2" />
+            <Trait id="Honor" value="-1" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="2" />
+            <Trait id="Oligarchic" value="-2" />
+            <Trait id="Authoritarian" value="2" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_12b" name="{=Helen}Helen" default_group="Cavalry" age="40" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.17" weight="0.271" build="0.2585" key="001B7C0D0058200179B78A7488B1B9AD4448665A47A3A674A9F978756883B4DA00944603097859E700000000000000000000000000000000000000001D2C0083" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="50" />
+            <skill id="Medicine" value="150" />
+            <skill id="Leadership" value="50" />
+            <skill id="Steward" value="125" />
+            <skill id="Trade" value="175" />
+            <skill id="Charm" value="150" />
+            <skill id="Roguery" value="150" />
+            <skill id="Scouting" value="100" />
+            <skill id="Tactics" value="50" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="75" />
+            <skill id="Throwing" value="0" />
+            <skill id="Crossbow" value="50" />
+            <skill id="Bow" value="100" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="50" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Valor" value="1" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="0" />
+            <Trait id="Egalitarian" value="1" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_13a" name="{=Constantine}Constantine" voice="softspoken" age="20" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+            <BodyProperties version="4" age="22.06" weight="0.7083" build="0.5625" key="0023B809800033487C70E7B27449383B7577866254C69643C4B647398C95A03700A8B6030AA7497300000000000000000000000000000000000000003B4C7002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="100" />
+            <skill id="Medicine" value="50" />
+            <skill id="Leadership" value="100" />
+            <skill id="Steward" value="125" />
+            <skill id="Trade" value="25" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="175" />
+            <skill id="Scouting" value="150" />
+            <skill id="Tactics" value="250" />
+            <skill id="Crafting" value="50" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="200" />
+            <skill id="Throwing" value="25" />
+            <skill id="Crossbow" value="25" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="175" />
+            <skill id="TwoHanded" value="150" />
+            <skill id="OneHanded" value="250" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="2" />
+            <Trait id="Valor" value="0" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="1" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="-2" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_13b" name="{=Phoebe}Phoebe" default_group="Cavalry" age="18" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.06" weight="0.5" build="0.5" key="0023B809800000107C70E7B27449383B7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="25" />
+            <skill id="Medicine" value="150" />
+            <skill id="Leadership" value="75" />
+            <skill id="Steward" value="225" />
+            <skill id="Trade" value="175" />
+            <skill id="Charm" value="100" />
+            <skill id="Roguery" value="125" />
+            <skill id="Scouting" value="50" />
+            <skill id="Tactics" value="25" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="75" />
+            <skill id="Throwing" value="100" />
+            <skill id="Crossbow" value="100" />
+            <skill id="Bow" value="125" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="1" />
+            <Trait id="Valor" value="-1" />
+            <Trait id="Honor" value="1" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="1" />
+            <Trait id="Egalitarian" value="-1" />
+            <Trait id="Oligarchic" value="2" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_14a" name="{=Manuel}Manuel" voice="softspoken" age="35" is_female="false" is_hero="true" culture="Culture.byzantine" occupation="Lord" default_group="Cavalry">
+        <face>
+
+            <BodyProperties version="4" age="22.06" weight="0.5" build="0.5" key="0023B80D000031867C96C733A48467267577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="125" />
+            <skill id="Medicine" value="200" />
+            <skill id="Leadership" value="175" />
+            <skill id="Steward" value="150" />
+            <skill id="Trade" value="75" />
+            <skill id="Charm" value="225" />
+            <skill id="Roguery" value="100" />
+            <skill id="Scouting" value="75" />
+            <skill id="Tactics" value="225" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="75" />
+            <skill id="Riding" value="250" />
+            <skill id="Throwing" value="75" />
+            <skill id="Crossbow" value="100" />
+            <skill id="Bow" value="75" />
+            <skill id="Polearm" value="250" />
+            <skill id="TwoHanded" value="150" />
+            <skill id="OneHanded" value="200" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="2" />
+            <Trait id="Valor" value="2" />
+            <Trait id="Honor" value="0" />
+            <Trait id="Generosity" value="0" />
+            <Trait id="Calculating" value="-1" />
+            <Trait id="Egalitarian" value="-1" />
+            <Trait id="Oligarchic" value="1" />
+            <Trait id="Authoritarian" value="0" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lord" />
+            <EquipmentSet id="eastern_lord_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_byzantine_14b" name="{=Calliope}Calliope" default_group="Cavalry" age="30" voice="ironic" is_female="true" is_hero="true" culture="Culture.byzantine" occupation="Lord" face_mesh_cache="true">
+        <face>
+            <BodyProperties version="4" age="22.06" weight="0.5" build="0.5" key="0023B80D000030067C96C733A48467267577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003" />
+        </face>
+        <skills>
+            <skill id="Engineering" value="50" />
+            <skill id="Medicine" value="125" />
+            <skill id="Leadership" value="100" />
+            <skill id="Steward" value="125" />
+            <skill id="Trade" value="150" />
+            <skill id="Charm" value="125" />
+            <skill id="Roguery" value="125" />
+            <skill id="Scouting" value="75" />
+            <skill id="Tactics" value="25" />
+            <skill id="Crafting" value="75" />
+            <skill id="Athletics" value="100" />
+            <skill id="Riding" value="125" />
+            <skill id="Throwing" value="50" />
+            <skill id="Crossbow" value="150" />
+            <skill id="Bow" value="175" />
+            <skill id="Polearm" value="0" />
+            <skill id="TwoHanded" value="0" />
+            <skill id="OneHanded" value="75" />
+        </skills>
+        <Traits>
+            <Trait id="Mercy" value="-1" />
+            <Trait id="Valor" value="-2" />
+            <Trait id="Honor" value="-2" />
+            <Trait id="Generosity" value="2" />
+            <Trait id="Calculating" value="1" />
+            <Trait id="Egalitarian" value="2" />
+            <Trait id="Oligarchic" value="0" />
+            <Trait id="Authoritarian" value="-1" />
+        </Traits>
+        <Equipments>
+            <EquipmentSet id="eastern_lady" />
+            <EquipmentSet id="eastern_lady_civ" equipmentType="Civilian" />
+        </Equipments>
+    </NPCCharacter>
+
+</NPCCharacters>
