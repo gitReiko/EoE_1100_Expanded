@@ -40,6 +40,31 @@
   <Settlement id="castle_bertheaume" owner="Faction.clan_bretagne_2" ></Settlement>
   <Settlement id="castle_corlay" owner="Faction.clan_bretagne_4" ></Settlement>
 
+  <!-- Byzantine -->
+  <Settlement id="town_constantinople" owner="Faction.clan_byzantine_1" ></Settlement>
+  <Settlement id="town_nicaea" owner="Faction.clan_byzantine_1" ></Settlement>
+  <Settlement id="castle_atikhisar" owner="Faction.clan_byzantine_1" ></Settlement>
+  <Settlement id="town_smyrna" owner="Faction.clan_byzantine_2" ></Settlement>
+  <Settlement id="castle_pamukkale" owner="Faction.clan_byzantine_2" ></Settlement>
+  <Settlement id="town_dyrrhacium" owner="Faction.clan_byzantine_4" ></Settlement>
+  <Settlement id="castle_ioannina" owner="Faction.clan_byzantine_4" ></Settlement>
+  <Settlement id="town_nafpaktos" owner="Faction.clan_byzantine_5" ></Settlement>
+  <Settlement id="town_adrianople" owner="Faction.clan_byzantine_6" ></Settlement>
+  <Settlement id="castle_varna" owner="Faction.clan_byzantine_6" ></Settlement>
+  <Settlement id="town_sredets" owner="Faction.clan_byzantine_7" ></Settlement>
+  <Settlement id="castle_nis" owner="Faction.clan_byzantine_7" ></Settlement>
+  <Settlement id="castle_gortyna" owner="Faction.clan_byzantine_8" ></Settlement>
+  <Settlement id="castle_larnaka" owner="Faction.clan_byzantine_8" ></Settlement>
+  <Settlement id="town_thessalonica" owner="Faction.clan_byzantine_9" ></Settlement>
+  <Settlement id="castle_larissa" owner="Faction.clan_byzantine_9" ></Settlement>
+  <Settlement id="town_pantikapaion" owner="Faction.clan_byzantine_10" ></Settlement>
+  <Settlement id="castle_sinope" owner="Faction.clan_byzantine_10" ></Settlement>
+  <Settlement id="town_athens" owner="Faction.clan_byzantine_11" ></Settlement>
+  <Settlement id="town_belgrade" owner="Faction.clan_byzantine_12" ></Settlement>
+  <Settlement id="castle_trebizond" owner="Faction.clan_byzantine_13" ></Settlement>
+  <Settlement id="town_corinth" owner="Faction.clan_byzantine_14" ></Settlement>
+  <Settlement id="castle_kyparissia" owner="Faction.clan_byzantine_14" ></Settlement>
+
   <!-- Castile -->
   <Settlement id="town_leon" owner="Faction.clan_castile_1" ></Settlement>
   <Settlement id="town_toledo" owner="Faction.clan_castile_new_4" ></Settlement>
