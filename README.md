@@ -9,6 +9,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 - banners rework (Byzantine)
 - clans and lords tune (Byzantine)
+- settlements rework (Byzantine, Serbia)
 
 ### New features
 
