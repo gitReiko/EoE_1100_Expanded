@@ -1,5 +1,5 @@
 
-### Version 1.1.1 for EoE 1100 1.4.5.1
+### Version 1.1.1 for EoE 1100 1.4.8
 
 ### Summary
 
@@ -18,8 +18,8 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - 18 new kingdoms (Aquitaine, Bavaria, Bohemia, Bretagne, Croatia, Netherlands, Normandy, Pisa, Pomerania, Portugal, Saxony, Serbia, Swabia, Toulouse, Wales, Wends)
 - kingdom reworks (England, France, HRE)
 - partial kingdoms rework (Byzantine)
-- 127+ new clans
-- 739+ new lords
+- 328+ new or reworked clans
+- 768+ new or reworked lords
 - partial rework of kingdom banners  
 - new names for 5 cultures (French, German, South Slavic, Turkic, West Slavic)
 - kingdom names rework to single style
