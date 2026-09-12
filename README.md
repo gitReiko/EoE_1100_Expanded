@@ -9,7 +9,9 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 - banners rework (Byzantine)
 - clans and lords tune (Byzantine)
-- settlements rework (Byzantine, Serbia, England, Normandy)
+- settlements rework (Bretagne, Byzantine, England, Normandy, Serbia)
+- kingdoms color tune
+- translation template update
 
 ### New features
 
@@ -23,6 +25,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - kingdom names rework to single style
 - new clans (Pechenegs, Norway)
 - new lords (Pechenegs, Scottland)
+- settlements rework
 - other
 
 ### Technical support and communication
