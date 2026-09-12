@@ -37,10 +37,9 @@
 
   <!-- Bretagne -->
   <Settlement id="town_nantes" owner="Faction.clan_french_2" ></Settlement>
-  <Settlement id="castle_bertheaume" owner="Faction.clan_bretagne_2" ></Settlement>
   <Settlement id="castle_corlay" owner="Faction.clan_bretagne_4" ></Settlement>
 
-  <Settlement id="castle_bertheaume" name="{=town_bertheaume_name}Brest" owner="Faction.clan_french_2" posX="165.488" posY="1018.071" culture="Culture.vlandia" gate_posX="165.7861" gate_posY="1018.989" text="{=town_bertheaume_text}Brest text...">
+  <Settlement id="castle_bertheaume" name="{=town_bertheaume_name}Brest" owner="Faction.clan_bretagne_2" posX="165.488" posY="1018.071" culture="Culture.vlandia" gate_posX="165.7861" gate_posY="1018.989" text="{=town_bertheaume_text}Brest text...">
     <Components>
       <Town id="castle_comp_bertheaume" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="2500">
         <Buildings>
