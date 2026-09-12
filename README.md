@@ -1,32 +1,31 @@
 
-### Version 1.1.0 for EoE 1100 1.4.5.1
+### Version 1.1.1 for EoE 1100 1.4.8
 
 ### Summary
 
 Official submod for EoE 1100, which extends EoE with new features that increase minimum system requirements. 
 
-### Update 1.1.0
+### Update 1.1.1
 
-- crash fix for latest patches
-- England kingdom rework
-- new kingdoms (Normandy, Serbia)
-- new lords (Scotland, England)
-- delete asterisks from the lords names (for compatibility with other mods)
-- Arnmødling banner improvement
-- banners rework (Aestians, Chernogov, Cumans, Curonians, Finns, Halych, Hungary, Jatvingians, Karelians, Kordno, Kyiv, Latgalians, Lithuanians, Pereiaslav, Polack, Poland, Prussians, Tavastians, Volhynia, Zemaitians, Zemgalians)
-- clans recolor
+- banners rework (Byzantine)
+- clans and lords tune (Byzantine)
+- settlements rework (Bretagne, Byzantine, England, Normandy, Serbia)
+- kingdoms color tune
+- translation template update
 
 ### New features
 
 - 18 new kingdoms (Aquitaine, Bavaria, Bohemia, Bretagne, Croatia, Netherlands, Normandy, Pisa, Pomerania, Portugal, Saxony, Serbia, Swabia, Toulouse, Wales, Wends)
 - kingdom reworks (England, France, HRE)
-- 127+ new clans
-- 739+ new lords
+- partial kingdoms rework (Byzantine)
+- 328+ new or reworked clans
+- 768+ new or reworked lords
 - partial rework of kingdom banners  
 - new names for 5 cultures (French, German, South Slavic, Turkic, West Slavic)
 - kingdom names rework to single style
 - new clans (Pechenegs, Norway)
 - new lords (Pechenegs, Scottland)
+- settlements rework
 - other
 
 ### Technical support and communication
