@@ -4,9 +4,9 @@
   <Faction id="clan_latgalian_1"
     name="{=clan_latgalian_1.name}Tālava"
     banner_key="11.27.48.1836.1836.767.764.1.0.0.510.142.116.545.272.835.837.0.0.45.510.142.116.545.272.762.764.0.0.45.510.142.116.545.272.689.691.0.0.45.510.142.116.545.272.835.690.0.1.135.510.142.116.545.272.762.763.0.1.135.510.142.116.545.272.689.836.0.1.135"
-    color="FFC2B280" color2="FFA52A2A" 
+    color="FF9B3C33" color2="FFC2B280" 
   />
-  <!-- white - red -->
+  <!-- red - white -->
 
   <Faction id="clan_latgalian_2"
     name="{=clan_latgalian_2.name}Atzele"
