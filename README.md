@@ -5,6 +5,8 @@
 
 Official submod for EoE 1100, which extends EoE with new features that increase minimum system requirements. 
 
+[url=https://patreon.com/Reiko651] [img]https://i.postimg.cc/6p6qt4cv/support-800px.png[/img] [/url]
+
 ### Update 1.1.1
 
 - banners rework (Byzantine)
@@ -44,7 +46,7 @@ Discuss mod, make suggestions, and much more on the Discord channel.
 2. Native, Sandbox, etc
 3. ANY OTHER MODS (including Erik's dependencies)
 4. [Empires of Europe 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/4867)
-5. Europe 1100 Expanded
+5. [Europe 1100 Expanded](https://www.nexusmods.com/mountandblade2bannerlord/mods/10136)
 6. [Snowballing Kingdoms - EoE 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/7715)
 
 ### Erik's Troops
