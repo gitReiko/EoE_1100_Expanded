@@ -186,15 +186,15 @@
   <Settlement id="town_groningen" owner="Faction.clan_netherlands_4" ></Settlement>
 
   <!-- Normandy -->
-  <Settlement id="town_paris_rouen" name="{=town_rouen_name}Rouen" owner="Faction.clan_normandy_1" posX="275.214" posY="1070.066" culture="Culture.vlandia" gate_posX="275.214" gate_posY="1070.066" text="{=town_rouen_text}Rouen text...">
+  <Settlement id="castle_caen" name="{=town_caen_name}Caen" owner="Faction.clan_normandy_1" posX="275.214" posY="1070.066" culture="Culture.vlandia" gate_posX="275.214" gate_posY="1070.066" text="{=town_rouen_text}Rouen text...">
     <Components>
-      <Town id="town_comp_paris_rouen" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500">
+      <Town id="castle_comp_caen" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500">
         <Buildings>
-          <Building id="building_settlement_fortifications" level="1" />
+          <Building id="building_settlement_fortifications" level="2" />
           <Building id="building_settlement_barracks" level="1" />
           <Building id="building_settlement_training_fields" level="1" />
-          <Building id="building_settlement_guard_house" level="1" />
-          <Building id="building_settlement_siege_workshop" level="0" />
+          <Building id="building_settlement_guard_house" level="2" />
+          <Building id="building_settlement_siege_workshop" level="1" />
           <Building id="building_settlement_tax_office" level="1" />
           <Building id="building_settlement_marketplace" level="1" />
           <Building id="building_settlement_warehouse" level="1" />
@@ -223,9 +223,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="town_paris_amiens" name="{=town_paris_amiens_name}Amiens" posX="297.514" posY="1082.828" culture="Culture.vlandia" text="{=town_paris_amiens_text}Amiens text...">
+  <Settlement id="town_paris_rouen" name="{=town_paris_rouen_name}Rouen" posX="275.214" posY="1070.066" culture="Culture.vlandia" text="{=town_paris_rouen_text}Rouen text...">
     <Components>
-      <Village id="town_comp_paris_amiens" village_type="VillageType.cattle_farm" hearth="650" bound="Settlement.town_paris_rouen" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+      <Village id="town_comp_paris_rouen" village_type="VillageType.cattle_farm" hearth="1500" bound="Settlement.castle_caen" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="vlandia_village_n" />
@@ -236,8 +236,6 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-
-  <Settlement id="castle_caen" owner="Faction.clan_english_7"></Settlement>
 
   <Settlement id="castle_exeter" name="{=town_exeter_name}Exeter" owner="Faction.clan_english_12" posX="176.402" posY="1091.183" culture="Culture.welsh" gate_posX="177.2635" gate_posY="1092.72" text="{=town_exeter_text}Exeter text...">
     <Components>
