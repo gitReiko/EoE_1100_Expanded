@@ -186,7 +186,7 @@
   <Settlement id="town_groningen" owner="Faction.clan_netherlands_4" ></Settlement>
 
   <!-- Normandy -->
-  <Settlement id="castle_caen" name="{=town_caen_name}Caen" owner="Faction.clan_normandy_1" posX="275.214" posY="1070.066" culture="Culture.vlandia" gate_posX="275.214" gate_posY="1070.066" text="{=town_rouen_text}Rouen text...">
+  <Settlement id="castle_caen" name="{=town_caen_name}Caen" owner="Faction.clan_normandy_1" posX="244.476" posY="1054.468" culture="Culture.vlandia" gate_posX="244.6443" gate_posY="1052.35" text="{=town_rouen_text}Caen text...">
     <Components>
       <Town id="castle_comp_caen" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500">
         <Buildings>
