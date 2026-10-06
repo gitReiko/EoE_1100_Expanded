@@ -7,13 +7,11 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 [url=https://patreon.com/Reiko651] [img]https://i.postimg.cc/6p6qt4cv/support-800px.png[/img] [/url]
 
-### Update 1.1.1
+### Update 1.1.2
 
-- banners rework (Byzantine)
-- clans and lords tune (Byzantine)
-- settlements rework (Bretagne, Byzantine, England, Normandy, Serbia)
-- kingdoms color tune
-- translation template update
+- banners rework (Georgia, Rum)
+- settlements reassign (Georgia, Rum)
+- Rouen crash fix
 
 ### New features
 
