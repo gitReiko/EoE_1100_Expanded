@@ -382,6 +382,49 @@
   <Settlement id="castle_dunvegan" owner="Faction.clan_scottish_5" ></Settlement>
   <Settlement id="town_stirling" owner="Faction.clan_scottish_6" ></Settlement>
 
+  <!-- Seljuks -->
+  <Settlement id="town_isfahan" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="town_nishapur" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="town_shiraz" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="town_darab" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="castle_kerman" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="town_rey" owner="Faction.clan_seljuk_4" ></Settlement>
+  <Settlement id="town_hamedan" owner="Faction.clan_seljuk_4" ></Settlement>
+  <Settlement id="town_gorgan" owner="Faction.clan_seljuk_4" ></Settlement>
+  <Settlement id="town_baghdad" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_kufa" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_basra" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_mosul" owner="Faction.clan_seljuk_7" ></Settlement>
+  <Settlement id="castle_erbil" owner="Faction.clan_seljuk_7" ></Settlement>
+  <Settlement id="castle_talafar" owner="Faction.clan_seljuk_7" ></Settlement>
+  <Settlement id="castle_dezful" owner="Faction.clan_seljuk_7" ></Settlement>
+  <Settlement id="town_diyarbakir" owner="Faction.clan_seljuk_2" ></Settlement>
+  <Settlement id="castle_marid" owner="Faction.clan_seljuk_2" ></Settlement>
+  <Settlement id="town_palmyra" owner="Faction.clan_seljuk_2" ></Settlement>
+  <Settlement id="town_damascus" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="town_tarabulus" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="castle_petra" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="town_yazd" owner="Faction.clan_seljuk_11" ></Settlement>
+  <Settlement id="castle_kermanshah" owner="Faction.clan_seljuk_12" ></Settlement>
+  <Settlement id="town_tabriz" owner="Faction.clan_seljuk_6" ></Settlement>
+  <Settlement id="castle_ardabil" owner="Faction.clan_seljuk_6" ></Settlement>
+  <Settlement id="town_van" owner="Faction.clan_seljuk_9" ></Settlement>
+  <Settlement id="castle_erzurum" owner="Faction.clan_seljuk_9" ></Settlement>
+  <Settlement id="town_qabala" owner="Faction.clan_seljuk_13" ></Settlement>
+  <Settlement id="castle_derbent" owner="Faction.clan_seljuk_13" ></Settlement>
+  <Settlement id="town_yerevan" owner="Faction.clan_seljuk_5" ></Settlement>
+  <Settlement id="castle_baghaberd" owner="Faction.clan_seljuk_5" ></Settlement>
+  <Settlement id="town_tbilisi" owner="Faction.clan_seljuk_5" ></Settlement>
+  <Settlement id="castle_nisa" owner="Faction.clan_seljuk_14" ></Settlement>
+  <Settlement id="castle_tabuk" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="town_dumat" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="town_medina" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_mecca" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_aleppo" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="castle_halabiye" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="town_raqqah" owner="Faction.clan_seljuk_4" ></Settlement>
+  <Settlement id="castle_qasrbshir" owner="Faction.clan_seljuk_3" ></Settlement>
+
   <!-- Sicily -->
   <Settlement id="castle_venosa" owner="Faction.clan_sicily_4" ></Settlement>
   <Settlement id="town_naples" owner="Faction.clan_sicily_6" ></Settlement>

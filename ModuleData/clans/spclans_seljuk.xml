@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_seljuk_1"
+    name="{=clan_seljuk_1}Great Seljuks"
+    initial_home_settlement="Settlement.town_isfahan"
+  />
+
+  <Faction id="clan_seljuk_2"
+    name="{=Artuq}Artuq"
+    initial_home_settlement="Settlement.town_diyarbakir"
+  />
+
+  <Faction id="clan_seljuk_3"
+    name="{=Burid}Burid"
+    initial_home_settlement="Settlement.town_damascus"
+  />
+
+  <Faction id="clan_seljuk_4"
+    name="{=al-Mulk}al-Mulk"
+    initial_home_settlement="Settlement.town_rey"
+  />
+
+  <Faction id="clan_seljuk_5"
+    name="{=Kvirikian}Kvirikian"
+    initial_home_settlement="Settlement.town_yerevan"
+  />
+
+  <Faction id="clan_seljuk_6"
+    name="{=Ahmadilis}Ahmadilis"
+    initial_home_settlement="Settlement.town_tabriz"
+  />
+
+  <Faction id="clan_seljuk_7"
+    name="{=Kerbogha}Kerbogha"
+    initial_home_settlement="Settlement.town_mosul"
+  />
+
+  <Faction id="clan_seljuk_9"
+    name="{=Saltukids}Saltukids"
+    initial_home_settlement="Settlement.town_van"
+  />
+
+  <Faction id="clan_seljuk_10"
+    name="{=Abbasid}Abbasid"
+    initial_home_settlement="Settlement.town_baghdad"
+  />
+
+  <Faction id="clan_seljuk_11"
+    name="{=Kakuyid}Kakuyid"
+    initial_home_settlement="Settlement.town_yazd"
+  />
+
+  <Faction id="clan_seljuk_12"
+    name="{=Banu Annaz}Banu Annaz"
+    initial_home_settlement="Settlement.castle_kermanshah"
+  />
+
+  <Faction id="clan_seljuk_13"
+    name="{=Kasranid}Kasranid"
+    initial_home_settlement="Settlement.town_qabala"
+  />
+
+  <Faction id="clan_seljuk_14"
+    name="{=Ghaznavid}Ghaznavid"
+    initial_home_settlement="Settlement.town_iconium"
+  />
+
+</Factions>
