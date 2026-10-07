@@ -13,6 +13,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - settlements reassign (Georgia, Rum, Seljuks)
 - Rouen crash fix
 - snowballing kingdoms integration
+- Riga -> castle, Dubene -> town
 
 ### New features
 
