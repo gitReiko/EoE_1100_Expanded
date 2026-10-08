@@ -12,4 +12,7 @@
 
   <xsl:template match="Settlement[@id='town_paris_rouen']"/>
 
+  <!-- Full purge of settlements. -->
+  <xsl:template match="Settlement[@id='town_riga' or @id='castle_dubene']"/>
+
 </xsl:stylesheet>
