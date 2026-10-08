@@ -9,7 +9,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 ### Update 1.1.2
 
-- banners rework (Georgia, Rum)
+- banners rework (Georgia, Rum, Seljuks)
 - settlements reassign (Georgia, Rum, Seljuks)
 - Rouen crash fix
 - snowballing kingdoms integration
