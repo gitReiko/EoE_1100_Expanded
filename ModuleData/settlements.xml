@@ -307,7 +307,7 @@
   <Settlement id="castle_aleria" owner="Faction.clan_pisa_3"></Settlement>
 
   <!-- Polack -->
-  <Settlement id="town_riga" name="{=town_riga_name}Riga" owner="Faction.clan_polotsk_7" posX="721.433" posY="1298.03" culture="Culture.finnic" gate_posX="722.5812" gate_posY="1298.996" text="{=town_riga_text}Riga text...">
+  <Settlement id="town_riga" name="{=town_riga_name}Riga" owner="Faction.clan_polotsk_7" posX="721.433" posY="1298.03" culture="Culture.aestian" gate_posX="722.5812" gate_posY="1298.996" text="{=town_riga_text}Riga text...">
     <Components>
       <Town id="town_comp_riga" is_castle="true" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="1500">
         <Buildings>
@@ -502,7 +502,7 @@
   <Settlement id="castle_garz" owner="Faction.clan_wendian_3"></Settlement>
 
   <!-- Zemgalians -->
-  <Settlement id="castle_dubene" name="{=castle_dubene_name}Dubene Castle" owner="Faction.clan_zemgalian_1" posX="689.935" posY="1285.4" culture="Culture.baltic" gate_posX="690.9464" gate_posY="1284.625">
+  <Settlement id="castle_dubene" name="{=town_dubene_name}Dubene" owner="Faction.clan_zemgalian_1" posX="689.935" posY="1285.4" culture="Culture.latvian" gate_posX="690.9464" gate_posY="1284.625">
     <Components>
       <Town id="castle_comp_dubene" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500">
         <Buildings>
