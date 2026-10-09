@@ -413,7 +413,7 @@
   <Settlement id="town_nishapur" owner="Faction.clan_seljuk_1" ></Settlement>
   <Settlement id="town_shiraz" owner="Faction.clan_seljuk_1" ></Settlement>
   <Settlement id="town_darab" owner="Faction.clan_seljuk_1" ></Settlement>
-  <Settlement id="castle_kerman" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="castle_kerman" owner="Faction.clan_seljuk_11" ></Settlement>
   <Settlement id="town_rey" owner="Faction.clan_seljuk_4" ></Settlement>
   <Settlement id="town_hamedan" owner="Faction.clan_seljuk_4" ></Settlement>
   <Settlement id="town_gorgan" owner="Faction.clan_seljuk_4" ></Settlement>
@@ -423,7 +423,7 @@
   <Settlement id="town_mosul" owner="Faction.clan_seljuk_7" ></Settlement>
   <Settlement id="castle_erbil" owner="Faction.clan_seljuk_7" ></Settlement>
   <Settlement id="castle_talafar" owner="Faction.clan_seljuk_7" ></Settlement>
-  <Settlement id="castle_dezful" owner="Faction.clan_seljuk_7" ></Settlement>
+  <Settlement id="castle_dezful" owner="Faction.clan_seljuk_12" ></Settlement>
   <Settlement id="town_diyarbakir" owner="Faction.clan_seljuk_2" ></Settlement>
   <Settlement id="castle_marid" owner="Faction.clan_seljuk_2" ></Settlement>
   <Settlement id="town_palmyra" owner="Faction.clan_seljuk_2" ></Settlement>
@@ -443,7 +443,7 @@
   <Settlement id="town_tbilisi" owner="Faction.clan_seljuk_5" ></Settlement>
   <Settlement id="castle_nisa" owner="Faction.clan_seljuk_14" ></Settlement>
   <Settlement id="castle_tabuk" owner="Faction.clan_seljuk_3" ></Settlement>
-  <Settlement id="town_dumat" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="town_dumat" owner="Faction.clan_seljuk_2" ></Settlement>
   <Settlement id="town_medina" owner="Faction.clan_seljuk_10" ></Settlement>
   <Settlement id="town_mecca" owner="Faction.clan_seljuk_10" ></Settlement>
   <Settlement id="town_aleppo" owner="Faction.clan_seljuk_1" ></Settlement>
