@@ -163,6 +163,11 @@
   <Settlement id="town_bourges" owner="Faction.clan_french_12" ></Settlement>
   <Settlement id="town_orleans" owner="Faction.clan_france_new_8" ></Settlement>
 
+  <!-- Georgia -->
+  <Settlement id="town_kutaisi" owner="Faction.clan_georgian_1" ></Settlement>
+  <Settlement id="castle_nicopisia" owner="Faction.clan_georgian_5" ></Settlement>
+  <Settlement id="castle_kurnoyat" owner="Faction.clan_georgian_2" ></Settlement>
+
   <!-- Germany (HRE) -->
   <Settlement id="town_frankfurt" owner="Faction.clan_german_1" ></Settlement>
   <Settlement id="town_wurzburg" owner="Faction.clan_german_1" ></Settlement>
@@ -186,15 +191,15 @@
   <Settlement id="town_groningen" owner="Faction.clan_netherlands_4" ></Settlement>
 
   <!-- Normandy -->
-  <Settlement id="town_paris_rouen" name="{=town_rouen_name}Rouen" owner="Faction.clan_normandy_1" posX="275.214" posY="1070.066" culture="Culture.vlandia" gate_posX="275.214" gate_posY="1070.066" text="{=town_rouen_text}Rouen text...">
+  <Settlement id="castle_caen" name="{=town_caen_name}Caen" owner="Faction.clan_normandy_1" posX="244.476" posY="1054.468" culture="Culture.vlandia" gate_posX="244.6443" gate_posY="1052.35" text="{=town_rouen_text}Caen text...">
     <Components>
-      <Town id="town_comp_paris_rouen" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500">
+      <Town id="castle_comp_caen" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500">
         <Buildings>
-          <Building id="building_settlement_fortifications" level="1" />
+          <Building id="building_settlement_fortifications" level="2" />
           <Building id="building_settlement_barracks" level="1" />
           <Building id="building_settlement_training_fields" level="1" />
-          <Building id="building_settlement_guard_house" level="1" />
-          <Building id="building_settlement_siege_workshop" level="0" />
+          <Building id="building_settlement_guard_house" level="2" />
+          <Building id="building_settlement_siege_workshop" level="1" />
           <Building id="building_settlement_tax_office" level="1" />
           <Building id="building_settlement_marketplace" level="1" />
           <Building id="building_settlement_warehouse" level="1" />
@@ -223,9 +228,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="town_paris_amiens" name="{=town_paris_amiens_name}Amiens" posX="297.514" posY="1082.828" culture="Culture.vlandia" text="{=town_paris_amiens_text}Amiens text...">
+  <Settlement id="town_paris_rouen" name="{=town_paris_rouen_name}Rouen" posX="275.214" posY="1070.066" culture="Culture.vlandia" text="{=town_paris_rouen_text}Rouen text...">
     <Components>
-      <Village id="town_comp_paris_amiens" village_type="VillageType.cattle_farm" hearth="650" bound="Settlement.town_paris_rouen" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+      <Village id="town_comp_paris_rouen" village_type="VillageType.cattle_farm" hearth="1500" bound="Settlement.castle_caen" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="vlandia_village_n" />
@@ -236,8 +241,6 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-
-  <Settlement id="castle_caen" owner="Faction.clan_english_7"></Settlement>
 
   <Settlement id="castle_exeter" name="{=town_exeter_name}Exeter" owner="Faction.clan_english_12" posX="176.402" posY="1091.183" culture="Culture.welsh" gate_posX="177.2635" gate_posY="1092.72" text="{=town_exeter_text}Exeter text...">
     <Components>
@@ -303,6 +306,32 @@
   <Settlement id="town_cagliari" owner="Faction.clan_german_19"></Settlement>
   <Settlement id="castle_aleria" owner="Faction.clan_pisa_3"></Settlement>
 
+  <!-- Polack -->
+  <Settlement id="town_riga" name="{=town_riga_name}Riga" owner="Faction.clan_polotsk_7" posX="721.433" posY="1298.03" culture="Culture.finnic" gate_posX="722.5812" gate_posY="1298.996" text="{=town_riga_text}Riga text...">
+    <Components>
+      <Town id="town_comp_riga" is_castle="true" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="1500">
+        <Buildings>
+          <Building id="building_castle_fortifications" level="1" />
+          <Building id="building_castle_barracks" level="1" />
+          <Building id="building_castle_training_fields" level="1" />
+          <Building id="building_castle_guard_house" level="0" />
+          <Building id="building_castle_siege_workshop" level="1" />
+          <Building id="building_castle_castallans_office" level="1" />
+          <Building id="building_castle_granary" level="1" />
+          <Building id="building_castle_craftmans_quarters" level="1" />
+          <Building id="building_castle_farmlands" level="1" />
+          <Building id="building_castle_mason" level="1" />
+          <Building id="building_castle_roads_and_paths" level="1" />
+        </Buildings>
+      </Town>
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_a" scene_name_1="vlandia_castle_a" scene_name_2="vlandia_castle_a" scene_name_3="vlandia_castle_a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_stealth" />
+    </Locations>
+  </Settlement>
+
   <!-- Pomerania -->
   <Settlement id="town_szczecin" owner="Faction.clan_poland_2" ></Settlement>
   <Settlement id="castle_kolobrzeg" owner="Faction.clan_poland_2"></Settlement>
@@ -312,6 +341,15 @@
   <!-- Portugal -->
   <Settlement id="town_coimbra" owner="Faction.clan_portugal_1" ></Settlement>
   <Settlement id="town_oporto" owner="Faction.clan_portugal_2" ></Settlement>
+
+  <!-- Rum -->
+  <Settlement id="town_iconium" owner="Faction.clan_rum_1" ></Settlement>
+  <Settlement id="town_ancyra" owner="Faction.clan_rum_1" ></Settlement>
+  <Settlement id="castle_akroinοn" owner="Faction.clan_rum_1" ></Settlement>
+  <Settlement id="town_erzincan" owner="Faction.clan_rum_4" ></Settlement>
+  <Settlement id="castle_hevuk" owner="Faction.clan_rum_3" ></Settlement>
+  <Settlement id="town_amaseia" owner="Faction.clan_rum_2" ></Settlement>
+  <Settlement id="castle_kayseri" owner="Faction.clan_rum_5" ></Settlement>
 
   <!-- Saxony -->
   <Settlement id="town_bremen" owner="Faction.clan_german_22"></Settlement>
@@ -370,6 +408,49 @@
   <Settlement id="castle_dunvegan" owner="Faction.clan_scottish_5" ></Settlement>
   <Settlement id="town_stirling" owner="Faction.clan_scottish_6" ></Settlement>
 
+  <!-- Seljuks -->
+  <Settlement id="town_isfahan" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="town_nishapur" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="town_shiraz" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="town_darab" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="castle_kerman" owner="Faction.clan_seljuk_11" ></Settlement>
+  <Settlement id="town_rey" owner="Faction.clan_seljuk_4" ></Settlement>
+  <Settlement id="town_hamedan" owner="Faction.clan_seljuk_4" ></Settlement>
+  <Settlement id="town_gorgan" owner="Faction.clan_seljuk_4" ></Settlement>
+  <Settlement id="town_baghdad" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_kufa" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_basra" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_mosul" owner="Faction.clan_seljuk_7" ></Settlement>
+  <Settlement id="castle_erbil" owner="Faction.clan_seljuk_7" ></Settlement>
+  <Settlement id="castle_talafar" owner="Faction.clan_seljuk_7" ></Settlement>
+  <Settlement id="castle_dezful" owner="Faction.clan_seljuk_12" ></Settlement>
+  <Settlement id="town_diyarbakir" owner="Faction.clan_seljuk_2" ></Settlement>
+  <Settlement id="castle_marid" owner="Faction.clan_seljuk_2" ></Settlement>
+  <Settlement id="town_palmyra" owner="Faction.clan_seljuk_2" ></Settlement>
+  <Settlement id="town_damascus" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="town_tarabulus" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="castle_petra" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="town_yazd" owner="Faction.clan_seljuk_11" ></Settlement>
+  <Settlement id="castle_kermanshah" owner="Faction.clan_seljuk_12" ></Settlement>
+  <Settlement id="town_tabriz" owner="Faction.clan_seljuk_6" ></Settlement>
+  <Settlement id="castle_ardabil" owner="Faction.clan_seljuk_6" ></Settlement>
+  <Settlement id="town_van" owner="Faction.clan_seljuk_9" ></Settlement>
+  <Settlement id="castle_erzurum" owner="Faction.clan_seljuk_9" ></Settlement>
+  <Settlement id="town_qabala" owner="Faction.clan_seljuk_13" ></Settlement>
+  <Settlement id="castle_derbent" owner="Faction.clan_seljuk_13" ></Settlement>
+  <Settlement id="town_yerevan" owner="Faction.clan_seljuk_5" ></Settlement>
+  <Settlement id="castle_baghaberd" owner="Faction.clan_seljuk_5" ></Settlement>
+  <Settlement id="town_tbilisi" owner="Faction.clan_seljuk_5" ></Settlement>
+  <Settlement id="castle_nisa" owner="Faction.clan_seljuk_14" ></Settlement>
+  <Settlement id="castle_tabuk" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="town_dumat" owner="Faction.clan_seljuk_2" ></Settlement>
+  <Settlement id="town_medina" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_mecca" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_aleppo" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="castle_halabiye" owner="Faction.clan_seljuk_1" ></Settlement>
+  <Settlement id="town_raqqah" owner="Faction.clan_seljuk_4" ></Settlement>
+  <Settlement id="castle_qasrbshir" owner="Faction.clan_seljuk_3" ></Settlement>
+
   <!-- Sicily -->
   <Settlement id="castle_venosa" owner="Faction.clan_sicily_4" ></Settlement>
   <Settlement id="town_naples" owner="Faction.clan_sicily_6" ></Settlement>
@@ -419,5 +500,46 @@
   <Settlement id="castle_lubek_mikilenburg" culture="Culture.polish"></Settlement>
   <Settlement id="town_brandenburg" owner="Faction.clan_german_23"></Settlement>
   <Settlement id="castle_garz" owner="Faction.clan_wendian_3"></Settlement>
+
+  <!-- Zemgalians -->
+  <Settlement id="castle_dubene" name="{=town_dubene_name}Dubene" owner="Faction.clan_zemgalian_1" posX="689.935" posY="1285.4" culture="Culture.baltic" gate_posX="690.9464" gate_posY="1284.625">
+    <Components>
+      <Town id="castle_comp_dubene" is_castle="false" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="2500">
+        <Buildings>
+          <Building id="building_settlement_fortifications" level="1" />
+          <Building id="building_settlement_barracks" level="1" />
+          <Building id="building_settlement_training_fields" level="1" />
+          <Building id="building_settlement_guard_house" level="0" />
+          <Building id="building_settlement_siege_workshop" level="0" />
+          <Building id="building_settlement_tax_office" level="1" />
+          <Building id="building_settlement_marketplace" level="1" />
+          <Building id="building_settlement_warehouse" level="1" />
+          <Building id="building_settlement_mason" level="1" />
+          <Building id="building_settlement_waterworks" level="1" />
+          <Building id="building_settlement_courthouse" level="0" />
+          <Building id="building_settlement_roads_and_paths" level="1" />
+        </Buildings>
+      </Town>
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="sturgia_town_b" scene_name_1="sturgia_town_b" scene_name_2="sturgia_town_b" scene_name_3="sturgia_town_b" />
+      <Location id="arena" scene_name="arena_sturgia_a" />
+      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_stealth" />
+      <Location id="house_1" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_2" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_3" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="alley" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+
+
+
 
 </Settlements>

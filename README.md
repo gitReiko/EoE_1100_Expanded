@@ -1,17 +1,19 @@
 
-### Version 1.1.1 for EoE 1100 1.4.8
+### Version 1.1.2 for EoE 1100 1.4.8
 
 ### Summary
 
 Official submod for EoE 1100, which extends EoE with new features that increase minimum system requirements. 
 
-### Update 1.1.1
+[url=https://patreon.com/Reiko651] [img]https://i.postimg.cc/6p6qt4cv/support-800px.png[/img] [/url]
 
-- banners rework (Byzantine)
-- clans and lords tune (Byzantine)
-- settlements rework (Bretagne, Byzantine, England, Normandy, Serbia)
-- kingdoms color tune
-- translation template update
+### Update 1.1.2
+
+- banners rework (Georgia, Rum, Seljuks)
+- settlements reassign (Georgia, Rum, Seljuks)
+- Rouen crash fix
+- snowballing kingdoms integration
+- Riga -> castle, Dubene -> town
 
 ### New features
 
@@ -44,16 +46,15 @@ Discuss mod, make suggestions, and much more on the Discord channel.
 2. Native, Sandbox, etc
 3. ANY OTHER MODS (including Erik's dependencies)
 4. [Empires of Europe 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/4867)
-5. Europe 1100 Expanded
-6. [Snowballing Kingdoms - EoE 1100](https://www.nexusmods.com/mountandblade2bannerlord/mods/7715)
+5. [Europe 1100 Expanded](https://www.nexusmods.com/mountandblade2bannerlord/mods/10136)
 
 ### Erik's Troops
 
 It's not recommended because these are two overhauls that modify the same things, so there are a lot of conflicts. Although the game might still run.
 
-### Snowball dependency
+### Integrated mods
 
-Snowball adds new clans to kingdoms that conquer new settlements. This allows you to join a kingdom or create your own and simply play. Other kingdoms will also expand.
+- Snowballing Kingdoms - EoE 1100
 
 ### Other optional mods
 
