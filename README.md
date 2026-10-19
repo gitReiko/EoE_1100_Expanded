@@ -7,13 +7,10 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 [url=https://patreon.com/Reiko651] [img]https://i.postimg.cc/6p6qt4cv/support-800px.png[/img] [/url]
 
-### Update 1.1.2
+### Update 1.1.3
 
-- banners rework (Georgia, Rum, Seljuks)
-- settlements reassign (Georgia, Rum, Seljuks)
-- Rouen crash fix
-- snowballing kingdoms integration
-- Riga -> castle, Dubene -> town
+- banners rework (Armenia)
+- settlements reassign (Armenia)
 
 ### New features
 
