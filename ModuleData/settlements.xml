@@ -14,6 +14,10 @@
   <Settlement id="castle_castellvell" owner="Faction.clan_aragon_3" ></Settlement>
   <Settlement id="castle_begur" owner="Faction.clan_aragon_4" ></Settlement>
 
+  <!-- Armenia -->
+  <Settlement id="town_tarsus" owner="Faction.clan_armenian_3" ></Settlement>
+  <Settlement id="castle_sis" owner="Faction.clan_armenian_1" ></Settlement>
+
   <!-- Bavaria -->
   <Settlement id="town_regensburg" owner="Faction.clan_german_11" ></Settlement>
   <Settlement id="castle_kamen" owner="Faction.clan_bavaria_2" ></Settlement>
