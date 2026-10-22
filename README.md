@@ -9,8 +9,8 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 
 ### Update 1.1.3
 
-- banners rework (Armenia)
-- settlements reassign (Armenia)
+- banners rework (Armenia, Fatimids)
+- settlements reassign (Armenia, Fatimids)
 
 ### New features
 

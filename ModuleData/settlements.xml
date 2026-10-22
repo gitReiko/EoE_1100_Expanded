@@ -152,6 +152,21 @@
   <Settlement id="castle_kendal" owner="Faction.clan_english_4" ></Settlement>
   <Settlement id="castle_dover" owner="Faction.clan_english_3" ></Settlement>
 
+  <!-- Fatimids -->
+  <Settlement id="town_cairo" owner="Faction.clan_fatimid_1" ></Settlement>
+  <Settlement id="town_awjila" owner="Faction.clan_fatimid_2" ></Settlement>
+  <Settlement id="castle_siwa" owner="Faction.clan_fatimid_2" ></Settlement>
+  <Settlement id="town_luxor" owner="Faction.clan_fatimid_3" ></Settlement>
+  <Settlement id="castle_labakha" owner="Faction.clan_fatimid_3" ></Settlement>
+  <Settlement id="castle_antipyrgus" owner="Faction.clan_fatimid_4" ></Settlement>
+  <Settlement id="town_asyut" owner="Faction.clan_fatimid_5" ></Settlement>
+  <Settlement id="town_alexandria" owner="Faction.clan_fatimid_6" ></Settlement>
+  <Settlement id="castle_arish" owner="Faction.clan_fatimid_7" ></Settlement>
+  <Settlement id="town_benghazi" owner="Faction.clan_fatimid_8" ></Settlement>
+  <Settlement id="town_waddan" owner="Faction.clan_fatimid_9" ></Settlement>
+  <Settlement id="castle_zillah" owner="Faction.clan_fatimid_9" ></Settlement>
+  <Settlement id="town_fayyum" owner="Faction.clan_fatimid_10" ></Settlement>
+
   <!-- Ireland -->
   <Settlement id="town_waterford" owner="Faction.clan_irish_1" ></Settlement>
   <Settlement id="castle_kinbane" owner="Faction.clan_irish_2" ></Settlement>
