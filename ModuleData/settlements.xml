@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Settlements>
 
   <!-- Aquitaine -->
@@ -436,9 +436,15 @@
   <Settlement id="town_rey" owner="Faction.clan_seljuk_4" ></Settlement>
   <Settlement id="town_hamedan" owner="Faction.clan_seljuk_4" ></Settlement>
   <Settlement id="town_gorgan" owner="Faction.clan_seljuk_4" ></Settlement>
-  <Settlement id="town_baghdad" owner="Faction.clan_seljuk_10" ></Settlement>
-  <Settlement id="town_kufa" owner="Faction.clan_seljuk_10" ></Settlement>
-  <Settlement id="town_basra" owner="Faction.clan_seljuk_10" ></Settlement>
+  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
+<Settlement id="town_baghdad" owner="Faction.clan_seljuk_10" ></Settlement>
+  -->
+  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
+<Settlement id="town_kufa" owner="Faction.clan_seljuk_10" ></Settlement>
+  -->
+  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
+<Settlement id="town_basra" owner="Faction.clan_seljuk_10" ></Settlement>
+  -->
   <Settlement id="town_mosul" owner="Faction.clan_seljuk_7" ></Settlement>
   <Settlement id="castle_erbil" owner="Faction.clan_seljuk_7" ></Settlement>
   <Settlement id="castle_talafar" owner="Faction.clan_seljuk_7" ></Settlement>
@@ -463,8 +469,12 @@
   <Settlement id="castle_nisa" owner="Faction.clan_seljuk_14" ></Settlement>
   <Settlement id="castle_tabuk" owner="Faction.clan_seljuk_3" ></Settlement>
   <Settlement id="town_dumat" owner="Faction.clan_seljuk_2" ></Settlement>
-  <Settlement id="town_medina" owner="Faction.clan_seljuk_10" ></Settlement>
-  <Settlement id="town_mecca" owner="Faction.clan_seljuk_10" ></Settlement>
+  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
+<Settlement id="town_medina" owner="Faction.clan_seljuk_10" ></Settlement>
+  -->
+  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
+<Settlement id="town_mecca" owner="Faction.clan_seljuk_10" ></Settlement>
+  -->
   <Settlement id="town_aleppo" owner="Faction.clan_seljuk_1" ></Settlement>
   <Settlement id="castle_halabiye" owner="Faction.clan_seljuk_1" ></Settlement>
   <Settlement id="town_raqqah" owner="Faction.clan_seljuk_4" ></Settlement>

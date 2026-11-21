@@ -12,6 +12,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - banners rework (Armenia, Fatimids)
 - settlements reassign (Armenia, Fatimids)
 - snowball kingdoms update
+- compatability for new religious system
 
 ### New features
 

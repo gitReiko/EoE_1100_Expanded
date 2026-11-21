@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters> 
 
-    <NPCCharacter id="lord_pope_5a"
+    <!-- EoE 1.5.7 compatibility: retain these characters for reference; their legacy Colonna clan is disabled.
+<NPCCharacter id="lord_pope_5a"
                 name="{=lord_pope_5a}Pietro Colonna"
                 voice="softspoken"
                 age="37"
@@ -49,8 +50,10 @@
                     equipmentType="Civilian" />
     </Equipments>
   </NPCCharacter>
+  -->
   
-  <NPCCharacter id="lord_pope_5b"
+  <!-- EoE 1.5.7 compatibility: retain these characters for reference; their legacy Colonna clan is disabled.
+<NPCCharacter id="lord_pope_5b"
                 name="{=lord_pope_5b}Elena da Palestrina"
                 default_group="Cavalry"
                 age="30"
@@ -98,6 +101,7 @@
       <EquipmentSet id="italian_lady"
                     equipmentType="Civilian" />
     </Equipments>
-  </NPCCharacter>  
+  </NPCCharacter>
+  -->
 
 </NPCCharacters>

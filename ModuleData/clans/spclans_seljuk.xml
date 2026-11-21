@@ -65,12 +65,14 @@
   />
   <!-- blue - yellow -->
 
-  <Faction id="clan_seljuk_10"
+  <!-- EoE 1.5.7 compatibility: the old Abbasid clan_seljuk_10 was removed. EoE now defines clan_abbasid_1 separately.
+<Faction id="clan_seljuk_10"
     name="{=Abbasid}Abbasid"
     initial_home_settlement="Settlement.town_baghdad"
     banner_key="11.149.84.1836.1836.779.782.1.0.-30.313.149.116.628.628.-56.1420.0.0.0" 
     color="FF1C1C1C" color2="FFF5F5DC"
   />
+  -->
   <!-- black - white -->
 
   <Faction id="clan_seljuk_11"

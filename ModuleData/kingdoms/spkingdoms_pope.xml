@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Kingdoms>
-	<Kingdom id="pope"
+	<!-- EoE 1.5.7 compatibility: pope is now a religious minor faction, not a Kingdom. This old partial override cannot create a Kingdom.
+<Kingdom id="pope"
 		name="{=papal_states_name}State of Holy See" 
 		short_name="{=papal_states_short_name}Holy See" 
 		title="{=papal_states_title}State of Holy See" 
@@ -11,4 +12,5 @@
 		color="FF4A0033" 
 		color2="FFF4EBD0" 
 	></Kingdom>
+  -->
 </Kingdoms>
