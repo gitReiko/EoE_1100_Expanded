@@ -13,6 +13,7 @@ Official submod for EoE 1100, which extends EoE with new features that increase 
 - settlements reassign (Armenia, Fatimids)
 - snowball kingdoms update
 - compatability for new religious system
+- new clans Mazyadids and Guarnieri
 
 ### New features
 
