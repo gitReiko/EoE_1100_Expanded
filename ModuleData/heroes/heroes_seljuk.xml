@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+   <Hero id="lord_seljuk_ex_1a" spouse="Hero.lord_seljuk_ex_1b" faction="Faction.clan_seljuk_ex_1" />
+   <Hero id="lord_seljuk_ex_1b" spouse="Hero.lord_seljuk_ex_1a" faction="Faction.clan_seljuk_ex_1" text="{=fictional_lord}Fictional character." />
+   <Hero id="lord_seljuk_ex_1c" father="Hero.lord_seljuk_ex_1a" mother="Hero.lord_seljuk_ex_1b" faction="Faction.clan_seljuk_ex_1" />
+   <Hero id="lord_seljuk_ex_1d" father="Hero.lord_seljuk_ex_1a" mother="Hero.lord_seljuk_ex_1b" faction="Faction.clan_seljuk_ex_1" />
+   <Hero id="lord_seljuk_ex_1e" father="Hero.lord_seljuk_ex_1a" mother="Hero.lord_seljuk_ex_1b" faction="Faction.clan_seljuk_ex_1" />
+   <Hero id="lord_seljuk_ex_1f" father="Hero.lord_seljuk_ex_1a" mother="Hero.lord_seljuk_ex_1b" faction="Faction.clan_seljuk_ex_1" text="{=fictional_lord}Real name of daughter unknown." />
+
+
+
+
+
+
+</Heroes>

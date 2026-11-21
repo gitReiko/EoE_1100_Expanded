@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="lord_seljuk_ex_1a"
+    name="{=lord_seljuk_ex_1a}Sadaqa I ibn Mansur"
+    voice="softspoken"
+    age="48"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.khuzait"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.3148" build="0.2314"  key="002BEC0E40703401A61776E936674C87785978CDB6A37C67A559567645B752A700A356030AA9EB99000000000000000000000000000000000000000021641002"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="0" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="125" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="250" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="75" />
+      <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="turkic_lord" />
+      <EquipmentSet id="turkic_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_seljuk_ex_1b"
+    name="{=lord_seljuk_ex_1b}Zaynab"
+    default_group="Cavalry"
+    age="50"
+    voice="ironic"
+    is_female="true"
+    is_hero="true"
+    culture="Culture.khuzait"
+    occupation="Lord"
+    face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.4444" build="0.6319"  key="002BEC0E40700002A61776E936674C87785978CDB6A37C67A559567645B752A70049760304A9EB990000000000000000000000000000000000000000207C40C3"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="175" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="turkic_lady" />
+      <EquipmentSet id="turkic_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_seljuk_ex_1c"
+    name="{=lord_seljuk_ex_1c}Dubays II ibn Sadaqa"
+    voice="softspoken"
+    age="29"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.khuzait"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.3148" build="0.2314"  key="002BEC0E40703401A61776E936674C87785978CDB6A37C67A559567645B752A700A356030AA9EB99000000000000000000000000000000000000000021641002"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="150" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="200" />
+      <skill id="Scouting" value="200" />
+      <skill id="Tactics" value="200" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="225" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="250" />
+      <skill id="Polearm" value="250" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="turkic_lord" />
+      <EquipmentSet id="turkic_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_seljuk_ex_1d"
+    name="{=lord_seljuk_ex_1d}Badran ibn Sadaqa"
+    voice="softspoken"
+    age="26"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.khuzait"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.3148" build="0.2314"  key="002BEC0E40703401A61776E936674C87785978CDB6A37C67A559567645B752A700A356030AA9EB99000000000000000000000000000000000000000021641002"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="150" />
+      <skill id="Scouting" value="100" />
+      <skill id="Tactics" value="50" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="225" />
+      <skill id="Polearm" value="150" />
+      <skill id="TwoHanded" value="25" />
+      <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="2" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="turkic_lord" />
+      <EquipmentSet id="turkic_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_seljuk_ex_1e"
+    name="{=lord_seljuk_ex_1e}Mansur ibn Sadaqa"
+    voice="softspoken"
+    age="24"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.khuzait"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.3148" build="0.2314"  key="002BEC0E40703401A61776E936674C87785978CDB6A37C67A559567645B752A700A356030AA9EB99000000000000000000000000000000000000000021641002"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="75" />
+      <skill id="Crafting" value="0" />
+      <skill id="Athletics" value="75" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="175" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="225" />
+      <skill id="Polearm" value="125" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="-2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="turkic_lord" />
+      <EquipmentSet id="turkic_lord_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_seljuk_ex_1f"
+    name="{=lord_seljuk_ex_1f}Layla"
+    default_group="Cavalry"
+    age="23"
+    voice="ironic"
+    is_female="true"
+    is_hero="true"
+    culture="Culture.khuzait"
+    occupation="Lord"
+    face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.4444" build="0.6319"  key="002BEC0E40700002A61776E936674C87785978CDB6A37C67A559567645B752A70049760304A9EB990000000000000000000000000000000000000000207C40C3"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="250" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="300" />
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="25" />
+      <skill id="Crafting" value="50" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="75" />
+      <skill id="Throwing" value="0" />
+      <skill id="Crossbow" value="0" />
+      <skill id="Bow" value="25" />
+      <skill id="Polearm" value="0" />
+      <skill id="TwoHanded" value="0" />
+      <skill id="OneHanded" value="25" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="turkic_lady" />
+      <EquipmentSet id="turkic_lady_civ" equipmentType="Civilian" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+
+
+</NPCCharacters>

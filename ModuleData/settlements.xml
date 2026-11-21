@@ -439,15 +439,8 @@
   <Settlement id="town_rey" owner="Faction.clan_seljuk_4" ></Settlement>
   <Settlement id="town_hamedan" owner="Faction.clan_seljuk_4" ></Settlement>
   <Settlement id="town_gorgan" owner="Faction.clan_seljuk_4" ></Settlement>
-  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
-<Settlement id="town_baghdad" owner="Faction.clan_seljuk_10" ></Settlement>
-  -->
-  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
-<Settlement id="town_kufa" owner="Faction.clan_seljuk_10" ></Settlement>
-  -->
-  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
-<Settlement id="town_basra" owner="Faction.clan_seljuk_10" ></Settlement>
-  -->
+  <Settlement id="town_kufa" owner="Faction.clan_seljuk_ex_1" ></Settlement>
+  <Settlement id="town_basra" owner="Faction.clan_seljuk_ex_1" ></Settlement>
   <Settlement id="town_mosul" owner="Faction.clan_seljuk_7" ></Settlement>
   <Settlement id="castle_erbil" owner="Faction.clan_seljuk_7" ></Settlement>
   <Settlement id="castle_talafar" owner="Faction.clan_seljuk_7" ></Settlement>
