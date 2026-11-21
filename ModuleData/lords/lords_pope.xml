@@ -11,7 +11,7 @@
         occupation="Lord"
         default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.06" weight="0.5" build="0.5"  key="001BB80D000000C87C28A45B5C3654B97577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002"  />
+        <BodyProperties version="4" age="22.06" weight="0.8456" build="0.2814"  key="00100C014058134453B96645591787FDA878E84CDBB8914CD8B835CDDD1DC76500A4D6040A474C830000000000000000000000000000000000000000454C6046"  />
     </face>
     <skills>
         <skill id="Engineering" value="150" />
@@ -61,7 +61,7 @@
         occupation="Lord"
         face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.06" weight="0.5" build="0.5"  key="001BB80D0000000F7C28A45B5C3654B97577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+        <BodyProperties version="4" age="22.06" weight="0.4101" build="0.5912"  key="0010940340CC000781B6678C989596A797E73956678BA899DAC56DAA6B5557650089660408434B860000000000000000000000000000000000000000350410C4"  />
     </face>
     <skills>
         <skill id="Engineering" value="0" />
