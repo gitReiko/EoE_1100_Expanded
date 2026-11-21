@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Settlements>
 
   <!-- Aquitaine -->
@@ -13,6 +13,10 @@
   <Settlement id="town_barcelona" owner="Faction.clan_aragon_2" ></Settlement>
   <Settlement id="castle_castellvell" owner="Faction.clan_aragon_3" ></Settlement>
   <Settlement id="castle_begur" owner="Faction.clan_aragon_4" ></Settlement>
+
+  <!-- Armenia -->
+  <Settlement id="town_tarsus" owner="Faction.clan_armenian_3" ></Settlement>
+  <Settlement id="castle_sis" owner="Faction.clan_armenian_1" ></Settlement>
 
   <!-- Bavaria -->
   <Settlement id="town_regensburg" owner="Faction.clan_german_11" ></Settlement>
@@ -147,6 +151,21 @@
   <Settlement id="castle_norwich" owner="Faction.clan_english_5" ></Settlement>
   <Settlement id="castle_kendal" owner="Faction.clan_english_4" ></Settlement>
   <Settlement id="castle_dover" owner="Faction.clan_english_3" ></Settlement>
+
+  <!-- Fatimids -->
+  <Settlement id="town_cairo" owner="Faction.clan_fatimid_1" ></Settlement>
+  <Settlement id="town_awjila" owner="Faction.clan_fatimid_2" ></Settlement>
+  <Settlement id="castle_siwa" owner="Faction.clan_fatimid_2" ></Settlement>
+  <Settlement id="town_luxor" owner="Faction.clan_fatimid_3" ></Settlement>
+  <Settlement id="castle_labakha" owner="Faction.clan_fatimid_3" ></Settlement>
+  <Settlement id="castle_antipyrgus" owner="Faction.clan_fatimid_4" ></Settlement>
+  <Settlement id="town_asyut" owner="Faction.clan_fatimid_5" ></Settlement>
+  <Settlement id="town_alexandria" owner="Faction.clan_fatimid_6" ></Settlement>
+  <Settlement id="castle_arish" owner="Faction.clan_fatimid_7" ></Settlement>
+  <Settlement id="town_benghazi" owner="Faction.clan_fatimid_8" ></Settlement>
+  <Settlement id="town_waddan" owner="Faction.clan_fatimid_9" ></Settlement>
+  <Settlement id="castle_zillah" owner="Faction.clan_fatimid_9" ></Settlement>
+  <Settlement id="town_fayyum" owner="Faction.clan_fatimid_10" ></Settlement>
 
   <!-- Ireland -->
   <Settlement id="town_waterford" owner="Faction.clan_irish_1" ></Settlement>
@@ -338,6 +357,9 @@
   <Settlement id="town_gdansk" owner="Faction.clan_pomerania_2"></Settlement>
   <Settlement id="castle_slupsk" owner="Faction.clan_pomerania_3"></Settlement>
 
+  <!-- Pope -->
+  <Settlement id="town_ancona" owner="Faction.clan_pope_2" ></Settlement>
+
   <!-- Portugal -->
   <Settlement id="town_coimbra" owner="Faction.clan_portugal_1" ></Settlement>
   <Settlement id="town_oporto" owner="Faction.clan_portugal_2" ></Settlement>
@@ -417,9 +439,8 @@
   <Settlement id="town_rey" owner="Faction.clan_seljuk_4" ></Settlement>
   <Settlement id="town_hamedan" owner="Faction.clan_seljuk_4" ></Settlement>
   <Settlement id="town_gorgan" owner="Faction.clan_seljuk_4" ></Settlement>
-  <Settlement id="town_baghdad" owner="Faction.clan_seljuk_10" ></Settlement>
-  <Settlement id="town_kufa" owner="Faction.clan_seljuk_10" ></Settlement>
-  <Settlement id="town_basra" owner="Faction.clan_seljuk_10" ></Settlement>
+  <Settlement id="town_kufa" owner="Faction.clan_seljuk_ex_1" ></Settlement>
+  <Settlement id="town_basra" owner="Faction.clan_seljuk_ex_1" ></Settlement>
   <Settlement id="town_mosul" owner="Faction.clan_seljuk_7" ></Settlement>
   <Settlement id="castle_erbil" owner="Faction.clan_seljuk_7" ></Settlement>
   <Settlement id="castle_talafar" owner="Faction.clan_seljuk_7" ></Settlement>
@@ -444,8 +465,12 @@
   <Settlement id="castle_nisa" owner="Faction.clan_seljuk_14" ></Settlement>
   <Settlement id="castle_tabuk" owner="Faction.clan_seljuk_3" ></Settlement>
   <Settlement id="town_dumat" owner="Faction.clan_seljuk_2" ></Settlement>
-  <Settlement id="town_medina" owner="Faction.clan_seljuk_10" ></Settlement>
-  <Settlement id="town_mecca" owner="Faction.clan_seljuk_10" ></Settlement>
+  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
+<Settlement id="town_medina" owner="Faction.clan_seljuk_10" ></Settlement>
+  -->
+  <!-- EoE 1.5.7 compatibility: keep the current EoE owner; clan_seljuk_10 no longer exists.
+<Settlement id="town_mecca" owner="Faction.clan_seljuk_10" ></Settlement>
+  -->
   <Settlement id="town_aleppo" owner="Faction.clan_seljuk_1" ></Settlement>
   <Settlement id="castle_halabiye" owner="Faction.clan_seljuk_1" ></Settlement>
   <Settlement id="town_raqqah" owner="Faction.clan_seljuk_4" ></Settlement>
