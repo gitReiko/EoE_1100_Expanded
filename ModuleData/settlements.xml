@@ -357,6 +357,9 @@
   <Settlement id="town_gdansk" owner="Faction.clan_pomerania_2"></Settlement>
   <Settlement id="castle_slupsk" owner="Faction.clan_pomerania_3"></Settlement>
 
+  <!-- Pope -->
+  <Settlement id="town_ancona" owner="Faction.clan_pope_2" ></Settlement>
+
   <!-- Portugal -->
   <Settlement id="town_coimbra" owner="Faction.clan_portugal_1" ></Settlement>
   <Settlement id="town_oporto" owner="Faction.clan_portugal_2" ></Settlement>

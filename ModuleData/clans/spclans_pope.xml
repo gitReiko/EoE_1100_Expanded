@@ -7,14 +7,17 @@
     color="FF4A0033" color2="FFF4EBD0" 
   />
   <!-- purple - white -->
-
-  <!-- EoE 1.5.7 compatibility: legacy papal noble clans were removed; keep the new EoE papal faction.
-<Faction id="clan_pope_2"
-    initial_home_settlement="Settlement.town_ancona"
-    banner_key="11.27.132.3288.3288.764.764.1.0.0.504.145.150.377.947.865.605.0.1.180.504.145.150.377.947.1063.605.0.1.180.504.145.150.377.947.667.605.0.1.180.504.145.150.377.947.1261.605.0.1.180.504.145.150.377.947.468.605.0.1.180.504.145.150.377.947.1459.605.0.1.180.504.145.150.377.947.270.605.0.1.180.504.145.150.377.947.72.605.0.1.180.505.145.150.377.2078.764.363.0.1.90" 
-    color="FF990000" color2="FFF4EBD0" 
+  <Faction id="clan_pope_2"
+    name="{=clan_pope_2.name}Guarnieri"
+    initial_home_settlement="Settlement.town_ancona"			   
+    tier="1"
+    owner="Hero.lord_pope_2a"
+    culture="Culture.italian"
+    super_faction="Kingdom.germany"
+    is_noble="true"
+    banner_key="11.27.132.3288.3288.764.764.1.0.0.504.145.150.377.947.865.605.0.1.180.504.145.150.377.947.1063.605.0.1.180.504.145.150.377.947.667.605.0.1.180.504.145.150.377.947.1261.605.0.1.180.504.145.150.377.947.468.605.0.1.180.504.145.150.377.947.1459.605.0.1.180.504.145.150.377.947.270.605.0.1.180.504.145.150.377.947.72.605.0.1.180.505.145.150.377.2078.764.363.0.1.90"
+    color="FF990000" color2="FFF4EBD0"  
   />
-  -->
   <!-- red - white -->
 
   <!-- EoE 1.5.7 compatibility: legacy papal noble clans were removed; keep the new EoE papal faction.
