@@ -32,5 +32,9 @@
     <string id="town_riga_text" text="Riga text..." />
     <string id="town_rouen_text" text="Caen text..." />
     <string id="town_stary_plzenec_name" text="Stary Plzenec" />
+    <string id="castle_beja_name" text="Beja Portuguese Castle" />
+    <string id="castle_beja_t_name" text="Beja Tunisian Castle" />
+    <string id="town_tripoli_name" text="Tripoli Libyan" />
+    <string id="town_tarabulus_name" text="Tripoli Lebanese" />
   </strings>
 </base>

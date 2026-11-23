@@ -449,7 +449,7 @@
   <Settlement id="castle_marid" owner="Faction.clan_seljuk_2" ></Settlement>
   <Settlement id="town_palmyra" owner="Faction.clan_seljuk_2" ></Settlement>
   <Settlement id="town_damascus" owner="Faction.clan_seljuk_3" ></Settlement>
-  <Settlement id="town_tarabulus" owner="Faction.clan_seljuk_3" ></Settlement>
+  <Settlement id="town_tarabulus" owner="Faction.clan_seljuk_3" name="{=town_tarabulus_name}Tripoli Lebanese" ></Settlement>
   <Settlement id="castle_petra" owner="Faction.clan_seljuk_3" ></Settlement>
   <Settlement id="town_yazd" owner="Faction.clan_seljuk_11" ></Settlement>
   <Settlement id="castle_kermanshah" owner="Faction.clan_seljuk_12" ></Settlement>
@@ -567,4 +567,8 @@
 
 
 
+  <!-- Distinguish settlements with identical names for Bellum Civile capitals. -->
+  <Settlement id="castle_beja" name="{=castle_beja_name}Beja Portuguese Castle" />
+  <Settlement id="castle_beja_t" name="{=castle_beja_t_name}Beja Tunisian Castle" />
+  <Settlement id="town_tripoli" name="{=town_tripoli_name}Tripoli Libyan" />
 </Settlements>
